@@ -1,0 +1,354 @@
+Ttext2speech2
+v7
+r0
+t355134481.718911
+cCheck dependencies
+cProcessInfoPlistFile /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/Info.plist text2speech2-Info.plist
+cCompileXIB /Users/User/Documents/text2speech2/MainWindow.xib
+cCompileXIB /Users/User/Documents/text2speech2/text2speech2ViewController.xib
+cCompileXIB /Users/User/Documents/text2speech2/Classes/class1.xib
+cCpResource build/Debug-iphonesimulator/text2speech2.app/espeak-text-to-speech-converter_GiWFi_25552.jpg espeak-text-to-speech-converter_GiWFi_25552.jpg
+cCpResource build/Debug-iphonesimulator/text2speech2.app/excited-speech-bubble.gif excited-speech-bubble.gif
+cProcessPCH /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch.gch text2speech2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/main.o /Users/User/Documents/text2speech2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2AppDelegate.o /Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2ViewController.o /Users/User/Documents/text2speech2/Classes/text2speech2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/class1.o /Users/User/Documents/text2speech2/Classes/class1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2 normal i386
+cGenerateDSYMFile /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app.dSYM /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2
+cTouch /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/User/Documents/text2speech2/Classes/class1.h
+c000000004F7AA2720000000000000286
+t1333437042
+s646
+i"class1.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/User/Documents/text2speech2/Classes/class1.m
+c000000004F7AA046000000000000095D
+t1333436486
+s2397
+i"class1.h"
+
+N/Users/User/Documents/text2speech2/Classes/class1.xib
+c000000004F7AB29C0000000000006636
+t1333441180
+s26166
+
+N/Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.h
+c000000004F7A93970000000000000205
+t1333433239
+s517
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.m
+c000000004F7A93970000000000000AB6
+t1333433239
+s2742
+i"text2speech2AppDelegate.h"
+i"text2speech2ViewController.h"
+
+N/Users/User/Documents/text2speech2/Classes/text2speech2ViewController.h
+c000000004F7AA3F60000000000000199
+t1333437430
+s409
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/text2speech2/Classes/text2speech2ViewController.m
+c000000004F7AA27200000000000006FE
+t1333437042
+s1790
+i"text2speech2ViewController.h"
+i"class1.h"
+
+N/Users/User/Documents/text2speech2/MainWindow.xib
+c000000004F7A93970000000000004E65
+t1333433239
+s20069
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app
+t1333441217
+s340
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app.dSYM
+t1333437431
+s102
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/Info.plist
+t1333434569
+s611
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/MainWindow.nib
+t1333434570
+s1133
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/PkgInfo
+t1333434569
+s8
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/class1.nib
+t1333441216
+s2074
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/espeak-text-to-speech-converter_GiWFi_25552.jpg
+t1333440267
+s9006
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/excited-speech-bubble.gif
+t1333441217
+s8067
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2
+t1333437431
+s24904
+
+N/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2ViewController.nib
+t1333440417
+s2033
+
+N/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/class1.o
+t1333437043
+s46832
+
+N/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/main.o
+t1333434573
+s6296
+
+N/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2.LinkFileList
+c000000004F7A98C9000000000000022B
+t1333434569
+s555
+
+N/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2AppDelegate.o
+t1333437431
+s52044
+
+N/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2ViewController.o
+t1333437431
+s44216
+
+N/Users/User/Documents/text2speech2/espeak-text-to-speech-converter_GiWFi_25552.jpg
+c000000004F7AAD69000000000000232E
+t1333439849
+s9006
+
+N/Users/User/Documents/text2speech2/excited-speech-bubble.gif
+c000000004F7AB19E0000000000001F83
+t1333440926
+s8067
+
+N/Users/User/Documents/text2speech2/main.m
+c000000004F7A93970000000000000176
+t1333433239
+s374
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/text2speech2/text2speech2ViewController.xib
+c000000004F7AAF5B0000000000005A82
+t1333440347
+s23170
+
+N/Users/User/Documents/text2speech2/text2speech2_Prefix.pch
+c000000004F7A939700000000000000C1
+t1333433239
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch.gch
+t1333434573
+s15453392
+
+Ntext2speech2-Info.plist
+c000000004F7A9397000000000000038D
+t1333433239
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355134481#355134481#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/class1.o /Users/User/Documents/text2speech2/Classes/class1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355129842.956542
+e355129843.198001
+r1
+xCompileC
+xbuild/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/class1.o
+x/Users/User/Documents/text2speech2/Classes/class1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/User/Documents/text2speech2/Classes/class1.m355129842#355129843#0(0"0(0#0#51"/Users/User/Documents/text2speech2/Classes/class1.m8615424096#1982"    cd /Users/User/Documents/text2speech2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-generated-files.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-own-target-headers.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-all-target-headers.hmap -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-project-headers.hmap -F/Users/User/Documents/text2speech2/build/Debug-iphonesimulator -I/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/include -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources/i386 -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch -c /Users/User/Documents/text2speech2/Classes/class1.m -o /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/class1.o0#
+
+CCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/main.o /Users/User/Documents/text2speech2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355127373.656087
+e355127373.914739
+r1
+xCompileC
+xbuild/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/main.o
+x/Users/User/Documents/text2speech2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/User/Documents/text2speech2/main.m355127373#355127373#0(0"0(0#0#41"/Users/User/Documents/text2speech2/main.m8617366080#1970"    cd /Users/User/Documents/text2speech2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-generated-files.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-own-target-headers.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-all-target-headers.hmap -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-project-headers.hmap -F/Users/User/Documents/text2speech2/build/Debug-iphonesimulator -I/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/include -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources/i386 -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch -c /Users/User/Documents/text2speech2/main.m -o /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/main.o0#
+
+CCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2AppDelegate.o /Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355130231.264978
+e355130231.390269
+r1
+xCompileC
+xbuild/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2AppDelegate.o
+x/Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.m355130231#355130231#0(0"0(0#0#68"/Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.m8618552480#2016"    cd /Users/User/Documents/text2speech2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-generated-files.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-own-target-headers.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-all-target-headers.hmap -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-project-headers.hmap -F/Users/User/Documents/text2speech2/build/Debug-iphonesimulator -I/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/include -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources/i386 -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch -c /Users/User/Documents/text2speech2/Classes/text2speech2AppDelegate.m -o /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2AppDelegate.o0#
+
+CCompileC build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2ViewController.o /Users/User/Documents/text2speech2/Classes/text2speech2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355130231.390405
+e355130231.673908
+r1
+xCompileC
+xbuild/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2ViewController.o
+x/Users/User/Documents/text2speech2/Classes/text2speech2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/User/Documents/text2speech2/Classes/text2speech2ViewController.m355130231#355130231#0(0"0(0#0#71"/Users/User/Documents/text2speech2/Classes/text2speech2ViewController.m8618114688#2022"    cd /Users/User/Documents/text2speech2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-generated-files.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-own-target-headers.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-all-target-headers.hmap -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-project-headers.hmap -F/Users/User/Documents/text2speech2/build/Debug-iphonesimulator -I/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/include -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources/i386 -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch -c /Users/User/Documents/text2speech2/Classes/text2speech2ViewController.m -o /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2ViewController.o0#
+
+CCompileXIB /Users/User/Documents/text2speech2/Classes/class1.xib
+s355134016.026011
+e355134017.015810
+r1
+xCompileXIB
+x/Users/User/Documents/text2speech2/Classes/class1.xib
+lSLF07#2@29"CompileXIB Classes/class1.xib355134016#355134017#0(0"0(0#0#53"/Users/User/Documents/text2speech2/Classes/class1.xib28429453691650096#563"    cd /Users/User/Documents/text2speech2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/class1.nib /Users/User/Documents/text2speech2/Classes/class1.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/User/Documents/text2speech2/MainWindow.xib
+s355127369.332154
+e355127370.051233
+r1
+xCompileXIB
+x/Users/User/Documents/text2speech2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib355127369#355127370#0(0"0(0#0#49"/Users/User/Documents/text2speech2/MainWindow.xib8613875040#563"    cd /Users/User/Documents/text2speech2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/MainWindow.nib /Users/User/Documents/text2speech2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/User/Documents/text2speech2/text2speech2ViewController.xib
+s355133216.371433
+e355133217.755436
+r1
+xCompileXIB
+x/Users/User/Documents/text2speech2/text2speech2ViewController.xib
+lSLF07#2@41"CompileXIB text2speech2ViewController.xib355133216#355133217#0(0"0(0#0#65"/Users/User/Documents/text2speech2/text2speech2ViewController.xib28429453691650096#595"    cd /Users/User/Documents/text2speech2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2ViewController.nib /Users/User/Documents/text2speech2/text2speech2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/text2speech2.app/espeak-text-to-speech-converter_GiWFi_25552.jpg espeak-text-to-speech-converter_GiWFi_25552.jpg
+s355133067.677117
+e355133067.736971
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/text2speech2.app/espeak-text-to-speech-converter_GiWFi_25552.jpg
+xespeak-text-to-speech-converter_GiWFi_25552.jpg
+lSLF07#2@52"Copy espeak-text-to-speech-converter_GiWFi_25552.jpg355133067#355133067#0(0"0(0#0#82"/Users/User/Documents/text2speech2/espeak-text-to-speech-converter_GiWFi_25552.jpg8613267136#498"    cd /Users/User/Documents/text2speech2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/text2speech2/espeak-text-to-speech-converter_GiWFi_25552.jpg /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app0#
+
+CCpResource build/Debug-iphonesimulator/text2speech2.app/excited-speech-bubble.gif excited-speech-bubble.gif
+s355134017.016270
+e355134017.024367
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/text2speech2.app/excited-speech-bubble.gif
+xexcited-speech-bubble.gif
+lSLF07#2@30"Copy excited-speech-bubble.gif355134017#355134017#0(0"0(0#0#60"/Users/User/Documents/text2speech2/excited-speech-bubble.gif29273822786289764#476"    cd /Users/User/Documents/text2speech2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/text2speech2/excited-speech-bubble.gif /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app0#
+
+CGenerateDSYMFile /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app.dSYM /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2
+s355130231.713990
+e355130231.744266
+r1
+xGenerateDSYMFile
+x/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app.dSYM
+x/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/text2speech2.app.dSYM build/Debug-iphonesimulator/text2speech2.app/text2speech2355130231#355130231#0(0"0(0#0#92"/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech28613428768#386"    cd /Users/User/Documents/text2speech2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2 -o /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app.dSYM0#
+
+CLd /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2 normal i386
+s355130231.674156
+e355130231.713861
+r1
+xLd
+x/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2
+xnormal
+xi386
+lSLF07#2@97"Link /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech2355130231#355130231#0(0"0(0#0#0"8618012128#929"    cd /Users/User/Documents/text2speech2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/User/Documents/text2speech2/build/Debug-iphonesimulator -F/Users/User/Documents/text2speech2/build/Debug-iphonesimulator -filelist /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/Objects-normal/i386/text2speech2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/text2speech20#
+
+CProcessInfoPlistFile /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/Info.plist text2speech2-Info.plist
+s355127369.285149
+e355127369.332031
+r1
+xProcessInfoPlistFile
+x/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/Info.plist
+xtext2speech2-Info.plist
+lSLF07#2@31"Process text2speech2-Info.plist355127369#355127369#0(0"0(0#0#58"/Users/User/Documents/text2speech2/text2speech2-Info.plist13229813538947188#482"    cd /Users/User/Documents/text2speech2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility text2speech2-Info.plist -genpkginfo /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app/Info.plist0#
+
+CProcessPCH /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch.gch text2speech2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355127371.645933
+e355127373.655504
+r1
+xProcessPCH
+x/var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch.gch
+xtext2speech2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile text2speech2_Prefix.pch355127371#355127373#0(0"0(0#0#58"/Users/User/Documents/text2speech2/text2speech2_Prefix.pch8614120448#1861"    cd /Users/User/Documents/text2speech2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-generated-files.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-own-target-headers.hmap -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-all-target-headers.hmap -iquote /Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/text2speech2-project-headers.hmap -F/Users/User/Documents/text2speech2/build/Debug-iphonesimulator -I/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/include -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources/i386 -I/Users/User/Documents/text2speech2/build/text2speech2.build/Debug-iphonesimulator/text2speech2.build/DerivedSources -c /Users/User/Documents/text2speech2/text2speech2_Prefix.pch -o /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/text2speech2_Prefix-funedluitlbrmidgxbbrdcoudksr/text2speech2_Prefix.pch.gch0#
+
+CTouch /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app
+s355134017.025127
+e355134017.029816
+r1
+xTouch
+x/Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app
+lSLF07#2@85"Touch /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app355134017#355134017#0(0"0(0#0#0"8594485760#275"    cd /Users/User/Documents/text2speech2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/User/Documents/text2speech2/build/Debug-iphonesimulator/text2speech2.app0#
+

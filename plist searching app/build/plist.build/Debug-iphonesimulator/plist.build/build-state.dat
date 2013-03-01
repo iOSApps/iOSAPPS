@@ -1,0 +1,875 @@
+Tplist
+v7
+r0
+t357200365.799081
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/Info.plist" plist-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/plistViewController.xib"
+cCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/myplist.plist" myplist.plist
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch.gch plist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/naveen/Documents/plist/Classes/plistAppDelegate.h
+c000000004DBA894B00000000000001CE
+t1304070475
+s462
+i<UIKit/UIKit.h>
+
+N/Users/naveen/Documents/plist/Classes/plistAppDelegate.m
+c000000004DBA894B0000000000000A86
+t1304070475
+s2694
+i"plistAppDelegate.h"
+i"plistViewController.h"
+
+N/Users/naveen/Documents/plist/Classes/plistViewController.h
+c000000004DBE3F65000000000000024C
+t1304313701
+s588
+i<UIKit/UIKit.h>
+
+N/Users/naveen/Documents/plist/Classes/plistViewController.m
+c000000004DBE55C90000000000000F0B
+t1304319433
+s3851
+i"plistViewController.h"
+
+N/Users/naveen/Documents/plist/MainWindow.xib
+c000000004DBA96A20000000000004F59
+t1304073890
+s20313
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app
+t1304319435
+s272
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app.dSYM
+t1304319435
+s102
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/Info.plist
+t1304074962
+s583
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/MainWindow.nib
+t1304074963
+s1119
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/PkgInfo
+t1304074962
+s8
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/myplist.plist
+t1304074963
+s42
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist
+t1304319435
+s23548
+
+N/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plistViewController.nib
+t1304318498
+s3233
+
+N/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+t1304074964
+s6284
+
+N/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList
+c000000004DBA9AD20000000000000162
+t1304074962
+s354
+
+N/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+t1304315617
+s50860
+
+N/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+t1304319435
+s51424
+
+N/Users/naveen/Documents/plist/main.m
+c000000004DBA894C0000000000000162
+t1304070476
+s354
+i<UIKit/UIKit.h>
+
+N/Users/naveen/Documents/plist/myplist.plist
+c000000004DBA8BEB00000000000000B6
+t1304071147
+s182
+
+N/Users/naveen/Documents/plist/plistViewController.xib
+c000000004DBE51290000000000008DBD
+t1304318249
+s36285
+
+N/Users/naveen/Documents/plist/plist_Prefix.pch
+c000000004DBA894C00000000000000B3
+t1304070476
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.h
+c000000004DBA894B00000000000001CE
+t1304070475
+s462
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.m
+c000000004DBA894B0000000000000A86
+t1304070475
+s2694
+i"plistAppDelegate.h"
+i"plistViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.h
+c000000004DBE3F65000000000000024C
+t1304313701
+s588
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m
+c000000004F71488C0000000000000F58
+t1332824204
+s3928
+i"plistViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/MainWindow.xib
+c000000004DBA96A20000000000004F59
+t1304073890
+s20313
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app
+t1332826442
+s272
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM
+t1332826442
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/Info.plist
+t1304074962
+s583
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/MainWindow.nib
+t1304074963
+s1119
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/PkgInfo
+t1304074962
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/myplist.plist
+t1304074963
+s42
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist
+t1332826442
+s23796
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plistViewController.nib
+t1304318498
+s3233
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+t1332149418
+s6368
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList
+c000000004F66FC9600000000000001DD
+t1332149398
+s477
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+t1332149419
+s50940
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+t1332826442
+s51264
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/main.m
+c000000004DBA894C0000000000000162
+t1304070476
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/myplist.plist
+c000000004DBA8BEB00000000000000B6
+t1304071147
+s182
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/plistViewController.xib
+c000000004DBE51290000000000008DBD
+t1304318249
+s36285
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/plist_Prefix.pch
+c000000004DBA894C00000000000000B3
+t1304070476
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistAppDelegate.h
+c000000004DBA894B00000000000001CE
+t1304070475
+s462
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistAppDelegate.m
+c000000004DBA894B0000000000000A86
+t1304070475
+s2694
+i"plistAppDelegate.h"
+i"plistViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.h
+c000000004DBE3F65000000000000024C
+t1304313701
+s588
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m
+c000000004F3BAE8B0000000000000F5A
+t1329311371
+s3930
+i"plistViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/MainWindow.xib
+c000000004DBA96A20000000000004F59
+t1304073890
+s20313
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app
+t1331896293
+s272
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM
+t1331896293
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/Info.plist
+t1304074962
+s583
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/MainWindow.nib
+t1304074963
+s1119
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/PkgInfo
+t1304074962
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/myplist.plist
+t1304074963
+s42
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist
+t1331896292
+s23692
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plistViewController.nib
+t1304318498
+s3233
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+t1331896292
+s6332
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList
+c000000004F631FDA00000000000001AA
+t1331896282
+s426
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+t1331896292
+s50908
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+t1331896292
+s51232
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/main.m
+c000000004DBA894C0000000000000162
+t1304070476
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/myplist.plist
+c000000004DBA8BEB00000000000000B6
+t1304071147
+s182
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/plistViewController.xib
+c000000004DBE51290000000000008DBD
+t1304318249
+s36285
+
+N/Users/sandeep/Desktop/sandeeprdy/plist searching app/plist_Prefix.pch
+c000000004DBA894C00000000000000B3
+t1304070476
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/plist/Classes/plistAppDelegate.h
+c000000004DBA894B00000000000001CE
+t1304070475
+s462
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/plist/Classes/plistAppDelegate.m
+c000000004DBA894B0000000000000A86
+t1304070475
+s2694
+i"plistAppDelegate.h"
+i"plistViewController.h"
+
+N/Users/sandeep/Downloads/plist/Classes/plistViewController.h
+c000000004DBE3F65000000000000024C
+t1304313701
+s588
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/plist/Classes/plistViewController.m
+c000000004F3BAE8B0000000000000F5A
+t1329311371
+s3930
+i"plistViewController.h"
+
+N/Users/sandeep/Downloads/plist/MainWindow.xib
+c000000004DBA96A20000000000004F59
+t1304073890
+s20313
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app
+t1329311372
+s272
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app.dSYM
+t1329311372
+s102
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/Info.plist
+t1304074962
+s583
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/MainWindow.nib
+t1304074963
+s1119
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/PkgInfo
+t1304074962
+s8
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/myplist.plist
+t1304074963
+s42
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist
+t1329311372
+s23556
+
+N/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plistViewController.nib
+t1304318498
+s3233
+
+N/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+t1329309856
+s6288
+
+N/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList
+c000000004F3BA89F0000000000000165
+t1329309855
+s357
+
+N/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+t1329309856
+s50860
+
+N/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+t1329311372
+s51184
+
+N/Users/sandeep/Downloads/plist/main.m
+c000000004DBA894C0000000000000162
+t1304070476
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/plist/myplist.plist
+c000000004DBA8BEB00000000000000B6
+t1304071147
+s182
+
+N/Users/sandeep/Downloads/plist/plistViewController.xib
+c000000004DBE51290000000000008DBD
+t1304318249
+s36285
+
+N/Users/sandeep/Downloads/plist/plist_Prefix.pch
+c000000004DBA894C00000000000000B3
+t1304070476
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-anyyustgxfnznnebwgerdwjrvofp/plist_Prefix.pch.gch
+t1329309856
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-dnzbgflqshadcqgaishjupmgvpmw/plist_Prefix.pch.gch
+t1331896291
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch.gch
+t1332149417
+s15453392
+
+N/var/folders/pH/pHcRcofeEdGTpIAAoL+XP++++VM/-Caches-/com.apple.Xcode.534/SharedPrecompiledHeaders/plist_Prefix-dutisrcepkhhcdgdrickssujsccr/plist_Prefix.pch.gch
+t1304074964
+s15453392
+
+Nplist-Info.plist
+c000000004DBA894B000000000000038D
+t1304070475
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies357200365#357200365#0(0"0(0#1#0"8608806944#0"0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353842218.402708
+e353842218.794000
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/main.m353842218#353842218#0(0"0(0#0#77"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/main.m8602663712#2248"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353589092.230042
+e353589092.351689
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/plist searching app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sandeep/Desktop/sandeeprdy/plist searching app/main.m353589092#353589092#0(0"0(0#0#60"/Users/sandeep/Desktop/sandeeprdy/plist searching app/main.m8604369024#2061"    cd "/Users/sandeep/Desktop/sandeeprdy/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-dnzbgflqshadcqgaishjupmgvpmw/plist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist searching app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o /Users/naveen/Documents/plist/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325767764.644579
+e325767764.776641
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+x/Users/naveen/Documents/plist/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/naveen/Documents/plist/main.m325767764#325767764#0(0"0(0#0#36"/Users/naveen/Documents/plist/main.m8610453536#1775"    cd /Users/naveen/Documents/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/naveen/Documents/plist/build/Debug-iphonesimulator -I/Users/naveen/Documents/plist/build/Debug-iphonesimulator/include -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -include /var/folders/pH/pHcRcofeEdGTpIAAoL+XP++++VM/-Caches-/com.apple.Xcode.534/SharedPrecompiledHeaders/plist_Prefix-dutisrcepkhhcdgdrickssujsccr/plist_Prefix.pch -c /Users/naveen/Documents/plist/main.m -o /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o /Users/sandeep/Downloads/plist/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351002656.630816
+e351002656.735317
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o
+x/Users/sandeep/Downloads/plist/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/sandeep/Downloads/plist/main.m351002656#351002656#0(0"0(0#0#37"/Users/sandeep/Downloads/plist/main.m8608147264#1786"    cd /Users/sandeep/Downloads/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-anyyustgxfnznnebwgerdwjrvofp/plist_Prefix.pch -c /Users/sandeep/Downloads/plist/main.m -o /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/main.o0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353842218.404088
+e353842219.224426
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.m353842218#353842219#0(0"0(0#0#97"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.m8599922240#2280"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o"0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353589092.231304
+e353589092.496344
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistAppDelegate.m353589092#353589092#0(0"0(0#0#80"/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistAppDelegate.m8603898048#2093"    cd "/Users/sandeep/Desktop/sandeeprdy/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-dnzbgflqshadcqgaishjupmgvpmw/plist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o"0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o /Users/naveen/Documents/plist/Classes/plistAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326008416.900084
+e326008417.055320
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+x/Users/naveen/Documents/plist/Classes/plistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/naveen/Documents/plist/Classes/plistAppDelegate.m326008416#326008417#0(0"0(0#0#56"/Users/naveen/Documents/plist/Classes/plistAppDelegate.m8611615488#1807"    cd /Users/naveen/Documents/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/naveen/Documents/plist/build/Debug-iphonesimulator -I/Users/naveen/Documents/plist/build/Debug-iphonesimulator/include -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -include /var/folders/pH/pHcRcofeEdGTpIAAoL+XP++++VM/-Caches-/com.apple.Xcode.534/SharedPrecompiledHeaders/plist_Prefix-dutisrcepkhhcdgdrickssujsccr/plist_Prefix.pch -c /Users/naveen/Documents/plist/Classes/plistAppDelegate.m -o /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o /Users/sandeep/Downloads/plist/Classes/plistAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351002656.631963
+e351002656.800564
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o
+x/Users/sandeep/Downloads/plist/Classes/plistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/sandeep/Downloads/plist/Classes/plistAppDelegate.m351002656#351002656#0(0"0(0#0#57"/Users/sandeep/Downloads/plist/Classes/plistAppDelegate.m8600571168#1818"    cd /Users/sandeep/Downloads/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-anyyustgxfnznnebwgerdwjrvofp/plist_Prefix.pch -c /Users/sandeep/Downloads/plist/Classes/plistAppDelegate.m -o /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistAppDelegate.o0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354519242.083701
+e354519242.464480
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m: In function '-[plistViewController search]':
+o/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'temp'
+o/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'r'
+lSLF07#2@108"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m354519242#354519242#0(418"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m: In function '-[plistViewController search]':/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'temp'/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'r'2(22@22"Unused variable 'temp'354519242#147#137#0(6@100"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m354517004#76#0#76#0#19"unused variable '*'0(22@19"Unused variable 'r'354519242#284#134#0(6@100"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m354517004#76#0#76#0#19"unused variable '*'0(0#0#100"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m7021788497383006208#2286"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/Classes/plistViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o"0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353589092.351785
+e353589092.657772
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m: In function '-[plistViewController search]':
+o/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'temp'
+o/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'r'
+lSLF07#2@91"Compile /Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m353589092#353589092#0(367"/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m: In function '-[plistViewController search]':/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'temp'/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m:76: warning: unused variable 'r'2(22@22"Unused variable 'temp'353589092#130#120#0(6@83"/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m351004171#76#0#76#0#19"unused variable '*'0(22@19"Unused variable 'r'353589092#250#117#0(6@83"/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m351004171#76#0#76#0#19"unused variable '*'0(0#0#83"/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m8601827456#2099"    cd "/Users/sandeep/Desktop/sandeeprdy/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-dnzbgflqshadcqgaishjupmgvpmw/plist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist searching app/Classes/plistViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o"0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o /Users/naveen/Documents/plist/Classes/plistViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326012235.004756
+e326012235.393258
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+x/Users/naveen/Documents/plist/Classes/plistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/naveen/Documents/plist/Classes/plistViewController.m326012235#326012235#0(0"0(0#0#59"/Users/naveen/Documents/plist/Classes/plistViewController.m8602993792#1813"    cd /Users/naveen/Documents/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/naveen/Documents/plist/build/Debug-iphonesimulator -I/Users/naveen/Documents/plist/build/Debug-iphonesimulator/include -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -include /var/folders/pH/pHcRcofeEdGTpIAAoL+XP++++VM/-Caches-/com.apple.Xcode.534/SharedPrecompiledHeaders/plist_Prefix-dutisrcepkhhcdgdrickssujsccr/plist_Prefix.pch -c /Users/naveen/Documents/plist/Classes/plistViewController.m -o /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o0#
+
+CCompileC build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o /Users/sandeep/Downloads/plist/Classes/plistViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351004172.047528
+e351004172.304832
+r1
+xCompileC
+xbuild/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o
+x/Users/sandeep/Downloads/plist/Classes/plistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Downloads/plist/Classes/plistViewController.m: In function '-[plistViewController search]':
+o/Users/sandeep/Downloads/plist/Classes/plistViewController.m:76: warning: unused variable 'temp'
+o/Users/sandeep/Downloads/plist/Classes/plistViewController.m:76: warning: unused variable 'r'
+lSLF07#2@68"Compile /Users/sandeep/Downloads/plist/Classes/plistViewController.m351004172#351004172#0(298"/Users/sandeep/Downloads/plist/Classes/plistViewController.m: In function '-[plistViewController search]':/Users/sandeep/Downloads/plist/Classes/plistViewController.m:76: warning: unused variable 'temp'/Users/sandeep/Downloads/plist/Classes/plistViewController.m:76: warning: unused variable 'r'2(22@22"Unused variable 'temp'351004172#107#97#0(6@60"/Users/sandeep/Downloads/plist/Classes/plistViewController.m351004171#76#0#76#0#19"unused variable '*'0(22@19"Unused variable 'r'351004172#204#94#0(6@60"/Users/sandeep/Downloads/plist/Classes/plistViewController.m351004171#76#0#76#0#19"unused variable '*'0(0#0#60"/Users/sandeep/Downloads/plist/Classes/plistViewController.m8613643392#1824"    cd /Users/sandeep/Downloads/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-anyyustgxfnznnebwgerdwjrvofp/plist_Prefix.pch -c /Users/sandeep/Downloads/plist/Classes/plistViewController.m -o /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plistViewController.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/plistViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist searching app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist searching app/plistViewController.xib"
+r0
+
+CCompileXIB /Users/naveen/Documents/plist/MainWindow.xib
+s325767762.276241
+e325767763.332918
+r1
+xCompileXIB
+x/Users/naveen/Documents/plist/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325767762#325767763#0(0"0(0#0#44"/Users/naveen/Documents/plist/MainWindow.xib8609426944#541"    cd /Users/naveen/Documents/plist    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/MainWindow.nib /Users/naveen/Documents/plist/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/naveen/Documents/plist/plistViewController.xib
+s326011298.214603
+e326011298.759697
+r1
+xCompileXIB
+x/Users/naveen/Documents/plist/plistViewController.xib
+lSLF07#2@34"CompileXIB plistViewController.xib326011298#326011298#0(0"0(0#0#53"/Users/naveen/Documents/plist/plistViewController.xib8600224640#559"    cd /Users/naveen/Documents/plist    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plistViewController.nib /Users/naveen/Documents/plist/plistViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Downloads/plist/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Downloads/plist/plistViewController.xib
+r0
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/myplist.plist" myplist.plist
+r0
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/myplist.plist" myplist.plist
+r0
+
+CCopyPlistFile /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/myplist.plist myplist.plist
+s325767763.333012
+e325767763.371977
+r1
+xCopyPlistFile
+x/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/myplist.plist
+xmyplist.plist
+lSLF07#2@18"Copy myplist.plist325767763#325767763#0(0"0(0#0#43"/Users/naveen/Documents/plist/myplist.plist8611623168#368"    cd /Users/naveen/Documents/plist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 myplist.plist --outdir /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app0#
+
+CCopyPlistFile /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/myplist.plist myplist.plist
+r0
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist"
+s354519242.675673
+e354519242.755612
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/plist.app.dSYM build/Debug-iphonesimulator/plist.app/plist354519242#354519242#0(0"0(0#0#114"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist8602180064#479"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist"
+s353589092.832377
+e353589093.621392
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/plist.app.dSYM build/Debug-iphonesimulator/plist.app/plist353589092#353589093#0(0"0(0#0#97"/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist8602320800#428"    cd "/Users/sandeep/Desktop/sandeeprdy/plist searching app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist" -o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app.dSYM"0#
+
+CGenerateDSYMFile /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app.dSYM /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist
+s326012235.441328
+e326012235.477319
+r1
+xGenerateDSYMFile
+x/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app.dSYM
+x/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/plist.app.dSYM build/Debug-iphonesimulator/plist.app/plist326012235#326012235#0(0"0(0#0#73"/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist8612483552#350"    cd /Users/naveen/Documents/plist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist -o /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app.dSYM /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist
+s351004172.330851
+e351004172.348835
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app.dSYM
+x/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/plist.app.dSYM build/Debug-iphonesimulator/plist.app/plist351004172#351004172#0(0"0(0#0#74"/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist8613850144#353"    cd /Users/sandeep/Downloads/plist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist -o /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist" normal i386
+s354519242.464570
+e354519242.675573
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist
+xnormal
+xi386
+lSLF07#2@119"Link /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist354519242#354519242#0(0"0(0#0#0"8613240640#1060"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/plist"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist" normal i386
+s353589092.657865
+e353589092.830517
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist
+xnormal
+xi386
+lSLF07#2@102"Link /Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist353589092#353589092#0(0"0(0#0#0"6998707544846263296#975"    cd "/Users/sandeep/Desktop/sandeeprdy/plist searching app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/plist"0#
+
+CLd /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist normal i386
+s326012235.393346
+e326012235.441228
+r1
+xLd
+x/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist
+xnormal
+xi386
+lSLF07#2@78"Link /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist326012235#326012235#0(0"0(0#0#0"8612719968#845"    cd /Users/naveen/Documents/plist    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/naveen/Documents/plist/build/Debug-iphonesimulator -F/Users/naveen/Documents/plist/build/Debug-iphonesimulator -filelist /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/plist0#
+
+CLd /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist normal i386
+s351004172.304918
+e351004172.330755
+r1
+xLd
+x/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist
+xnormal
+xi386
+lSLF07#2@79"Link /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist351004172#351004172#0(0"0(0#0#0"8616204096#850"    cd /Users/sandeep/Downloads/plist    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator -F/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator -filelist /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/Objects-normal/i386/plist.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/plist0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app/Info.plist" plist-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app/Info.plist" plist-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/Info.plist plist-Info.plist
+s325767762.246397
+e325767762.276081
+r1
+xProcessInfoPlistFile
+x/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/Info.plist
+xplist-Info.plist
+lSLF07#2@24"Process plist-Info.plist325767762#325767762#0(0"0(0#0#46"/Users/naveen/Documents/plist/plist-Info.plist32651513917341812#446"    cd /Users/naveen/Documents/plist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility plist-Info.plist -genpkginfo /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app/Info.plist plist-Info.plist
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-anyyustgxfnznnebwgerdwjrvofp/plist_Prefix.pch.gch plist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s351002655.589318
+e351002656.630720
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-anyyustgxfnznnebwgerdwjrvofp/plist_Prefix.pch.gch
+xplist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile plist_Prefix.pch351002655#351002656#0(0"0(0#0#47"/Users/sandeep/Downloads/plist/plist_Prefix.pch8603261344#1688"    cd /Users/sandeep/Downloads/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/sandeep/Downloads/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -c /Users/sandeep/Downloads/plist/plist_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-anyyustgxfnznnebwgerdwjrvofp/plist_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-dnzbgflqshadcqgaishjupmgvpmw/plist_Prefix.pch.gch plist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353589082.787539
+e353589092.229808
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-dnzbgflqshadcqgaishjupmgvpmw/plist_Prefix.pch.gch
+xplist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile plist_Prefix.pch353589082#353589092#0(0"0(0#0#70"/Users/sandeep/Desktop/sandeeprdy/plist searching app/plist_Prefix.pch7378429254040843264#1938"    cd "/Users/sandeep/Desktop/sandeeprdy/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/plist searching app/plist_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-dnzbgflqshadcqgaishjupmgvpmw/plist_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch.gch plist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353842199.426938
+e353842218.402512
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch.gch
+xplist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile plist_Prefix.pch353842199#353842218#0(0"0(0#0#87"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/plist_Prefix.pch8605305376#2108"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/plist_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/plist_Prefix-emmonacwahmnsccspdggxligphtz/plist_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pH/pHcRcofeEdGTpIAAoL+XP++++VM/-Caches-/com.apple.Xcode.534/SharedPrecompiledHeaders/plist_Prefix-dutisrcepkhhcdgdrickssujsccr/plist_Prefix.pch.gch plist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325767763.451160
+e325767764.644425
+r1
+xProcessPCH
+x/var/folders/pH/pHcRcofeEdGTpIAAoL+XP++++VM/-Caches-/com.apple.Xcode.534/SharedPrecompiledHeaders/plist_Prefix-dutisrcepkhhcdgdrickssujsccr/plist_Prefix.pch.gch
+xplist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile plist_Prefix.pch325767763#325767764#0(0"0(0#0#46"/Users/naveen/Documents/plist/plist_Prefix.pch8611472640#1678"    cd /Users/naveen/Documents/plist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-generated-files.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-own-target-headers.hmap -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-all-target-headers.hmap -iquote /Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/plist-project-headers.hmap -F/Users/naveen/Documents/plist/build/Debug-iphonesimulator -I/Users/naveen/Documents/plist/build/Debug-iphonesimulator/include -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources/i386 -I/Users/naveen/Documents/plist/build/plist.build/Debug-iphonesimulator/plist.build/DerivedSources -c /Users/naveen/Documents/plist/plist_Prefix.pch -o /var/folders/pH/pHcRcofeEdGTpIAAoL+XP++++VM/-Caches-/com.apple.Xcode.534/SharedPrecompiledHeaders/plist_Prefix-dutisrcepkhhcdgdrickssujsccr/plist_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app"
+s354519242.755702
+e354519242.758827
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app
+lSLF07#2@114"Touch /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app354519242#354519242#0(0"0(0#0#0"8601299680#344"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist searching app/build/Debug-iphonesimulator/plist.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app"
+s353589093.621481
+e353589093.650810
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app
+lSLF07#2@97"Touch /Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app353589093#353589093#0(0"0(0#0#0"8605773344#310"    cd "/Users/sandeep/Desktop/sandeeprdy/plist searching app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/plist searching app/build/Debug-iphonesimulator/plist.app"0#
+
+CTouch /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app
+s326012235.477411
+e326012235.480520
+r1
+xTouch
+x/Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app
+lSLF07#2@73"Touch /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app326012235#326012235#0(0"0(0#0#0"8612327264#258"    cd /Users/naveen/Documents/plist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/naveen/Documents/plist/build/Debug-iphonesimulator/plist.app0#
+
+CTouch /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app
+s351004172.349133
+e351004172.351789
+r1
+xTouch
+x/Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app
+lSLF07#2@74"Touch /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app351004172#351004172#0(0"0(0#0#0"8607118688#260"    cd /Users/sandeep/Downloads/plist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Downloads/plist/build/Debug-iphonesimulator/plist.app0#
+

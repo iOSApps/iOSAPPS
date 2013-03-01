@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* manojcoreAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 2756}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 291}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* manojcore */ = {
+		activeExec = 0;
+		executables = (
+			C04D50E515552D33008C14D3 /* manojcore */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C04D50E515552D33008C14D3 /* manojcore */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* manojcore */;
+		codeSenseManager = C04D50F615552D4C008C14D3 /* Code sense */;
+		executables = (
+			C04D50E515552D33008C14D3 /* manojcore */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 358064029;
+			PBXWorkspaceStateSaveDate = 358064029;
+		};
+		perUserProjectItems = {
+			C00372A71557A0FD00449552 /* PBXTextBookmark */ = C00372A71557A0FD00449552 /* PBXTextBookmark */;
+			C00372A81557A0FD00449552 /* PBXTextBookmark */ = C00372A81557A0FD00449552 /* PBXTextBookmark */;
+			C00372A91557A0FD00449552 /* PBXTextBookmark */ = C00372A91557A0FD00449552 /* PBXTextBookmark */;
+			C04D50ED15552D4C008C14D3 /* PBXTextBookmark */ = C04D50ED15552D4C008C14D3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C04D50F515552D4C008C14D3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	99EDB93115416AAA00610808 /* next.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {530, 286}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{14, 456}";
+		};
+	};
+	99EDB93215416AAA00610808 /* next.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1937}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3572, 301}";
+		};
+	};
+	C00372A71557A0FD00449552 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 99EDB93215416AAA00610808 /* next.m */;
+		name = "next.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 3572;
+	};
+	C00372A81557A0FD00449552 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* manojcoreAppDelegate.m */;
+		name = "manojcoreAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 0;
+	};
+	C00372A91557A0FD00449552 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 99EDB93115416AAA00610808 /* next.h */;
+		name = "next.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 14;
+	};
+	C04D50E515552D33008C14D3 /* manojcore */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = manojcore;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C04D50ED15552D4C008C14D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 99EDB93115416AAA00610808 /* next.h */;
+		name = "next.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 28;
+	};
+	C04D50F515552D4C008C14D3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C04D50F615552D4C008C14D3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

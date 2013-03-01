@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=1.0; user-scalable=1;">
+		<title>Welcome</title>
+		<link type="text/css" rel="stylesheet" href="photo-feature-style.css" />
+		<script type="text/javascript">
+	         function swap(image) {
+	             document.getElementById("photoImg").src = image.href;
+	         }
+	     </script>
+	</head>
+	<body>
+		
+	<!-- Photo Feature Starts here -->	
+		<div id="photoFeature">
+			<div class="photos">
+				<img id="photoImg" src="carSlider.jpg" alt="" />
+			</div>
+			<div class="photoThumbs">
+				<ul>
+					<li><a href="bhindibhaji.jpg" onclick="swap(this); return false;"><img src="bhindibhaji.jpg" alt="" /></a></li>
+					<li><a href="car.jpg" onclick="swap(this); return false;"><img src="car.jpg" alt="" /></a></li>
+					<li><a href="carSlider.jpg" onclick="swap(this); return false;"><img src="carSlider.jpg" alt="" /></a></li>
+					<li><a href="cookery.jpg" onclick="swap(this); return false;"><img src="cookery.jpg" alt="" /></a></li>
+					<li><a href="bhindibhaji.jpg" onclick="swap(this); return false;"><img src="bhindibhaji.jpg" alt="" /></a></li>
+					<li><a href="car.jpg" onclick="swap(this); return false;"><img src="car.jpg" alt="" /></a></li>
+					<li><a href="carSlider.jpg" onclick="swap(this); return false;"><img src="carSlider.jpg" alt="" /></a></li>
+					<li><a href="cookery.jpg" onclick="swap(this); return false;"><img src="cookery.jpg" alt="" /></a></li>
+				</ul>
+			</div>			
+		</div>
+	<!--  Photo Feature  Ends here -->
+		
+	</body>
+</html>

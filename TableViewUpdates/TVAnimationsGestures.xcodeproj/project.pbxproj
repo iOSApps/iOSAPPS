@@ -1,0 +1,352 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2826F3041221C0A1002DE223 /* PlaysAndQuotations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2826F3031221C0A1002DE223 /* PlaysAndQuotations.plist */; };
+		2826F3861221C91C002DE223 /* QuoteCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2826F3851221C91C002DE223 /* QuoteCell.m */; };
+		28355D31122336C700107CCD /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28355D30122336C700107CCD /* QuartzCore.framework */; };
+		28355F5A12240C9900107CCD /* SectionHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 28355F5912240C9900107CCD /* SectionHeaderView.m */; };
+		2876C7D711ACBB2D00391BFA /* HighlightingTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2876C7D611ACBB2D00391BFA /* HighlightingTextView.m */; };
+		2886466A13FDA3670047EB06 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2886466813FDA3670047EB06 /* MainStoryboard.storyboard */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		289FDDE111ACA64500614794 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289FDDDB11ACA64500614794 /* TableViewController.m */; };
+		289FDDE211ACA64500614794 /* TVAnimationsGesturesAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 289FDDDD11ACA64500614794 /* TVAnimationsGesturesAppDelegate.m */; };
+		28BAE8AA11C6B2E8000D056B /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 28BAE8A911C6B2E8000D056B /* ReadMe.txt */; };
+		28C31E2C1226251600B673D4 /* Play.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C31E291226251600B673D4 /* Play.m */; };
+		28C31E2D1226251600B673D4 /* Quotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C31E2B1226251600B673D4 /* Quotation.m */; };
+		28CA800E1221CB8E00326A6A /* SectionInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 28CA800D1221CB8E00326A6A /* SectionInfo.m */; };
+		4725433711AAE0180009264C /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4725433611AAE0180009264C /* MessageUI.framework */; };
+		4725434011AAE0370009264C /* carat.png in Resources */ = {isa = PBXBuildFile; fileRef = 4725433911AAE0370009264C /* carat.png */; };
+		4725434111AAE0370009264C /* carat-open.png in Resources */ = {isa = PBXBuildFile; fileRef = 4725433A11AAE0370009264C /* carat-open.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D6058910D05DD3D006BFB54 /* TVAnimationsGestures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TVAnimationsGestures.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2826F3031221C0A1002DE223 /* PlaysAndQuotations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PlaysAndQuotations.plist; sourceTree = "<group>"; };
+		2826F3841221C91C002DE223 /* QuoteCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuoteCell.h; sourceTree = "<group>"; };
+		2826F3851221C91C002DE223 /* QuoteCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuoteCell.m; sourceTree = "<group>"; };
+		28355D30122336C700107CCD /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		28355F5812240C9900107CCD /* SectionHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SectionHeaderView.h; sourceTree = "<group>"; };
+		28355F5912240C9900107CCD /* SectionHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SectionHeaderView.m; sourceTree = "<group>"; };
+		2876C7D511ACBB2D00391BFA /* HighlightingTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HighlightingTextView.h; sourceTree = "<group>"; };
+		2876C7D611ACBB2D00391BFA /* HighlightingTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HighlightingTextView.m; sourceTree = "<group>"; };
+		2886466913FDA3670047EB06 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		289FDDDA11ACA64500614794 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		289FDDDB11ACA64500614794 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		289FDDDC11ACA64500614794 /* TVAnimationsGesturesAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVAnimationsGesturesAppDelegate.h; sourceTree = "<group>"; };
+		289FDDDD11ACA64500614794 /* TVAnimationsGesturesAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TVAnimationsGesturesAppDelegate.m; sourceTree = "<group>"; };
+		28BAE8A911C6B2E8000D056B /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
+		28C31E281226251600B673D4 /* Play.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Play.h; sourceTree = "<group>"; };
+		28C31E291226251600B673D4 /* Play.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Play.m; sourceTree = "<group>"; };
+		28C31E2A1226251600B673D4 /* Quotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Quotation.h; sourceTree = "<group>"; };
+		28C31E2B1226251600B673D4 /* Quotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Quotation.m; sourceTree = "<group>"; };
+		28CA800C1221CB8E00326A6A /* SectionInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SectionInfo.h; sourceTree = "<group>"; };
+		28CA800D1221CB8E00326A6A /* SectionInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SectionInfo.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* TVAnimationsGestures_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVAnimationsGestures_Prefix.pch; sourceTree = "<group>"; };
+		4725433611AAE0180009264C /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		4725433911AAE0370009264C /* carat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carat.png; sourceTree = "<group>"; };
+		4725433A11AAE0370009264C /* carat-open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "carat-open.png"; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* TVAnimationsGestures-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TVAnimationsGestures-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				4725433711AAE0180009264C /* MessageUI.framework in Frameworks */,
+				28355D31122336C700107CCD /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				289FDDDA11ACA64500614794 /* TableViewController.h */,
+				289FDDDB11ACA64500614794 /* TableViewController.m */,
+				28CA800C1221CB8E00326A6A /* SectionInfo.h */,
+				28CA800D1221CB8E00326A6A /* SectionInfo.m */,
+				28355F5812240C9900107CCD /* SectionHeaderView.h */,
+				28355F5912240C9900107CCD /* SectionHeaderView.m */,
+				289FDDDC11ACA64500614794 /* TVAnimationsGesturesAppDelegate.h */,
+				289FDDDD11ACA64500614794 /* TVAnimationsGesturesAppDelegate.m */,
+				28CE56A311ACBF3200610FD7 /* Cells */,
+				28C31E0B1226236F00B673D4 /* Model Classes */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* TVAnimationsGestures.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		28C31E0B1226236F00B673D4 /* Model Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28C31E281226251600B673D4 /* Play.h */,
+				28C31E291226251600B673D4 /* Play.m */,
+				28C31E2A1226251600B673D4 /* Quotation.h */,
+				28C31E2B1226251600B673D4 /* Quotation.m */,
+			);
+			name = "Model Classes";
+			sourceTree = "<group>";
+		};
+		28CE56A311ACBF3200610FD7 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				2826F3841221C91C002DE223 /* QuoteCell.h */,
+				2826F3851221C91C002DE223 /* QuoteCell.m */,
+				2876C7D511ACBB2D00391BFA /* HighlightingTextView.h */,
+				2876C7D611ACBB2D00391BFA /* HighlightingTextView.m */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				28BAE8A911C6B2E8000D056B /* ReadMe.txt */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* TVAnimationsGestures_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2886466813FDA3670047EB06 /* MainStoryboard.storyboard */,
+				2826F3031221C0A1002DE223 /* PlaysAndQuotations.plist */,
+				4725433911AAE0370009264C /* carat.png */,
+				4725433A11AAE0370009264C /* carat-open.png */,
+				8D1107310486CEB800E47090 /* TVAnimationsGestures-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				28355D30122336C700107CCD /* QuartzCore.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				4725433611AAE0180009264C /* MessageUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* TVAnimationsGestures */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "TVAnimationsGestures" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TVAnimationsGestures;
+			productName = TableViewUpdates;
+			productReference = 1D6058910D05DD3D006BFB54 /* TVAnimationsGestures.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TVAnimationsGestures" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* TVAnimationsGestures */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4725434011AAE0370009264C /* carat.png in Resources */,
+				4725434111AAE0370009264C /* carat-open.png in Resources */,
+				28BAE8AA11C6B2E8000D056B /* ReadMe.txt in Resources */,
+				2826F3041221C0A1002DE223 /* PlaysAndQuotations.plist in Resources */,
+				2886466A13FDA3670047EB06 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				289FDDE111ACA64500614794 /* TableViewController.m in Sources */,
+				289FDDE211ACA64500614794 /* TVAnimationsGesturesAppDelegate.m in Sources */,
+				2876C7D711ACBB2D00391BFA /* HighlightingTextView.m in Sources */,
+				2826F3861221C91C002DE223 /* QuoteCell.m in Sources */,
+				28CA800E1221CB8E00326A6A /* SectionInfo.m in Sources */,
+				28355F5A12240C9900107CCD /* SectionHeaderView.m in Sources */,
+				28C31E2C1226251600B673D4 /* Play.m in Sources */,
+				28C31E2D1226251600B673D4 /* Quotation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2886466813FDA3670047EB06 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2886466913FDA3670047EB06 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TVAnimationsGestures_Prefix.pch;
+				INFOPLIST_FILE = "TVAnimationsGestures-Info.plist";
+				PRODUCT_NAME = TVAnimationsGestures;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TVAnimationsGestures_Prefix.pch;
+				INFOPLIST_FILE = "TVAnimationsGestures-Info.plist";
+				PRODUCT_NAME = TVAnimationsGestures;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "TVAnimationsGestures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TVAnimationsGestures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

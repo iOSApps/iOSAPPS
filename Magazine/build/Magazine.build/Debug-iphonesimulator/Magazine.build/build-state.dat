@@ -1,0 +1,2687 @@
+TMagazine
+v7
+r0
+t357197787.971531
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Info.plist Magazine-Info.plist
+cCompileXIB /Users/sandeep/Desktop/Magazine/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/MagazineViewController.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/Shop.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MoreDetails.xib
+cCopyPlistFile /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Data.plist Classes/Data.plist
+cCpResource build/Debug-iphonesimulator/Magazine.app/c1.png Classes/images/c1.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/checkbox-checked.png Classes/images/checkbox-checked.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/checkbox-pressed.png Classes/images/checkbox-pressed.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/checkbox.png Classes/images/checkbox.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/cp.png Classes/images/cp.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/cp1.png Classes/images/cp1.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/DarkBackground.png Classes/images/DarkBackground.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/i.png Classes/images/i.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/image46.png Classes/images/image46.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/iTunesArtwork Classes/images/iTunesArtwork
+cCpResource build/Debug-iphonesimulator/Magazine.app/LightBackground.png Classes/images/LightBackground.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/StarsBackground.png Classes/images/StarsBackground.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/StarsForeground.png Classes/images/StarsForeground.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/magazineambujex Classes/magazineambujex
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/SingIn.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MagazineMain.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MoreWebView.xib
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/PDFFile.xib
+cCpResource build/Debug-iphonesimulator/Magazine.app/Focus.pdf Classes/Focus.pdf
+cCompileXIB /Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+cCpResource build/Debug-iphonesimulator/Magazine.app/tab1.png Classes/images/tab1.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/tab2.png Classes/images/tab2.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/tab3.png Classes/images/tab3.png
+cCpResource build/Debug-iphonesimulator/Magazine.app/project-icon1.jpg project-icon1.jpg
+cCpResource build/Debug-iphonesimulator/Magazine.app/m1.jpg Classes/images/m1.jpg
+cCpResource build/Debug-iphonesimulator/Magazine.app/m2.jpg Classes/images/m2.jpg
+cCpResource build/Debug-iphonesimulator/Magazine.app/m3.jpg Classes/images/m3.jpg
+cCpResource build/Debug-iphonesimulator/Magazine.app/m4.jpg Classes/images/m4.jpg
+cCpResource build/Debug-iphonesimulator/Magazine.app/m5.jpg Classes/images/m5.jpg
+cCpResource build/Debug-iphonesimulator/Magazine.app/m6.jpg Classes/images/m6.jpg
+cCpResource build/Debug-iphonesimulator/Magazine.app/hindi-cover.jpg Classes/images/hindi-cover.jpg
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch.gch Magazine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/Magazine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o /Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o /Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o /Users/sandeep/Desktop/Magazine/Classes/Shop.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o /Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o /Users/sandeep/Desktop/Magazine/Classes/MoreDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o /Users/sandeep/Desktop/Magazine/Classes/SingIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o /Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o /Users/sandeep/Desktop/Magazine/Classes/MagazineMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o /Users/sandeep/Desktop/Magazine/Classes/MoreWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o /Users/sandeep/Desktop/Magazine/Classes/PDFFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o /Users/sandeep/Desktop/Magazine/Classes/RatingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+cTouch /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
+c000000004CC128D1000000000000015E
+t1287727313
+s350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+c000000004CC128DF000000000006B8F0
+t1287727327
+s440560
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.h
+c000000004F01BC4800000000000001F9
+t1325513800
+s505
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.m
+c000000004F02DCD100000000000000C2
+t1325587665
+s194
+i"ApplicationCell.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.h
+c000000004F01BBE100000000000000A9
+t1325513697
+s169
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m
+c000000004F01C0CE0000000000000CB7
+t1325514958
+s3255
+i"CompositeSubviewBasedApplicationCell.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.h
+c000000004F02F7C900000000000003D8
+t1325594569
+s984
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+i"SingIn.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m
+c000000004F02DCDA00000000000021F8
+t1325587674
+s8696
+i"CreatingAccount.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.xib
+c000000004F02FA8300000000000CA8DD
+t1325595267
+s829661
+
+N/Users/sandeep/Desktop/Magazine/Classes/Data.plist
+c000000004F01F67F0000000000000658
+t1325528703
+s1624
+
+N/Users/sandeep/Desktop/Magazine/Classes/Focus.pdf
+c000000004F019DE0000000000015DCEA
+t1325506016
+s1432810
+
+N/Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.h
+c000000004F01BC48000000000000009D
+t1325513800
+s157
+i"ApplicationCell.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m
+c000000004F01C0CE0000000000000D15
+t1325514958
+s3349
+i"HybridSubviewBasedApplicationCell.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.h
+c000000004F01BC07000000000000017D
+t1325513735
+s381
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+i"RatingView.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m
+c000000004F01BAFA0000000000000512
+t1325513466
+s1298
+i"IndividualSubviewsBasedApplicationCell.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+c000000004F01F6BC0000000000006C84
+t1325528764
+s27780
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.h
+c000000004F02D98D00000000000001E4
+t1325586829
+s484
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.m
+c000000004F02D9190000000000000A99
+t1325586713
+s2713
+i"MagazineAppDelegate.h"
+i"MagazineViewController.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.h
+c000000004F02DCE100000000000000F8
+t1325587681
+s248
+i<UIKit/UIKit.h>
+i"MagazineMain.h"
+i"MoreWebView.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.m
+c000000004F7063F20000000000000B9E
+t1332765682
+s2974
+i"MagazineBuy.h"
+i"PDFFile.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.xib
+c000000004F01F32900000000000075DA
+t1325527849
+s30170
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineMain.h
+c000000004F02F8A9000000000000034A
+t1325594793
+s842
+i<UIKit/UIKit.h>
+i"ApplicationCell.h"
+i"MagazineBuy.h"
+i"MoreWebView.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineMain.m
+c000000004F02F8CD0000000000002364
+t1325594829
+s9060
+i"MagazineMain.h"
+i"CompositeSubviewBasedApplicationCell.h"
+i"HybridSubviewBasedApplicationCell.h"
+i"SingIn.h"
+i"Shop.h"
+i"MoreDetails.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineMain.xib
+c000000004F02F8F900000000000062DB
+t1325594873
+s25307
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.h
+c000000004F02D9190000000000000171
+t1325586713
+s369
+i<UIKit/UIKit.h>
+i"Shop.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.m
+c000000004F02FDA70000000000001064
+t1325596071
+s4196
+i"MagazineViewController.h"
+i"CreatingAccount.h"
+i"Shop.h"
+i"MoreDetails.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MoreDetails.h
+c000000004F02F6ED0000000000000311
+t1325594349
+s785
+i<UIKit/UIKit.h>
+i"CreatingAccount.h"
+i"SingIn.h"
+i"MagazineViewController.h"
+i"Shop.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MoreDetails.m
+c000000004F02FB9500000000000015B3
+t1325595541
+s5555
+i"MoreDetails.h"
+i"SingIn.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MoreDetails.xib
+c000000004F02FBCC000000000000597C
+t1325595596
+s22908
+
+N/Users/sandeep/Desktop/Magazine/Classes/MoreWebView.h
+c000000004F02DCF00000000000000180
+t1325587696
+s384
+i<UIKit/UIKit.h>
+i"MagazineBuy.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MoreWebView.m
+c000000004F02DCF10000000000000A53
+t1325587697
+s2643
+i"MoreWebView.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/MoreWebView.xib
+c000000004F019D81000000000000226F
+t1325505921
+s8815
+
+N/Users/sandeep/Desktop/Magazine/Classes/PDFFile.h
+c000000004F02DCF200000000000000EE
+t1325587698
+s238
+i<UIKit/UIKit.h>
+i<QuickLook/QuickLook.h>
+
+N/Users/sandeep/Desktop/Magazine/Classes/PDFFile.m
+c000000004F02DCF30000000000000859
+t1325587699
+s2137
+i"PDFFile.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/PDFFile.xib
+c000000004F01F3E900000000000052E9
+t1325528041
+s21225
+
+N/Users/sandeep/Desktop/Magazine/Classes/RatingView.h
+c000000004F02DCF400000000000000B9
+t1325587700
+s185
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/Magazine/Classes/RatingView.m
+c000000004F01BA92000000000000048D
+t1325513362
+s1165
+i"RatingView.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/Shop.h
+c000000004F02F5BD000000000000029B
+t1325594045
+s667
+i<UIKit/UIKit.h>
+i"MagazineMain.h"
+i"MoreWebView.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/Shop.m
+c000000004F02F59A0000000000001857
+t1325594010
+s6231
+i"Shop.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/Shop.xib
+c000000004F019A8200000000000034AA
+t1325505154
+s13482
+
+N/Users/sandeep/Desktop/Magazine/Classes/SingIn.h
+c000000004F02DCF70000000000000291
+t1325587703
+s657
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+i"MagazineMain.h"
+i"CreatingAccount.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/SingIn.m
+c000000004F02DD0C0000000000001328
+t1325587724
+s4904
+i"SingIn.h"
+i"MoreDetails.h"
+
+N/Users/sandeep/Desktop/Magazine/Classes/SingIn.xib
+c000000004F01ECE00000000000008781
+t1325526240
+s34689
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/DarkBackground.png
+c000000004F019BB9000000000000004E
+t1325505465
+s78
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/LightBackground.png
+c000000004F019BBF000000000000004E
+t1325505471
+s78
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/StarsBackground.png
+c000000004F019BBF00000000000002EC
+t1325505471
+s748
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/StarsForeground.png
+c000000004F019BBF00000000000004D9
+t1325505471
+s1241
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/c1.png
+c000000004F019BB7000000000000019D
+t1325505463
+s413
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/checkbox-checked.png
+c000000004F019BB70000000000000275
+t1325505463
+s629
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/checkbox-pressed.png
+c000000004F019BB80000000000000241
+t1325505464
+s577
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/checkbox.png
+c000000004F019BB8000000000000019D
+t1325505464
+s413
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/cp.png
+c000000004F019BB90000000000000275
+t1325505465
+s629
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/cp1.png
+c000000004F019BB90000000000000241
+t1325505465
+s577
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/hindi-cover.jpg
+c000000004F01DE1700000000000116E4
+t1325522455
+s71396
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/i.png
+c000000004F019BBA0000000000000291
+t1325505466
+s657
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/iTunesArtwork
+c000000004F019BBF0000000000001444
+t1325505471
+s5188
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/image46.png
+c000000004F019BBF0000000000000C47
+t1325505471
+s3143
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/m1.jpg
+c000000004F01D801000000000000DB29
+t1325520897
+s56105
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/m2.jpg
+c000000004F01D86B000000000000E1FD
+t1325521003
+s57853
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/m3.jpg
+c000000004F01D9280000000000013714
+t1325521192
+s79636
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/m4.jpg
+c000000004F01DA09000000000000B9E8
+t1325521417
+s47592
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/m5.jpg
+c000000004F01DA78000000000001D7A6
+t1325521528
+s120742
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/m6.jpg
+c000000004F01DB49000000000000EDF6
+t1325521737
+s60918
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/tab1.png
+c000000004CD1DBE50000000000000188
+t1288821733
+s392
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/tab2.png
+c000000004CD1DBE50000000000000184
+t1288821733
+s388
+
+N/Users/sandeep/Desktop/Magazine/Classes/images/tab3.png
+c000000004CD1DBE5000000000000018F
+t1288821733
+s399
+
+N/Users/sandeep/Desktop/Magazine/Classes/magazineambujex
+c000000004F019C830000000000003000
+t1325505667
+s12288
+
+N/Users/sandeep/Desktop/Magazine/MagazineViewController.xib
+c000000004F02E7B900000000000070F5
+t1325590457
+s28917
+
+N/Users/sandeep/Desktop/Magazine/Magazine_Prefix.pch
+c000000004F02DCDD00000000000000BC
+t1325587677
+s188
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/Magazine/MainWindow.xib
+c000000004F02E73B0000000000004E31
+t1325590331
+s20017
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app
+t1332852429
+s2210
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM
+t1332852429
+s102
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/CreatingAccount.nib
+t1325595286
+s3111
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/DarkBackground.png
+t1325506175
+s78
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Data.plist
+t1325528703
+s400
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Focus.pdf
+t1325506178
+s1432810
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/IndividualSubviewsBasedApplicationCell.nib
+t1325528870
+s2697
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Info.plist
+t1325590607
+s640
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/LightBackground.png
+t1325506176
+s78
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+t1332852429
+s122772
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineBuy.nib
+t1325527888
+s2918
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineMain.nib
+t1325594875
+s1637
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineViewController.nib
+t1325590567
+s1922
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MainWindow.nib
+t1325590334
+s1156
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MoreDetails.nib
+t1325595598
+s1499
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MoreWebView.nib
+t1325506178
+s1138
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/PDFFile.nib
+t1325528121
+s1342
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/PkgInfo
+t1325590607
+s8
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Shop.nib
+t1325506175
+s1394
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/SingIn.nib
+t1325526245
+s3152
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/StarsBackground.png
+t1325506176
+s748
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/StarsForeground.png
+t1325506176
+s1241
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/c1.png
+t1325506175
+s413
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/checkbox-checked.png
+t1325506175
+s629
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/checkbox-pressed.png
+t1325506175
+s577
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/checkbox.png
+t1325506175
+s413
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/cp.png
+t1325506175
+s629
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/cp1.png
+t1325506175
+s577
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/hindi-cover.jpg
+t1325522975
+s71396
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/i.png
+t1325506175
+s657
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/iTunesArtwork
+t1325506176
+s5188
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/image46.png
+t1325506176
+s3143
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m1.jpg
+t1325522975
+s56105
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m2.jpg
+t1325522975
+s57853
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m3.jpg
+t1325522975
+s79636
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m4.jpg
+t1325522975
+s47592
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m5.jpg
+t1325522975
+s120742
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m6.jpg
+t1325522975
+s60918
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/magazineambujex
+t1325506176
+s12288
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/project-icon1.jpg
+t1325514794
+s8051
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/tab1.png
+t1325509714
+s392
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/tab2.png
+t1325509714
+s388
+
+N/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/tab3.png
+t1325511462
+s399
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o
+t1332852429
+s44340
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o
+t1332852429
+s52120
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o
+t1332852428
+s74072
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o
+t1332852429
+s52536
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o
+t1332852429
+s44824
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Magazine.LinkFileList
+c000000004F71B6CA000000000000080E
+t1332852426
+s2062
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o
+t1332852428
+s55092
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o
+t1332852428
+s47516
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o
+t1332852428
+s73240
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o
+t1332852428
+s59836
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o
+t1332852428
+s68860
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o
+t1332852428
+s50404
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o
+t1332852428
+s48620
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o
+t1332852428
+s43240
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o
+t1332852428
+s55372
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o
+t1332852428
+s61308
+
+N/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o
+t1332852427
+s6288
+
+N/Users/sandeep/Desktop/Magazine/main.m
+c000000004F02DD170000000000000169
+t1325587735
+s361
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/Magazine/project-icon1.jpg
+c000000004EF5AD9A0000000000001F73
+t1324723610
+s8051
+
+N/Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.h
+c000000004F01BC4800000000000001F9
+t1325513800
+s505
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m
+c000000004F02DCD100000000000000C2
+t1325587665
+s194
+i"ApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.h
+c000000004F01BBE100000000000000A9
+t1325513697
+s169
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m
+c000000004F01C0CE0000000000000CB7
+t1325514958
+s3255
+i"CompositeSubviewBasedApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.h
+c000000004F02F7C900000000000003D8
+t1325594569
+s984
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+i"SingIn.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m
+c000000004F02DCDA00000000000021F8
+t1325587674
+s8696
+i"CreatingAccount.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib
+c000000004F02FA8300000000000CA8DD
+t1325595267
+s829661
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Data.plist
+c000000004F01F67F0000000000000658
+t1325528703
+s1624
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Focus.pdf
+c000000004F019DE0000000000015DCEA
+t1325506016
+s1432810
+
+N/Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.h
+c000000004F01BC48000000000000009D
+t1325513800
+s157
+i"ApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m
+c000000004F01C0CE0000000000000D15
+t1325514958
+s3349
+i"HybridSubviewBasedApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.h
+c000000004F01BC07000000000000017D
+t1325513735
+s381
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+i"RatingView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m
+c000000004F01BAFA0000000000000512
+t1325513466
+s1298
+i"IndividualSubviewsBasedApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+c000000004F01F6BC0000000000006C84
+t1325528764
+s27780
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.h
+c000000004F02D98D00000000000001E4
+t1325586829
+s484
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m
+c000000004F02D9190000000000000A99
+t1325586713
+s2713
+i"MagazineAppDelegate.h"
+i"MagazineViewController.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.h
+c000000004F02DCE100000000000000F8
+t1325587681
+s248
+i<UIKit/UIKit.h>
+i"MagazineMain.h"
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m
+c000000004F7063F20000000000000B9E
+t1332765682
+s2974
+i"MagazineBuy.h"
+i"PDFFile.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib
+c000000004F01F32900000000000075DA
+t1325527849
+s30170
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.h
+c000000004F02F8A9000000000000034A
+t1325594793
+s842
+i<UIKit/UIKit.h>
+i"ApplicationCell.h"
+i"MagazineBuy.h"
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m
+c000000004F02F8CD0000000000002364
+t1325594829
+s9060
+i"MagazineMain.h"
+i"CompositeSubviewBasedApplicationCell.h"
+i"HybridSubviewBasedApplicationCell.h"
+i"SingIn.h"
+i"Shop.h"
+i"MoreDetails.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib
+c000000004F02F8F900000000000062DB
+t1325594873
+s25307
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.h
+c000000004F02D9190000000000000171
+t1325586713
+s369
+i<UIKit/UIKit.h>
+i"Shop.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m
+c000000004F02FDA70000000000001064
+t1325596071
+s4196
+i"MagazineViewController.h"
+i"CreatingAccount.h"
+i"Shop.h"
+i"MoreDetails.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.h
+c000000004F02F6ED0000000000000311
+t1325594349
+s785
+i<UIKit/UIKit.h>
+i"CreatingAccount.h"
+i"SingIn.h"
+i"MagazineViewController.h"
+i"Shop.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m
+c000000004F02FB9500000000000015B3
+t1325595541
+s5555
+i"MoreDetails.h"
+i"SingIn.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib
+c000000004F02FBCC000000000000597C
+t1325595596
+s22908
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.h
+c000000004F02DCF00000000000000180
+t1325587696
+s384
+i<UIKit/UIKit.h>
+i"MagazineBuy.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m
+c000000004F02DCF10000000000000A53
+t1325587697
+s2643
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib
+c000000004F019D81000000000000226F
+t1325505921
+s8815
+
+N/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.h
+c000000004F02DCF200000000000000EE
+t1325587698
+s238
+i<UIKit/UIKit.h>
+i<QuickLook/QuickLook.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m
+c000000004F02DCF30000000000000859
+t1325587699
+s2137
+i"PDFFile.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib
+c000000004F01F3E900000000000052E9
+t1325528041
+s21225
+
+N/Users/sivakumar/Desktop/Magazine/Classes/RatingView.h
+c000000004F02DCF400000000000000B9
+t1325587700
+s185
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/RatingView.m
+c000000004F01BA92000000000000048D
+t1325513362
+s1165
+i"RatingView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Shop.h
+c000000004F02F5BD000000000000029B
+t1325594045
+s667
+i<UIKit/UIKit.h>
+i"MagazineMain.h"
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Shop.m
+c000000004F02F59A0000000000001857
+t1325594010
+s6231
+i"Shop.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Shop.xib
+c000000004F019A8200000000000034AA
+t1325505154
+s13482
+
+N/Users/sivakumar/Desktop/Magazine/Classes/SingIn.h
+c000000004F02DCF70000000000000291
+t1325587703
+s657
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+i"MagazineMain.h"
+i"CreatingAccount.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/SingIn.m
+c000000004F02DD0C0000000000001328
+t1325587724
+s4904
+i"SingIn.h"
+i"MoreDetails.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib
+c000000004F01ECE00000000000008781
+t1325526240
+s34689
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/DarkBackground.png
+c000000004F019BB9000000000000004E
+t1325505465
+s78
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/LightBackground.png
+c000000004F019BBF000000000000004E
+t1325505471
+s78
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/StarsBackground.png
+c000000004F019BBF00000000000002EC
+t1325505471
+s748
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/StarsForeground.png
+c000000004F019BBF00000000000004D9
+t1325505471
+s1241
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/c1.png
+c000000004F019BB7000000000000019D
+t1325505463
+s413
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-checked.png
+c000000004F019BB70000000000000275
+t1325505463
+s629
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-pressed.png
+c000000004F019BB80000000000000241
+t1325505464
+s577
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox.png
+c000000004F019BB8000000000000019D
+t1325505464
+s413
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/cp.png
+c000000004F019BB90000000000000275
+t1325505465
+s629
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/cp1.png
+c000000004F019BB90000000000000241
+t1325505465
+s577
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/hindi-cover.jpg
+c000000004F01DE1700000000000116E4
+t1325522455
+s71396
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/i.png
+c000000004F019BBA0000000000000291
+t1325505466
+s657
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/iTunesArtwork
+c000000004F019BBF0000000000001444
+t1325505471
+s5188
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/image46.png
+c000000004F019BBF0000000000000C47
+t1325505471
+s3143
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m1.jpg
+c000000004F01D801000000000000DB29
+t1325520897
+s56105
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m2.jpg
+c000000004F01D86B000000000000E1FD
+t1325521003
+s57853
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m3.jpg
+c000000004F01D9280000000000013714
+t1325521192
+s79636
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m4.jpg
+c000000004F01DA09000000000000B9E8
+t1325521417
+s47592
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m5.jpg
+c000000004F01DA78000000000001D7A6
+t1325521528
+s120742
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m6.jpg
+c000000004F01DB49000000000000EDF6
+t1325521737
+s60918
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/tab1.png
+c000000004CD1DBE50000000000000188
+t1288821733
+s392
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/tab2.png
+c000000004CD1DBE50000000000000184
+t1288821733
+s388
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/tab3.png
+c000000004CD1DBE5000000000000018F
+t1288821733
+s399
+
+N/Users/sivakumar/Desktop/Magazine/Classes/magazineambujex
+c000000004F019C830000000000003000
+t1325505667
+s12288
+
+N/Users/sivakumar/Desktop/Magazine/Magazine123ViewController.xib
+c000000004F01E3000000000000007101
+t1325523712
+s28929
+
+N/Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/MagazineViewController.xib
+c000000004F02E7B900000000000070F5
+t1325590457
+s28917
+
+N/Users/sivakumar/Desktop/Magazine/Magazine_Prefix.pch
+c000000004F02DCDD00000000000000BC
+t1325587677
+s188
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/MainWindow.xib
+c000000004F02E73B0000000000004E31
+t1325590331
+s20017
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app
+t1332765683
+s2210
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM
+t1332765683
+s102
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/CreatingAccount.nib
+t1325595286
+s3111
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/DarkBackground.png
+t1325506175
+s78
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Data.plist
+t1325528703
+s400
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Focus.pdf
+t1325506178
+s1432810
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/IndividualSubviewsBasedApplicationCell.nib
+t1325528870
+s2697
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Info.plist
+t1325590607
+s640
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/LightBackground.png
+t1325506176
+s78
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+t1332765683
+s122836
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineBuy.nib
+t1325527888
+s2918
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineMain.nib
+t1325594875
+s1637
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineViewController.nib
+t1325590567
+s1922
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MainWindow.nib
+t1325590334
+s1156
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MoreDetails.nib
+t1325595598
+s1499
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MoreWebView.nib
+t1325506178
+s1138
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/PDFFile.nib
+t1325528121
+s1342
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/PkgInfo
+t1325590607
+s8
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Shop.nib
+t1325506175
+s1394
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/SingIn.nib
+t1325526245
+s3152
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/StarsBackground.png
+t1325506176
+s748
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/StarsForeground.png
+t1325506176
+s1241
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/c1.png
+t1325506175
+s413
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/checkbox-checked.png
+t1325506175
+s629
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/checkbox-pressed.png
+t1325506175
+s577
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/checkbox.png
+t1325506175
+s413
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/cp.png
+t1325506175
+s629
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/cp1.png
+t1325506175
+s577
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/hindi-cover.jpg
+t1325522975
+s71396
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/i.png
+t1325506175
+s657
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/iTunesArtwork
+t1325506176
+s5188
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/image46.png
+t1325506176
+s3143
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m1.jpg
+t1325522975
+s56105
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m2.jpg
+t1325522975
+s57853
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m3.jpg
+t1325522975
+s79636
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m4.jpg
+t1325522975
+s47592
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m5.jpg
+t1325522975
+s120742
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/m6.jpg
+t1325522975
+s60918
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/magazineambujex
+t1325506176
+s12288
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/project-icon1.jpg
+t1325514794
+s8051
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/tab1.png
+t1325509714
+s392
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/tab2.png
+t1325509714
+s388
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/tab3.png
+t1325511462
+s399
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app
+t1325589578
+s1428
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app.dSYM
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/CreatingAccount.nib
+t1325589571
+s3385
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/DarkBackground.png
+t1325589571
+s78
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Data.plist
+t1325589571
+s400
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Focus.pdf
+t1325589576
+s1432810
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/IndividualSubviewsBasedApplicationCell.nib
+t1325589578
+s2693
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist
+t1325589566
+s652
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/LightBackground.png
+t1325589571
+s78
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123ViewController.nib
+t1325587761
+s1926
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MagazineBuy.nib
+t1325589574
+s2917
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MagazineMain.nib
+t1325589575
+s1641
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MagazineViewController.nib
+t1325589568
+s1923
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MainWindow.nib
+t1325589568
+s1131
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MoreDetails.nib
+t1325589572
+s1776
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MoreWebView.nib
+t1325589576
+s1138
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/PDFFile.nib
+t1325589578
+s1342
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/PkgInfo
+t1325589566
+s8
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Shop.nib
+t1325589569
+s1394
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/SingIn.nib
+t1325589574
+s3153
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/StarsBackground.png
+t1325589571
+s748
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/StarsForeground.png
+t1325589571
+s1241
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/c1.png
+t1325589571
+s413
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/checkbox-checked.png
+t1325589571
+s629
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/checkbox-pressed.png
+t1325589571
+s577
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/checkbox.png
+t1325589571
+s413
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/cp.png
+t1325589571
+s629
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/cp1.png
+t1325589571
+s577
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/hindi-cover.jpg
+t1325589578
+s71396
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/i.png
+t1325589571
+s657
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/iTunesArtwork
+t1325589571
+s5188
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/image46.png
+t1325589571
+s3143
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m1.jpg
+t1325589578
+s56105
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m2.jpg
+t1325589578
+s57853
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m3.jpg
+t1325589578
+s79636
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m4.jpg
+t1325589578
+s47592
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m5.jpg
+t1325589578
+s120742
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m6.jpg
+t1325589578
+s60918
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/magazineambujex
+t1325589572
+s12288
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/project-icon1.jpg
+t1325589578
+s8051
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/tab1.png
+t1325589578
+s392
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/tab2.png
+t1325589578
+s388
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/tab3.png
+t1325589578
+s399
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o
+t1332761403
+s44344
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o
+t1332761403
+s52120
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o
+t1332761402
+s74076
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o
+t1332761403
+s52536
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o
+t1332761403
+s44828
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Magazine.LinkFileList
+c000000004F02DF5F000000000000082E
+t1325588319
+s2094
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Magazine123.LinkFileList
+c000000004F02E425000000000000082E
+t1325589541
+s2094
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o
+t1332761400
+s55096
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o
+t1332765683
+s47520
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o
+t1332761403
+s73244
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o
+t1332761401
+s59844
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o
+t1332761402
+s68864
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o
+t1332761403
+s50408
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o
+t1332761403
+s48624
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o
+t1332761403
+s43248
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o
+t1332761401
+s55376
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o
+t1332761402
+s61312
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o
+t1332761399
+s6292
+
+N/Users/sivakumar/Desktop/Magazine/main.m
+c000000004F02DD170000000000000169
+t1325587735
+s361
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/project-icon1.jpg
+c000000004EF5AD9A0000000000001F73
+t1324723610
+s8051
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch.gch
+t1332852427
+s15453392
+
+N/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine123_Prefix.pch.gch
+t1325588472
+s15453392
+
+N/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-fwkbhwjxlmvrbtfkqqfxyzjpvzss/Magazine123_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch.gch
+t1332761399
+s15453392
+
+NMagazine-Info.plist
+c000000004F02E84E00000000000003D8
+t1325590606
+s984
+
+NMagazine123-Info.plist
+c000000004F01C02A000000000000039E
+t1325514794
+s926
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies357197787#357197787#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545229.197422
+e354545229.313852
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o
+x/Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.m354545229#354545229#0(0"0(0#0#57"/Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.m8612048160#1887"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/ApplicationCell.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454203.556631
+e354454203.720195
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o
+x/Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m354454203#354454203#0(0"0(0#0#59"/Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m8603203904#1909"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.972478
+e354545229.197324
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o
+x/Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m354545228#354545229#0(0"0(0#0#78"/Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m8611121728#1929"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454203.352766
+e354454203.556530
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o
+x/Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m354454203#354454203#0(0"0(0#0#80"/Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m8603030432#1951"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o /Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.189686
+e354545228.457704
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o
+x/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: incomplete implementation of class 'CreatingAccount'
+o/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: method definition for '-checkBoxButton:' not found
+lSLF07#2@65"Compile /Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m354545228#354545228#0(248"/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: incomplete implementation of class 'CreatingAccount'/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: method definition for '-checkBoxButton:' not found2(22@52"Incomplete implementation of class 'CreatingAccount'354545228#0#125#0(6@57"/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m347280474#277#0#277#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-checkBoxButton:' not found354545228#125#123#0(6@57"/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m347280474#277#0#277#0#35"method definition for '*' not found0(0#0#57"/Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m8611561472#1887"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454201.046291
+e354454202.256878
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o
+x/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: incomplete implementation of class 'CreatingAccount'
+o/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: method definition for '-checkBoxButton:' not found
+lSLF07#2@67"Compile /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m354454201#354454202#0(252"/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: incomplete implementation of class 'CreatingAccount'/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m:277: warning: method definition for '-checkBoxButton:' not found2(22@52"Incomplete implementation of class 'CreatingAccount'354454201#0#127#0(6@59"/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m347280474#277#0#277#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-checkBoxButton:' not found354454201#127#125#0(6@59"/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m347280474#277#0#277#0#35"method definition for '*' not found0(0#0#59"/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m8603390816#1909"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545229.003114
+e354545229.159982
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o
+x/Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m354545229#354545229#0(0"0(0#0#75"/Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m8609442240#1923"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454203.354027
+e354454203.552429
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o
+x/Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m354454203#354454203#0(0"0(0#0#77"/Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m8603043552#1945"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o /Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545229.160078
+e354545229.301140
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o
+x/Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m354545229#354545229#0(0"0(0#0#80"/Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m8611701504#1933"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454203.552526
+e354454203.719950
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o
+x/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m354454203#354454203#0(0"0(0#0#82"/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m8603780352#1955"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o /Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545227.879527
+e354545228.009919
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o
+x/Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.m354545227#354545228#0(0"0(0#0#61"/Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.m8610728864#1895"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/MagazineAppDelegate.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454199.709533
+e354454200.014935
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o
+x/Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m354454199#354454200#0(0"0(0#0#63"/Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m8602934176#1917"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o /Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.457798
+e354545228.723009
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o
+x/Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.m354545228#354545228#0(0"0(0#0#53"/Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.m8610609568#1879"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354458482.907062
+e354458483.107750
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o
+x/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m354458482#354458483#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m8604135712#1901"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o /Users/sandeep/Desktop/Magazine/Classes/MagazineMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.618493
+e354545228.844283
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o
+x/Users/sandeep/Desktop/Magazine/Classes/MagazineMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sandeep/Desktop/Magazine/Classes/MagazineMain.m354545228#354545228#0(0"0(0#0#54"/Users/sandeep/Desktop/Magazine/Classes/MagazineMain.m8611333440#1881"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/MagazineMain.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454202.863343
+e354454203.192437
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o
+x/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m354454202#354454203#0(0"0(0#0#56"/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m8604051360#1903"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o /Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545227.973860
+e354545228.189591
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o
+x/Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.m354545227#354545228#0(0"0(0#0#64"/Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.m8610106848#1901"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/MagazineViewController.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454199.977131
+e354454201.343348
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o
+x/Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m354454199#354454201#0(0"0(0#0#66"/Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m8600696736#1923"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o /Users/sandeep/Desktop/Magazine/Classes/MoreDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.200376
+e354545228.403795
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o
+x/Users/sandeep/Desktop/Magazine/Classes/MoreDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/Magazine/Classes/MoreDetails.m354545228#354545228#0(0"0(0#0#53"/Users/sandeep/Desktop/Magazine/Classes/MoreDetails.m8610549152#1879"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/MoreDetails.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454201.343574
+e354454202.698401
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o
+x/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m354454201#354454202#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m8603991680#1901"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o /Users/sandeep/Desktop/Magazine/Classes/MoreWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.723105
+e354545228.869895
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o
+x/Users/sandeep/Desktop/Magazine/Classes/MoreWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/Magazine/Classes/MoreWebView.m354545228#354545228#0(0"0(0#0#53"/Users/sandeep/Desktop/Magazine/Classes/MoreWebView.m8609898368#1879"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/MoreWebView.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454202.928898
+e354454203.147049
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o
+x/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m354454202#354454203#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m8603125952#1901"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o /Users/sandeep/Desktop/Magazine/Classes/PDFFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.844388
+e354545228.972383
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o
+x/Users/sandeep/Desktop/Magazine/Classes/PDFFile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/sandeep/Desktop/Magazine/Classes/PDFFile.m354545228#354545229#0(0"0(0#0#49"/Users/sandeep/Desktop/Magazine/Classes/PDFFile.m8611814592#1871"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/PDFFile.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454203.147143
+e354454203.353949
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o
+x/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m354454203#354454203#0(0"0(0#0#51"/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m8601290336#1893"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o /Users/sandeep/Desktop/Magazine/Classes/RatingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.869996
+e354545229.003009
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o
+x/Users/sandeep/Desktop/Magazine/Classes/RatingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/sandeep/Desktop/Magazine/Classes/RatingView.m354545228#354545229#0(0"0(0#0#52"/Users/sandeep/Desktop/Magazine/Classes/RatingView.m8611536256#1877"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/RatingView.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o /Users/sivakumar/Desktop/Magazine/Classes/RatingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454203.192537
+e354454203.352666
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o
+x/Users/sivakumar/Desktop/Magazine/Classes/RatingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sivakumar/Desktop/Magazine/Classes/RatingView.m354454203#354454203#0(0"0(0#0#54"/Users/sivakumar/Desktop/Magazine/Classes/RatingView.m8600791680#1899"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/RatingView.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o /Users/sandeep/Desktop/Magazine/Classes/Shop.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.010017
+e354545228.200277
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o
+x/Users/sandeep/Desktop/Magazine/Classes/Shop.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/Desktop/Magazine/Classes/Shop.m354545228#354545228#0(0"0(0#0#46"/Users/sandeep/Desktop/Magazine/Classes/Shop.m8609382272#1865"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/Shop.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o /Users/sivakumar/Desktop/Magazine/Classes/Shop.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454200.015047
+e354454201.046197
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o
+x/Users/sivakumar/Desktop/Magazine/Classes/Shop.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/sivakumar/Desktop/Magazine/Classes/Shop.m354454200#354454201#0(0"0(0#0#48"/Users/sivakumar/Desktop/Magazine/Classes/Shop.m8603347168#1887"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/Shop.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o /Users/sandeep/Desktop/Magazine/Classes/SingIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545228.403984
+e354545228.618391
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o
+x/Users/sandeep/Desktop/Magazine/Classes/SingIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/sandeep/Desktop/Magazine/Classes/SingIn.m354545228#354545228#0(0"0(0#0#48"/Users/sandeep/Desktop/Magazine/Classes/SingIn.m8612476352#1869"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/Classes/SingIn.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o /Users/sivakumar/Desktop/Magazine/Classes/SingIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454202.256972
+e354454202.928803
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o
+x/Users/sivakumar/Desktop/Magazine/Classes/SingIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/sivakumar/Desktop/Magazine/Classes/SingIn.m354454202#354454202#0(0"0(0#0#50"/Users/sivakumar/Desktop/Magazine/Classes/SingIn.m8319100054294979584#1891"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/Classes/SingIn.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/Magazine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545227.820894
+e354545227.973760
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/Magazine/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/sandeep/Desktop/Magazine/main.m354545227#354545227#0(0"0(0#0#38"/Users/sandeep/Desktop/Magazine/main.m8611281088#1857"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch -c /Users/sandeep/Desktop/Magazine/main.m -o /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o /Users/sivakumar/Desktop/Magazine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454199.708432
+e354454199.977035
+r1
+xCompileC
+xbuild/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o
+x/Users/sivakumar/Desktop/Magazine/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sivakumar/Desktop/Magazine/main.m354454199#354454199#0(0"0(0#0#40"/Users/sivakumar/Desktop/Magazine/main.m8603316288#1879"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch -c /Users/sivakumar/Desktop/Magazine/main.m -o /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/CreatingAccount.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MagazineBuy.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MagazineMain.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MoreDetails.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/MoreWebView.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/PDFFile.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/Shop.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/Classes/SingIn.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/MagazineViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/Magazine/MainWindow.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib
+s347288086.288732
+e347288086.952812
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib
+lSLF07#2@38"CompileXIB Classes/CreatingAccount.xib347288086#347288086#0(0"0(0#0#61"/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib8603898112#574"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/CreatingAccount.nib /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+s347282376.218113
+e347282378.854707
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib:-1: warning: The 'tmpCell' outlet of 'File's Owner' is connected to 'Individual Subviews Based Application Cell (ApplicationCell)' but 'tmpCell' is no longer defined on RootViewController.
+lSLF07#2@61"CompileXIB Classes/IndividualSubviewsBasedApplicationCell.xib347282376#347282378#0(315"/* com.apple.ibtool.document.warnings *//Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib:-1: warning: The 'tmpCell' outlet of 'File's Owner' is connected to 'Individual Subviews Based Application Cell (ApplicationCell)' but 'tmpCell' is no longer defined on RootViewController.1(22@175"The 'tmpCell' outlet of 'File's Owner' is connected to 'Individual Subviews Based Application Cell (ApplicationCell)' but 'tmpCell' is no longer defined on RootViewController.347282378#18446744073709551615#0#0(6@84"/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib347221564#18446744073709551615#0#18446744073709551615#0#0"0(0#0#84"/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib8606378176#623"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/IndividualSubviewsBasedApplicationCell.nib /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib
+s347282372.151201
+e347282374.495699
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib
+lSLF07#2@34"CompileXIB Classes/MagazineBuy.xib347282372#347282374#0(0"0(0#0#57"/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib8606128288#569"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MagazineBuy.nib /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib
+s347287674.544933
+e347287675.078740
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib
+lSLF07#2@35"CompileXIB Classes/MagazineMain.xib347287674#347287675#0(0"0(0#0#58"/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib8611763296#568"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineMain.nib /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib
+s347288398.356632
+e347288399.008549
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib
+lSLF07#2@34"CompileXIB Classes/MoreDetails.xib347288398#347288399#0(0"0(0#0#57"/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib8606344736#566"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MoreDetails.nib /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib
+s347282374.532019
+e347282376.203440
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib
+lSLF07#2@34"CompileXIB Classes/MoreWebView.xib347282374#347282376#0(0"0(0#0#57"/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib8608135232#569"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MoreWebView.nib /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib
+s347282375.942555
+e347282378.101175
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib
+lSLF07#2@30"CompileXIB Classes/PDFFile.xib347282375#347282378#0(0"0(0#0#53"/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib8610012160#561"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/PDFFile.nib /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/Shop.xib
+s347282368.342075
+e347282369.959584
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/Shop.xib
+lSLF07#2@27"CompileXIB Classes/Shop.xib347282368#347282369#0(0"0(0#0#50"/Users/sivakumar/Desktop/Magazine/Classes/Shop.xib8603245760#555"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Shop.nib /Users/sivakumar/Desktop/Magazine/Classes/Shop.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib
+s347282372.002509
+e347282374.531927
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib
+lSLF07#2@29"CompileXIB Classes/SingIn.xib347282372#347282374#0(0"0(0#0#52"/Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib8606588608#559"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/SingIn.nib /Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Magazine123ViewController.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/MagazineViewController.xib
+s347283362.696125
+e347283368.138970
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/MagazineViewController.xib
+lSLF07#2@37"CompileXIB MagazineViewController.xib347283362#347283368#0(0"0(0#0#60"/Users/sivakumar/Desktop/Magazine/MagazineViewController.xib8593736672#580"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MagazineViewController.nib /Users/sivakumar/Desktop/Magazine/MagazineViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/MainWindow.xib
+s347283133.837293
+e347283134.925579
+r1
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib347283133#347283134#0(0"0(0#0#48"/Users/sivakumar/Desktop/Magazine/MainWindow.xib8600168736#556"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/MainWindow.nib /Users/sivakumar/Desktop/Magazine/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Data.plist Classes/Data.plist
+r0
+
+CCopyPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Data.plist Classes/Data.plist
+r0
+
+CCopyPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Data.plist Classes/Data.plist
+s347282371.456230
+e347282371.782508
+r1
+xCopyPlistFile
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Data.plist
+xClasses/Data.plist
+lSLF07#2@23"Copy Classes/Data.plist347282371#347282371#0(0"0(0#0#52"/Users/sivakumar/Desktop/Magazine/Classes/Data.plist8603460096#387"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Classes/Data.plist --outdir /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/DarkBackground.png Classes/images/DarkBackground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/Focus.pdf Classes/Focus.pdf
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/LightBackground.png Classes/images/LightBackground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/StarsBackground.png Classes/images/StarsBackground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/StarsForeground.png Classes/images/StarsForeground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/c1.png Classes/images/c1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/checkbox-checked.png Classes/images/checkbox-checked.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/checkbox-pressed.png Classes/images/checkbox-pressed.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/checkbox.png Classes/images/checkbox.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/cp.png Classes/images/cp.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/cp1.png Classes/images/cp1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/hindi-cover.jpg Classes/images/hindi-cover.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/i.png Classes/images/i.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/iTunesArtwork Classes/images/iTunesArtwork
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/image46.png Classes/images/image46.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/m1.jpg Classes/images/m1.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/m2.jpg Classes/images/m2.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/m3.jpg Classes/images/m3.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/m4.jpg Classes/images/m4.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/m5.jpg Classes/images/m5.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/m6.jpg Classes/images/m6.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/magazineambujex Classes/magazineambujex
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/project-icon1.jpg project-icon1.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/tab1.png Classes/images/tab1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/tab2.png Classes/images/tab2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine.app/tab3.png Classes/images/tab3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/DarkBackground.png Classes/images/DarkBackground.png
+s347282371.800690
+e347282371.929044
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/DarkBackground.png
+xClasses/images/DarkBackground.png
+lSLF07#2@38"Copy Classes/images/DarkBackground.png347282371#347282371#0(0"0(0#0#67"/Users/sivakumar/Desktop/Magazine/Classes/images/DarkBackground.png8604531936#480"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/DarkBackground.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/Focus.pdf Classes/Focus.pdf
+s347282376.203613
+e347282376.366180
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/Focus.pdf
+xClasses/Focus.pdf
+lSLF07#2@22"Copy Classes/Focus.pdf347282376#347282376#0(0"0(0#0#51"/Users/sivakumar/Desktop/Magazine/Classes/Focus.pdf8606594496#464"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/Focus.pdf /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/LightBackground.png Classes/images/LightBackground.png
+s347282371.941596
+e347282372.013128
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/LightBackground.png
+xClasses/images/LightBackground.png
+lSLF07#2@39"Copy Classes/images/LightBackground.png347282371#347282372#0(0"0(0#0#68"/Users/sivakumar/Desktop/Magazine/Classes/images/LightBackground.png8601430336#481"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/LightBackground.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/StarsBackground.png Classes/images/StarsBackground.png
+s347282371.947451
+e347282372.013408
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/StarsBackground.png
+xClasses/images/StarsBackground.png
+lSLF07#2@39"Copy Classes/images/StarsBackground.png347282371#347282372#0(0"0(0#0#68"/Users/sivakumar/Desktop/Magazine/Classes/images/StarsBackground.png8599492640#481"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/StarsBackground.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/StarsForeground.png Classes/images/StarsForeground.png
+s347282371.957842
+e347282372.013244
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/StarsForeground.png
+xClasses/images/StarsForeground.png
+lSLF07#2@39"Copy Classes/images/StarsForeground.png347282371#347282372#0(0"0(0#0#68"/Users/sivakumar/Desktop/Magazine/Classes/images/StarsForeground.png8603314624#481"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/StarsForeground.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/c1.png Classes/images/c1.png
+s347282371.783443
+e347282371.927459
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/c1.png
+xClasses/images/c1.png
+lSLF07#2@26"Copy Classes/images/c1.png347282371#347282371#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/c1.png8605773152#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/c1.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox-checked.png Classes/images/checkbox-checked.png
+s347282371.784315
+e347282371.928334
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/checkbox-checked.png
+xClasses/images/checkbox-checked.png
+lSLF07#2@40"Copy Classes/images/checkbox-checked.png347282371#347282371#0(0"0(0#0#69"/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-checked.png8604351232#482"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-checked.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox-pressed.png Classes/images/checkbox-pressed.png
+s347282371.785200
+e347282371.928550
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/checkbox-pressed.png
+xClasses/images/checkbox-pressed.png
+lSLF07#2@40"Copy Classes/images/checkbox-pressed.png347282371#347282371#0(0"0(0#0#69"/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-pressed.png8604175552#482"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-pressed.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox.png Classes/images/checkbox.png
+s347282371.788311
+e347282371.928678
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/checkbox.png
+xClasses/images/checkbox.png
+lSLF07#2@32"Copy Classes/images/checkbox.png347282371#347282371#0(0"0(0#0#61"/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox.png8603386080#474"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/checkbox.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/cp.png Classes/images/cp.png
+s347282371.790280
+e347282371.928803
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/cp.png
+xClasses/images/cp.png
+lSLF07#2@26"Copy Classes/images/cp.png347282371#347282371#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/cp.png8600246912#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/cp.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/cp1.png Classes/images/cp1.png
+s347282371.791839
+e347282371.928923
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/cp1.png
+xClasses/images/cp1.png
+lSLF07#2@27"Copy Classes/images/cp1.png347282371#347282371#0(0"0(0#0#56"/Users/sivakumar/Desktop/Magazine/Classes/images/cp1.png8605940608#469"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/cp1.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/hindi-cover.jpg Classes/images/hindi-cover.jpg
+s347282378.294927
+e347282378.314416
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/hindi-cover.jpg
+xClasses/images/hindi-cover.jpg
+lSLF07#2@35"Copy Classes/images/hindi-cover.jpg347282378#347282378#0(0"0(0#0#64"/Users/sivakumar/Desktop/Magazine/Classes/images/hindi-cover.jpg8603047936#477"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/hindi-cover.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/i.png Classes/images/i.png
+s347282371.804817
+e347282371.929169
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/i.png
+xClasses/images/i.png
+lSLF07#2@25"Copy Classes/images/i.png347282371#347282371#0(0"0(0#0#54"/Users/sivakumar/Desktop/Magazine/Classes/images/i.png8604173856#467"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/i.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/iTunesArtwork Classes/images/iTunesArtwork
+s347282371.929418
+e347282372.012993
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/iTunesArtwork
+xClasses/images/iTunesArtwork
+lSLF07#2@33"Copy Classes/images/iTunesArtwork347282371#347282372#0(0"0(0#0#62"/Users/sivakumar/Desktop/Magazine/Classes/images/iTunesArtwork8603520160#475"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/iTunesArtwork /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/image46.png Classes/images/image46.png
+s347282371.812305
+e347282371.929344
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/image46.png
+xClasses/images/image46.png
+lSLF07#2@31"Copy Classes/images/image46.png347282371#347282371#0(0"0(0#0#60"/Users/sivakumar/Desktop/Magazine/Classes/images/image46.png8603913760#473"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/image46.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m1.jpg Classes/images/m1.jpg
+s347282378.134490
+e347282378.285246
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/m1.jpg
+xClasses/images/m1.jpg
+lSLF07#2@26"Copy Classes/images/m1.jpg347282378#347282378#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/m1.jpg8603150560#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/m1.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m2.jpg Classes/images/m2.jpg
+s347282378.152879
+e347282378.285355
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/m2.jpg
+xClasses/images/m2.jpg
+lSLF07#2@26"Copy Classes/images/m2.jpg347282378#347282378#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/m2.jpg8600629408#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/m2.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m3.jpg Classes/images/m3.jpg
+s347282378.196225
+e347282378.285459
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/m3.jpg
+xClasses/images/m3.jpg
+lSLF07#2@26"Copy Classes/images/m3.jpg347282378#347282378#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/m3.jpg8599339552#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/m3.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m4.jpg Classes/images/m4.jpg
+s347282378.269632
+e347282378.285569
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/m4.jpg
+xClasses/images/m4.jpg
+lSLF07#2@26"Copy Classes/images/m4.jpg347282378#347282378#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/m4.jpg8593417792#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/m4.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m5.jpg Classes/images/m5.jpg
+s347282378.279256
+e347282378.314545
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/m5.jpg
+xClasses/images/m5.jpg
+lSLF07#2@26"Copy Classes/images/m5.jpg347282378#347282378#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/m5.jpg8605963584#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/m5.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m6.jpg Classes/images/m6.jpg
+s347282378.285640
+e347282378.314281
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/m6.jpg
+xClasses/images/m6.jpg
+lSLF07#2@26"Copy Classes/images/m6.jpg347282378#347282378#0(0"0(0#0#55"/Users/sivakumar/Desktop/Magazine/Classes/images/m6.jpg8603544832#468"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/m6.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/magazineambujex Classes/magazineambujex
+s347282371.978690
+e347282372.030340
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/magazineambujex
+xClasses/magazineambujex
+lSLF07#2@28"Copy Classes/magazineambujex347282371#347282372#0(0"0(0#0#57"/Users/sivakumar/Desktop/Magazine/Classes/magazineambujex8600968416#470"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/magazineambujex /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/project-icon1.jpg project-icon1.jpg
+s347282378.123349
+e347282378.285117
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/project-icon1.jpg
+xproject-icon1.jpg
+lSLF07#2@22"Copy project-icon1.jpg347282378#347282378#0(0"0(0#0#51"/Users/sivakumar/Desktop/Magazine/project-icon1.jpg8603474336#464"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/project-icon1.jpg /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/tab1.png Classes/images/tab1.png
+s347282378.101314
+e347282378.282111
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/tab1.png
+xClasses/images/tab1.png
+lSLF07#2@28"Copy Classes/images/tab1.png347282378#347282378#0(0"0(0#0#57"/Users/sivakumar/Desktop/Magazine/Classes/images/tab1.png8606129152#470"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/tab1.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/tab2.png Classes/images/tab2.png
+s347282378.104187
+e347282378.284794
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/tab2.png
+xClasses/images/tab2.png
+lSLF07#2@28"Copy Classes/images/tab2.png347282378#347282378#0(0"0(0#0#57"/Users/sivakumar/Desktop/Magazine/Classes/images/tab2.png8604054368#470"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/tab2.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/tab3.png Classes/images/tab3.png
+s347282378.114058
+e347282378.284963
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Magazine123.app/tab3.png
+xClasses/images/tab3.png
+lSLF07#2@28"Copy Classes/images/tab3.png347282378#347282378#0(0"0(0#0#57"/Users/sivakumar/Desktop/Magazine/Classes/images/tab3.png8603695456#470"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Desktop/Magazine/Classes/images/tab3.png /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+s354545229.401703
+e354545229.456013
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM
+x/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Magazine.app.dSYM build/Debug-iphonesimulator/Magazine.app/Magazine354545229#354545229#0(0"0(0#0#81"/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine8611169600#365"    cd /Users/sandeep/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine -o /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM0#
+
+CGenerateDSYMFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+s354458483.156507
+e354458483.234646
+r1
+xGenerateDSYMFile
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Magazine.app.dSYM build/Debug-iphonesimulator/Magazine.app/Magazine354458483#354458483#0(0"0(0#0#83"/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine8606090400#371"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine -o /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app.dSYM0#
+
+CGenerateDSYMFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app.dSYM /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123
+s347281286.119077
+e347281289.697351
+r1
+xGenerateDSYMFile
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app.dSYM
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Magazine123.app.dSYM build/Debug-iphonesimulator/Magazine123.app/Magazine123347281286#347281289#0(0"0(0#0#89"/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine1238599583136#380"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123 -o /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine normal i386
+s354545229.313935
+e354545229.401606
+r1
+xLd
+x/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+xnormal
+xi386
+lSLF07#2@86"Link /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine354545229#354545229#0(0"0(0#0#0"8610531744#903"    cd /Users/sandeep/Desktop/Magazine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Magazine.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -framework QuickLook -o /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine0#
+
+CLd /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine normal i386
+s354458483.108112
+e354458483.156423
+r1
+xLd
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine
+xnormal
+xi386
+lSLF07#2@88"Link /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine354458483#354458483#0(0"0(0#0#0"8590294560#913"    cd /Users/sivakumar/Desktop/Magazine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -filelist /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Magazine.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -framework QuickLook -o /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Magazine0#
+
+CLd /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123 normal i386
+s347281283.922776
+e347281286.117753
+r1
+xLd
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123
+xnormal
+xi386
+lSLF07#2@94"Link /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123347281283#347281286#0(0"0(0#0#0"8606628128#922"    cd /Users/sivakumar/Desktop/Magazine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -filelist /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Magazine123.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -framework QuickLook -o /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine1230#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Info.plist Magazine-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Info.plist Magazine-Info.plist
+s347283407.123844
+e347283407.160047
+r1
+xProcessInfoPlistFile
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Info.plist
+xMagazine-Info.plist
+lSLF07#2@27"Process Magazine-Info.plist347283407#347283407#0(0"0(0#0#53"/Users/sivakumar/Desktop/Magazine/Magazine-Info.plist8596138560#467"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Magazine-Info.plist -genpkginfo /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist Magazine-Info.plist
+s347282366.080291
+e347282366.104673
+r1
+xProcessInfoPlistFile
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist
+xMagazine-Info.plist
+lSLF07#2@27"Process Magazine-Info.plist347282366#347282366#0(0"0(0#0#53"/Users/sivakumar/Desktop/Magazine/Magazine-Info.plist8606161056#473"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Magazine-Info.plist -genpkginfo /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist Magazine123-Info.plist
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch.gch Magazine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354545226.741098
+e354545227.820788
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch.gch
+xMagazine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Magazine_Prefix.pch354545226#354545227#0(0"0(0#0#51"/Users/sandeep/Desktop/Magazine/Magazine_Prefix.pch8602455296#1755"    cd /Users/sandeep/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -c /Users/sandeep/Desktop/Magazine/Magazine_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/Magazine_Prefix-ddjhnvgnwltguoahpufpnuuuqxdj/Magazine_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine123_Prefix.pch.gch Magazine123_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347281261.332268
+e347281272.580038
+r1
+xProcessPCH
+x/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine123_Prefix.pch.gch
+xMagazine123_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Magazine123_Prefix.pch347281261#347281272#0(0"0(0#0#56"/Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch8603358016#1796"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -c /Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch -o /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine123_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-fwkbhwjxlmvrbtfkqqfxyzjpvzss/Magazine123_Prefix.pch.gch Magazine123_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347282378.854845
+e347282378.871161
+r0
+xProcessPCH
+x/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-fwkbhwjxlmvrbtfkqqfxyzjpvzss/Magazine123_Prefix.pch.gch
+xMagazine123_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@33"Precompile Magazine123_Prefix.pch347282378#347282378#0(365"i686-apple-darwin10-gcc-4.2.1: /Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1347282378#18446744073709551615#0#0(1@0"0(0#0#56"/Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch8608578944#1796"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine123-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -c /Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch -o /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-fwkbhwjxlmvrbtfkqqfxyzjpvzss/Magazine123_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch.gch Magazine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454196.106066
+e354454199.708229
+r1
+xProcessPCH
+x/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch.gch
+xMagazine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Magazine_Prefix.pch354454196#354454199#0(0"0(0#0#53"/Users/sivakumar/Desktop/Magazine/Magazine_Prefix.pch5791459170712182784#1775"    cd /Users/sivakumar/Desktop/Magazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-generated-files.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-own-target-headers.hmap -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-all-target-headers.hmap -iquote /Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Magazine-project-headers.hmap -F/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator -I/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources/i386 -I/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/DerivedSources -c /Users/sivakumar/Desktop/Magazine/Magazine_Prefix.pch -o /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app
+s354545229.456094
+e354545229.460691
+r1
+xTouch
+x/Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app
+lSLF07#2@78"Touch /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app354545229#354545229#0(0"0(0#0#0"8609463584#265"    cd /Users/sandeep/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app0#
+
+CTouch /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app
+s354458483.234729
+e354458483.237360
+r1
+xTouch
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app
+lSLF07#2@80"Touch /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app354458483#354458483#0(0"0(0#0#0"8608106464#269"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine.app0#
+
+CTouch /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app
+s347281289.697533
+e347281289.823022
+r1
+xTouch
+x/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app
+lSLF07#2@83"Touch /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app347281289#347281289#0(0"0(0#0#0"8608092256#272"    cd /Users/sivakumar/Desktop/Magazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app0#
+

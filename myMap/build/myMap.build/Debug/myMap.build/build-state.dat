@@ -1,0 +1,51 @@
+TmyMap
+v7
+r1
+
+N/Users/vanita/Downloads/myMap/MainWindow.xib
+c000000004C5BEB170000000000004E11
+t1281092375
+s19985
+
+N/Users/vanita/Downloads/myMap/build/Debug/myMap.app
+t2
+s0
+
+N/Users/vanita/Downloads/myMap/build/Debug/myMap.app/Contents/Info.plist
+t2
+s0
+
+N/Users/vanita/Downloads/myMap/build/Debug/myMap.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/vanita/Downloads/myMap/build/Debug/myMap.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/vanita/Downloads/myMap/build/Debug/myMap.app/Contents/Resources/myMapViewController.nib
+t2
+s0
+
+N/Users/vanita/Downloads/myMap/myMapViewController.xib
+c000000004C5BED7B0000000000004252
+t1281092987
+s16978
+
+NmyMap-Info.plist
+c000000004C5BEB17000000000000038D
+t1281092375
+s909
+
+CCompileXIB /Users/vanita/Downloads/myMap/MainWindow.xib
+r0
+
+CCompileXIB /Users/vanita/Downloads/myMap/myMapViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/vanita/Downloads/myMap/build/Debug/myMap.app/Contents/Info.plist myMap-Info.plist
+r0
+
+CTouch /Users/vanita/Downloads/myMap/build/Debug/myMap.app
+r0
+

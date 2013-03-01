@@ -1,0 +1,258 @@
+Tnsdate
+v7
+r0
+t337594441.011885
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/Info.plist nsdate-Info.plist
+cCompileXIB /Users/sandeep/Documents/nsdate/MainWindow.xib
+cCompileXIB /Users/sandeep/Documents/nsdate/nsdateViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch.gch nsdate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/main.o /Users/sandeep/Documents/nsdate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateAppDelegate.o /Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateViewController.o /Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate normal i386
+cGenerateDSYMFile /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app.dSYM /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate
+cTouch /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.h
+c000000004E6F0FAE00000000000001D5
+t1315901358
+s469
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.m
+c000000004E6F0FAE0000000000000A8C
+t1315901358
+s2700
+i"nsdateAppDelegate.h"
+i"nsdateViewController.h"
+
+N/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.h
+c000000004E6F10C7000000000000011B
+t1315901639
+s283
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m
+c000000004E6F10C700000000000005F5
+t1315901639
+s1525
+i"nsdateViewController.h"
+
+N/Users/sandeep/Documents/nsdate/MainWindow.xib
+c000000004E6F0FAE0000000000004E1D
+t1315901358
+s19997
+
+N/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app
+t1315901641
+s238
+
+N/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app.dSYM
+t1315901641
+s102
+
+N/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/Info.plist
+t1315901639
+s587
+
+N/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/MainWindow.nib
+t1315901639
+s1121
+
+N/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/PkgInfo
+t1315901639
+s8
+
+N/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate
+t1315901640
+s17352
+
+N/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdateViewController.nib
+t1315901639
+s1740
+
+N/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/main.o
+t1315901640
+s6288
+
+N/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdate.LinkFileList
+c000000004E6F10C70000000000000170
+t1315901639
+s368
+
+N/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateAppDelegate.o
+t1315901640
+s50924
+
+N/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateViewController.o
+t1315901640
+s39180
+
+N/Users/sandeep/Documents/nsdate/main.m
+c000000004E6F0FAE0000000000000164
+t1315901358
+s356
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/nsdate/nsdateViewController.xib
+c000000004E6F10C40000000000004B48
+t1315901636
+s19272
+
+N/Users/sandeep/Documents/nsdate/nsdate_Prefix.pch
+c000000004E6F0FAE00000000000000B5
+t1315901358
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch.gch
+t1315901640
+s15453392
+
+Nnsdate-Info.plist
+c000000004E6F0FAE000000000000038D
+t1315901358
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337594439#337594439#0(0"0(0#1#0"8612656128#0"0#
+
+CCompileC build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/main.o /Users/sandeep/Documents/nsdate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337594440.775014
+e337594440.851875
+r1
+xCompileC
+xbuild/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/nsdate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/sandeep/Documents/nsdate/main.m337594440#337594440#0(0"0(0#0#38"/Users/sandeep/Documents/nsdate/main.m8611851616#1817"    cd /Users/sandeep/Documents/nsdate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-generated-files.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-own-target-headers.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-all-target-headers.hmap -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-project-headers.hmap -F/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator -I/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources/i386 -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch -c /Users/sandeep/Documents/nsdate/main.m -o /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/main.o0#
+
+CCompileC build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateAppDelegate.o /Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337594440.776299
+e337594440.889104
+r1
+xCompileC
+xbuild/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateAppDelegate.o
+x/Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.m337594440#337594440#0(0"0(0#0#59"/Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.m8612495840#1851"    cd /Users/sandeep/Documents/nsdate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-generated-files.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-own-target-headers.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-all-target-headers.hmap -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-project-headers.hmap -F/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator -I/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources/i386 -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch -c /Users/sandeep/Documents/nsdate/Classes/nsdateAppDelegate.m -o /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateAppDelegate.o0#
+
+CCompileC build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateViewController.o /Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337594440.852008
+e337594440.968128
+r1
+xCompileC
+xbuild/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateViewController.o
+x/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m: In function '-[nsdateViewController print]':
+o/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m:16: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type
+lSLF07#2@70"Compile /Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m337594440#337594440#0(333"/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m: In function '-[nsdateViewController print]':/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m:16: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type1(22@147"Incompatible Objective-C types 'struct NSDate *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type337594440#109#224#0(6@62"/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m337594439#16#0#16#0#0"0(0#0#62"/Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m8612042176#1857"    cd /Users/sandeep/Documents/nsdate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-generated-files.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-own-target-headers.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-all-target-headers.hmap -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-project-headers.hmap -F/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator -I/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources/i386 -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch -c /Users/sandeep/Documents/nsdate/Classes/nsdateViewController.m -o /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdateViewController.o0#
+
+CCompileXIB /Users/sandeep/Documents/nsdate/MainWindow.xib
+s337594439.089590
+e337594439.635868
+r1
+xCompileXIB
+x/Users/sandeep/Documents/nsdate/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib337594439#337594439#0(0"0(0#0#46"/Users/sandeep/Documents/nsdate/MainWindow.xib8612100480#548"    cd /Users/sandeep/Documents/nsdate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/MainWindow.nib /Users/sandeep/Documents/nsdate/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/nsdate/nsdateViewController.xib
+s337594439.090434
+e337594439.772959
+r1
+xCompileXIB
+x/Users/sandeep/Documents/nsdate/nsdateViewController.xib
+lSLF07#2@35"CompileXIB nsdateViewController.xib337594439#337594439#0(0"0(0#0#56"/Users/sandeep/Documents/nsdate/nsdateViewController.xib8611620096#568"    cd /Users/sandeep/Documents/nsdate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdateViewController.nib /Users/sandeep/Documents/nsdate/nsdateViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app.dSYM /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate
+s337594440.992298
+e337594441.008709
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app.dSYM
+x/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/nsdate.app.dSYM build/Debug-iphonesimulator/nsdate.app/nsdate337594440#337594441#0(0"0(0#0#77"/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate8611377248#359"    cd /Users/sandeep/Documents/nsdate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate -o /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app.dSYM0#
+
+CLd /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate normal i386
+s337594440.968216
+e337594440.992196
+r1
+xLd
+x/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate
+xnormal
+xi386
+lSLF07#2@82"Link /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate337594440#337594440#0(0"0(0#0#0"8611747552#860"    cd /Users/sandeep/Documents/nsdate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator -F/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator -filelist /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/Objects-normal/i386/nsdate.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/nsdate0#
+
+CProcessInfoPlistFile /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/Info.plist nsdate-Info.plist
+s337594439.084881
+e337594439.089503
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/Info.plist
+xnsdate-Info.plist
+lSLF07#2@25"Process nsdate-Info.plist337594439#337594439#0(0"0(0#0#49"/Users/sandeep/Documents/nsdate/nsdate-Info.plist8610104096#455"    cd /Users/sandeep/Documents/nsdate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility nsdate-Info.plist -genpkginfo /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch.gch nsdate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337594439.773085
+e337594440.774793
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch.gch
+xnsdate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile nsdate_Prefix.pch337594439#337594440#0(0"0(0#0#49"/Users/sandeep/Documents/nsdate/nsdate_Prefix.pch8614121344#1717"    cd /Users/sandeep/Documents/nsdate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-generated-files.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-own-target-headers.hmap -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-all-target-headers.hmap -iquote /Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/nsdate-project-headers.hmap -F/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator -I/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources/i386 -I/Users/sandeep/Documents/nsdate/build/nsdate.build/Debug-iphonesimulator/nsdate.build/DerivedSources -c /Users/sandeep/Documents/nsdate/nsdate_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsdate_Prefix-fvwrohvarvtxuucxtztqnuzqalgu/nsdate_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app
+s337594441.008795
+e337594441.011842
+r1
+xTouch
+x/Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app
+lSLF07#2@76"Touch /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app337594441#337594441#0(0"0(0#0#0"8611391712#263"    cd /Users/sandeep/Documents/nsdate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Documents/nsdate/build/Debug-iphonesimulator/nsdate.app0#
+

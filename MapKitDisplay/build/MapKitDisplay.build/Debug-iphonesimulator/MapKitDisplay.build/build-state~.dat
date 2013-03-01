@@ -1,0 +1,329 @@
+TMapKitDisplay
+v7
+r0
+t300631364.973747
+cCheck dependencies
+cProcessInfoPlistFile /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/Info.plist MapKitDisplay-Info.plist
+cCompileXIB /Users/Amrita/Documents/MapKitDisplay/MainWindow.xib
+cCompileXIB /Users/Amrita/Documents/MapKitDisplay/MapKitDisplayViewController.xib
+cProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch.gch MapKitDisplay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/main.o /Users/Amrita/Documents/MapKitDisplay/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayAppDelegate.o /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayViewController.o /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/DisplayMap.o /Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C120D340000000000000132
+t1276251444
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C047247000000000000027E
+t1275359815
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.h
+c000000004C3B0C750000000000000205
+t1278938229
+s517
+i<Foundation/Foundation.h>
+i<MapKit/MKAnnotation.h>
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.m
+c000000004C3B0DBB0000000000000133
+t1278938555
+s307
+i"DisplayMap.h"
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMapViewCOntroller.h
+c000000004C3B05640000000000000103
+t1278936420
+s259
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMapViewCOntroller.m
+c000000004C3B056400000000000005C3
+t1278936420
+s1475
+i"DisplayMapViewCOntroller.h"
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMapViewCOntroller.xib
+c000000004C3B05640000000000001883
+t1278936420
+s6275
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.h
+c000000004C3B0484000000000000020C
+t1278936196
+s524
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.m
+c000000004C3B04840000000000000AB2
+t1278936196
+s2738
+i"MapKitDisplayAppDelegate.h"
+i"MapKitDisplayViewController.h"
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.h
+c000000004C3B0C340000000000000192
+t1278938164
+s402
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m
+c000000004C3B0BFC0000000000000B12
+t1278938108
+s2834
+i"MapKitDisplayViewController.h"
+i"DisplayMap.h"
+
+N/Users/Amrita/Documents/MapKitDisplay/MainWindow.xib
+c000000004C3B04840000000000004E71
+t1278936196
+s20081
+
+N/Users/Amrita/Documents/MapKitDisplay/MapKitDisplayViewController.xib
+c000000004C3B0D12000000000000426B
+t1278938386
+s17003
+
+N/Users/Amrita/Documents/MapKitDisplay/MapKitDisplay_Prefix.pch
+c000000004C3B048400000000000000C3
+t1278936196
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app
+t2
+s0
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app.dSYM
+t2
+s0
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/DisplayMapViewCOntroller.nib
+t2
+s0
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/Info.plist
+t1278938556
+s615
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/MainWindow.nib
+t1278938560
+s1135
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/MapKitDisplay
+t2
+s0
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/MapKitDisplayViewController.nib
+t1278938560
+s1183
+
+N/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/PkgInfo
+t1278938556
+s8
+
+N/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/DisplayMap.o
+t1278938564
+s12148
+
+N/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/DisplayMapViewCOntroller.o
+t2
+s0
+
+N/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplay.LinkFileList
+c000000004C3B0DBC0000000000000245
+t1278938556
+s581
+
+N/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayAppDelegate.o
+t1278938564
+s48928
+
+N/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayViewController.o
+t2
+s0
+
+N/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/main.o
+t1278938564
+s6300
+
+N/Users/Amrita/Documents/MapKitDisplay/main.m
+c000000004C3B04840000000000000178
+t1278936196
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch.gch
+t1278938564
+s15232016
+
+NMapKitDisplay-Info.plist
+c000000004C3B0484000000000000038D
+t1278936196
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300631356#300631356#0(0"0(0#1#0"8615502528#0"0#
+
+CCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/DisplayMap.o /Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300631364.910461
+e300631364.973649
+r1
+xCompileC
+xbuild/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/DisplayMap.o
+x/Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.m300631364#300631364#0(0"0(0#0#58"/Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.m5561791008731393024#2030"    cd /Users/Amrita/Documents/MapKitDisplay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-generated-files.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-own-target-headers.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-all-target-headers.hmap -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-project-headers.hmap -F/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator -I/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources/i386 -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch -c /Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMap.m -o /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/DisplayMap.o0#
+
+CCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/DisplayMapViewCOntroller.o /Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMapViewCOntroller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayAppDelegate.o /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300631364.640922
+e300631364.910381
+r1
+xCompileC
+xbuild/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayAppDelegate.o
+x/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.m300631364#300631364#0(0"0(0#0#72"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.m8607502112#2058"    cd /Users/Amrita/Documents/MapKitDisplay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-generated-files.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-own-target-headers.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-all-target-headers.hmap -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-project-headers.hmap -F/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator -I/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources/i386 -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch -c /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayAppDelegate.m -o /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayAppDelegate.o0#
+
+CCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayViewController.o /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300631364.707444
+e300631364.910186
+r0
+xCompileC
+xbuild/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayViewController.o
+x/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m: In function '-[MapKitDisplayViewController viewDidLoad]':
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:49: warning: class 'MapKitDisplayViewController' does not implement the 'MKMapViewDelegate' protocol
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: 'MyPos' undeclared (first use in this function)
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: (Each undeclared identifier is reported only once
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: for each function it appears in.)
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: 'ann' undeclared (first use in this function)
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m: In function '-[MapKitDisplayViewController mapView:viewForAnnotation:]':
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:66: error: stray '\342' in program
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:66: error: stray '\220' in program
+o/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:66: error: stray '\243' in program
+lSLF07#2@83"Compile /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m300631364#300631364#0(1321"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m: In function '-[MapKitDisplayViewController viewDidLoad]':/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:49: warning: class 'MapKitDisplayViewController' does not implement the 'MKMapViewDelegate' protocol/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: 'MyPos' undeclared (first use in this function)/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: (Each undeclared identifier is reported only once/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: for each function it appears in.)/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:51: error: 'ann' undeclared (first use in this function)/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m: In function '-[MapKitDisplayViewController mapView:viewForAnnotation:]':/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:66: error: stray '\342' in program/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:66: error: stray '\220' in program/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m:66: error: stray '\243' in program6(22@87"Class 'MapKitDisplayViewController' does not implement the 'MKMapViewDelegate' protocol300631364#135#177#0(6@75"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m300630908#49#0#49#0#45"class '*' does not implement the '*' protocol0(4@47"'MyPos' undeclared (first use in this function)300631364#312#135#0(6@75"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m300630908#51#0#51#0#43"'*' undeclared (first use in this function)0(4@45"'ann' undeclared (first use in this function)300631364#705#133#0(6@75"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m300630908#51#0#51#0#43"'*' undeclared (first use in this function)0(4@23"Stray '\342' in program300631364#988#111#0(6@75"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m300630908#66#0#66#0#20"stray '*' in program0(4@23"Stray '\220' in program300631364#1099#111#0(6@75"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m300630908#66#0#66#0#20"stray '*' in program0(4@23"Stray '\243' in program300631364#1210#111#0(6@75"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m300630908#66#0#66#0#20"stray '*' in program0(0#0#75"/Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m8614641344#2064"    cd /Users/Amrita/Documents/MapKitDisplay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-generated-files.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-own-target-headers.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-all-target-headers.hmap -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-project-headers.hmap -F/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator -I/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources/i386 -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch -c /Users/Amrita/Documents/MapKitDisplay/Classes/MapKitDisplayViewController.m -o /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/MapKitDisplayViewController.o1#
+
+CCompileC build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/main.o /Users/Amrita/Documents/MapKitDisplay/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300631364.628514
+e300631364.707339
+r1
+xCompileC
+xbuild/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/main.o
+x/Users/Amrita/Documents/MapKitDisplay/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Amrita/Documents/MapKitDisplay/main.m300631364#300631364#0(0"0(0#0#44"/Users/Amrita/Documents/MapKitDisplay/main.m8603160672#2010"    cd /Users/Amrita/Documents/MapKitDisplay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-generated-files.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-own-target-headers.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-all-target-headers.hmap -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-project-headers.hmap -F/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator -I/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources/i386 -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch -c /Users/Amrita/Documents/MapKitDisplay/main.m -o /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Amrita/Documents/MapKitDisplay/Classes/DisplayMapViewCOntroller.xib
+r0
+
+CCompileXIB /Users/Amrita/Documents/MapKitDisplay/MainWindow.xib
+s300631356.251279
+e300631360.146820
+r1
+xCompileXIB
+x/Users/Amrita/Documents/MapKitDisplay/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300631356#300631360#0(0"0(0#0#52"/Users/Amrita/Documents/MapKitDisplay/MainWindow.xib8615199712#573"    cd /Users/Amrita/Documents/MapKitDisplay    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/MainWindow.nib /Users/Amrita/Documents/MapKitDisplay/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Amrita/Documents/MapKitDisplay/MapKitDisplayViewController.xib
+s300631356.281957
+e300631360.550074
+r1
+xCompileXIB
+x/Users/Amrita/Documents/MapKitDisplay/MapKitDisplayViewController.xib
+lSLF07#2@42"CompileXIB MapKitDisplayViewController.xib300631356#300631360#0(0"0(0#0#69"/Users/Amrita/Documents/MapKitDisplay/MapKitDisplayViewController.xib8615027424#607"    cd /Users/Amrita/Documents/MapKitDisplay    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/MapKitDisplayViewController.nib /Users/Amrita/Documents/MapKitDisplay/MapKitDisplayViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app.dSYM /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/MapKitDisplay
+r0
+
+CLd /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/MapKitDisplay normal i386
+r0
+
+CProcessInfoPlistFile /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/Info.plist MapKitDisplay-Info.plist
+s300631356.216327
+e300631356.251185
+r1
+xProcessInfoPlistFile
+x/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/Info.plist
+xMapKitDisplay-Info.plist
+lSLF07#2@32"Process MapKitDisplay-Info.plist300631356#300631356#0(0"0(0#0#62"/Users/Amrita/Documents/MapKitDisplay/MapKitDisplay-Info.plist8615947104#494"    cd /Users/Amrita/Documents/MapKitDisplay    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapKitDisplay-Info.plist -genpkginfo /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app/Info.plist0#
+
+CProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch.gch MapKitDisplay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300631360.550218
+e300631364.628342
+r1
+xProcessPCH
+x/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch.gch
+xMapKitDisplay_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile MapKitDisplay_Prefix.pch300631360#300631364#0(0"0(0#0#62"/Users/Amrita/Documents/MapKitDisplay/MapKitDisplay_Prefix.pch8614964960#1897"    cd /Users/Amrita/Documents/MapKitDisplay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-generated-files.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-own-target-headers.hmap -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-all-target-headers.hmap -iquote /Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/MapKitDisplay-project-headers.hmap -F/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator -I/Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources/i386 -I/Users/Amrita/Documents/MapKitDisplay/build/MapKitDisplay.build/Debug-iphonesimulator/MapKitDisplay.build/DerivedSources -c /Users/Amrita/Documents/MapKitDisplay/MapKitDisplay_Prefix.pch -o /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitDisplay_Prefix-dskaytskutisihdrdnnfqomhqvoj/MapKitDisplay_Prefix.pch.gch0#
+
+CTouch /Users/Amrita/Documents/MapKitDisplay/build/Debug-iphonesimulator/MapKitDisplay.app
+r0
+

@@ -1,0 +1,63 @@
+TSegment
+v7
+r1
+
+N/Users/sandeep/Downloads/Segment/Classes/abc.xib
+c000000004A926F5400000000000016F8
+t1251110740
+s5880
+
+N/Users/sandeep/Downloads/Segment/MainWindow.xib
+c000000004A8FC6B10000000000002415
+t1250936497
+s9237
+
+N/Users/sandeep/Downloads/Segment/SegmentViewController.xib
+c000000004A936CA50000000000002491
+t1251175589
+s9361
+
+N/Users/sandeep/Downloads/Segment/build/Debug/Segment.app
+t2
+s0
+
+N/Users/sandeep/Downloads/Segment/build/Debug/Segment.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sandeep/Downloads/Segment/build/Debug/Segment.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sandeep/Downloads/Segment/build/Debug/Segment.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/sandeep/Downloads/Segment/build/Debug/Segment.app/Contents/Resources/SegmentViewController.nib
+t2
+s0
+
+N/Users/sandeep/Downloads/Segment/build/Debug/Segment.app/Contents/Resources/abc.nib
+t2
+s0
+
+NSegment-Info.plist
+c000000004A8FC6B1000000000000038D
+t1250936497
+s909
+
+CCompileXIB /Users/sandeep/Downloads/Segment/Classes/abc.xib
+r0
+
+CCompileXIB /Users/sandeep/Downloads/Segment/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Downloads/Segment/SegmentViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Downloads/Segment/build/Debug/Segment.app/Contents/Info.plist Segment-Info.plist
+r0
+
+CTouch /Users/sandeep/Downloads/Segment/build/Debug/Segment.app
+r0
+

@@ -1,0 +1,6 @@
+/Users/julius/0AnimatedPaintMP/Xtools/Tests/007-save/MyProgData.m: In function '-[MyProgData initWithCoder:]':
+/Users/julius/0AnimatedPaintMP/Xtools/Tests/007-save/MyProgData.m:14: error: 'myNumber' undeclared (first use in this function)
+/Users/julius/0AnimatedPaintMP/Xtools/Tests/007-save/MyProgData.m:14: error: (Each undeclared identifier is reported only once
+/Users/julius/0AnimatedPaintMP/Xtools/Tests/007-save/MyProgData.m:14: error: for each function it appears in.)
+/Users/julius/0AnimatedPaintMP/Xtools/Tests/007-save/MyProgData.m: In function '-[MyProgData encodeWithCoder:]':
+/Users/julius/0AnimatedPaintMP/Xtools/Tests/007-save/MyProgData.m:29: error: 'myNumber' undeclared (first use in this function)

@@ -1,0 +1,204 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 557}";
+		};
+	};
+	1D3623250D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1235}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 418}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* IndainRailWayPNRStatus */ = {
+		activeExec = 0;
+		executables = (
+			2C0541871516EC19009F9F8F /* IndainRailWayPNRStatus */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 273}}";
+			sepNavSelRange = "{0, 538}";
+			sepNavVisRange = "{3, 535}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1014}}";
+			sepNavSelRange = "{0, 2059}";
+			sepNavVisRange = "{0, 629}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2C0541871516EC19009F9F8F /* IndainRailWayPNRStatus */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IndainRailWayPNRStatus */;
+		codeSenseManager = 2C05419A1516EC3F009F9F8F /* Code sense */;
+		executables = (
+			2C0541871516EC19009F9F8F /* IndainRailWayPNRStatus */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353823770;
+			PBXWorkspaceStateSaveDate = 353823770;
+		};
+		perUserProjectItems = {
+			2C0541AB1516ED31009F9F8F /* PBXTextBookmark */ = 2C0541AB1516ED31009F9F8F /* PBXTextBookmark */;
+			2C0541AC1516ED31009F9F8F /* PBXTextBookmark */ = 2C0541AC1516ED31009F9F8F /* PBXTextBookmark */;
+			2C0541AD1516ED31009F9F8F /* PBXTextBookmark */ = 2C0541AD1516ED31009F9F8F /* PBXTextBookmark */;
+			2C0541AE1516ED31009F9F8F /* PBXTextBookmark */ = 2C0541AE1516ED31009F9F8F /* PBXTextBookmark */;
+			2C0541AF1516ED31009F9F8F /* PBXTextBookmark */ = 2C0541AF1516ED31009F9F8F /* PBXTextBookmark */;
+			2C0541B01516ED31009F9F8F /* PBXBookmark */ = 2C0541B01516ED31009F9F8F /* PBXBookmark */;
+			2C0541B11516ED31009F9F8F /* PBXTextBookmark */ = 2C0541B11516ED31009F9F8F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2C0541991516EC3F009F9F8F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C0541871516EC19009F9F8F /* IndainRailWayPNRStatus */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IndainRailWayPNRStatus;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2C0541991516EC3F009F9F8F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2C05419A1516EC3F009F9F8F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2C0541AB1516ED31009F9F8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.h */;
+		name = "IndainRailWayPNRStatusAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+	2C0541AC1516ED31009F9F8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.m */;
+		name = "IndainRailWayPNRStatusAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	2C0541AD1516ED31009F9F8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.h */;
+		name = "IndainRailWayPNRStatusViewController.h: 1";
+		rLen = 538;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 3;
+	};
+	2C0541AE1516ED31009F9F8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.m */;
+		name = "IndainRailWayPNRStatusViewController.m: 1";
+		rLen = 2059;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 629;
+		vrLoc = 0;
+	};
+	2C0541AF1516ED31009F9F8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 821C789F150B2C8700304526 /* PNRStatusDetailView.h */;
+		name = "PNRStatusDetailView.h: 1";
+		rLen = 1112;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 751;
+		vrLoc = 0;
+	};
+	2C0541B01516ED31009F9F8F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 821C78A0150B2C8700304526 /* PNRStatusDetailView.m */;
+	};
+	2C0541B11516ED31009F9F8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 821C78A0150B2C8700304526 /* PNRStatusDetailView.m */;
+		name = "PNRStatusDetailView.m: 1";
+		rLen = 5060;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	821C789F150B2C8700304526 /* PNRStatusDetailView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 403}}";
+			sepNavSelRange = "{0, 1112}";
+			sepNavVisRange = "{0, 751}";
+		};
+	};
+	821C78A0150B2C8700304526 /* PNRStatusDetailView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1976}}";
+			sepNavSelRange = "{0, 5060}";
+			sepNavVisRange = "{0, 717}";
+		};
+	};
+}

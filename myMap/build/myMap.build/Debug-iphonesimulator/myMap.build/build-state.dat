@@ -1,0 +1,493 @@
+TmyMap
+v7
+r0
+t357197971.937732
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/Info.plist myMap-Info.plist
+cCompileXIB /Users/sandeep/Desktop/myMap/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/myMap/myMapViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch.gch myMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/myMap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o /Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o /Users/sandeep/Desktop/myMap/Classes/myMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app.dSYM /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+cTouch /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.h
+c000000004F745B8300000000000001D0
+t1333025667
+s464
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.m
+c000000004C5BEB170000000000000A7E
+t1281092375
+s2686
+i"myMapAppDelegate.h"
+i"myMapViewController.h"
+
+N/Users/sandeep/Desktop/myMap/Classes/myMapViewController.h
+c000000004C5BEE280000000000000188
+t1281093160
+s392
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/sandeep/Desktop/myMap/Classes/myMapViewController.m
+c000000004F9A312C0000000000000863
+t1335505196
+s2147
+i"myMapViewController.h"
+
+N/Users/sandeep/Desktop/myMap/MainWindow.xib
+c000000004C5BEB170000000000004E11
+t1281092375
+s19985
+
+N/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app
+t1335505171
+s238
+
+N/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app.dSYM
+t1335505171
+s102
+
+N/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/Info.plist
+t1332764342
+s583
+
+N/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/MainWindow.nib
+t1332764344
+s1119
+
+N/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/PkgInfo
+t1332764342
+s8
+
+N/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+t1335505171
+s17788
+
+N/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMapViewController.nib
+t1332764344
+s1185
+
+N/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o
+t1333003288
+s6284
+
+N/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMap.LinkFileList
+c000000004F740413000000000000015F
+t1333003283
+s351
+
+N/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o
+t1333518136
+s51572
+
+N/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o
+t1335505171
+s45988
+
+N/Users/sandeep/Desktop/myMap/main.m
+c000000004C5BEB170000000000000164
+t1281092375
+s356
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/myMap/myMapViewController.xib
+c000000004C5BED7B0000000000004252
+t1281092987
+s16978
+
+N/Users/sandeep/Desktop/myMap/myMap_Prefix.pch
+c000000004C5BEB1700000000000000B3
+t1281092375
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/vanita/Downloads/myMap/Classes/myMapAppDelegate.h
+c000000004C5BEB1700000000000001D0
+t1281092375
+s464
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Downloads/myMap/Classes/myMapAppDelegate.m
+c000000004C5BEB170000000000000A7E
+t1281092375
+s2686
+i"myMapAppDelegate.h"
+i"myMapViewController.h"
+
+N/Users/vanita/Downloads/myMap/Classes/myMapViewController.h
+c000000004C5BEE280000000000000188
+t1281093160
+s392
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/vanita/Downloads/myMap/Classes/myMapViewController.m
+c000000004F70619B000000000000085B
+t1332765083
+s2139
+i"myMapViewController.h"
+
+N/Users/vanita/Downloads/myMap/MainWindow.xib
+c000000004C5BEB170000000000004E11
+t1281092375
+s19985
+
+N/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app
+t1332765084
+s238
+
+N/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app.dSYM
+t1332765084
+s102
+
+N/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/Info.plist
+t1332764342
+s583
+
+N/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/MainWindow.nib
+t1332764344
+s1119
+
+N/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/PkgInfo
+t1332764342
+s8
+
+N/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+t1332765084
+s17796
+
+N/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMapViewController.nib
+t1332764344
+s1185
+
+N/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o
+t1332764345
+s6388
+
+N/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMap.LinkFileList
+c000000004F705EB60000000000000162
+t1332764342
+s354
+
+N/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o
+t1332764345
+s51784
+
+N/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o
+t1332765084
+s46324
+
+N/Users/vanita/Downloads/myMap/main.m
+c000000004C5BEB170000000000000164
+t1281092375
+s356
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Downloads/myMap/myMapViewController.xib
+c000000004C5BED7B0000000000004252
+t1281092987
+s16978
+
+N/Users/vanita/Downloads/myMap/myMap_Prefix.pch
+c000000004C5BEB1700000000000000B3
+t1281092375
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/myMap_Prefix-acyudrbqwtucmgfwoiecyyktwzgb/myMap_Prefix.pch.gch
+t1332764345
+s15461584
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch.gch
+t1333003287
+s15453392
+
+NmyMap-Info.plist
+c000000004C5BEB17000000000000038D
+t1281092375
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies357197971#357197971#0(0"0(0#1#0"8601994208#0"0#
+
+CCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/myMap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354696088.442361
+e354696088.768549
+r1
+xCompileC
+xbuild/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/myMap/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/sandeep/Desktop/myMap/main.m354696088#354696088#0(0"0(0#0#35"/Users/sandeep/Desktop/myMap/main.m8601936608#1764"    cd /Users/sandeep/Desktop/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch -c /Users/sandeep/Desktop/myMap/main.m -o /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o /Users/vanita/Downloads/myMap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354457145.671580
+e354457145.814672
+r1
+xCompileC
+xbuild/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o
+x/Users/vanita/Downloads/myMap/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/vanita/Downloads/myMap/main.m354457145#354457145#0(0"0(0#0#36"/Users/vanita/Downloads/myMap/main.m8614281984#1879"    cd /Users/vanita/Downloads/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator -I/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/myMap_Prefix-acyudrbqwtucmgfwoiecyyktwzgb/myMap_Prefix.pch -c /Users/vanita/Downloads/myMap/main.m -o /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o /Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355210930.410362
+e355210936.595696
+r1
+xCompileC
+xbuild/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o
+x/Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.m355210930#355210936#0(0"0(0#0#55"/Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.m8602989312#1796"    cd /Users/sandeep/Desktop/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch -c /Users/sandeep/Desktop/myMap/Classes/myMapAppDelegate.m -o /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o0#
+
+CCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o /Users/vanita/Downloads/myMap/Classes/myMapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354457145.673257
+e354457145.946778
+r1
+xCompileC
+xbuild/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o
+x/Users/vanita/Downloads/myMap/Classes/myMapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/vanita/Downloads/myMap/Classes/myMapAppDelegate.m354457145#354457145#0(0"0(0#0#56"/Users/vanita/Downloads/myMap/Classes/myMapAppDelegate.m8611827904#1911"    cd /Users/vanita/Downloads/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator -I/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/myMap_Prefix-acyudrbqwtucmgfwoiecyyktwzgb/myMap_Prefix.pch -c /Users/vanita/Downloads/myMap/Classes/myMapAppDelegate.m -o /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapAppDelegate.o0#
+
+CCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o /Users/sandeep/Desktop/myMap/Classes/myMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357197971.026537
+e357197971.700258
+r1
+xCompileC
+xbuild/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o
+x/Users/sandeep/Desktop/myMap/Classes/myMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sandeep/Desktop/myMap/Classes/myMapViewController.m357197971#357197971#0(0"0(0#0#58"/Users/sandeep/Desktop/myMap/Classes/myMapViewController.m8029405159545332736#1802"    cd /Users/sandeep/Desktop/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch -c /Users/sandeep/Desktop/myMap/Classes/myMapViewController.m -o /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o0#
+
+CCompileC build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o /Users/vanita/Downloads/myMap/Classes/myMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354457883.853762
+e354457884.459083
+r1
+xCompileC
+xbuild/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o
+x/Users/vanita/Downloads/myMap/Classes/myMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/vanita/Downloads/myMap/Classes/myMapViewController.m354457883#354457884#0(0"0(0#0#59"/Users/vanita/Downloads/myMap/Classes/myMapViewController.m8602434944#1917"    cd /Users/vanita/Downloads/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator -I/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/myMap_Prefix-acyudrbqwtucmgfwoiecyyktwzgb/myMap_Prefix.pch -c /Users/vanita/Downloads/myMap/Classes/myMapViewController.m -o /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMapViewController.o0#
+
+CCompileXIB /Users/sandeep/Desktop/myMap/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/myMap/myMapViewController.xib
+r0
+
+CCompileXIB /Users/vanita/Downloads/myMap/MainWindow.xib
+s354457142.957371
+e354457144.069327
+r1
+xCompileXIB
+x/Users/vanita/Downloads/myMap/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354457142#354457144#0(0"0(0#0#44"/Users/vanita/Downloads/myMap/MainWindow.xib8599563456#645"    cd /Users/vanita/Downloads/myMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/MainWindow.nib /Users/vanita/Downloads/myMap/MainWindow.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/vanita/Downloads/myMap/myMapViewController.xib
+s354457142.997026
+e354457144.161201
+r1
+xCompileXIB
+x/Users/vanita/Downloads/myMap/myMapViewController.xib
+lSLF07#2@34"CompileXIB myMapViewController.xib354457142#354457144#0(0"0(0#0#53"/Users/vanita/Downloads/myMap/myMapViewController.xib8599285600#663"    cd /Users/vanita/Downloads/myMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMapViewController.nib /Users/vanita/Downloads/myMap/myMapViewController.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app.dSYM /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+s357197971.867553
+e357197971.934597
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app.dSYM
+x/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/myMap.app.dSYM build/Debug-iphonesimulator/myMap.app/myMap357197971#357197971#0(0"0(0#0#72"/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap8603869696#347"    cd /Users/sandeep/Desktop/myMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap -o /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app.dSYM0#
+
+CGenerateDSYMFile /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app.dSYM /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+s354457884.673521
+e354457884.699166
+r1
+xGenerateDSYMFile
+x/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app.dSYM
+x/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/myMap.app.dSYM build/Debug-iphonesimulator/myMap.app/myMap354457884#354457884#0(0"0(0#0#73"/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap8612267040#428"    cd /Users/vanita/Downloads/myMap    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/dsymutil /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap -o /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap normal i386
+s357197971.700450
+e357197971.867461
+r1
+xLd
+x/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+xnormal
+xi386
+lSLF07#2@77"Link /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap357197971#357197971#0(0"0(0#0#0"8609142304#858"    cd /Users/sandeep/Desktop/myMap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMap.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/myMap0#
+
+CLd /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap normal i386
+s354457884.459171
+e354457884.673423
+r1
+xLd
+x/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap
+xnormal
+xi386
+lSLF07#2@78"Link /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap354457884#354457884#0(0"0(0#0#0"8602360480#967"    cd /Users/vanita/Downloads/myMap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator -F/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator -filelist /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/Objects-normal/i386/myMap.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/myMap0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app/Info.plist myMap-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/Info.plist myMap-Info.plist
+s354457142.913051
+e354457142.957276
+r1
+xProcessInfoPlistFile
+x/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/Info.plist
+xmyMap-Info.plist
+lSLF07#2@24"Process myMap-Info.plist354457142#354457142#0(0"0(0#0#46"/Users/vanita/Downloads/myMap/myMap-Info.plist8600269216#498"    cd /Users/vanita/Downloads/myMap    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myMap-Info.plist -genpkginfo /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app/Info.plist0#
+
+CProcessPCH /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/myMap_Prefix-acyudrbqwtucmgfwoiecyyktwzgb/myMap_Prefix.pch.gch myMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354457144.161324
+e354457145.670661
+r1
+xProcessPCH
+x/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/myMap_Prefix-acyudrbqwtucmgfwoiecyyktwzgb/myMap_Prefix.pch.gch
+xmyMap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile myMap_Prefix.pch354457144#354457145#0(0"0(0#0#46"/Users/vanita/Downloads/myMap/myMap_Prefix.pch8601539936#1782"    cd /Users/vanita/Downloads/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator -I/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/vanita/Downloads/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -c /Users/vanita/Downloads/myMap/myMap_Prefix.pch -o /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/myMap_Prefix-acyudrbqwtucmgfwoiecyyktwzgb/myMap_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch.gch myMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354696083.570497
+e354696088.442223
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch.gch
+xmyMap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile myMap_Prefix.pch354696083#354696088#0(0"0(0#0#45"/Users/sandeep/Desktop/myMap/myMap_Prefix.pch8596072576#1668"    cd /Users/sandeep/Desktop/myMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-generated-files.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-own-target-headers.hmap -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-all-target-headers.hmap -iquote /Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/myMap-project-headers.hmap -F/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources/i386 -I/Users/sandeep/Desktop/myMap/build/myMap.build/Debug-iphonesimulator/myMap.build/DerivedSources -c /Users/sandeep/Desktop/myMap/myMap_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/myMap_Prefix-fyigucshlrwnlpdyrutalyfzuyha/myMap_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app
+s357197971.934682
+e357197971.937682
+r1
+xTouch
+x/Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app
+lSLF07#2@72"Touch /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app357197971#357197971#0(0"0(0#0#0"8602516928#256"    cd /Users/sandeep/Desktop/myMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/myMap/build/Debug-iphonesimulator/myMap.app0#
+
+CTouch /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app
+s354457884.699249
+e354457884.710485
+r1
+xTouch
+x/Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app
+lSLF07#2@73"Touch /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app354457884#354457884#0(0"0(0#0#0"8612002624#310"    cd /Users/vanita/Downloads/myMap    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vanita/Downloads/myMap/build/Debug-iphonesimulator/myMap.app0#
+

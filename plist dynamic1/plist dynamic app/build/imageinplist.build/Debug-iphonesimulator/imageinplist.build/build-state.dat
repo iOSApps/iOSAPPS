@@ -1,0 +1,869 @@
+Timageinplist
+v7
+r0
+t350891726.116886
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/Info.plist" imageinplist-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/imageinplistViewController.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.xib"
+cCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/t1.plist" t1.plist
+cCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/t2.plist" t2.plist
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch.gch imageinplist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/imageinplist/Classes/first.h
+c000000004DC78EA800000000000001EB
+t1304923816
+s491
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imageinplist/Classes/first.m
+c000000004ECE124D0000000000000D23
+t1322127949
+s3363
+i"first.h"
+
+N/Users/sandeep/Desktop/obj/imageinplist/Classes/first.xib
+c000000004DC790C20000000000003A2A
+t1304924354
+s14890
+
+N/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistAppDelegate.h
+c000000004DC23F2800000000000001F9
+t1304575784
+s505
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistAppDelegate.m
+c000000004DC23F280000000000000AAA
+t1304575784
+s2730
+i"imageinplistAppDelegate.h"
+i"imageinplistViewController.h"
+
+N/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistViewController.h
+c000000004DC25AF90000000000000184
+t1304582905
+s388
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistViewController.m
+c000000004ED0B9000000000000000900
+t1322301696
+s2304
+i"imageinplistViewController.h"
+i"first.h"
+
+N/Users/sandeep/Desktop/obj/imageinplist/MainWindow.xib
+c000000004DC23F280000000000004E65
+t1304575784
+s20069
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app
+t1322731413
+s340
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM
+t1322731413
+s102
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/Info.plist
+t1304576988
+s611
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/MainWindow.nib
+t1304576993
+s1133
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/PkgInfo
+t1304576988
+s8
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/first.nib
+t1304924356
+s764
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+t1322731413
+s25600
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplistViewController.nib
+t1304576993
+s795
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/t1.plist
+t1322129106
+s42
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o
+t1322731413
+s54656
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplist.LinkFileList
+c000000004ED74793000000000000023E
+t1322731411
+s574
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o
+t1322731413
+s51260
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o
+t1322731413
+s45784
+
+N/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o
+t1322731412
+s6304
+
+N/Users/sandeep/Desktop/obj/imageinplist/imageinplistViewController.xib
+c000000004DC23F290000000000001A59
+t1304575785
+s6745
+
+N/Users/sandeep/Desktop/obj/imageinplist/imageinplist_Prefix.pch
+c000000004DC23F2900000000000000C1
+t1304575785
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imageinplist/main.m
+c000000004DC23F29000000000000016A
+t1304575785
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imageinplist/t1.plist
+c000000004ECE16D200000000000000B6
+t1322129106
+s182
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.h
+c000000004F38954E000000000000021F
+t1329108302
+s543
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.m
+c000000004F39F6970000000000000DCA
+t1329198743
+s3530
+i"first.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.xib
+c000000004DC790C20000000000003A2A
+t1304924354
+s14890
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.h
+c000000004DC23F2800000000000001F9
+t1304575784
+s505
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.m
+c000000004DC23F280000000000000AAA
+t1304575784
+s2730
+i"imageinplistAppDelegate.h"
+i"imageinplistViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.h
+c000000004F35F58500000000000001C2
+t1328936325
+s450
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m
+c000000004ED0B9000000000000000900
+t1322301696
+s2304
+i"imageinplistViewController.h"
+i"first.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/MainWindow.xib
+c000000004DC23F280000000000004E65
+t1304575784
+s20069
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app
+t1329198743
+s374
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app.dSYM
+t1329198743
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/Info.plist
+t1304576988
+s611
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/MainWindow.nib
+t1304576993
+s1133
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/PkgInfo
+t1304576988
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/first.nib
+t1304924356
+s764
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+t1329198743
+s30204
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplistViewController.nib
+t1304576993
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/t1.plist
+t1322129106
+s42
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/t2.plist
+t1329198709
+s98
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o
+t1329198743
+s56504
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplist.LinkFileList
+c000000004EE31324000000000000026E
+t1323504420
+s622
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o
+t1328936327
+s51296
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o
+t1329108302
+s46000
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o
+t1328936327
+s6328
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/imageinplistViewController.xib
+c000000004DC23F290000000000001A59
+t1304575785
+s6745
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/imageinplist_Prefix.pch
+c000000004DC23F2900000000000000C1
+t1304575785
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/main.m
+c000000004DC23F29000000000000016A
+t1304575785
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/t1.plist
+c000000004ECE16D200000000000000B6
+t1322129106
+s182
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/t2.plist
+c000000004F39F6750000000000000158
+t1329198709
+s344
+
+N/Users/sandeep/Documents/imageinplist/Classes/first.h
+c000000004DC78EA800000000000001EB
+t1304923816
+s491
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imageinplist/Classes/first.m
+c000000004ECE124D0000000000000D23
+t1322127949
+s3363
+i"first.h"
+
+N/Users/sandeep/Documents/imageinplist/Classes/first.xib
+c000000004DC790C20000000000003A2A
+t1304924354
+s14890
+
+N/Users/sandeep/Documents/imageinplist/Classes/imageinplistAppDelegate.h
+c000000004DC23F2800000000000001F9
+t1304575784
+s505
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imageinplist/Classes/imageinplistAppDelegate.m
+c000000004DC23F280000000000000AAA
+t1304575784
+s2730
+i"imageinplistAppDelegate.h"
+i"imageinplistViewController.h"
+
+N/Users/sandeep/Documents/imageinplist/Classes/imageinplistViewController.h
+c000000004DC25AF90000000000000184
+t1304582905
+s388
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imageinplist/Classes/imageinplistViewController.m
+c000000004ED0B9000000000000000900
+t1322301696
+s2304
+i"imageinplistViewController.h"
+i"first.h"
+
+N/Users/sandeep/Documents/imageinplist/Classes/second.h
+c000000004DC2427B00000000000000D1
+t1304576635
+s209
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imageinplist/Classes/second.m
+c000000004DC2427B0000000000000589
+t1304576635
+s1417
+i"second.h"
+
+N/Users/sandeep/Documents/imageinplist/Classes/second.xib
+c000000004DC2427B000000000000184D
+t1304576635
+s6221
+
+N/Users/sandeep/Documents/imageinplist/MainWindow.xib
+c000000004DC23F280000000000004E65
+t1304575784
+s20069
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app
+t1322301696
+s340
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM
+t1322301696
+s102
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/Info.plist
+t1304576988
+s611
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/MainWindow.nib
+t1304576993
+s1133
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/PkgInfo
+t1304576988
+s8
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/first.nib
+t1304924356
+s764
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+t1322301696
+s25584
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplistViewController.nib
+t1304576993
+s795
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/second.nib
+t1304576997
+s764
+
+N/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/t1.plist
+t1322129106
+s42
+
+N/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o
+t1322127951
+s54652
+
+N/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplist.LinkFileList
+c000000004DC39CBA0000000000000236
+t1304665274
+s566
+
+N/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o
+t1304582905
+s51256
+
+N/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o
+t1322301696
+s45780
+
+N/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o
+t1304577003
+s6300
+
+N/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/second.o
+t1304577003
+s37384
+
+N/Users/sandeep/Documents/imageinplist/imageinplistViewController.xib
+c000000004DC23F290000000000001A59
+t1304575785
+s6745
+
+N/Users/sandeep/Documents/imageinplist/imageinplist_Prefix.pch
+c000000004DC23F2900000000000000C1
+t1304575785
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imageinplist/main.m
+c000000004DC23F29000000000000016A
+t1304575785
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imageinplist/t1.plist
+c000000004ECE16D200000000000000B6
+t1322129106
+s182
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch.gch
+t1304577002
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch.gch
+t1322731412
+s15453392
+
+Nimageinplist-Info.plist
+c000000004DC23F28000000000000038D
+t1304575784
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350891726#350891726#0(0"0(0#1#0"8606674336#0"0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350891543.237146
+e350891543.600184
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.m350891543#350891543#0(0"0(0#0#67"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.m8606816928#2189"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o"0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o /Users/sandeep/Desktop/obj/imageinplist/Classes/first.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424213.067413
+e344424213.268574
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o
+x/Users/sandeep/Desktop/obj/imageinplist/Classes/first.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Desktop/obj/imageinplist/Classes/first.m344424213#344424213#0(0"0(0#0#55"/Users/sandeep/Desktop/obj/imageinplist/Classes/first.m8609019552#2035"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch -c /Users/sandeep/Desktop/obj/imageinplist/Classes/first.m -o /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o /Users/sandeep/Documents/imageinplist/Classes/first.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343820749.348346
+e343820751.664873
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o
+x/Users/sandeep/Documents/imageinplist/Classes/first.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Documents/imageinplist/Classes/first.m343820749#343820751#0(0"0(0#0#53"/Users/sandeep/Documents/imageinplist/Classes/first.m7956001711417288704#2013"    cd /Users/sandeep/Documents/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch -c /Users/sandeep/Documents/imageinplist/Classes/first.m -o /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/first.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350629126.871286
+e350629127.043597
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.m350629126#350629127#0(0"0(0#0#85"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.m8613060032#2225"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o"0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o /Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424212.896163
+e344424213.067309
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o
+x/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistAppDelegate.m344424212#344424213#0(0"0(0#0#73"/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistAppDelegate.m8609646784#2071"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch -c /Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistAppDelegate.m -o /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o /Users/sandeep/Documents/imageinplist/Classes/imageinplistAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326275705.232332
+e326275705.490893
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o
+x/Users/sandeep/Documents/imageinplist/Classes/imageinplistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/Documents/imageinplist/Classes/imageinplistAppDelegate.m326275705#326275705#0(0"0(0#0#71"/Users/sandeep/Documents/imageinplist/Classes/imageinplistAppDelegate.m8619602848#2049"    cd /Users/sandeep/Documents/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch -c /Users/sandeep/Documents/imageinplist/Classes/imageinplistAppDelegate.m -o /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistAppDelegate.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350801102.433074
+e350801102.833486
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m:94: warning: property 't1' requires method '-t1' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m:94: warning: property 't1' requires the method 'setT1:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@96"Compile /Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m350801102#350801102#0(437"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m:94: warning: property 't1' requires method '-t1' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m:94: warning: property 't1' requires the method 'setT1:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@112"Property 't1' requires method '-t1' to be defined - use @synthesize, @dynamic or provide a method implementation350801102#0#215#0(6@88"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m343994496#94#0#94#0#0"0(22@119"Property 't1' requires the method 'setT1:' to be defined - use @synthesize, @dynamic or provide a method implementation350801102#215#222#0(6@88"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m343994496#94#0#94#0#0"0(0#0#88"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m7310313482417811456#2231"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/imageinplistViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o"0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o /Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424212.978147
+e344424213.228735
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o
+x/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistViewController.m344424212#344424213#0(0"0(0#0#76"/Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistViewController.m8609382624#2077"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch -c /Users/sandeep/Desktop/obj/imageinplist/Classes/imageinplistViewController.m -o /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o /Users/sandeep/Documents/imageinplist/Classes/imageinplistViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343994496.305469
+e343994496.595195
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o
+x/Users/sandeep/Documents/imageinplist/Classes/imageinplistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/sandeep/Documents/imageinplist/Classes/imageinplistViewController.m343994496#343994496#0(0"0(0#0#74"/Users/sandeep/Documents/imageinplist/Classes/imageinplistViewController.m8612117760#2055"    cd /Users/sandeep/Documents/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch -c /Users/sandeep/Documents/imageinplist/Classes/imageinplistViewController.m -o /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplistViewController.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350629126.869932
+e350629127.042072
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sandeep/Desktop/sandeeprdy/plist dynamic app/main.m350629126#350629127#0(0"0(0#0#58"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/main.m8613219840#2179"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/imageinplist/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424212.894758
+e344424212.978042
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/imageinplist/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/Desktop/obj/imageinplist/main.m344424212#344424212#0(0"0(0#0#46"/Users/sandeep/Desktop/obj/imageinplist/main.m8602135360#2025"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch -c /Users/sandeep/Desktop/obj/imageinplist/main.m -o /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o /Users/sandeep/Documents/imageinplist/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326269802.959089
+e326269803.095955
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/imageinplist/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Documents/imageinplist/main.m326269802#326269803#0(0"0(0#0#44"/Users/sandeep/Documents/imageinplist/main.m8616031488#2003"    cd /Users/sandeep/Documents/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch -c /Users/sandeep/Documents/imageinplist/main.m -o /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/main.o0#
+
+CCompileC build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/second.o /Users/sandeep/Documents/imageinplist/Classes/second.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326269803.221404
+e326269803.356723
+r1
+xCompileC
+xbuild/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/second.o
+x/Users/sandeep/Documents/imageinplist/Classes/second.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sandeep/Documents/imageinplist/Classes/second.m326269803#326269803#0(0"0(0#0#54"/Users/sandeep/Documents/imageinplist/Classes/second.m8615557280#2015"    cd /Users/sandeep/Documents/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch -c /Users/sandeep/Documents/imageinplist/Classes/second.m -o /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/second.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/Classes/first.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/imageinplistViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/imageinplist/Classes/first.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/imageinplist/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/imageinplist/imageinplistViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Documents/imageinplist/Classes/first.xib
+s326617156.259930
+e326617156.658989
+r1
+xCompileXIB
+x/Users/sandeep/Documents/imageinplist/Classes/first.xib
+lSLF07#2@28"CompileXIB Classes/first.xib326617156#326617156#0(0"0(0#0#55"/Users/sandeep/Documents/imageinplist/Classes/first.xib8606762816#570"    cd /Users/sandeep/Documents/imageinplist    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/first.nib /Users/sandeep/Documents/imageinplist/Classes/first.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/imageinplist/Classes/second.xib
+s326269793.227178
+e326269797.808328
+r1
+xCompileXIB
+x/Users/sandeep/Documents/imageinplist/Classes/second.xib
+lSLF07#2@29"CompileXIB Classes/second.xib326269793#326269797#0(0"0(0#0#56"/Users/sandeep/Documents/imageinplist/Classes/second.xib8615039776#572"    cd /Users/sandeep/Documents/imageinplist    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/second.nib /Users/sandeep/Documents/imageinplist/Classes/second.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/imageinplist/MainWindow.xib
+s326269788.152393
+e326269793.494146
+r1
+xCompileXIB
+x/Users/sandeep/Documents/imageinplist/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326269788#326269793#0(0"0(0#0#52"/Users/sandeep/Documents/imageinplist/MainWindow.xib8617330912#572"    cd /Users/sandeep/Documents/imageinplist    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/MainWindow.nib /Users/sandeep/Documents/imageinplist/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/imageinplist/imageinplistViewController.xib
+s326269788.165762
+e326269793.226980
+r1
+xCompileXIB
+x/Users/sandeep/Documents/imageinplist/imageinplistViewController.xib
+lSLF07#2@41"CompileXIB imageinplistViewController.xib326269788#326269793#0(0"0(0#0#68"/Users/sandeep/Documents/imageinplist/imageinplistViewController.xib8617280512#604"    cd /Users/sandeep/Documents/imageinplist    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplistViewController.nib /Users/sandeep/Documents/imageinplist/imageinplistViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/t1.plist" t1.plist
+r0
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/t2.plist" t2.plist
+s350891509.686010
+e350891509.807068
+r1
+xCopyPlistFile
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/t2.plist
+xt2.plist
+lSLF07#2@13"Copy t2.plist350891509#350891509#0(0"0(0#0#60"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/t2.plist8607304064#418"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 t2.plist --outdir "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app"0#
+
+CCopyPlistFile /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/t1.plist t1.plist
+r0
+
+CCopyPlistFile /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/t1.plist t1.plist
+s343821906.201340
+e343821906.414182
+r1
+xCopyPlistFile
+x/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/t1.plist
+xt1.plist
+lSLF07#2@13"Copy t1.plist343821906#343821906#0(0"0(0#0#46"/Users/sandeep/Documents/imageinplist/t1.plist27303536605069420#386"    cd /Users/sandeep/Documents/imageinplist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 t1.plist --outdir /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist"
+s350891543.626471
+e350891543.645672
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/imageinplist.app.dSYM build/Debug-iphonesimulator/imageinplist.app/imageinplist350891543#350891543#0(0"0(0#0#109"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist8603285728#443"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+s344424213.295461
+e344424213.334913
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM
+x/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/imageinplist.app.dSYM build/Debug-iphonesimulator/imageinplist.app/imageinplist344424213#344424213#0(0"0(0#0#97"/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist8601236672#401"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist -o /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+s343994496.712968
+e343994496.733869
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM
+x/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/imageinplist.app.dSYM build/Debug-iphonesimulator/imageinplist.app/imageinplist343994496#343994496#0(0"0(0#0#95"/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist8612228352#395"    cd /Users/sandeep/Documents/imageinplist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist -o /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist" normal i386
+s350891543.600324
+e350891543.626370
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+xnormal
+xi386
+lSLF07#2@114"Link /Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist350891543#350891543#0(0"0(0#0#0"8606129888#1000"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplist.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/imageinplist"0#
+
+CLd /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist normal i386
+s344424213.268673
+e344424213.295363
+r1
+xLd
+x/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+xnormal
+xi386
+lSLF07#2@102"Link /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist344424213#344424213#0(0"0(0#0#0"8602039456#930"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplist.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist0#
+
+CLd /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist normal i386
+s343994496.595283
+e343994496.712869
+r1
+xLd
+x/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist
+xnormal
+xi386
+lSLF07#2@100"Link /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist343994496#343994496#0(0"0(0#0#0"8612341696#920"    cd /Users/sandeep/Documents/imageinplist    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -F/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -filelist /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/Objects-normal/i386/imageinplist.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/imageinplist0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app/Info.plist" imageinplist-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app/Info.plist imageinplist-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/Info.plist imageinplist-Info.plist
+s326269787.923248
+e326269788.152290
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/Info.plist
+ximageinplist-Info.plist
+lSLF07#2@31"Process imageinplist-Info.plist326269787#326269788#0(0"0(0#0#61"/Users/sandeep/Documents/imageinplist/imageinplist-Info.plist8610489088#491"    cd /Users/sandeep/Documents/imageinplist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility imageinplist-Info.plist -genpkginfo /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch.gch imageinplist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350629125.681084
+e350629126.869785
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch.gch
+ximageinplist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile imageinplist_Prefix.pch350629125#350629126#0(0"0(0#0#75"/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/imageinplist_Prefix.pch7596570290984151040#2051"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/imageinplist_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-bnfumufgmqmkfceqdkljznioyhuu/imageinplist_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch.gch imageinplist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326269798.362917
+e326269802.958865
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch.gch
+ximageinplist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile imageinplist_Prefix.pch326269798#326269802#0(0"0(0#0#61"/Users/sandeep/Documents/imageinplist/imageinplist_Prefix.pch8615816800#1891"    cd /Users/sandeep/Documents/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Documents/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -c /Users/sandeep/Documents/imageinplist/imageinplist_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fcjtgziyqdmepyasunypvhuznbrf/imageinplist_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch.gch imageinplist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424211.872852
+e344424212.894539
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch.gch
+ximageinplist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile imageinplist_Prefix.pch344424211#344424212#0(0"0(0#0#63"/Users/sandeep/Desktop/obj/imageinplist/imageinplist_Prefix.pch8608927328#1911"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-generated-files.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/imageinplist-project-headers.hmap -F/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/imageinplist/build/imageinplist.build/Debug-iphonesimulator/imageinplist.build/DerivedSources -c /Users/sandeep/Desktop/obj/imageinplist/imageinplist_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imageinplist_Prefix-fxmqoutlsmgehvgjojecahuzfjwr/imageinplist_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app"
+s350891543.645754
+e350891543.648581
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app
+lSLF07#2@102"Touch /Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app350891543#350891543#0(0"0(0#0#0"8600797632#313"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic app/build/Debug-iphonesimulator/imageinplist.app"0#
+
+CTouch /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app
+s344424213.335243
+e344424213.338468
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app
+lSLF07#2@90"Touch /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app344424213#344424213#0(0"0(0#0#0"8601064608#285"    cd /Users/sandeep/Desktop/obj/imageinplist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/obj/imageinplist/build/Debug-iphonesimulator/imageinplist.app0#
+
+CTouch /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app
+s343994496.734023
+e343994496.737405
+r1
+xTouch
+x/Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app
+lSLF07#2@88"Touch /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app343994496#343994496#0(0"0(0#0#0"8612250304#281"    cd /Users/sandeep/Documents/imageinplist    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Documents/imageinplist/build/Debug-iphonesimulator/imageinplist.app0#
+

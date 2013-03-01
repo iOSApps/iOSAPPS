@@ -1,0 +1,294 @@
+Tcoredata
+v7
+r0
+t356607232.751924
+cCheck dependencies
+cProcessInfoPlistFile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/Info.plist coredata-Info.plist
+cCompileXIB /Users/venky/Desktop/coredata/MainWindow.xib
+cCompileXIB /Users/venky/Desktop/coredata/Classes/core.xib
+cProcessPCH /var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch.gch coredata_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata.momd /Users/venky/Desktop/coredata/coredata.xcdatamodeld
+cCompileC build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/main.o /Users/venky/Desktop/coredata/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/coredataAppDelegate.o /Users/venky/Desktop/coredata/Classes/coredataAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/core.o /Users/venky/Desktop/coredata/Classes/core.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata normal i386
+cGenerateDSYMFile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app.dSYM /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata
+cTouch /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/venky/Desktop/coredata/Classes/core.h
+c000000004F8FFC9E0000000000000253
+t1334836382
+s595
+i<UIKit/UIKit.h>
+
+N/Users/venky/Desktop/coredata/Classes/core.m
+c000000004F8FFC9E0000000000000ECD
+t1334836382
+s3789
+i"core.h"
+i"coredataAppDelegate.h"
+
+N/Users/venky/Desktop/coredata/Classes/core.xib
+c000000004F8FE462000000000000874C
+t1334830178
+s34636
+
+N/Users/venky/Desktop/coredata/Classes/coredataAppDelegate.h
+c000000004F8FE10100000000000003A8
+t1334829313
+s936
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"core.h"
+
+N/Users/venky/Desktop/coredata/Classes/coredataAppDelegate.m
+c000000004F8FE1590000000000001E22
+t1334829401
+s7714
+i"coredataAppDelegate.h"
+
+N/Users/venky/Desktop/coredata/MainWindow.xib
+c000000004F8FE1250000000000004E18
+t1334829349
+s19992
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app
+t1334914432
+s272
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app.dSYM
+t1334914432
+s102
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/Info.plist
+t1334829166
+s595
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/MainWindow.nib
+t1334829403
+s1082
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/PkgInfo
+t1334829166
+s8
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/core.nib
+t1334830186
+s2904
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata
+t1334914432
+s24440
+
+N/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata.momd
+t1334829187
+s136
+
+N/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/core.o
+t1334914432
+s59520
+
+N/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/coredata.LinkFileList
+c000000004F8FE06E0000000000000168
+t1334829166
+s360
+
+N/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/coredataAppDelegate.o
+t1334914432
+s62716
+
+N/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/main.o
+t1334829187
+s6284
+
+N/Users/venky/Desktop/coredata/coredata.xcdatamodeld
+c000000004F8FDDFD0000000000000088
+t1334828541
+s136
+
+N/Users/venky/Desktop/coredata/coredata_Prefix.pch
+c000000004F8FDD6A0000000000000164
+t1334828394
+s356
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/venky/Desktop/coredata/main.m
+c000000004F8FDD6B0000000000000164
+t1334828395
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch.gch
+t1334829186
+s16326640
+
+Ncoredata-Info.plist
+c000000004F8FDD69000000000000038D
+t1334828393
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356607230#356607231#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/core.o /Users/venky/Desktop/coredata/Classes/core.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356607231.074844
+e356607232.652899
+r1
+xCompileC
+xbuild/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/core.o
+x/Users/venky/Desktop/coredata/Classes/core.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/venky/Desktop/coredata/Classes/core.m356607231#356607232#0(0"0(0#0#44"/Users/venky/Desktop/coredata/Classes/core.m8602189056#1843"    cd /Users/venky/Desktop/coredata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-generated-files.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-own-target-headers.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-all-target-headers.hmap -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-project-headers.hmap -F/Users/venky/Desktop/coredata/build/Debug-iphonesimulator -I/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/include -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources/i386 -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources -include /var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch -c /Users/venky/Desktop/coredata/Classes/core.m -o /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/core.o0#
+
+CCompileC build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/coredataAppDelegate.o /Users/venky/Desktop/coredata/Classes/coredataAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356607231.070732
+e356607232.685216
+r1
+xCompileC
+xbuild/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/coredataAppDelegate.o
+x/Users/venky/Desktop/coredata/Classes/coredataAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/venky/Desktop/coredata/Classes/coredataAppDelegate.m356607231#356607232#0(0"0(0#0#59"/Users/venky/Desktop/coredata/Classes/coredataAppDelegate.m7234314199171559424#1873"    cd /Users/venky/Desktop/coredata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-generated-files.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-own-target-headers.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-all-target-headers.hmap -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-project-headers.hmap -F/Users/venky/Desktop/coredata/build/Debug-iphonesimulator -I/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/include -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources/i386 -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources -include /var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch -c /Users/venky/Desktop/coredata/Classes/coredataAppDelegate.m -o /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/coredataAppDelegate.o0#
+
+CCompileC build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/main.o /Users/venky/Desktop/coredata/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356521986.872239
+e356521987.073194
+r1
+xCompileC
+xbuild/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/main.o
+x/Users/venky/Desktop/coredata/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/venky/Desktop/coredata/main.m356521986#356521987#0(0"0(0#0#36"/Users/venky/Desktop/coredata/main.m8603640160#1835"    cd /Users/venky/Desktop/coredata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-generated-files.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-own-target-headers.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-all-target-headers.hmap -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-project-headers.hmap -F/Users/venky/Desktop/coredata/build/Debug-iphonesimulator -I/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/include -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources/i386 -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources -include /var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch -c /Users/venky/Desktop/coredata/main.m -o /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/venky/Desktop/coredata/Classes/core.xib
+s356522984.770670
+e356522987.165655
+r1
+xCompileXIB
+x/Users/venky/Desktop/coredata/Classes/core.xib
+lSLF07#2@27"CompileXIB Classes/core.xib356522984#356522987#0(0"0(0#0#46"/Users/venky/Desktop/coredata/Classes/core.xib8603502080#540"    cd /Users/venky/Desktop/coredata    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/core.nib /Users/venky/Desktop/coredata/Classes/core.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/venky/Desktop/coredata/MainWindow.xib
+s356522201.802534
+e356522203.391551
+r1
+xCompileXIB
+x/Users/venky/Desktop/coredata/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib356522201#356522203#0(0"0(0#0#44"/Users/venky/Desktop/coredata/MainWindow.xib8616891072#544"    cd /Users/venky/Desktop/coredata    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/MainWindow.nib /Users/venky/Desktop/coredata/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata.momd /Users/venky/Desktop/coredata/coredata.xcdatamodeld
+s356521986.857958
+e356521987.648549
+r1
+xDataModelVersionCompile
+x/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata.momd
+x/Users/venky/Desktop/coredata/coredata.xcdatamodeld
+lSLF07#2@100"DataModelVersionCompile build/Debug-iphonesimulator/coredata.app/coredata.momd coredata.xcdatamodeld356521986#356521987#0(0"0(0#0#51"/Users/venky/Desktop/coredata/coredata.xcdatamodeld8595861024#362"    cd /Users/venky/Desktop/coredata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/venky/Desktop/coredata/coredata.xcdatamodeld /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata.momd0#
+
+CGenerateDSYMFile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app.dSYM /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata
+s356607232.731695
+e356607232.749067
+r1
+xGenerateDSYMFile
+x/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app.dSYM
+x/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/coredata.app.dSYM build/Debug-iphonesimulator/coredata.app/coredata356607232#356607232#0(0"0(0#0#79"/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata8604398080#359"    cd /Users/venky/Desktop/coredata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata -o /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app.dSYM0#
+
+CLd /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata normal i386
+s356607232.685309
+e356607232.731593
+r1
+xLd
+x/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata
+xnormal
+xi386
+lSLF07#2@84"Link /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata356607232#356607232#0(0"0(0#0#0"8609098944#880"    cd /Users/venky/Desktop/coredata    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/venky/Desktop/coredata/build/Debug-iphonesimulator -F/Users/venky/Desktop/coredata/build/Debug-iphonesimulator -filelist /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/Objects-normal/i386/coredata.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/coredata0#
+
+CProcessInfoPlistFile /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/Info.plist coredata-Info.plist
+s356521966.532224
+e356521966.792121
+r1
+xProcessInfoPlistFile
+x/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/Info.plist
+xcoredata-Info.plist
+lSLF07#2@27"Process coredata-Info.plist356521966#356521966#0(0"0(0#0#49"/Users/venky/Desktop/coredata/coredata-Info.plist8602812640#455"    cd /Users/venky/Desktop/coredata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility coredata-Info.plist -genpkginfo /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app/Info.plist0#
+
+CProcessPCH /var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch.gch coredata_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356521971.775766
+e356521986.857740
+r1
+xProcessPCH
+x/var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch.gch
+xcoredata_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile coredata_Prefix.pch356521971#356521986#0(0"0(0#0#49"/Users/venky/Desktop/coredata/coredata_Prefix.pch8603755232#1735"    cd /Users/venky/Desktop/coredata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-generated-files.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-own-target-headers.hmap -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-all-target-headers.hmap -iquote /Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/coredata-project-headers.hmap -F/Users/venky/Desktop/coredata/build/Debug-iphonesimulator -I/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/include -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources/i386 -I/Users/venky/Desktop/coredata/build/coredata.build/Debug-iphonesimulator/coredata.build/DerivedSources -c /Users/venky/Desktop/coredata/coredata_Prefix.pch -o /var/folders/jz/jzbI3o3vEaeVXdgfgnRYJk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/coredata_Prefix-dkrqyknitoowzufxvuhgznjcwqcl/coredata_Prefix.pch.gch0#
+
+CTouch /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app
+s356607232.749152
+e356607232.751708
+r1
+xTouch
+x/Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app
+lSLF07#2@76"Touch /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app356607232#356607232#0(0"0(0#0#0"8598157888#261"    cd /Users/venky/Desktop/coredata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/venky/Desktop/coredata/build/Debug-iphonesimulator/coredata.app0#
+

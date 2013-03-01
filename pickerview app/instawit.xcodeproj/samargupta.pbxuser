@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* instawit */ = {
+		activeExec = 0;
+		executables = (
+			51C3E25512D05C8700DF775F /* instawit */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* instawitViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 465}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 674}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* instawitViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 1612}}";
+			sepNavSelRange = "{1298, 0}";
+			sepNavVisRange = "{557, 1084}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 51C3E25512D05C8700DF775F /* instawit */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* instawit */;
+		codeSenseManager = 51C3E25A12D05CA800DF775F /* Code sense */;
+		executables = (
+			51C3E25512D05C8700DF775F /* instawit */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315645066;
+			PBXWorkspaceStateSaveDate = 315645066;
+		};
+		perUserProjectItems = {
+			51C3E26312D05D9800DF775F /* PBXTextBookmark */ = 51C3E26312D05D9800DF775F /* PBXTextBookmark */;
+			51C3E26412D05D9800DF775F /* PBXTextBookmark */ = 51C3E26412D05D9800DF775F /* PBXTextBookmark */;
+			51C3E26F12D05DC000DF775F /* PBXTextBookmark */ = 51C3E26F12D05DC000DF775F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 51C3E25912D05CA800DF775F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	51C3E25512D05C8700DF775F /* instawit */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = instawit;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	51C3E25912D05CA800DF775F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	51C3E25A12D05CA800DF775F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	51C3E26312D05D9800DF775F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* instawitViewController.h */;
+		name = "instawitViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 0;
+	};
+	51C3E26412D05D9800DF775F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* instawitViewController.m */;
+		name = "instawitViewController.m: 41";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 901;
+		vrLoc = 756;
+	};
+	51C3E26F12D05DC000DF775F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* instawitViewController.m */;
+		name = "instawitViewController.m: 58";
+		rLen = 0;
+		rLoc = 1298;
+		rType = 0;
+		vrLen = 1084;
+		vrLoc = 557;
+	};
+}

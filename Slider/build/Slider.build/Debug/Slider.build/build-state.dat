@@ -1,0 +1,39 @@
+TSlider
+v7
+r1
+
+N/Users/sandeep/Downloads/Slider/MainWindow.xib
+c000000004A8E8F160000000000002CCC
+t1250856726
+s11468
+
+N/Users/sandeep/Downloads/Slider/build/Debug/Slider.app
+t2
+s0
+
+N/Users/sandeep/Downloads/Slider/build/Debug/Slider.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sandeep/Downloads/Slider/build/Debug/Slider.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sandeep/Downloads/Slider/build/Debug/Slider.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NSlider-Info.plist
+c000000004A8E8A2C000000000000038D
+t1250855468
+s909
+
+CCompileXIB /Users/sandeep/Downloads/Slider/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Downloads/Slider/build/Debug/Slider.app/Contents/Info.plist Slider-Info.plist
+r0
+
+CTouch /Users/sandeep/Downloads/Slider/build/Debug/Slider.app
+r0
+

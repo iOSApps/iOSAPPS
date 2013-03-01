@@ -1,0 +1,75 @@
+TSimpleTable
+v7
+r1
+
+N/Users/sandeep/Downloads/SimpleTable 5/MainWindow.xib
+c000000004A0FED8500000000000021EB
+t1242557829
+s8683
+
+N/Users/sandeep/Downloads/SimpleTable 5/NextView.xib
+c000000004A0FF05300000000000022E4
+t1242558547
+s8932
+
+N/Users/sandeep/Downloads/SimpleTable 5/SimpleTableViewController.xib
+c000000004A0FEDC9000000000000220F
+t1242557897
+s8719
+
+N/Users/sandeep/Downloads/SimpleTable 5/TableCellView.xib
+c000000004A2167AD00000000000025B1
+t1243703213
+s9649
+
+N/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app
+t2
+s0
+
+N/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app/Contents/Resources/NextView.nib
+t2
+s0
+
+N/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app/Contents/Resources/SimpleTableViewController.nib
+t2
+s0
+
+N/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app/Contents/Resources/TableCellView.nib
+t2
+s0
+
+NInfo.plist
+c000000004A0FED850000000000000386
+t1242557829
+s902
+
+CCompileXIB "/Users/sandeep/Downloads/SimpleTable 5/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Downloads/SimpleTable 5/NextView.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Downloads/SimpleTable 5/SimpleTableViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Downloads/SimpleTable 5/TableCellView.xib"
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/sandeep/Downloads/SimpleTable 5/build/Release/SimpleTable.app"
+r0
+

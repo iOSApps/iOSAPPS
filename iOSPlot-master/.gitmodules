@@ -1,0 +1,3 @@
+[submodule "iOSPlot/JSONKit"]
+	path = iOSPlot/JSONKit
+	url = git://github.com/johnezang/JSONKit.git

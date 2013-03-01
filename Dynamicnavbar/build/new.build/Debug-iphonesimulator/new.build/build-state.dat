@@ -1,0 +1,532 @@
+Tnew
+v7
+r0
+t355041686.283517
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/Info.plist" new-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/newViewController.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch.gch new_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/new/Classes/hi.h
+c000000004EFC663700000000000000C0
+t1325164087
+s192
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/Classes/hi.m
+c000000004EFD5F5B00000000000007B9
+t1325227867
+s1977
+i"hi.h"
+
+N/Users/sandeep/Desktop/new/Classes/hi.xib
+c000000004EFC66380000000000001841
+t1325164088
+s6209
+
+N/Users/sandeep/Desktop/new/Classes/newAppDelegate.h
+c000000004EFC31C100000000000001C3
+t1325150657
+s451
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/Classes/newAppDelegate.m
+c000000004EFC31C10000000000000A7D
+t1325150657
+s2685
+i"newAppDelegate.h"
+i"newViewController.h"
+
+N/Users/sandeep/Desktop/new/Classes/newViewController.h
+c000000004EFC61FE00000000000001B3
+t1325163006
+s435
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/Classes/newViewController.m
+c000000004EFC6DCF00000000000011D0
+t1325166031
+s4560
+i"newViewController.h"
+i"hi.h"
+
+N/Users/sandeep/Desktop/new/MainWindow.xib
+c000000004EFC31C10000000000004DF9
+t1325150657
+s19961
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app
+t1331352079
+s272
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app.dSYM
+t1331352079
+s102
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/Info.plist
+t1325150823
+s575
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/MainWindow.nib
+t1325150824
+s1115
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/PkgInfo
+t1325150823
+s8
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/hi.nib
+t1325164188
+s764
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new
+t1331352079
+s24292
+
+N/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/newViewController.nib
+t1325155666
+s1204
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o
+t1331352079
+s41784
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o
+t1331352079
+s6280
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/new.LinkFileList
+c000000004EFC669B00000000000001AD
+t1325164187
+s429
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o
+t1331352079
+s50716
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o
+t1331352079
+s55780
+
+N/Users/sandeep/Desktop/new/main.m
+c000000004EFC31C10000000000000161
+t1325150657
+s353
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/newViewController.xib
+c000000004EFC454D0000000000004F7A
+t1325155661
+s20346
+
+N/Users/sandeep/Desktop/new/new_Prefix.pch
+c000000004EFC31C100000000000000AF
+t1325150657
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.h
+c000000004F6AB1A60000000000000166
+t1332392358
+s358
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.m
+c000000004F6AB7D300000000000009C5
+t1332393939
+s2501
+i"hi.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.xib
+c000000004EFC66380000000000001841
+t1325164088
+s6209
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.h
+c000000004EFC31C100000000000001C3
+t1325150657
+s451
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.m
+c000000004EFC31C10000000000000A7D
+t1325150657
+s2685
+i"newAppDelegate.h"
+i"newViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.h
+c000000004F6AB1A600000000000001B6
+t1332392358
+s438
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.m
+c000000004F6ABFCF0000000000001201
+t1332395983
+s4609
+i"newViewController.h"
+i"hi.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/MainWindow.xib
+c000000004EFC31C10000000000004DF9
+t1325150657
+s19961
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app
+t1333348886
+s272
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app.dSYM
+t1333348886
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/Info.plist
+t1325150823
+s575
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/MainWindow.nib
+t1325150824
+s1115
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/PkgInfo
+t1325150823
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/hi.nib
+t1325164188
+s764
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new
+t1333348886
+s29544
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/newViewController.nib
+t1325155666
+s1204
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o
+t1332393943
+s48244
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o
+t1332392153
+s6356
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/new.LinkFileList
+c000000004F6AB0C40000000000000245
+t1332392132
+s581
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o
+t1332392359
+s50792
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o
+t1333348886
+s55900
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/main.m
+c000000004EFC31C10000000000000161
+t1325150657
+s353
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/newViewController.xib
+c000000004EFC454D0000000000004F7A
+t1325155661
+s20346
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/new_Prefix.pch
+c000000004EFC31C100000000000000AF
+t1325150657
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch.gch
+t1331352079
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch.gch
+t1332392151
+s15453392
+
+Nnew-Info.plist
+c000000004EFC31C1000000000000038D
+t1325150657
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355041683#355041683#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354086740.832141
+e354086743.379586
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.m354086740#354086743#0(0"0(0#0#77"/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.m8603339200#2146"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o"0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o /Users/sandeep/Desktop/new/Classes/hi.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353044879.584543
+e353044879.703192
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o
+x/Users/sandeep/Desktop/new/Classes/hi.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/sandeep/Desktop/new/Classes/hi.m353044879#353044879#0(0"0(0#0#39"/Users/sandeep/Desktop/new/Classes/hi.m8607243392#1706"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/hi.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/hi.o0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354084952.591539
+e354084953.308462
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/main.m354084952#354084953#0(0"0(0#0#71"/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/main.m8614660928#2142"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/new/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353044879.470639
+e353044879.532446
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/new/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/sandeep/Desktop/new/main.m353044879#353044879#0(0"0(0#0#33"/Users/sandeep/Desktop/new/main.m8609107712#1702"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch -c /Users/sandeep/Desktop/new/main.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/main.o0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354085158.806711
+e354085159.706661
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.m354085158#354085159#0(0"0(0#0#89"/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.m8612391456#2170"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o"0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o /Users/sandeep/Desktop/new/Classes/newAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353044879.472068
+e353044879.584439
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o
+x/Users/sandeep/Desktop/new/Classes/newAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sandeep/Desktop/new/Classes/newAppDelegate.m353044879#353044879#0(0"0(0#0#51"/Users/sandeep/Desktop/new/Classes/newAppDelegate.m8608421952#1730"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/newAppDelegate.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newAppDelegate.o0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355041683.918408
+e355041686.045699
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.m355041683#355041686#0(0"0(0#0#92"/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.m8738161349675016192#2176"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/newViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o"0#
+
+CCompileC build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o /Users/sandeep/Desktop/new/Classes/newViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353044879.532554
+e353044879.646717
+r1
+xCompileC
+xbuild/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o
+x/Users/sandeep/Desktop/new/Classes/newViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sandeep/Desktop/new/Classes/newViewController.m353044879#353044879#0(0"0(0#0#54"/Users/sandeep/Desktop/new/Classes/newViewController.m8607592288#1736"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/newViewController.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/newViewController.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/Classes/hi.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/newViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/new/Classes/hi.xib
+s346856987.233524
+e346856988.031867
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/new/Classes/hi.xib
+lSLF07#2@25"CompileXIB Classes/hi.xib346856987#346856988#0(0"0(0#0#41"/Users/sandeep/Desktop/new/Classes/hi.xib8610852736#522"    cd /Users/sandeep/Desktop/new    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/hi.nib /Users/sandeep/Desktop/new/Classes/hi.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/new/MainWindow.xib
+s346843623.545672
+e346843624.467028
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/new/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib346843623#346843624#0(0"0(0#0#41"/Users/sandeep/Desktop/new/MainWindow.xib8611323584#530"    cd /Users/sandeep/Desktop/new    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/MainWindow.nib /Users/sandeep/Desktop/new/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/new/newViewController.xib
+s346848464.717084
+e346848466.328510
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/new/newViewController.xib
+lSLF07#2@32"CompileXIB newViewController.xib346848464#346848466#0(0"0(0#0#48"/Users/sandeep/Desktop/new/newViewController.xib8617446656#544"    cd /Users/sandeep/Desktop/new    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/newViewController.nib /Users/sandeep/Desktop/new/newViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new"
+s355041686.210966
+e355041686.278668
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/new.app.dSYM build/Debug-iphonesimulator/new.app/new355041686#355041686#0(0"0(0#0#104"/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new8601559008#455"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app.dSYM /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new
+s353044879.730590
+e353044879.794377
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app.dSYM
+x/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/new.app.dSYM build/Debug-iphonesimulator/new.app/new353044879#353044879#0(0"0(0#0#66"/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new8600841536#335"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new -o /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new" normal i386
+s355041686.045899
+e355041686.210870
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new
+xnormal
+xi386
+lSLF07#2@109"Link /Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new355041686#355041686#0(0"0(0#0#0"8603691456#1020"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/new.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/new"0#
+
+CLd /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new normal i386
+s353044879.703284
+e353044879.730501
+r1
+xLd
+x/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new
+xnormal
+xi386
+lSLF07#2@71"Link /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new353044879#353044879#0(0"0(0#0#0"8605798624#820"    cd /Users/sandeep/Desktop/new    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/new/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/new/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/Objects-normal/i386/new.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/new0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app/Info.plist" new-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/Info.plist new-Info.plist
+s346843623.523189
+e346843623.545574
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/Info.plist
+xnew-Info.plist
+lSLF07#2@22"Process new-Info.plist346843623#346843623#0(0"0(0#0#41"/Users/sandeep/Desktop/new/new-Info.plist8599772960#431"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility new-Info.plist -genpkginfo /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch.gch new_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353044877.455157
+e353044879.470440
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch.gch
+xnew_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile new_Prefix.pch353044877#353044879#0(0"0(0#0#41"/Users/sandeep/Desktop/new/new_Prefix.pch8676578743001571328#1610"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphonesimulator/new.build/DerivedSources -c /Users/sandeep/Desktop/new/new_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-ciyxzlpwhmhdpjeitfutfrjbzgny/new_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch.gch new_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354084932.710844
+e354084952.591399
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch.gch
+xnew_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile new_Prefix.pch354084932#354084952#0(0"0(0#0#79"/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/new_Prefix.pch8612238336#2010"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/new-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/new.build/Debug-iphonesimulator/new.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/new_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-dapyplpvhkmrmyezysgngbchygsm/new_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app"
+s355041686.278752
+e355041686.283462
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app
+lSLF07#2@106"Touch /Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app355041686#355041686#0(0"0(0#0#0"8600552864#330"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Dynamicnavbar/build/Debug-iphonesimulator/new.app"0#
+
+CTouch /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app
+s353044879.794469
+e353044879.797353
+r1
+xTouch
+x/Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app
+lSLF07#2@68"Touch /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app353044879#353044879#0(0"0(0#0#0"8596171840#250"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/new/build/Debug-iphonesimulator/new.app0#
+

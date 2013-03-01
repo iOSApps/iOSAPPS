@@ -1,0 +1,3 @@
+/Users/brandon/Documents/AccelerometerTutorial/Classes/AccelerometerTutorialAppDelegate.m:15: error: no declaration of property 'mainViewController' found in the interface
+/Users/brandon/Documents/AccelerometerTutorial/Classes/AccelerometerTutorialAppDelegate.m: In function '-[AccelerometerTutorialAppDelegate applicationDidFinishLaunching:]':
+/Users/brandon/Documents/AccelerometerTutorial/Classes/AccelerometerTutorialAppDelegate.m:25: error: request for member 'mainViewController' in something not a structure or union

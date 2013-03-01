@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* cameraview */ = {
+		activeExec = 0;
+		executables = (
+			2CCCBE231526C37E0027EF53 /* cameraview */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* cameraviewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 364}}";
+			sepNavSelRange = "{0, 516}";
+			sepNavVisRange = "{151, 364}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* cameraviewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 2184}}";
+			sepNavSelRange = "{0, 3977}";
+			sepNavVisRange = "{2113, 443}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2CCCBE231526C37E0027EF53 /* cameraview */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* cameraview */;
+		codeSenseManager = 2CCCBE2D1526C39A0027EF53 /* Code sense */;
+		executables = (
+			2CCCBE231526C37E0027EF53 /* cameraview */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357198730;
+			PBXWorkspaceStateSaveDate = 357198730;
+		};
+		perUserProjectItems = {
+			2CA6A93A154A6B9200163CA0 /* PBXTextBookmark */ = 2CA6A93A154A6B9200163CA0 /* PBXTextBookmark */;
+			2CA6A940154A6BA800163CA0 /* PBXTextBookmark */ = 2CA6A940154A6BA800163CA0 /* PBXTextBookmark */;
+			2CA6A941154A6BA800163CA0 /* PBXTextBookmark */ = 2CA6A941154A6BA800163CA0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2CCCBE2C1526C39A0027EF53 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2CA6A93A154A6B9200163CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* cameraviewViewController.m */;
+		name = "cameraviewViewController.m: 155";
+		rLen = 0;
+		rLoc = 3968;
+		rType = 0;
+		vrLen = 400;
+		vrLoc = 2156;
+	};
+	2CA6A940154A6BA800163CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* cameraviewViewController.h */;
+		name = "cameraviewViewController.h: 1";
+		rLen = 516;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 151;
+	};
+	2CA6A941154A6BA800163CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* cameraviewViewController.m */;
+		name = "cameraviewViewController.m: 1";
+		rLen = 3977;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 2113;
+	};
+	2CCCBE231526C37E0027EF53 /* cameraview */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = cameraview;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2CCCBE2C1526C39A0027EF53 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2CCCBE2D1526C39A0027EF53 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

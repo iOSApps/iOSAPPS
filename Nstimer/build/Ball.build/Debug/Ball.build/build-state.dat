@@ -1,0 +1,63 @@
+TBall
+v7
+r1
+
+N/Users/SandeepReddy/Downloads/Ball/BallViewController.xib
+c00000000490655D90000000000001C57
+t1225151961
+s7255
+
+N/Users/SandeepReddy/Downloads/Ball/MainWindow.xib
+c000000004906555B000000000000219E
+t1225151835
+s8606
+
+N/Users/SandeepReddy/Downloads/Ball/ball.png
+c0000000049052ABF0000000000000638
+t1225075391
+s1592
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app
+t2
+s0
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app/Contents/Info.plist
+t2
+s0
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app/Contents/Resources/BallViewController.nib
+t2
+s0
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app/Contents/Resources/ball.png
+t2
+s0
+
+NInfo.plist
+c000000004906555B0000000000000381
+t1225151835
+s897
+
+CCompileXIB /Users/SandeepReddy/Downloads/Ball/BallViewController.xib
+r0
+
+CCompileXIB /Users/SandeepReddy/Downloads/Ball/MainWindow.xib
+r0
+
+CCpResource build/Debug/Ball.app/Contents/Resources/ball.png ball.png
+r0
+
+CProcessInfoPlistFile /Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/SandeepReddy/Downloads/Ball/build/Debug/Ball.app
+r0
+

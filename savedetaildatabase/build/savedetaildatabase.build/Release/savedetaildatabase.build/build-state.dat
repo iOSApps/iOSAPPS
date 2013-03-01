@@ -1,0 +1,87 @@
+Tsavedetaildatabase
+v7
+r1
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib
+c000000004EDF0512000000000000183E
+t1323238674
+s6206
+
+N/Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib
+c000000004E710DB40000000000004EAD
+t1316031924
+s20141
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/Resources/db_icon.png
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/Resources/n.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/Resources/savedetaildatabaseViewController.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/Resources/sqlite1database
+t2
+s0
+
+N/Users/sandeep/Desktop/savedetaildatabase/db_icon.png
+c000000004E721A7E0000000000000C43
+t1316100734
+s3139
+
+N/Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib
+c000000004ECC8D8E0000000000006450
+t1322028430
+s25680
+
+N/Users/sandeep/Desktop/savedetaildatabase/sqlite1database
+c000000004E7107D00000000000001800
+t1316030416
+s6144
+
+Nsavedetaildatabase-Info.plist
+c000000004E721AC00000000000000398
+t1316100800
+s920
+
+CCompileXIB /Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib
+r0
+
+CCpResource build/Release/savedetaildatabase.app/Contents/Resources/db_icon.png db_icon.png
+r0
+
+CCpResource build/Release/savedetaildatabase.app/Contents/Resources/sqlite1database sqlite1database
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app/Contents/Info.plist savedetaildatabase-Info.plist
+r0
+
+CTouch /Users/sandeep/Desktop/savedetaildatabase/build/Release/savedetaildatabase.app
+r0
+

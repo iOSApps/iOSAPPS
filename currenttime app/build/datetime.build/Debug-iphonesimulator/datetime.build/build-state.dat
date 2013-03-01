@@ -1,0 +1,632 @@
+Tdatetime
+v7
+r0
+t347190540.658563
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/Info.plist" datetime-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/currenttime app/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/currenttime app/datetimeViewController.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch.gch datetime_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/datetime/Classes/datetimeAppDelegate.h
+c000000004E6F034A00000000000001E1
+t1315898186
+s481
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/datetime/Classes/datetimeAppDelegate.m
+c000000004E6F034A0000000000000A96
+t1315898186
+s2710
+i"datetimeAppDelegate.h"
+i"datetimeViewController.h"
+
+N/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.h
+c000000004E6F0CA80000000000000114
+t1315900584
+s276
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m
+c000000004E6F0CE300000000000006B1
+t1315900643
+s1713
+i"datetimeViewController.h"
+
+N/Users/sandeep/Desktop/obj/datetime/MainWindow.xib
+c000000004E6F034B0000000000004E35
+t1315898187
+s20021
+
+N/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app
+t1322730371
+s238
+
+N/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app.dSYM
+t1322730371
+s102
+
+N/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/Info.plist
+t1315900585
+s595
+
+N/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/MainWindow.nib
+t1315900585
+s1125
+
+N/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/PkgInfo
+t1315900585
+s8
+
+N/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+t1322730370
+s17584
+
+N/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetimeViewController.nib
+t1315900860
+s1853
+
+N/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetime.LinkFileList
+c000000004ED74378000000000000018C
+t1322730360
+s396
+
+N/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o
+t1322730370
+s50988
+
+N/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o
+t1322730370
+s40060
+
+N/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o
+t1322730370
+s6296
+
+N/Users/sandeep/Desktop/obj/datetime/datetimeViewController.xib
+c000000004E6F0DB8000000000000521F
+t1315900856
+s21023
+
+N/Users/sandeep/Desktop/obj/datetime/datetime_Prefix.pch
+c000000004E6F034B00000000000000B9
+t1315898187
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/datetime/main.m
+c000000004E6F034B0000000000000166
+t1315898187
+s358
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.h
+c000000004E6F034A00000000000001E1
+t1315898186
+s481
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.m
+c000000004E6F034A0000000000000A96
+t1315898186
+s2710
+i"datetimeAppDelegate.h"
+i"datetimeViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.h
+c000000004E6F0CA80000000000000114
+t1315900584
+s276
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m
+c000000004E6F0CE300000000000006B1
+t1315900643
+s1713
+i"datetimeViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/MainWindow.xib
+c000000004E6F034B0000000000004E35
+t1315898187
+s20021
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app
+t1323318048
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app.dSYM
+t1323318048
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/Info.plist
+t1315900585
+s595
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/MainWindow.nib
+t1315900585
+s1125
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/PkgInfo
+t1315900585
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime
+t1323318048
+s17668
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetimeViewController.nib
+t1315900860
+s1853
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetime.LinkFileList
+c000000004EE03B1900000000000001B6
+t1323318041
+s438
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o
+t1323318047
+s51016
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o
+t1323318047
+s40088
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o
+t1323318047
+s6324
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/datetimeViewController.xib
+c000000004E6F0DB8000000000000521F
+t1315900856
+s21023
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/datetime_Prefix.pch
+c000000004E6F034B00000000000000B9
+t1315898187
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/currenttime app/main.m
+c000000004E6F034B0000000000000166
+t1315898187
+s358
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/datetime/Classes/datetimeAppDelegate.h
+c000000004E6F034A00000000000001E1
+t1315898186
+s481
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/datetime/Classes/datetimeAppDelegate.m
+c000000004E6F034A0000000000000A96
+t1315898186
+s2710
+i"datetimeAppDelegate.h"
+i"datetimeViewController.h"
+
+N/Users/sandeep/Documents/datetime/Classes/datetimeViewController.h
+c000000004E6F0CA80000000000000114
+t1315900584
+s276
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m
+c000000004E6F0CE300000000000006B1
+t1315900643
+s1713
+i"datetimeViewController.h"
+
+N/Users/sandeep/Documents/datetime/MainWindow.xib
+c000000004E6F034B0000000000004E35
+t1315898187
+s20021
+
+N/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app
+t1315900860
+s238
+
+N/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app.dSYM
+t1315900645
+s102
+
+N/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/Info.plist
+t1315900585
+s595
+
+N/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/MainWindow.nib
+t1315900585
+s1125
+
+N/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/PkgInfo
+t1315900585
+s8
+
+N/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+t1315900644
+s17572
+
+N/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetimeViewController.nib
+t1315900860
+s1853
+
+N/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetime.LinkFileList
+c000000004E6F0CA90000000000000186
+t1315900585
+s390
+
+N/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o
+t1315900588
+s50984
+
+N/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o
+t1315900644
+s40056
+
+N/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o
+t1315900588
+s6292
+
+N/Users/sandeep/Documents/datetime/datetimeViewController.xib
+c000000004E6F0DB8000000000000521F
+t1315900856
+s21023
+
+N/Users/sandeep/Documents/datetime/datetime_Prefix.pch
+c000000004E6F034B00000000000000B9
+t1315898187
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/datetime/main.m
+c000000004E6F034B0000000000000166
+t1315898187
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-bzxwufyunghsjweyokwsixkztsjh/datetime_Prefix.pch.gch
+t1315900587
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-dhcsoxflvweszbdodhmuqzqhlkmv/datetime_Prefix.pch.gch
+t1322730369
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch.gch
+t1323318047
+s15453392
+
+Ndatetime-Info.plist
+c000000004E6F034B000000000000038D
+t1315898187
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347190540#347190540#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345010847.393871
+e345010847.583358
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.m345010847#345010847#0(0"0(0#0#79"/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.m8602797952#2115"    cd "/Users/sandeep/Desktop/sandeeprdy/currenttime app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o"0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o /Users/sandeep/Desktop/obj/datetime/Classes/datetimeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344423170.071383
+e344423170.310268
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o
+x/Users/sandeep/Desktop/obj/datetime/Classes/datetimeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sandeep/Desktop/obj/datetime/Classes/datetimeAppDelegate.m344423170#344423170#0(0"0(0#0#65"/Users/sandeep/Desktop/obj/datetime/Classes/datetimeAppDelegate.m8601759968#1939"    cd /Users/sandeep/Desktop/obj/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-dhcsoxflvweszbdodhmuqzqhlkmv/datetime_Prefix.pch -c /Users/sandeep/Desktop/obj/datetime/Classes/datetimeAppDelegate.m -o /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o /Users/sandeep/Documents/datetime/Classes/datetimeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337593388.105339
+e337593388.230184
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o
+x/Users/sandeep/Documents/datetime/Classes/datetimeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sandeep/Documents/datetime/Classes/datetimeAppDelegate.m337593388#337593388#0(0"0(0#0#63"/Users/sandeep/Documents/datetime/Classes/datetimeAppDelegate.m8611008800#1917"    cd /Users/sandeep/Documents/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-bzxwufyunghsjweyokwsixkztsjh/datetime_Prefix.pch -c /Users/sandeep/Documents/datetime/Classes/datetimeAppDelegate.m -o /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeAppDelegate.o0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345010847.582098
+e345010847.677958
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m: In function '-[datetimeViewController date]':
+o/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m:19: warning: format not a string literal and no format arguments
+lSLF07#2@90"Compile /Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m345010847#345010847#0(278"/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m: In function '-[datetimeViewController date]':/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m:19: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments345010847#130#148#0(6@82"/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m337593443#19#0#19#0#51"format not a string literal and no format arguments0(0#0#82"/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m8603044576#2121"    cd "/Users/sandeep/Desktop/sandeeprdy/currenttime app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/currenttime app/Classes/datetimeViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o"0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o /Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344423170.270933
+e344423170.534015
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o
+x/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m: In function '-[datetimeViewController date]':
+o/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m:19: warning: format not a string literal and no format arguments
+lSLF07#2@76"Compile /Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m344423170#344423170#0(250"/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m: In function '-[datetimeViewController date]':/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m:19: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments344423170#116#134#0(6@68"/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m337593443#19#0#19#0#51"format not a string literal and no format arguments0(0#0#68"/Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m8602123456#1945"    cd /Users/sandeep/Desktop/obj/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-dhcsoxflvweszbdodhmuqzqhlkmv/datetime_Prefix.pch -c /Users/sandeep/Desktop/obj/datetime/Classes/datetimeViewController.m -o /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o /Users/sandeep/Documents/datetime/Classes/datetimeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337593444.078309
+e337593444.390199
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o
+x/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m: In function '-[datetimeViewController date]':
+o/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m:19: warning: format not a string literal and no format arguments
+lSLF07#2@74"Compile /Users/sandeep/Documents/datetime/Classes/datetimeViewController.m337593444#337593444#0(246"/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m: In function '-[datetimeViewController date]':/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m:19: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments337593444#114#132#0(6@66"/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m337593443#19#0#19#0#51"format not a string literal and no format arguments0(0#0#66"/Users/sandeep/Documents/datetime/Classes/datetimeViewController.m7307761437599099904#1923"    cd /Users/sandeep/Documents/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-bzxwufyunghsjweyokwsixkztsjh/datetime_Prefix.pch -c /Users/sandeep/Documents/datetime/Classes/datetimeViewController.m -o /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetimeViewController.o0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345010847.392641
+e345010847.581991
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/currenttime app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sandeep/Desktop/sandeeprdy/currenttime app/main.m345010847#345010847#0(0"0(0#0#56"/Users/sandeep/Desktop/sandeeprdy/currenttime app/main.m8603174624#2077"    cd "/Users/sandeep/Desktop/sandeeprdy/currenttime app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/currenttime app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/datetime/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344423170.069947
+e344423170.270835
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/datetime/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/sandeep/Desktop/obj/datetime/main.m344423170#344423170#0(0"0(0#0#42"/Users/sandeep/Desktop/obj/datetime/main.m8602069024#1901"    cd /Users/sandeep/Desktop/obj/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-dhcsoxflvweszbdodhmuqzqhlkmv/datetime_Prefix.pch -c /Users/sandeep/Desktop/obj/datetime/main.m -o /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o0#
+
+CCompileC build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o /Users/sandeep/Documents/datetime/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337593388.104343
+e337593388.195470
+r1
+xCompileC
+xbuild/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/datetime/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Documents/datetime/main.m337593388#337593388#0(0"0(0#0#40"/Users/sandeep/Documents/datetime/main.m8611240544#1879"    cd /Users/sandeep/Documents/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-bzxwufyunghsjweyokwsixkztsjh/datetime_Prefix.pch -c /Users/sandeep/Documents/datetime/main.m -o /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/currenttime app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/currenttime app/datetimeViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/datetime/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/datetime/datetimeViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Documents/datetime/MainWindow.xib
+s337593385.099869
+e337593385.962278
+r1
+xCompileXIB
+x/Users/sandeep/Documents/datetime/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib337593385#337593385#0(0"0(0#0#48"/Users/sandeep/Documents/datetime/MainWindow.xib8611802144#556"    cd /Users/sandeep/Documents/datetime    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/MainWindow.nib /Users/sandeep/Documents/datetime/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/datetime/datetimeViewController.xib
+s337593659.324460
+e337593660.080502
+r1
+xCompileXIB
+x/Users/sandeep/Documents/datetime/datetimeViewController.xib
+lSLF07#2@37"CompileXIB datetimeViewController.xib337593659#337593660#0(0"0(0#0#60"/Users/sandeep/Documents/datetime/datetimeViewController.xib8611182048#580"    cd /Users/sandeep/Documents/datetime    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetimeViewController.nib /Users/sandeep/Documents/datetime/datetimeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime"
+s345010848.233529
+e345010848.427543
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/datetime.app.dSYM build/Debug-iphonesimulator/datetime.app/datetime345010848#345010848#0(0"0(0#0#99"/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime8603039680#425"    cd "/Users/sandeep/Desktop/sandeeprdy/currenttime app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime" -o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app.dSYM /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+s344423170.778190
+e344423171.289542
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app.dSYM
+x/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/datetime.app.dSYM build/Debug-iphonesimulator/datetime.app/datetime344423170#344423171#0(0"0(0#0#85"/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime8601784512#377"    cd /Users/sandeep/Desktop/obj/datetime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime -o /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app.dSYM /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+s337593444.754957
+e337593445.239675
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app.dSYM
+x/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/datetime.app.dSYM build/Debug-iphonesimulator/datetime.app/datetime337593444#337593445#0(0"0(0#0#83"/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime8611479488#371"    cd /Users/sandeep/Documents/datetime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime -o /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime" normal i386
+s345010847.678045
+e345010848.233430
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime
+xnormal
+xi386
+lSLF07#2@104"Link /Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime345010847#345010848#0(0"0(0#0#0"8599673728#970"    cd "/Users/sandeep/Desktop/sandeeprdy/currenttime app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetime.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/datetime"0#
+
+CLd /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime normal i386
+s344423170.534099
+e344423170.778099
+r1
+xLd
+x/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+xnormal
+xi386
+lSLF07#2@90"Link /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime344423170#344423170#0(0"0(0#0#0"30681223440564324#890"    cd /Users/sandeep/Desktop/obj/datetime    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetime.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/datetime0#
+
+CLd /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime normal i386
+s337593444.390288
+e337593444.754865
+r1
+xLd
+x/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime
+xnormal
+xi386
+lSLF07#2@88"Link /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime337593444#337593444#0(0"0(0#0#0"8609517344#880"    cd /Users/sandeep/Documents/datetime    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator -F/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator -filelist /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/Objects-normal/i386/datetime.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/datetime0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app/Info.plist" datetime-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app/Info.plist datetime-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/Info.plist datetime-Info.plist
+s337593385.055275
+e337593385.099776
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/Info.plist
+xdatetime-Info.plist
+lSLF07#2@27"Process datetime-Info.plist337593385#337593385#0(0"0(0#0#53"/Users/sandeep/Documents/datetime/datetime-Info.plist30681223440564324#467"    cd /Users/sandeep/Documents/datetime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility datetime-Info.plist -genpkginfo /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-bzxwufyunghsjweyokwsixkztsjh/datetime_Prefix.pch.gch datetime_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337593385.962529
+e337593388.104165
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-bzxwufyunghsjweyokwsixkztsjh/datetime_Prefix.pch.gch
+xdatetime_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile datetime_Prefix.pch337593385#337593388#0(0"0(0#0#53"/Users/sandeep/Documents/datetime/datetime_Prefix.pch8611812288#1775"    cd /Users/sandeep/Documents/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Documents/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -c /Users/sandeep/Documents/datetime/datetime_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-bzxwufyunghsjweyokwsixkztsjh/datetime_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-dhcsoxflvweszbdodhmuqzqhlkmv/datetime_Prefix.pch.gch datetime_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344423160.753508
+e344423170.069776
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-dhcsoxflvweszbdodhmuqzqhlkmv/datetime_Prefix.pch.gch
+xdatetime_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile datetime_Prefix.pch344423160#344423170#0(0"0(0#0#55"/Users/sandeep/Desktop/obj/datetime/datetime_Prefix.pch5791459166416823296#1795"    cd /Users/sandeep/Desktop/obj/datetime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap -F/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/datetime/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources -c /Users/sandeep/Desktop/obj/datetime/datetime_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-dhcsoxflvweszbdodhmuqzqhlkmv/datetime_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch.gch datetime_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s345010841.380061
+e345010847.392404
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch.gch
+xdatetime_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile datetime_Prefix.pch345010842#345010847#0(0"0(0#0#69"/Users/sandeep/Desktop/sandeeprdy/currenttime app/datetime_Prefix.pch5791459166416823296#1955"    cd "/Users/sandeep/Desktop/sandeeprdy/currenttime app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/datetime-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/datetime.build/Debug-iphonesimulator/datetime.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/currenttime app/datetime_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/datetime_Prefix-flolkxkubgnskndfexuterxditls/datetime_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app"
+s345010848.427658
+e345010848.459205
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app
+lSLF07#2@96"Touch /Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app345010848#345010848#0(0"0(0#0#0"8603378688#305"    cd "/Users/sandeep/Desktop/sandeeprdy/currenttime app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/currenttime app/build/Debug-iphonesimulator/datetime.app"0#
+
+CTouch /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app
+s344423171.289627
+e344423171.345746
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app
+lSLF07#2@82"Touch /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app344423171#344423171#0(0"0(0#0#0"8601867392#273"    cd /Users/sandeep/Desktop/obj/datetime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/obj/datetime/build/Debug-iphonesimulator/datetime.app0#
+
+CTouch /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app
+s337593660.081067
+e337593660.084299
+r1
+xTouch
+x/Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app
+lSLF07#2@80"Touch /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app337593660#337593660#0(0"0(0#0#0"8610727264#269"    cd /Users/sandeep/Documents/datetime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Documents/datetime/build/Debug-iphonesimulator/datetime.app0#
+

@@ -1,0 +1,247 @@
+Tsender
+v7
+r0
+t340542446.225539
+cCheck dependencies
+cProcessInfoPlistFile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist sender-Info.plist
+cCompileXIB /Users/mreddy/Documents/sender/MainWindow.xib
+cCompileXIB /Users/mreddy/Documents/sender/senderViewController.xib
+cProcessPCH /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch sender_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o /Users/mreddy/Documents/sender/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o /Users/mreddy/Documents/sender/Classes/senderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mreddy/Documents/sender/Classes/senderAppDelegate.h
+c000000004E9C08A700000000000001DD
+t1318848679
+s477
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m
+c000000004E9C08A80000000000000A94
+t1318848680
+s2708
+i"senderAppDelegate.h"
+i"senderViewController.h"
+
+N/Users/mreddy/Documents/sender/Classes/senderViewController.h
+c000000004E9C0C6700000000000001E4
+t1318849639
+s484
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/sender/Classes/senderViewController.m
+c000000004E9C08A800000000000005C1
+t1318848680
+s1473
+i"senderViewController.h"
+
+N/Users/mreddy/Documents/sender/MainWindow.xib
+c000000004E9C08A80000000000004E1D
+t1318848680
+s19997
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app
+t2
+s0
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app.dSYM
+t2
+s0
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist
+t1318849639
+s587
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/MainWindow.nib
+t1318849642
+s1121
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/PkgInfo
+t1318849639
+s8
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender
+t2
+s0
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/senderViewController.nib
+t1318849642
+s795
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o
+t1318849645
+s6288
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/sender.LinkFileList
+c000000004E9C0C67000000000000016D
+t1318849639
+s365
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o
+t2
+s0
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o
+t2
+s0
+
+N/Users/mreddy/Documents/sender/main.m
+c000000004E9C08A8000000000000016C
+t1318848680
+s364
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/sender/senderViewController.xib
+c000000004E9C08A80000000000001A41
+t1318848680
+s6721
+
+N/Users/mreddy/Documents/sender/sender_Prefix.pch
+c000000004E9C08A800000000000000B5
+t1318848680
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch
+t1318849645
+s15453392
+
+Nsender-Info.plist
+c000000004E9C08A8000000000000038D
+t1318848680
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340542439#340542439#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o /Users/mreddy/Documents/sender/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340542445.417997
+e340542445.737850
+r1
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o
+x/Users/mreddy/Documents/sender/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/mreddy/Documents/sender/main.m340542445#340542445#0(0"0(0#0#37"/Users/mreddy/Documents/sender/main.m8613421536#1806"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch -c /Users/mreddy/Documents/sender/main.m -o /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340542445.420183
+e340542445.849307
+r0
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o
+x/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m:10:
+o/Users/mreddy/Documents/sender/Classes/senderViewController.h:14: error: expected specifier-qualifier-list before 'UIButton1'
+o/Users/mreddy/Documents/sender/Classes/senderViewController.h:18: error: expected specifier-qualifier-list before 'UIButton1'
+lSLF07#2@66"Compile /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m340542445#340542445#0(337"In file included from /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m:10:/Users/mreddy/Documents/sender/Classes/senderViewController.h:14: error: expected specifier-qualifier-list before 'UIButton1'/Users/mreddy/Documents/sender/Classes/senderViewController.h:18: error: expected specifier-qualifier-list before 'UIButton1'2(4@52"Expected specifier-qualifier-list before 'UIButton1'340542445#85#126#2(7@80"In file included from /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m340542445#18446744073709551615#0#0(6@58"/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m340541480#10#0#10#0#0"0(13@117"Expected specifier-qualifier-list before 'UIButton1' in /Users/mreddy/Documents/sender/Classes/senderViewController.h340542445#18446744073709551615#0#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#14#0#14#0#0"0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#14#0#14#0#19"expected * before *0(4@52"Expected specifier-qualifier-list before 'UIButton1'340542445#211#126#2(7@80"In file included from /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m340542445#18446744073709551615#0#0(6@58"/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m340541480#10#0#10#0#0"0(13@117"Expected specifier-qualifier-list before 'UIButton1' in /Users/mreddy/Documents/sender/Classes/senderViewController.h340542445#18446744073709551615#0#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#18#0#18#0#0"0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#18#0#18#0#19"expected * before *0(0#0#58"/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m8612282816#1840"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch -c /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m -o /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o1#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o /Users/mreddy/Documents/sender/Classes/senderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340542445.737941
+e340542446.225414
+r0
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o
+x/Users/mreddy/Documents/sender/Classes/senderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/mreddy/Documents/sender/Classes/senderViewController.m:9:
+o/Users/mreddy/Documents/sender/Classes/senderViewController.h:14: error: expected specifier-qualifier-list before 'UIButton1'
+o/Users/mreddy/Documents/sender/Classes/senderViewController.h:18: error: expected specifier-qualifier-list before 'UIButton1'
+o/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'button' requires method '-button' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'button' requires the method 'setButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'label' requires the method 'setLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@69"Compile /Users/mreddy/Documents/sender/Classes/senderViewController.m340542445#340542446#0(1133"In file included from /Users/mreddy/Documents/sender/Classes/senderViewController.m:9:/Users/mreddy/Documents/sender/Classes/senderViewController.h:14: error: expected specifier-qualifier-list before 'UIButton1'/Users/mreddy/Documents/sender/Classes/senderViewController.h:18: error: expected specifier-qualifier-list before 'UIButton1'/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'button' requires method '-button' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'button' requires the method 'setButton:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/mreddy/Documents/sender/Classes/senderViewController.m:66: warning: property 'label' requires the method 'setLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation6(4@52"Expected specifier-qualifier-list before 'UIButton1'340542445#87#126#2(7@83"In file included from /Users/mreddy/Documents/sender/Classes/senderViewController.m340542445#18446744073709551615#0#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.m340541480#9#0#9#0#0"0(13@117"Expected specifier-qualifier-list before 'UIButton1' in /Users/mreddy/Documents/sender/Classes/senderViewController.h340542445#18446744073709551615#0#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#14#0#14#0#0"0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#14#0#14#0#19"expected * before *0(4@52"Expected specifier-qualifier-list before 'UIButton1'340542445#213#126#2(7@83"In file included from /Users/mreddy/Documents/sender/Classes/senderViewController.m340542445#18446744073709551615#0#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.m340541480#9#0#9#0#0"0(13@117"Expected specifier-qualifier-list before 'UIButton1' in /Users/mreddy/Documents/sender/Classes/senderViewController.h340542445#18446744073709551615#0#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#18#0#18#0#0"0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.h340542439#18#0#18#0#19"expected * before *0(22@120"Property 'button' requires method '-button' to be defined - use @synthesize, @dynamic or provide a method implementation340542445#339#196#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.m340541480#66#0#66#0#0"0(22@127"Property 'button' requires the method 'setButton:' to be defined - use @synthesize, @dynamic or provide a method implementation340542445#535#203#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.m340541480#66#0#66#0#0"0(22@118"Property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation340542445#738#194#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.m340541480#66#0#66#0#0"0(22@125"Property 'label' requires the method 'setLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation340542445#932#201#0(6@61"/Users/mreddy/Documents/sender/Classes/senderViewController.m340541480#66#0#66#0#0"0(0#0#61"/Users/mreddy/Documents/sender/Classes/senderViewController.m8611538144#1846"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch -c /Users/mreddy/Documents/sender/Classes/senderViewController.m -o /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o1#
+
+CCompileXIB /Users/mreddy/Documents/sender/MainWindow.xib
+s340542439.811123
+e340542442.241472
+r1
+xCompileXIB
+x/Users/mreddy/Documents/sender/MainWindow.xib
+o2011-10-17 16:37:22.034 Interface Builder Cocoa Touch Tool[29702:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib340542439#340542442#0(241"2011-10-17 16:37:22.034 Interface Builder Cocoa Touch Tool[29702:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#45"/Users/mreddy/Documents/sender/MainWindow.xib8612161856#545"    cd /Users/mreddy/Documents/sender    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/MainWindow.nib /Users/mreddy/Documents/sender/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mreddy/Documents/sender/senderViewController.xib
+s340542439.814010
+e340542442.138994
+r1
+xCompileXIB
+x/Users/mreddy/Documents/sender/senderViewController.xib
+o2011-10-17 16:37:21.966 Interface Builder Cocoa Touch Tool[29701:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@35"CompileXIB senderViewController.xib340542439#340542442#0(241"2011-10-17 16:37:21.966 Interface Builder Cocoa Touch Tool[29701:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#55"/Users/mreddy/Documents/sender/senderViewController.xib8612251872#565"    cd /Users/mreddy/Documents/sender    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/senderViewController.nib /Users/mreddy/Documents/sender/senderViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app.dSYM /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender
+r0
+
+CLd /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender normal i386
+r0
+
+CProcessInfoPlistFile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist sender-Info.plist
+s340542439.752543
+e340542439.811024
+r1
+xProcessInfoPlistFile
+x/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist
+xsender-Info.plist
+lSLF07#2@25"Process sender-Info.plist340542439#340542439#0(0"0(0#0#48"/Users/mreddy/Documents/sender/sender-Info.plist8612310944#452"    cd /Users/mreddy/Documents/sender    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility sender-Info.plist -genpkginfo /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist0#
+
+CProcessPCH /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch sender_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340542442.241665
+e340542445.417790
+r1
+xProcessPCH
+x/var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch
+xsender_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile sender_Prefix.pch340542442#340542445#0(0"0(0#0#48"/Users/mreddy/Documents/sender/sender_Prefix.pch8612485664#1707"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -c /Users/mreddy/Documents/sender/sender_Prefix.pch -o /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch0#
+
+CTouch /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app
+r0
+

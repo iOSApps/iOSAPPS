@@ -1,0 +1,333 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 564}";
+		};
+	};
+	1D3623250D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{605, 1111}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* IndainRailWayPNRStatus */ = {
+		activeExec = 0;
+		executables = (
+			821C788A150B2A7E00304526 /* IndainRailWayPNRStatus */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 293}}";
+			sepNavSelRange = "{368, 0}";
+			sepNavVisRange = "{0, 538}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 975}}";
+			sepNavSelRange = "{1083, 0}";
+			sepNavVisRange = "{1030, 412}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 821C788A150B2A7E00304526 /* IndainRailWayPNRStatus */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IndainRailWayPNRStatus */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* IndainRailWayPNRStatus */,
+		);
+		codeSenseManager = 821C789E150B2A9500304526 /* Code sense */;
+		executables = (
+			821C788A150B2A7E00304526 /* IndainRailWayPNRStatus */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					387,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					465,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					591,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					517,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					553,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					537,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353330376;
+			PBXWorkspaceStateSaveDate = 353330376;
+		};
+		perUserProjectItems = {
+			821C7939150B3C4200304526 /* PBXTextBookmark */ = 821C7939150B3C4200304526 /* PBXTextBookmark */;
+			823B3D01150F67AC00F6B9AD /* PBXTextBookmark */ = 823B3D01150F67AC00F6B9AD /* PBXTextBookmark */;
+			823B3D02150F67AC00F6B9AD /* PBXTextBookmark */ = 823B3D02150F67AC00F6B9AD /* PBXTextBookmark */;
+			823B3D03150F67AC00F6B9AD /* PBXTextBookmark */ = 823B3D03150F67AC00F6B9AD /* PBXTextBookmark */;
+			823B3D04150F67AC00F6B9AD /* PBXTextBookmark */ = 823B3D04150F67AC00F6B9AD /* PBXTextBookmark */;
+			823B3D05150F67AC00F6B9AD /* PBXTextBookmark */ = 823B3D05150F67AC00F6B9AD /* PBXTextBookmark */;
+			823B3D06150F67AC00F6B9AD /* PBXTextBookmark */ = 823B3D06150F67AC00F6B9AD /* PBXTextBookmark */;
+			823B3D07150F67AC00F6B9AD /* PBXTextBookmark */ = 823B3D07150F67AC00F6B9AD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 821C789D150B2A9500304526 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	821C788A150B2A7E00304526 /* IndainRailWayPNRStatus */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IndainRailWayPNRStatus;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	821C789D150B2A9500304526 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	821C789E150B2A9500304526 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	821C789F150B2C8700304526 /* PNRStatusDetailView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 377}}";
+			sepNavSelRange = "{814, 0}";
+			sepNavVisRange = "{153, 959}";
+		};
+	};
+	821C78A0150B2C8700304526 /* PNRStatusDetailView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1950}}";
+			sepNavSelRange = "{1510, 0}";
+			sepNavVisRange = "{757, 914}";
+		};
+	};
+	821C7939150B3C4200304526 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 821C793A150B3C4200304526 /* UIAlertView.h */;
+		name = "UIAlertView.h: 113";
+		rLen = 0;
+		rLoc = 4801;
+		rType = 0;
+		vrLen = 1400;
+		vrLoc = 4616;
+	};
+	821C793A150B3C4200304526 /* UIAlertView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIAlertView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h;
+		sourceTree = "<absolute>";
+	};
+	823B3D01150F67AC00F6B9AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.h */;
+		name = "IndainRailWayPNRStatusAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	823B3D02150F67AC00F6B9AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.m */;
+		name = "IndainRailWayPNRStatusViewController.m: 32";
+		rLen = 0;
+		rLoc = 1083;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 1030;
+	};
+	823B3D03150F67AC00F6B9AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IndainRailWayPNRStatusAppDelegate.m */;
+		name = "IndainRailWayPNRStatusAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 605;
+	};
+	823B3D04150F67AC00F6B9AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IndainRailWayPNRStatusViewController.h */;
+		name = "IndainRailWayPNRStatusViewController.h: 15";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 538;
+		vrLoc = 0;
+	};
+	823B3D05150F67AC00F6B9AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 821C789F150B2C8700304526 /* PNRStatusDetailView.h */;
+		name = "PNRStatusDetailView.h: 21";
+		rLen = 0;
+		rLoc = 814;
+		rType = 0;
+		vrLen = 959;
+		vrLoc = 153;
+	};
+	823B3D06150F67AC00F6B9AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 821C78A0150B2C8700304526 /* PNRStatusDetailView.m */;
+		name = "PNRStatusDetailView.m: 52";
+		rLen = 0;
+		rLoc = 1757;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 0;
+	};
+	823B3D07150F67AC00F6B9AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 821C78A0150B2C8700304526 /* PNRStatusDetailView.m */;
+		name = "PNRStatusDetailView.m: 41";
+		rLen = 0;
+		rLoc = 1510;
+		rType = 0;
+		vrLen = 914;
+		vrLoc = 757;
+	};
+}

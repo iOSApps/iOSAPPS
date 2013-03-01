@@ -1,0 +1,80 @@
+Tflip
+v7
+r1
+cCheck dependencies
+
+N/Users/sandeep/Desktop/flip/Classes/save.plist
+c000000004E9E64AC00000000000000B6
+t1319003308
+s182
+
+N/Users/sandeep/Desktop/flip/Classes/second.xib
+c000000004E9E639400000000000039E2
+t1319003028
+s14818
+
+N/Users/sandeep/Desktop/flip/MainWindow.xib
+c000000004E9D5C5C000000000000242D
+t1318935644
+s9261
+
+N/Users/sandeep/Desktop/flip/build/Debug/flip.app
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/Resources/flipViewController.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/Resources/save.plist
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/Resources/second.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/flipViewController.xib
+c000000004E9D6F8C0000000000002D00
+t1318940556
+s11520
+
+Nflip-Info.plist
+c000000004E9D5C5C000000000000038D
+t1318935644
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349794131#349794131#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1'1(4@58"error: There is no SDK with the name or path 'iphoneos3.1'349794131#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB /Users/sandeep/Desktop/flip/Classes/second.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/flip/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/flip/flipViewController.xib
+r0
+
+CCopyPlistFile /Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/Resources/save.plist Classes/save.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/flip/build/Debug/flip.app/Contents/Info.plist flip-Info.plist
+r0
+
+CTouch /Users/sandeep/Desktop/flip/build/Debug/flip.app
+r0
+

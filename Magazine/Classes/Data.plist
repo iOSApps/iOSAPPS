@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Publisher</key>
+		<string></string>
+		<key>Name</key>
+		<string>India Today</string>
+		<key>NumRatings</key>
+		<integer>156</integer>
+		<key>Rating</key>
+		<real>3.5</real>
+		<key>Price</key>
+		<string>₹ 32</string>
+		<key>Icon</key>
+		<string>m1.jpg</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string></string>
+		<key>Name</key>
+		<string>Business Today</string>
+		<key>NumRatings</key>
+		<integer>142</integer>
+		<key>Rating</key>
+		<integer>3</integer>
+		<key>Price</key>
+		<string>₹ 25</string>
+		<key>Icon</key>
+		<string>m2.jpg</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string></string>
+		<key>Name</key>
+		<string>Macworld</string>
+		<key>NumRatings</key>
+		<integer>95</integer>
+		<key>Rating</key>
+		<real>2.5</real>
+		<key>Price</key>
+		<string>Free</string>
+		<key>Icon</key>
+		<string>m3.jpg</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string></string>
+		<key>Name</key>
+		<string>PCWorld</string>
+		<key>NumRatings</key>
+		<integer>76</integer>
+		<key>Rating</key>
+		<integer>2</integer>
+		<key>Price</key>
+		<string>₹ 20</string>
+		<key>Icon</key>
+		<string>m5.jpg</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string></string>
+		<key>Name</key>
+		<string>Money Today</string>
+		<key>NumRatings</key>
+		<integer>44</integer>
+		<key>Rating</key>
+		<integer>1</integer>
+		<key>Price</key>
+		<string>₹ 10 </string>
+		<key>Icon</key>
+		<string>m4.jpg</string>
+	</dict>
+</array>
+</plist>

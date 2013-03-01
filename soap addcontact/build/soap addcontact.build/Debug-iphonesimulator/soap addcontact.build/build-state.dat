@@ -1,0 +1,616 @@
+Tsoap addcontact
+v7
+r0
+t357735877.252375
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist" soap_addcontact-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/soap_addcontactViewController.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch.gch soap_addcontact_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactAppDelegate.h
+c000000004F570BD8000000000000020C
+t1331104728
+s524
+i<UIKit/UIKit.h>
+
+N/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactAppDelegate.m
+c000000004F570BDA0000000000000ABA
+t1331104730
+s2746
+i"soap_addcontactAppDelegate.h"
+i"soap_addcontactViewController.h"
+
+N/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactViewController.h
+c000000004F570DCD0000000000000313
+t1331105229
+s787
+i<UIKit/UIKit.h>
+
+N/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactViewController.m
+c000000004F570D080000000000001344
+t1331105032
+s4932
+i"soap_addcontactViewController.h"
+
+N/Users/jyothsna/Desktop/soap addcontact/MainWindow.xib
+c000000004F570BDE0000000000004E89
+t1331104734
+s20105
+
+N/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app
+t1331105237
+s238
+
+N/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM
+t1331105237
+s102
+
+N/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist
+t1331104981
+s629
+
+N/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/MainWindow.nib
+t1331104982
+s1139
+
+N/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/PkgInfo
+t1331104981
+s8
+
+N/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+t1331105236
+s26712
+
+N/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap_addcontactViewController.nib
+t1331104982
+s2257
+
+N/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o
+t1331104995
+s6304
+
+N/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap addcontact.LinkFileList
+c000000004F570CD500000000000001D0
+t1331104981
+s464
+
+N/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o
+t1331105236
+s51904
+
+N/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o
+t1331105236
+s62936
+
+N/Users/jyothsna/Desktop/soap addcontact/main.m
+c000000004F570BE2000000000000016E
+t1331104738
+s366
+i<UIKit/UIKit.h>
+
+N/Users/jyothsna/Desktop/soap addcontact/soap_addcontactViewController.xib
+c000000004F570CD30000000000006B29
+t1331104979
+s27433
+
+N/Users/jyothsna/Desktop/soap addcontact/soap_addcontact_Prefix.pch
+c000000004F570BE100000000000000C7
+t1331104737
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactAppDelegate.h
+c000000004F570BD8000000000000020C
+t1331104728
+s524
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactAppDelegate.m
+c000000004F570BDA0000000000000ABA
+t1331104730
+s2746
+i"soap_addcontactAppDelegate.h"
+i"soap_addcontactViewController.h"
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactViewController.h
+c000000004F570DCD0000000000000313
+t1331105229
+s787
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactViewController.m
+c000000004F570D080000000000001344
+t1331105032
+s4932
+i"soap_addcontactViewController.h"
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/MainWindow.xib
+c000000004F570BDE0000000000004E89
+t1331104734
+s20105
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app
+t1331963909
+s238
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM
+t1331963909
+s102
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist
+t1331104981
+s629
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/MainWindow.nib
+t1331104982
+s1139
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/PkgInfo
+t1331104981
+s8
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+t1331963909
+s26916
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap_addcontactViewController.nib
+t1331104982
+s2257
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o
+t1331963909
+s6372
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap addcontact.LinkFileList
+c000000004F6428040000000000000236
+t1331963908
+s566
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o
+t1331963909
+s51972
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o
+t1331963909
+s63004
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/main.m
+c000000004F570BE2000000000000016E
+t1331104738
+s366
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/soap_addcontactViewController.xib
+c000000004F570CD30000000000006B29
+t1331104979
+s27433
+
+N/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/soap_addcontact_Prefix.pch
+c000000004F570BE100000000000000C7
+t1331104737
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.h
+c000000004F570BD8000000000000020C
+t1331104728
+s524
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.m
+c000000004F570BDA0000000000000ABA
+t1331104730
+s2746
+i"soap_addcontactAppDelegate.h"
+i"soap_addcontactViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.h
+c000000004F570DCD0000000000000313
+t1331105229
+s787
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.m
+c000000004FA266440000000000001344
+t1336043076
+s4932
+i"soap_addcontactViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/MainWindow.xib
+c000000004F570BDE0000000000004E89
+t1331104734
+s20105
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app
+t1336043077
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM
+t1336043077
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist
+t1331104981
+s629
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/MainWindow.nib
+t1331104982
+s1139
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/PkgInfo
+t1331104981
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+t1336043077
+s26872
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap_addcontactViewController.nib
+t1331104982
+s2257
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o
+t1336043015
+s6360
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap addcontact.LinkFileList
+c000000004FA266060000000000000221
+t1336043014
+s545
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o
+t1336043015
+s51960
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o
+t1336043077
+s62988
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/main.m
+c000000004F570BE2000000000000016E
+t1331104738
+s366
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/soap_addcontactViewController.xib
+c000000004F570CD30000000000006B29
+t1331104979
+s27433
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/soap_addcontact_Prefix.pch
+c000000004F570BE100000000000000C7
+t1331104737
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/soap_addcontact_Prefix-aaedslfbnoanlqdwexsyksorcbui/soap_addcontact_Prefix.pch.gch
+t1331104995
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch.gch
+t1336043015
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aykzvkeulgvigzdffypcljlayolk/soap_addcontact_Prefix.pch.gch
+t1331785941
+s15453392
+
+Nsoap_addcontact-Info.plist
+c000000004F570BE1000000000000038D
+t1331104737
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies357735876#357735877#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o" "/Users/jyothsna/Desktop/soap addcontact/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s352797795.790434
+e352797795.898589
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o
+x/Users/jyothsna/Desktop/soap addcontact/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jyothsna/Desktop/soap addcontact/main.m352797795#352797795#0(0"0(0#0#46"/Users/jyothsna/Desktop/soap addcontact/main.m8602930272#2107"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator" "-I/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/soap_addcontact_Prefix-aaedslfbnoanlqdwexsyksorcbui/soap_addcontact_Prefix.pch -c "/Users/jyothsna/Desktop/soap addcontact/main.m" -o "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o" "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353656708.280109
+e353656709.027266
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/main.m353656708#353656709#0(0"0(0#0#80"/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/main.m8606170272#2481"    cd "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aykzvkeulgvigzdffypcljlayolk/soap_addcontact_Prefix.pch -c "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/main.m" -o "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s357735815.292626
+e357735815.382688
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/main.m357735815#357735815#0(0"0(0#0#73"/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/main.m8601407264#2404"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o" "/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s352798036.510988
+e352798036.651588
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o
+x/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactAppDelegate.m352798036#352798036#0(0"0(0#0#76"/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactAppDelegate.m8614704352#2159"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator" "-I/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/soap_addcontact_Prefix-aaedslfbnoanlqdwexsyksorcbui/soap_addcontact_Prefix.pch -c "/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactAppDelegate.m" -o "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o" "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353656708.281157
+e353656709.089073
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o
+x/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactAppDelegate.m353656708#353656709#0(0"0(0#0#110"/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactAppDelegate.m8611752288#2533"    cd "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aykzvkeulgvigzdffypcljlayolk/soap_addcontact_Prefix.pch -c "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactAppDelegate.m" -o "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s357735815.294184
+e357735815.471947
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.m357735815#357735815#0(0"0(0#0#103"/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.m8603305344#2456"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactAppDelegate.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o" "/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s352798036.512090
+e352798036.667209
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o
+x/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactViewController.m352798036#352798036#0(0"0(0#0#79"/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactViewController.m8613846272#2165"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator" "-I/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/soap_addcontact_Prefix-aaedslfbnoanlqdwexsyksorcbui/soap_addcontact_Prefix.pch -c "/Users/jyothsna/Desktop/soap addcontact/Classes/soap_addcontactViewController.m" -o "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o" "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353656709.027371
+e353656709.175345
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o
+x/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactViewController.m353656709#353656709#0(0"0(0#0#113"/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactViewController.m8607128416#2539"    cd "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aykzvkeulgvigzdffypcljlayolk/soap_addcontact_Prefix.pch -c "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/Classes/soap_addcontactViewController.m" -o "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o"0#
+
+CCompileC "build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s357735876.856818
+e357735877.200992
+r1
+xCompileC
+xbuild/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.m357735876#357735877#0(0"0(0#0#106"/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.m8600903104#2462"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/Classes/soap_addcontactViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap_addcontactViewController.o"0#
+
+CCompileXIB "/Users/jyothsna/Desktop/soap addcontact/MainWindow.xib"
+s352797781.882586
+e352797782.651570
+r1
+xCompileXIB
+x/Users/jyothsna/Desktop/soap addcontact/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib352797781#352797782#0(0"0(0#0#54"/Users/jyothsna/Desktop/soap addcontact/MainWindow.xib8601322944#587"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/MainWindow.nib" "/Users/jyothsna/Desktop/soap addcontact/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/jyothsna/Desktop/soap addcontact/soap_addcontactViewController.xib"
+s352797781.883356
+e352797782.584624
+r1
+xCompileXIB
+x/Users/jyothsna/Desktop/soap addcontact/soap_addcontactViewController.xib
+lSLF07#2@44"CompileXIB soap_addcontactViewController.xib352797781#352797782#0(0"0(0#0#73"/Users/jyothsna/Desktop/soap addcontact/soap_addcontactViewController.xib8607391616#625"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap_addcontactViewController.nib" "/Users/jyothsna/Desktop/soap addcontact/soap_addcontactViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/soap_addcontactViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/soap_addcontactViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM" "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"
+s352798036.935399
+e352798037.315688
+r1
+xGenerateDSYMFile
+x/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM
+x/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+lSLF07#2@137"GenerateDSYMFile "build/Debug-iphonesimulator/soap addcontact.app.dSYM" "build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"352798036#352798037#0(0"0(0#0#103"/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact8617092768#416"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact" -o "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM" "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"
+s353656709.202235
+e353656709.230112
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM
+x/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+lSLF07#2@137"GenerateDSYMFile "build/Debug-iphonesimulator/soap addcontact.app.dSYM" "build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"353656709#353656709#0(0"0(0#0#137"/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact8604804960#518"    cd "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact" -o "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"
+s357735877.227342
+e357735877.249678
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+lSLF07#2@137"GenerateDSYMFile "build/Debug-iphonesimulator/soap addcontact.app.dSYM" "build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"357735877#357735877#0(0"0(0#0#130"/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact8604486176#497"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app.dSYM"0#
+
+CLd "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact" normal i386
+s352798036.667303
+e352798036.935292
+r1
+xLd
+x/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+xnormal
+xi386
+lSLF07#2@108"Link /Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact352798036#352798036#0(0"0(0#0#0"8602928896#955"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator" "-F/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator" -filelist "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap addcontact.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"0#
+
+CLd "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact" normal i386
+s353656709.175440
+e353656709.202135
+r1
+xLd
+x/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+xnormal
+xi386
+lSLF07#2@142"Link /Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact353656709#353656709#0(0"0(0#0#0"8605202432#1125"    cd "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap addcontact.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact" normal i386
+s357735877.201085
+e357735877.227240
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact
+xnormal
+xi386
+lSLF07#2@135"Link /Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact357735877#357735877#0(0"0(0#0#0"8603380032#1090"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/Objects-normal/i386/soap addcontact.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/soap addcontact"0#
+
+CProcessInfoPlistFile "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist" soap_addcontact-Info.plist
+s352797781.714203
+e352797781.882488
+r1
+xProcessInfoPlistFile
+x/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist
+xsoap_addcontact-Info.plist
+lSLF07#2@34"Process soap_addcontact-Info.plist352797781#352797781#0(0"0(0#0#66"/Users/jyothsna/Desktop/soap addcontact/soap_addcontact-Info.plist8614522592#512"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility soap_addcontact-Info.plist -genpkginfo "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist" soap_addcontact-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app/Info.plist" soap_addcontact-Info.plist
+r0
+
+CProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/soap_addcontact_Prefix-aaedslfbnoanlqdwexsyksorcbui/soap_addcontact_Prefix.pch.gch soap_addcontact_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s352797782.651693
+e352797795.790194
+r1
+xProcessPCH
+x/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/soap_addcontact_Prefix-aaedslfbnoanlqdwexsyksorcbui/soap_addcontact_Prefix.pch.gch
+xsoap_addcontact_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile soap_addcontact_Prefix.pch352797782#352797795#0(0"0(0#0#66"/Users/jyothsna/Desktop/soap addcontact/soap_addcontact_Prefix.pch8615499072#1988"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator" "-I/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/jyothsna/Desktop/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -c "/Users/jyothsna/Desktop/soap addcontact/soap_addcontact_Prefix.pch" -o /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/soap_addcontact_Prefix-aaedslfbnoanlqdwexsyksorcbui/soap_addcontact_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch.gch soap_addcontact_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s357735814.138220
+e357735815.292510
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch.gch
+xsoap_addcontact_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile soap_addcontact_Prefix.pch357735814#357735815#0(0"0(0#0#93"/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/soap_addcontact_Prefix.pch8026369343197507584#2258"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/soap addcontact-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/soap addcontact.build/Debug-iphonesimulator/soap addcontact.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/soap_addcontact_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aamqmrapmfpksvfekugezhtbqhrh/soap_addcontact_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/soap_addcontact_Prefix-aykzvkeulgvigzdffypcljlayolk/soap_addcontact_Prefix.pch.gch soap_addcontact_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app"
+s352798037.315805
+e352798037.344981
+r1
+xTouch
+x/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app
+lSLF07#2@93"Touch /Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app352798037#352798037#0(0"0(0#0#0"8614959488#292"    cd "/Users/jyothsna/Desktop/soap addcontact"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/jyothsna/Desktop/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app"0#
+
+CTouch "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app"
+s353656709.230203
+e353656709.234278
+r1
+xTouch
+x/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app
+lSLF07#2@127"Touch /Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app353656709#353656709#0(0"0(0#0#0"8601279456#360"    cd "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/iphone and objective c programming/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app"
+s357735877.249765
+e357735877.252336
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app
+lSLF07#2@120"Touch /Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app357735877#357735877#0(0"0(0#0#0"8600124640#346"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/soap addcontact/build/Debug-iphonesimulator/soap addcontact.app"0#
+

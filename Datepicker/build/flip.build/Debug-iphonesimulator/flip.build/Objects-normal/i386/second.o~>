@@ -1,0 +1,4 @@
+/Users/flab/Desktop/flip/Classes/second.m:103: warning: incomplete implementation of class 'second'
+/Users/flab/Desktop/flip/Classes/second.m:103: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found
+/Users/flab/Desktop/flip/Classes/second.m:103: warning: method definition for '-numberOfComponentsInPickerView:' not found
+/Users/flab/Desktop/flip/Classes/second.m:103: warning: class 'second' does not fully implement the 'UIPickerViewDataSource' protocol

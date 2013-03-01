@@ -1,0 +1,1085 @@
+Tanimation
+v7
+r0
+t355297239.702468
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/Info.plist" animation-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/animationViewController.xib"
+cCpResource build/Debug-iphonesimulator/animation.app/index.jpg index.jpg
+cCpResource build/Debug-iphonesimulator/animation.app/7.png 7.png
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch.gch animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/animation/../../Desktop/index.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/obj/animation/Classes/animationAppDelegate.h
+c000000004DC1029B00000000000001E7
+t1304494747
+s487
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/animation/Classes/animationAppDelegate.m
+c000000004DC1029B0000000000000A9B
+t1304494747
+s2715
+i"animationAppDelegate.h"
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/obj/animation/Classes/animationViewController.h
+c000000004DC2388A0000000000000207
+t1304574090
+s519
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/animation/Classes/animationViewController.m
+c000000004DC789F50000000000000CC5
+t1304922613
+s3269
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/obj/animation/MainWindow.xib
+c000000004DC1029B0000000000004E41
+t1304494747
+s20033
+
+N/Users/sandeep/Desktop/obj/animation/animationViewController.xib
+c000000004DC1029B0000000000001A4D
+t1304494747
+s6733
+
+N/Users/sandeep/Desktop/obj/animation/animation_Prefix.pch
+c000000004DC1029B00000000000000BB
+t1304494747
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app
+t1322724840
+s272
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app.dSYM
+t1322724796
+s102
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/Info.plist
+t1304497067
+s599
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/MainWindow.nib
+t1304497069
+s1127
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/PkgInfo
+t1304497067
+s8
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation
+t1322724795
+s24272
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animationViewController.nib
+t1304497069
+s795
+
+N/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/index.jpg
+t1322724840
+s6409
+
+N/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList
+c000000004ED72DB50000000000000197
+t1322724789
+s407
+
+N/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+t1322724795
+s51116
+
+N/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+t1322724795
+s52204
+
+N/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+t1322724795
+s6300
+
+N/Users/sandeep/Desktop/obj/animation/index.jpg
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Desktop/obj/animation/main.m
+c000000004DC1029B0000000000000167
+t1304494747
+s359
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/animations/Classes/animationAppDelegate.h
+c000000004DC1029B00000000000001E7
+t1304494747
+s487
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/animations/Classes/animationAppDelegate.m
+c000000004DC1029B0000000000000A9B
+t1304494747
+s2715
+i"animationAppDelegate.h"
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/obj/animations/Classes/animationViewController.h
+c000000004DC2388A0000000000000207
+t1304574090
+s519
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/animations/Classes/animationViewController.m
+c000000004DC789F50000000000000CC5
+t1304922613
+s3269
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/obj/animations/MainWindow.xib
+c000000004DC1029B0000000000004E41
+t1304494747
+s20033
+
+N/Users/sandeep/Desktop/obj/animations/animationViewController.xib
+c000000004DC1029B0000000000001A4D
+t1304494747
+s6733
+
+N/Users/sandeep/Desktop/obj/animations/animation_Prefix.pch
+c000000004DC1029B00000000000000BB
+t1304494747
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app
+t1322735177
+s272
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app.dSYM
+t1322735177
+s102
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/Info.plist
+t1304497067
+s599
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/MainWindow.nib
+t1304497069
+s1127
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/PkgInfo
+t1304497067
+s8
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation
+t1322735177
+s24276
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animationViewController.nib
+t1304497069
+s795
+
+N/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/index.jpg
+t1322724840
+s6409
+
+N/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList
+c000000004ED75647000000000000019A
+t1322735175
+s410
+
+N/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+t1322735177
+s51120
+
+N/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+t1322735177
+s52212
+
+N/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+t1322735176
+s6300
+
+N/Users/sandeep/Desktop/obj/animations/index.jpg
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Desktop/obj/animations/main.m
+c000000004DC1029B0000000000000167
+t1304494747
+s359
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationAppDelegate.h
+c000000004DC1029B00000000000001E7
+t1304494747
+s487
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationAppDelegate.m
+c000000004DC1029B0000000000000A9B
+t1304494747
+s2715
+i"animationAppDelegate.h"
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationViewController.h
+c000000004DC2388A0000000000000207
+t1304574090
+s519
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationViewController.m
+c000000004F35FCAA0000000000000CCA
+t1328938154
+s3274
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/MainWindow.xib
+c000000004DC1029B0000000000004E41
+t1304494747
+s20033
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/animationViewController.xib
+c000000004DC1029B0000000000001A4D
+t1304494747
+s6733
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/animation_Prefix.pch
+c000000004DC1029B00000000000000BB
+t1304494747
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app
+t1328938154
+s272
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app.dSYM
+t1328938154
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/Info.plist
+t1304497067
+s599
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/MainWindow.nib
+t1304497069
+s1127
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/PkgInfo
+t1304497067
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation
+t1328938154
+s24344
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animationViewController.nib
+t1304497069
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/index.jpg
+t1322724840
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList
+c000000004F0AB7CD00000000000001BB
+t1326102477
+s443
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+t1326102478
+s51140
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+t1328938154
+s52224
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+t1326102478
+s6324
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/index.jpg
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/animations app/main.m
+c000000004DC1029B0000000000000167
+t1304494747
+s359
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/7.png
+c000000004EFDBCD200000000000007A1
+t1325251794
+s1953
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.h
+c000000004DC1029B00000000000001E7
+t1304494747
+s487
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.m
+c000000004DC1029B0000000000000A9B
+t1304494747
+s2715
+i"animationAppDelegate.h"
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.h
+c000000004DC2388A0000000000000207
+t1304574090
+s519
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.m
+c000000004F7BCEC50000000000000CC6
+t1333513925
+s3270
+i"animationViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/MainWindow.xib
+c000000004DC1029B0000000000004E41
+t1304494747
+s20033
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/animationViewController.xib
+c000000004DC1029B0000000000001A4D
+t1304494747
+s6733
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/animation_Prefix.pch
+c000000004DC1029B00000000000000BB
+t1304494747
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app
+t1333513927
+s306
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app.dSYM
+t1333513927
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/7.png
+t1333513925
+s1953
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/Info.plist
+t1304497067
+s599
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/MainWindow.nib
+t1304497069
+s1127
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/PkgInfo
+t1304497067
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation
+t1333513927
+s24444
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animationViewController.nib
+t1304497069
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/index.jpg
+t1322724840
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList
+c000000004F7BCEC500000000000001EE
+t1333513925
+s494
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+t1333513927
+s51176
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+t1333513927
+s52256
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+t1333513927
+s6356
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/index.jpg
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/main.m
+c000000004DC1029B0000000000000167
+t1304494747
+s359
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/animation/../../Desktop/index.jpg
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Documents/animation/Classes/animationAppDelegate.h
+c000000004DC1029B00000000000001E7
+t1304494747
+s487
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/animation/Classes/animationAppDelegate.m
+c000000004DC1029B0000000000000A9B
+t1304494747
+s2715
+i"animationAppDelegate.h"
+i"animationViewController.h"
+
+N/Users/sandeep/Documents/animation/Classes/animationViewController.h
+c000000004DC2388A0000000000000207
+t1304574090
+s519
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/animation/Classes/animationViewController.m
+c000000004DC789F50000000000000CC5
+t1304922613
+s3269
+i"animationViewController.h"
+
+N/Users/sandeep/Documents/animation/MainWindow.xib
+c000000004DC1029B0000000000004E41
+t1304494747
+s20033
+
+N/Users/sandeep/Documents/animation/animationViewController.xib
+c000000004DC1029B0000000000001A4D
+t1304494747
+s6733
+
+N/Users/sandeep/Documents/animation/animation_Prefix.pch
+c000000004DC1029B00000000000000BB
+t1304494747
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app
+t1304922613
+s272
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app.dSYM
+t1304922613
+s102
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/Info.plist
+t1304497067
+s599
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/MainWindow.nib
+t1304497069
+s1127
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/PkgInfo
+t1304497067
+s8
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation
+t1304922613
+s24260
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animationViewController.nib
+t1304497069
+s795
+
+N/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/index.jpg
+t1304571437
+s6409
+
+N/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList
+c000000004DC10BAB0000000000000191
+t1304497067
+s401
+
+N/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+t1304574091
+s51112
+
+N/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+t1304922613
+s52204
+
+N/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+t1304497072
+s6296
+
+N/Users/sandeep/Documents/animation/main.m
+c000000004DC1029B0000000000000167
+t1304494747
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch.gch
+t1333513927
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-akjyvzxbhwqnvkgjctowwoikfcpd/animation_Prefix.pch.gch
+t1326102477
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-chempmsfhilgccggtdvgtxmguaep/animation_Prefix.pch.gch
+t1304497072
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-dlzgmcerxldbogejmfkhrhnsdhpm/animation_Prefix.pch.gch
+t1322724793
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-gwpnxqhhtsdqeqdykazoaaxpjlya/animation_Prefix.pch.gch
+t1322735176
+s15453392
+
+Nanimation-Info.plist
+c000000004DC1029B000000000000038D
+t1304494747
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355297237#355297239#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347795278.083697
+e347795278.175383
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationAppDelegate.m347795278#347795278#0(0"0(0#0#79"/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationAppDelegate.m8607329216#2126"    cd "/Users/sandeep/Desktop/sandeeprdy/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-akjyvzxbhwqnvkgjctowwoikfcpd/animation_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o"0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206727.534484
+e355206727.636267
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.m355206727#355206727#0(0"0(0#0#96"/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.m8604110816#2313"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o"0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o /Users/sandeep/Desktop/obj/animation/Classes/animationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344417594.828267
+e344417595.327500
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+x/Users/sandeep/Desktop/obj/animation/Classes/animationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Desktop/obj/animation/Classes/animationAppDelegate.m344417594#344417595#0(0"0(0#0#67"/Users/sandeep/Desktop/obj/animation/Classes/animationAppDelegate.m8596114592#1972"    cd /Users/sandeep/Desktop/obj/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-dlzgmcerxldbogejmfkhrhnsdhpm/animation_Prefix.pch -c /Users/sandeep/Desktop/obj/animation/Classes/animationAppDelegate.m -o /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o /Users/sandeep/Desktop/obj/animations/Classes/animationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427976.870505
+e344427977.035010
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+x/Users/sandeep/Desktop/obj/animations/Classes/animationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/sandeep/Desktop/obj/animations/Classes/animationAppDelegate.m344427976#344427977#0(0"0(0#0#68"/Users/sandeep/Desktop/obj/animations/Classes/animationAppDelegate.m8607181984#1983"    cd /Users/sandeep/Desktop/obj/animations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-gwpnxqhhtsdqeqdykazoaaxpjlya/animation_Prefix.pch -c /Users/sandeep/Desktop/obj/animations/Classes/animationAppDelegate.m -o /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o /Users/sandeep/Documents/animation/Classes/animationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326266890.971077
+e326266891.146308
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o
+x/Users/sandeep/Documents/animation/Classes/animationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sandeep/Documents/animation/Classes/animationAppDelegate.m326266890#326266891#0(0"0(0#0#65"/Users/sandeep/Documents/animation/Classes/animationAppDelegate.m8612794112#1950"    cd /Users/sandeep/Documents/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Documents/animation/build/Debug-iphonesimulator -I/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-chempmsfhilgccggtdvgtxmguaep/animation_Prefix.pch -c /Users/sandeep/Documents/animation/Classes/animationAppDelegate.m -o /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationAppDelegate.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o "/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350630954.289278
+e350630954.564394
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationViewController.m350630954#350630954#0(0"0(0#0#82"/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationViewController.m8611234816#2132"    cd "/Users/sandeep/Desktop/sandeeprdy/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-akjyvzxbhwqnvkgjctowwoikfcpd/animation_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/animations app/Classes/animationViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o"0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206727.636374
+e355206727.754449
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.m355206727#355206727#0(0"0(0#0#99"/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.m8603530368#2319"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/Classes/animationViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o"0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o /Users/sandeep/Desktop/obj/animation/Classes/animationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344417595.327596
+e344417595.607841
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+x/Users/sandeep/Desktop/obj/animation/Classes/animationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/sandeep/Desktop/obj/animation/Classes/animationViewController.m344417595#344417595#0(0"0(0#0#70"/Users/sandeep/Desktop/obj/animation/Classes/animationViewController.m8601074624#1978"    cd /Users/sandeep/Desktop/obj/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-dlzgmcerxldbogejmfkhrhnsdhpm/animation_Prefix.pch -c /Users/sandeep/Desktop/obj/animation/Classes/animationViewController.m -o /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o /Users/sandeep/Desktop/obj/animations/Classes/animationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427976.952923
+e344427977.117829
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+x/Users/sandeep/Desktop/obj/animations/Classes/animationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/Desktop/obj/animations/Classes/animationViewController.m344427976#344427977#0(0"0(0#0#71"/Users/sandeep/Desktop/obj/animations/Classes/animationViewController.m8601130400#1989"    cd /Users/sandeep/Desktop/obj/animations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-gwpnxqhhtsdqeqdykazoaaxpjlya/animation_Prefix.pch -c /Users/sandeep/Desktop/obj/animations/Classes/animationViewController.m -o /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o /Users/sandeep/Documents/animation/Classes/animationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326615413.257758
+e326615413.584577
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o
+x/Users/sandeep/Documents/animation/Classes/animationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/sandeep/Documents/animation/Classes/animationViewController.m326615413#326615413#0(0"0(0#0#68"/Users/sandeep/Documents/animation/Classes/animationViewController.m8614761664#1956"    cd /Users/sandeep/Documents/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Documents/animation/build/Debug-iphonesimulator -I/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-chempmsfhilgccggtdvgtxmguaep/animation_Prefix.pch -c /Users/sandeep/Documents/animation/Classes/animationViewController.m -o /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animationViewController.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/animations app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347795278.082242
+e347795278.162512
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/animations app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Desktop/sandeeprdy/animations app/main.m347795278#347795278#0(0"0(0#0#55"/Users/sandeep/Desktop/sandeeprdy/animations app/main.m8600854656#2086"    cd "/Users/sandeep/Desktop/sandeeprdy/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-akjyvzxbhwqnvkgjctowwoikfcpd/animation_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/animations app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206727.533241
+e355206727.650653
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/main.m355206727#355206727#0(0"0(0#0#72"/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/main.m8605724512#2273"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/animation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344417594.823170
+e344417595.342720
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/animation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/sandeep/Desktop/obj/animation/main.m344417594#344417595#0(0"0(0#0#43"/Users/sandeep/Desktop/obj/animation/main.m8611564960#1932"    cd /Users/sandeep/Desktop/obj/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-dlzgmcerxldbogejmfkhrhnsdhpm/animation_Prefix.pch -c /Users/sandeep/Desktop/obj/animation/main.m -o /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/animations/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427976.869454
+e344427976.952821
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/animations/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Desktop/obj/animations/main.m344427976#344427976#0(0"0(0#0#44"/Users/sandeep/Desktop/obj/animations/main.m8605358464#1943"    cd /Users/sandeep/Desktop/obj/animations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-gwpnxqhhtsdqeqdykazoaaxpjlya/animation_Prefix.pch -c /Users/sandeep/Desktop/obj/animations/main.m -o /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o0#
+
+CCompileC build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o /Users/sandeep/Documents/animation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326189872.386060
+e326189872.632328
+r1
+xCompileC
+xbuild/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/animation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/sandeep/Documents/animation/main.m326189872#326189872#0(0"0(0#0#41"/Users/sandeep/Documents/animation/main.m8611862240#1910"    cd /Users/sandeep/Documents/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Documents/animation/build/Debug-iphonesimulator -I/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-chempmsfhilgccggtdvgtxmguaep/animation_Prefix.pch -c /Users/sandeep/Documents/animation/main.m -o /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/animations app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/animations app/animationViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/animationViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/animation/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/animation/animationViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/animations/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/animations/animationViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Documents/animation/MainWindow.xib
+s326189867.089720
+e326189869.206195
+r1
+xCompileXIB
+x/Users/sandeep/Documents/animation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326189867#326189869#0(0"0(0#0#49"/Users/sandeep/Documents/animation/MainWindow.xib8610614976#560"    cd /Users/sandeep/Documents/animation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/MainWindow.nib /Users/sandeep/Documents/animation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/animation/animationViewController.xib
+s326189867.096868
+e326189869.132386
+r1
+xCompileXIB
+x/Users/sandeep/Documents/animation/animationViewController.xib
+lSLF07#2@38"CompileXIB animationViewController.xib326189867#326189869#0(0"0(0#0#62"/Users/sandeep/Documents/animation/animationViewController.xib8610128032#586"    cd /Users/sandeep/Documents/animation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animationViewController.nib /Users/sandeep/Documents/animation/animationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/animation.app/7.png 7.png
+s355206725.862631
+e355206725.915566
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/animation.app/7.png
+x7.png
+lSLF07#2@10"Copy 7.png355206725#355206725#0(0"0(0#0#71"/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/7.png13229813538947188#552"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/7.png" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app"0#
+
+CCpResource build/Debug-iphonesimulator/animation.app/index.jpg ../../Desktop/index.jpg
+s344417589.613369
+e344417589.690614
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/animation.app/index.jpg
+x../../Desktop/index.jpg
+o/Users/sandeep/Desktop/obj/animation/../../Desktop: No such file or directory
+lSLF07#2@28"Copy ../../Desktop/index.jpg344417589#344417589#0(186"/Users/sandeep/Desktop/obj/animation/../../Desktop: No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1344417589#18446744073709551615#0#0(1@0"0(0#0#60"/Users/sandeep/Desktop/obj/animation/../../Desktop/index.jpg8615462688#477"    cd /Users/sandeep/Desktop/obj/animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Desktop/obj/animation/../../Desktop/index.jpg /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app1#
+
+CCpResource build/Debug-iphonesimulator/animation.app/index.jpg index.jpg
+s344417640.696489
+e344417640.943654
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/animation.app/index.jpg
+xindex.jpg
+lSLF07#2@14"Copy index.jpg344417640#344417640#0(0"0(0#0#46"/Users/sandeep/Desktop/obj/animation/index.jpg32651513917341812#463"    cd /Users/sandeep/Desktop/obj/animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Desktop/obj/animation/index.jpg /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation"
+s350630954.590362
+e350630954.609082
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/animation.app.dSYM build/Debug-iphonesimulator/animation.app/animation350630954#350630954#0(0"0(0#0#100"/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation8613068672#425"    cd "/Users/sandeep/Desktop/sandeeprdy/animations app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation" -o "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation"
+s355206727.815781
+e355206727.851082
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/animation.app.dSYM build/Debug-iphonesimulator/animation.app/animation355206727#355206727#0(0"0(0#0#117"/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation8599942656#476"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app.dSYM /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation
+s344417595.976667
+e344417596.308270
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app.dSYM
+x/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/animation.app.dSYM build/Debug-iphonesimulator/animation.app/animation344417595#344417596#0(0"0(0#0#88"/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation8605802656#383"    cd /Users/sandeep/Desktop/obj/animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation -o /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app.dSYM /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation
+s344427977.155584
+e344427977.189410
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app.dSYM
+x/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/animation.app.dSYM build/Debug-iphonesimulator/animation.app/animation344427977#344427977#0(0"0(0#0#89"/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation8615972320#386"    cd /Users/sandeep/Desktop/obj/animations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation -o /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app.dSYM /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation
+s326615413.618457
+e326615413.642025
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app.dSYM
+x/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/animation.app.dSYM build/Debug-iphonesimulator/animation.app/animation326615413#326615413#0(0"0(0#0#86"/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation8607740384#377"    cd /Users/sandeep/Documents/animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation -o /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation" normal i386
+s350630954.564485
+e350630954.590265
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation
+xnormal
+xi386
+lSLF07#2@105"Link /Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation350630954#350630954#0(0"0(0#0#0"8613896000#970"    cd "/Users/sandeep/Desktop/sandeeprdy/animations app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/animation"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation" normal i386
+s355206727.754544
+e355206727.815676
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation
+xnormal
+xi386
+lSLF07#2@122"Link /Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation355206727#355206727#0(0"0(0#0#0"8602844736#1055"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/animation"0#
+
+CLd /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation normal i386
+s344417595.608073
+e344417595.976564
+r1
+xLd
+x/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation
+xnormal
+xi386
+lSLF07#2@93"Link /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation344417595#344417595#0(0"0(0#0#0"8602770208#900"    cd /Users/sandeep/Desktop/obj/animation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/animation0#
+
+CLd /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation normal i386
+s344427977.117922
+e344427977.155491
+r1
+xLd
+x/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation
+xnormal
+xi386
+lSLF07#2@94"Link /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation344427977#344427977#0(0"0(0#0#0"8622106048#905"    cd /Users/sandeep/Desktop/obj/animations    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/animation0#
+
+CLd /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation normal i386
+s326615413.584667
+e326615413.618360
+r1
+xLd
+x/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation
+xnormal
+xi386
+lSLF07#2@91"Link /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation326615413#326615413#0(0"0(0#0#0"8614726560#890"    cd /Users/sandeep/Documents/animation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Documents/animation/build/Debug-iphonesimulator -F/Users/sandeep/Documents/animation/build/Debug-iphonesimulator -filelist /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/Objects-normal/i386/animation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/animation0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app/Info.plist" animation-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app/Info.plist" animation-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app/Info.plist animation-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app/Info.plist animation-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/Info.plist animation-Info.plist
+s326189867.078539
+e326189867.089629
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/Info.plist
+xanimation-Info.plist
+lSLF07#2@28"Process animation-Info.plist326189867#326189867#0(0"0(0#0#55"/Users/sandeep/Documents/animation/animation-Info.plist29555366482477168#473"    cd /Users/sandeep/Documents/animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility animation-Info.plist -genpkginfo /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch.gch animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206725.915713
+e355206727.533057
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch.gch
+xanimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile animation_Prefix.pch355206725#355206727#0(0"0(0#0#86"/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/animation_Prefix.pch8603197440#2134"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/animation_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-ahxxqfqjkwbgqihidfselybfpqoa/animation_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-akjyvzxbhwqnvkgjctowwoikfcpd/animation_Prefix.pch.gch animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347795277.132617
+e347795278.082131
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-akjyvzxbhwqnvkgjctowwoikfcpd/animation_Prefix.pch.gch
+xanimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile animation_Prefix.pch347795277#347795278#0(0"0(0#0#69"/Users/sandeep/Desktop/sandeeprdy/animations app/animation_Prefix.pch6876556179756116992#1964"    cd "/Users/sandeep/Desktop/sandeeprdy/animations app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/animations app/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/animations app/animation_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-akjyvzxbhwqnvkgjctowwoikfcpd/animation_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-chempmsfhilgccggtdvgtxmguaep/animation_Prefix.pch.gch animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326189869.206518
+e326189872.385936
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-chempmsfhilgccggtdvgtxmguaep/animation_Prefix.pch.gch
+xanimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile animation_Prefix.pch326189869#326189872#0(0"0(0#0#55"/Users/sandeep/Documents/animation/animation_Prefix.pch6876556179756116992#1804"    cd /Users/sandeep/Documents/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Documents/animation/build/Debug-iphonesimulator -I/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Documents/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -c /Users/sandeep/Documents/animation/animation_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-chempmsfhilgccggtdvgtxmguaep/animation_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-dlzgmcerxldbogejmfkhrhnsdhpm/animation_Prefix.pch.gch animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344417589.690739
+e344417594.822575
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-dlzgmcerxldbogejmfkhrhnsdhpm/animation_Prefix.pch.gch
+xanimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile animation_Prefix.pch344417589#344417594#0(0"0(0#0#57"/Users/sandeep/Desktop/obj/animation/animation_Prefix.pch8615440768#1824"    cd /Users/sandeep/Desktop/obj/animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animation/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -c /Users/sandeep/Desktop/obj/animation/animation_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-dlzgmcerxldbogejmfkhrhnsdhpm/animation_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-gwpnxqhhtsdqeqdykazoaaxpjlya/animation_Prefix.pch.gch animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427975.848373
+e344427976.869355
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-gwpnxqhhtsdqeqdykazoaaxpjlya/animation_Prefix.pch.gch
+xanimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile animation_Prefix.pch344427975#344427976#0(0"0(0#0#58"/Users/sandeep/Desktop/obj/animations/animation_Prefix.pch8648117184#1834"    cd /Users/sandeep/Desktop/obj/animations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-generated-files.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/animation-project-headers.hmap -F/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/animations/build/animation.build/Debug-iphonesimulator/animation.build/DerivedSources -c /Users/sandeep/Desktop/obj/animations/animation_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/animation_Prefix-gwpnxqhhtsdqeqdykazoaaxpjlya/animation_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app"
+s350630954.609168
+e350630954.612275
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app
+lSLF07#2@96"Touch /Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app350630954#350630954#0(0"0(0#0#0"8612164000#304"    cd "/Users/sandeep/Desktop/sandeeprdy/animations app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/animations app/build/Debug-iphonesimulator/animation.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app"
+s355206727.851175
+e355206727.869166
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app
+lSLF07#2@113"Touch /Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app355206727#355206727#0(0"0(0#0#0"8599266816#338"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/animations app/build/Debug-iphonesimulator/animation.app"0#
+
+CTouch /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app
+s344417640.944277
+e344417640.951300
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app
+lSLF07#2@84"Touch /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app344417640#344417640#0(0"0(0#0#0"8613968032#276"    cd /Users/sandeep/Desktop/obj/animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/obj/animation/build/Debug-iphonesimulator/animation.app0#
+
+CTouch /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app
+s344427977.189499
+e344427977.192598
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app
+lSLF07#2@85"Touch /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app344427977#344427977#0(0"0(0#0#0"8615668352#278"    cd /Users/sandeep/Desktop/obj/animations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/obj/animations/build/Debug-iphonesimulator/animation.app0#
+
+CTouch /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app
+s326615413.642110
+e326615413.645271
+r1
+xTouch
+x/Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app
+lSLF07#2@82"Touch /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app326615413#326615413#0(0"0(0#0#0"8613755456#272"    cd /Users/sandeep/Documents/animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Documents/animation/build/Debug-iphonesimulator/animation.app0#
+

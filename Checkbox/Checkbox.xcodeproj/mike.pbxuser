@@ -1,0 +1,414 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CheckboxAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 268}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 337}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CheckboxAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 345}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Checkbox */ = {
+		activeExec = 0;
+		executables = (
+			279A45080FD8483F0053A5B3 /* Checkbox */,
+		);
+	};
+	279A45080FD8483F0053A5B3 /* Checkbox */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Checkbox;
+		sourceDirectories = (
+		);
+	};
+	279A45150FD848470053A5B3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	279A45160FD848470053A5B3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	279A45280FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	279A45290FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 13";
+		rLen = 38;
+		rLoc = 76;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 151;
+	};
+	279A452A0FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 15";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	279A452B0FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 13";
+		rLen = 0;
+		rLoc = 89;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 186;
+	};
+	279A452C0FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 13";
+		rLen = 0;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 146;
+		vrLoc = 45;
+	};
+	279A452D0FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 18";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 150;
+	};
+	279A452E0FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 12";
+		rLen = 16;
+		rLoc = 86;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 3;
+	};
+	279A452F0FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 15";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 151;
+	};
+	279A45300FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 12";
+		rLen = 0;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 3;
+	};
+	279A45310FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 16";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 0;
+	};
+	279A45320FD84B0B0053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 17";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	279A45440FD84C430053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 14";
+		rLen = 0;
+		rLoc = 114;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 0;
+	};
+	279A45450FD84C430053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 12";
+		rLen = 16;
+		rLoc = 86;
+		rType = 0;
+		vrLen = 159;
+		vrLoc = 32;
+	};
+	279A454D0FD84CC40053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 13";
+		rLen = 0;
+		rLoc = 114;
+		rType = 0;
+		vrLen = 400;
+		vrLoc = 0;
+	};
+	279A45530FD84D640053A5B3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/mike/We Heart Games/Face Race/Tutorials/Checkbox/Checkbox/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	279A45540FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 0;
+	};
+	279A45550FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	279A45560FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CheckboxAppDelegate.m */;
+		name = "CheckboxAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	279A45570FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckboxAppDelegate.h */;
+		name = "CheckboxAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	279A45580FD84D640053A5B3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 279A45180FD8486F0053A5B3 /* checkbox.png */;
+	};
+	279A45590FD84D640053A5B3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 279A45500FD84D290053A5B3 /* icon.png */;
+	};
+	279A455A0FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 9";
+		rLen = 0;
+		rLoc = 23;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	279A455B0FD84D640053A5B3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/mike/We Heart Games/Face Race/Tutorials/Checkbox/Checkbox/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	279A455C0FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */;
+		name = "CheckboxViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 0;
+	};
+	279A455D0FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */;
+		name = "CheckboxViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	279A455E0FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CheckboxAppDelegate.m */;
+		name = "CheckboxAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	279A455F0FD84D640053A5B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckboxAppDelegate.h */;
+		name = "CheckboxAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	279A45600FD84D640053A5B3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 279A45180FD8486F0053A5B3 /* checkbox.png */;
+	};
+	279A45610FD84D640053A5B3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 279A45500FD84D290053A5B3 /* icon.png */;
+	};
+	28D7ACF60DDB3853001CB0EB /* CheckboxViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 268}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CheckboxViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 990}}";
+			sepNavSelRange = "{1338, 0}";
+			sepNavVisRange = "{1098, 240}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 279A45080FD8483F0053A5B3 /* Checkbox */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Checkbox */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Checkbox */,
+		);
+		codeSenseManager = 279A45160FD848470053A5B3 /* Code sense */;
+		executables = (
+			279A45080FD8483F0053A5B3 /* Checkbox */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 265835115;
+			PBXWorkspaceStateSaveDate = 265835115;
+		};
+		perUserProjectItems = {
+			279A45280FD84B0B0053A5B3 = 279A45280FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A45290FD84B0B0053A5B3 = 279A45290FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A452A0FD84B0B0053A5B3 = 279A452A0FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A452B0FD84B0B0053A5B3 = 279A452B0FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A452C0FD84B0B0053A5B3 = 279A452C0FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A452D0FD84B0B0053A5B3 = 279A452D0FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A452E0FD84B0B0053A5B3 = 279A452E0FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A452F0FD84B0B0053A5B3 = 279A452F0FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A45300FD84B0B0053A5B3 = 279A45300FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A45310FD84B0B0053A5B3 = 279A45310FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A45320FD84B0B0053A5B3 = 279A45320FD84B0B0053A5B3 /* PBXTextBookmark */;
+			279A45440FD84C430053A5B3 = 279A45440FD84C430053A5B3 /* PBXTextBookmark */;
+			279A45450FD84C430053A5B3 = 279A45450FD84C430053A5B3 /* PBXTextBookmark */;
+			279A454D0FD84CC40053A5B3 = 279A454D0FD84CC40053A5B3 /* PBXTextBookmark */;
+			279A45530FD84D640053A5B3 = 279A45530FD84D640053A5B3 /* PlistBookmark */;
+			279A45540FD84D640053A5B3 = 279A45540FD84D640053A5B3 /* PBXTextBookmark */;
+			279A45550FD84D640053A5B3 = 279A45550FD84D640053A5B3 /* PBXTextBookmark */;
+			279A45560FD84D640053A5B3 = 279A45560FD84D640053A5B3 /* PBXTextBookmark */;
+			279A45570FD84D640053A5B3 = 279A45570FD84D640053A5B3 /* PBXTextBookmark */;
+			279A45580FD84D640053A5B3 = 279A45580FD84D640053A5B3 /* PBXBookmark */;
+			279A45590FD84D640053A5B3 = 279A45590FD84D640053A5B3 /* PBXBookmark */;
+			279A455A0FD84D640053A5B3 = 279A455A0FD84D640053A5B3 /* PBXTextBookmark */;
+			279A455B0FD84D640053A5B3 = 279A455B0FD84D640053A5B3 /* PlistBookmark */;
+			279A455C0FD84D640053A5B3 = 279A455C0FD84D640053A5B3 /* PBXTextBookmark */;
+			279A455D0FD84D640053A5B3 = 279A455D0FD84D640053A5B3 /* PBXTextBookmark */;
+			279A455E0FD84D640053A5B3 = 279A455E0FD84D640053A5B3 /* PBXTextBookmark */;
+			279A455F0FD84D640053A5B3 = 279A455F0FD84D640053A5B3 /* PBXTextBookmark */;
+			279A45600FD84D640053A5B3 = 279A45600FD84D640053A5B3 /* PBXBookmark */;
+			279A45610FD84D640053A5B3 = 279A45610FD84D640053A5B3 /* PBXBookmark */;
+		};
+		sourceControlManager = 279A45150FD848470053A5B3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

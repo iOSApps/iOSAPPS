@@ -1,0 +1,356 @@
+Tsavedetaildatabase
+v7
+r0
+t351493565.842630
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/Info.plist savedetaildatabase-Info.plist
+cCompileXIB /Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib
+cCpResource build/Release-iphonesimulator/savedetaildatabase.app/sqlite1database sqlite1database
+cCpResource build/Release-iphonesimulator/savedetaildatabase.app/db_icon.png db_icon.png
+cCompileXIB /Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch.gch savedetaildatabase_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/savedetaildatabase/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/n.o /Users/sandeep/Desktop/savedetaildatabase/Classes/n.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app.dSYM /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase
+cTouch /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/n.h
+c000000004EDF051200000000000000C9
+t1323238674
+s201
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/n.m
+c000000004EDF05120000000000000546
+t1323238674
+s1350
+i"n.h"
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib
+c000000004EDF0512000000000000183E
+t1323238674
+s6206
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.h
+c000000004E710DB4000000000000021A
+t1316031924
+s538
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m
+c000000004E710DB40000000000000ABB
+t1316031924
+s2747
+i"savedetaildatabaseAppDelegate.h"
+i"savedetaildatabaseViewController.h"
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.h
+c000000004E94EEFC0000000000000357
+t1318383356
+s855
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m
+c000000004F432572000000000000144A
+t1329800562
+s5194
+i"savedetaildatabaseViewController.h"
+i"n.h"
+
+N/Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib
+c000000004E710DB40000000000004EAD
+t1316031924
+s20141
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app
+t1329800765
+s340
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app.dSYM
+t1329800765
+s102
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/Info.plist
+t1329800740
+s678
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/MainWindow.nib
+t1329800744
+s1145
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/PkgInfo
+t1329800740
+s8
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/db_icon.png
+t1329800745
+s3139
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/n.nib
+t1329800746
+s764
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase
+t1329800765
+s26216
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabaseViewController.nib
+t1329800744
+s3556
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/sqlite1database
+t1329800745
+s6144
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o
+t1329800764
+s6296
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/n.o
+t1329800765
+s36992
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabase.LinkFileList
+c000000004F4326240000000000000286
+t1329800740
+s646
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o
+t1329800765
+s51312
+
+N/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o
+t1329800765
+s52688
+
+N/Users/sandeep/Desktop/savedetaildatabase/db_icon.png
+c000000004E721A7E0000000000000C43
+t1316100734
+s3139
+
+N/Users/sandeep/Desktop/savedetaildatabase/main.m
+c000000004E710DB4000000000000016D
+t1316031924
+s365
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib
+c000000004ECC8D8E0000000000006450
+t1322028430
+s25680
+
+N/Users/sandeep/Desktop/savedetaildatabase/savedetaildatabase_Prefix.pch
+c000000004E710DB400000000000000CD
+t1316031924
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/savedetaildatabase/sqlite1database
+c000000004E7107D00000000000001800
+t1316030416
+s6144
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch.gch
+t1329800764
+s15113424
+
+Nsavedetaildatabase-Info.plist
+c000000004E721AC00000000000000398
+t1316100800
+s920
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351493540#351493540#0(0"0(0#1#0"8602464512#0"0#
+
+CCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/savedetaildatabase/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351493564.378578
+e351493564.624680
+r1
+xCompileC
+xbuild/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/savedetaildatabase/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/sandeep/Desktop/savedetaildatabase/main.m351493564#351493564#0(0"0(0#0#48"/Users/sandeep/Desktop/savedetaildatabase/main.m8608140576#2226"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator -I/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch -c /Users/sandeep/Desktop/savedetaildatabase/main.m -o /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o0#
+
+CCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/n.o /Users/sandeep/Desktop/savedetaildatabase/Classes/n.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351493565.018588
+e351493565.336576
+r1
+xCompileC
+xbuild/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/n.o
+x/Users/sandeep/Desktop/savedetaildatabase/Classes/n.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/savedetaildatabase/Classes/n.m351493565#351493565#0(0"0(0#0#53"/Users/sandeep/Desktop/savedetaildatabase/Classes/n.m8608381376#2228"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator -I/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch -c /Users/sandeep/Desktop/savedetaildatabase/Classes/n.m -o /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/n.o0#
+
+CCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351493564.379814
+e351493565.018490
+r1
+xCompileC
+xbuild/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o
+x/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m351493564#351493565#0(0"0(0#0#81"/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m8607577248#2284"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator -I/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch -c /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m -o /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o0#
+
+CCompileC build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351493564.624780
+e351493565.467276
+r1
+xCompileC
+xbuild/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o
+x/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m:194: warning: incomplete implementation of class 'savedetaildatabaseViewController'
+o/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m:194: warning: method definition for '-tenxtfieldshouldreturn:' not found
+lSLF07#2@92"Compile /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m351493564#351493565#0(327"/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m:194: warning: incomplete implementation of class 'savedetaildatabaseViewController'/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m:194: warning: method definition for '-tenxtfieldshouldreturn:' not found2(22@69"Incomplete implementation of class 'savedetaildatabaseViewController'351493564#0#169#0(6@84"/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m351493362#194#0#194#0#38"incomplete implementation of class '*'0(22@58"Method definition for '-tenxtfieldshouldreturn:' not found351493564#169#158#0(6@84"/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m351493362#194#0#194#0#35"method definition for '*' not found0(0#0#84"/Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m8604254848#2290"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator -I/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch -c /Users/sandeep/Desktop/savedetaildatabase/Classes/savedetaildatabaseViewController.m -o /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o0#
+
+CCompileXIB /Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib
+s351493545.031121
+e351493546.512921
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib
+lSLF07#2@24"CompileXIB Classes/n.xib351493545#351493546#0(0"0(0#0#55"/Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib8608446976#582"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/n.nib /Users/sandeep/Desktop/savedetaildatabase/Classes/n.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib
+s351493540.747093
+e351493545.026503
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib351493540#351493545#0(0"0(0#0#56"/Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib8607184480#592"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/MainWindow.nib /Users/sandeep/Desktop/savedetaildatabase/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib
+s351493540.751131
+e351493545.435954
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib
+lSLF07#2@47"CompileXIB savedetaildatabaseViewController.xib351493540#351493545#0(0"0(0#0#78"/Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib8604595296#636"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabaseViewController.nib /Users/sandeep/Desktop/savedetaildatabase/savedetaildatabaseViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Release-iphonesimulator/savedetaildatabase.app/db_icon.png db_icon.png
+s351493545.029276
+e351493545.167871
+r1
+xCpResource
+xbuild/Release-iphonesimulator/savedetaildatabase.app/db_icon.png
+xdb_icon.png
+lSLF07#2@16"Copy db_icon.png351493545#351493545#0(0"0(0#0#53"/Users/sandeep/Desktop/savedetaildatabase/db_icon.png8608731584#512"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/sandeep/Desktop/savedetaildatabase/db_icon.png /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app0#
+
+CCpResource build/Release-iphonesimulator/savedetaildatabase.app/sqlite1database sqlite1database
+s351493545.026668
+e351493545.223466
+r1
+xCpResource
+xbuild/Release-iphonesimulator/savedetaildatabase.app/sqlite1database
+xsqlite1database
+lSLF07#2@20"Copy sqlite1database351493545#351493545#0(0"0(0#0#57"/Users/sandeep/Desktop/savedetaildatabase/sqlite1database8608922336#516"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/sandeep/Desktop/savedetaildatabase/sqlite1database /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app.dSYM /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase
+s351493565.615412
+e351493565.825153
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app.dSYM
+x/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase
+lSLF07#2@146"GenerateDSYMFile build/Release-iphonesimulator/savedetaildatabase.app.dSYM build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase351493565#351493565#0(0"0(0#0#113"/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase8608371296#429"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase -o /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase normal i386
+s351493565.467361
+e351493565.615319
+r1
+xLd
+x/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase
+xnormal
+xi386
+lSLF07#2@118"Link /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase351493565#351493565#0(0"0(0#0#0"8601684512#988"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator -F/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator -filelist /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabase.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/savedetaildatabase0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/Info.plist savedetaildatabase-Info.plist
+s351493540.739826
+e351493540.747004
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/Info.plist
+xsavedetaildatabase-Info.plist
+lSLF07#2@37"Process savedetaildatabase-Info.plist351493540#351493540#0(0"0(0#0#71"/Users/sandeep/Desktop/savedetaildatabase/savedetaildatabase-Info.plist8608134208#525"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility savedetaildatabase-Info.plist -genpkginfo /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch.gch savedetaildatabase_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s351493546.513044
+e351493564.378401
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch.gch
+xsavedetaildatabase_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile savedetaildatabase_Prefix.pch351493546#351493564#0(0"0(0#0#71"/Users/sandeep/Desktop/savedetaildatabase/savedetaildatabase_Prefix.pch8600341056#2102"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator -I/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/sandeep/Desktop/savedetaildatabase/build/savedetaildatabase.build/Release-iphonesimulator/savedetaildatabase.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/sandeep/Desktop/savedetaildatabase/savedetaildatabase_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/savedetaildatabase_Prefix-fnfuydlzlzvqogfyladqfjkxnapi/savedetaildatabase_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app
+s351493565.825240
+e351493565.842582
+r1
+xTouch
+x/Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app
+lSLF07#2@100"Touch /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app351493565#351493565#0(0"0(0#0#0"8608923072#297"    cd /Users/sandeep/Desktop/savedetaildatabase    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/savedetaildatabase/build/Release-iphonesimulator/savedetaildatabase.app0#
+

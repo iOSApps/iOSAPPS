@@ -1,0 +1,345 @@
+TusingPlist
+v7
+r0
+t297947171.940653
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/Info.plist" usingPlist-Info.plist
+cCompileXIB "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/MainWindow.xib"
+cCompileXIB "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlistViewController.xib"
+cCpResource build/Debug-iphonesimulator/usingPlist.app/data.plist data.plist
+cCpResource build/Debug-iphonesimulator/usingPlist.app/dummyData.plist dummyData.plist
+cCpResource build/Debug-iphonesimulator/usingPlist.app/newDocumentData.plist newDocumentData.plist
+cProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch.gch usingPlist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/main.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistAppDelegate.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistViewController.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/TextViewController.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/fourLines.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist" normal i386
+cGenerateDSYMFile "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app.dSYM" "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist"
+cTouch "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C120D340000000000000132
+t1276251444
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.h
+c000000004AB153460000000000000A83
+t1253135174
+s2691
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m
+c000000004AB153460000000000001A96
+t1253135174
+s6806
+i"TextViewController.h"
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.h
+c000000004B7952B400000000000002DD
+t1266242228
+s733
+i<Foundation/Foundation.h>
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.m
+c000000004B7952DE0000000000000591
+t1266242270
+s1425
+i"fourLines.h"
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.h
+c000000004B7654A100000000000001FD
+t1266046113
+s509
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.m
+c000000004B793C91000000000000035C
+t1266236561
+s860
+i"usingPlistAppDelegate.h"
+i"usingPlistViewController.h"
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.h
+c000000004B794FE400000000000003DB
+t1266241508
+s987
+i<UIKit/UIKit.h>
+i"TextViewController.h"
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.m
+c000000004C1218A10000000000001079
+t1276254369
+s4217
+i"usingPlistViewController.h"
+i"fourLines.h"
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/MainWindow.xib
+c000000004B7654A1000000000000246F
+t1266046113
+s9327
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app
+t1276254371
+s340
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app.dSYM
+t1276254371
+s102
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/Info.plist
+t1266243724
+s550
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/MainWindow.nib
+t1266243724
+s1501
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/PkgInfo
+t1266243724
+s8
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/data.plist
+t1266243724
+s292
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/dummyData.plist
+t1266243724
+s260
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/newDocumentData.plist
+t1266243724
+s469
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist
+t1276254371
+s42240
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlistViewController.nib
+t1266243921
+s4449
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/TextViewController.o
+t1276254371
+s57008
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/fourLines.o
+t1276254371
+s17204
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/main.o
+t1276254371
+s6368
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlist.LinkFileList
+c000000004C0F6BBA000000000000035D
+t1276079034
+s861
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistAppDelegate.o
+t1276254371
+s50788
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistViewController.o
+t1276254371
+s66324
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/data.plist
+c000000004B7940A90000000000000124
+t1266237609
+s292
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/dummyData.plist
+c000000004B794A6C0000000000000104
+t1266240108
+s260
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/main.m
+c000000004B7654A10000000000000178
+t1266046113
+s376
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/newDocumentData.plist
+c000000004B7956C200000000000001D5
+t1266243266
+s469
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlistViewController.xib
+c000000004B79592D0000000000005844
+t1266243885
+s22596
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlist_Prefix.pch
+c000000004B7654A100000000000000BD
+t1266046113
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch.gch
+t1276254371
+s15232016
+
+NusingPlist-Info.plist
+c000000004B7654A1000000000000038D
+t1266046113
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297947170#297947170#0(0"0(0#1#0"8612910048#0"0#
+
+CCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/TextViewController.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297947171.551678
+e297947171.665693
+r1
+xCompileC
+xbuild/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/TextViewController.o
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m: In function '-[TextViewController keyboardWillShow:]':
+o/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m:119: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+o/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m: In function '-[TextViewController keyboardWillHide:]':
+o/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m:132: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+lSLF07#2@108"Compile /Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m297947171#297947171#0(958"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m: In function '-[TextViewController keyboardWillShow:]':/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m:119: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m: In function '-[TextViewController keyboardWillHide:]':/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m:132: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)2(22@206"'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)297947171#157#322#0(6@100"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m274827974#119#0#119#0#33"'*' is deprecated (declared at *)0(22@206"'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)297947171#636#322#0(6@100"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m274827974#132#0#132#0#33"'*' is deprecated (declared at *)0(0#0#100"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m8607115264#2382"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-generated-files.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-own-target-headers.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-all-target-headers.hmap" -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-project-headers.hmap" "-F/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/include" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources/i386" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources" -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch -c "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/TextViewController.m" -o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/TextViewController.o"0#
+
+CCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/fourLines.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297947171.659171
+e297947171.734094
+r1
+xCompileC
+xbuild/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/fourLines.o
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.m297947171#297947171#0(0"0(0#0#91"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.m8613339072#2364"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-generated-files.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-own-target-headers.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-all-target-headers.hmap" -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-project-headers.hmap" "-F/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/include" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources/i386" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources" -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch -c "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/fourLines.m" -o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/fourLines.o"0#
+
+CCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/main.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297947171.452949
+e297947171.527953
+r1
+xCompileC
+xbuild/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/main.o
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/main.m297947171#297947171#0(0"0(0#0#78"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/main.m8610204160#2346"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-generated-files.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-own-target-headers.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-all-target-headers.hmap" -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-project-headers.hmap" "-F/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/include" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources/i386" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources" -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch -c "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/main.m" -o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistAppDelegate.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297947171.454109
+e297947171.551563
+r1
+xCompileC
+xbuild/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistAppDelegate.o
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.m297947171#297947171#0(0"0(0#0#103"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.m8607082592#2388"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-generated-files.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-own-target-headers.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-all-target-headers.hmap" -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-project-headers.hmap" "-F/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/include" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources/i386" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources" -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch -c "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistAppDelegate.m" -o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistAppDelegate.o"0#
+
+CCompileC build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistViewController.o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297947171.528061
+e297947171.659055
+r1
+xCompileC
+xbuild/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistViewController.o
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.m297947171#297947171#0(0"0(0#0#106"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.m8596197312#2394"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-generated-files.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-own-target-headers.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-all-target-headers.hmap" -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-project-headers.hmap" "-F/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/include" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources/i386" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources" -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch -c "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/Classes/usingPlistViewController.m" -o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlistViewController.o"0#
+
+CCompileXIB "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlistViewController.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/usingPlist.app/data.plist data.plist
+r0
+
+CCpResource build/Debug-iphonesimulator/usingPlist.app/dummyData.plist dummyData.plist
+r0
+
+CCpResource build/Debug-iphonesimulator/usingPlist.app/newDocumentData.plist newDocumentData.plist
+r0
+
+CGenerateDSYMFile "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app.dSYM" "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist"
+s297947171.870777
+e297947171.937733
+r1
+xGenerateDSYMFile
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app.dSYM
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/usingPlist.app.dSYM build/Debug-iphonesimulator/usingPlist.app/usingPlist297947171#297947171#0(0"0(0#0#125"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist8611436768#497"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist" -o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app.dSYM"0#
+
+CLd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist" normal i386
+s297947171.734195
+e297947171.870668
+r1
+xLd
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist
+xnormal
+xi386
+lSLF07#2@130"Link /Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist297947171#297947171#0(0"0(0#0#0"8612844416#1090"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" "-F/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" -filelist "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/Objects-normal/i386/usingPlist.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/usingPlist"0#
+
+CProcessInfoPlistFile "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app/Info.plist" usingPlist-Info.plist
+r0
+
+CProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch.gch usingPlist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297947170.443432
+e297947171.452820
+r1
+xProcessPCH
+x/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch.gch
+xusingPlist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile usingPlist_Prefix.pch297947170#297947171#0(0"0(0#0#93"/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlist_Prefix.pch8610869568#2200"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-generated-files.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-own-target-headers.hmap" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-all-target-headers.hmap" -iquote "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/usingPlist-project-headers.hmap" "-F/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/include" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources/i386" "-I/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/usingPlist.build/Debug-iphonesimulator/usingPlist.build/DerivedSources" -c "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlist_Prefix.pch" -o /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/usingPlist_Prefix-eyrdnwyipfqshrbvbvdpfnaljkdi/usingPlist_Prefix.pch.gch0#
+
+CTouch "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app"
+s297947171.937844
+e297947171.940611
+r1
+xTouch
+x/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app
+lSLF07#2@120"Touch /Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app297947171#297947171#0(0"0(0#0#0"8611054368#351"    cd "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug-iphonesimulator/usingPlist.app"0#
+

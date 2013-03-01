@@ -1,0 +1,255 @@
+Tcameraview
+v7
+r0
+t354862081.727132
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/Info.plist cameraview-Info.plist
+cCompileXIB /Users/sandeep/Desktop/cameraview/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/cameraview/cameraviewViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch.gch cameraview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/cameraview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewAppDelegate.o /Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewViewController.o /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC122CF00000000000000EB
+t1287725775
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC122D0000000000005BF20
+t1287725776
+s376608
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.h
+c000000004F768BFE00000000000001ED
+t1333169150
+s493
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m
+c000000004F768BFE0000000000000AA0
+t1333169150
+s2720
+i"cameraviewAppDelegate.h"
+i"cameraviewViewController.h"
+
+N/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h
+c000000004F768C7F0000000000000205
+t1333169279
+s517
+i<UIKit/UIKit.h>
+i<MobileCoreServices/MobileCoreServices.h>
+
+N/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m
+c000000004F768BFE00000000000005C9
+t1333169150
+s1481
+i"cameraviewViewController.h"
+
+N/Users/sandeep/Desktop/cameraview/MainWindow.xib
+c000000004F768BFE0000000000004E4D
+t1333169150
+s20045
+
+N/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app
+t2
+s0
+
+N/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app.dSYM
+t2
+s0
+
+N/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/Info.plist
+t1333169280
+s603
+
+N/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/MainWindow.nib
+t1333169280
+s1129
+
+N/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/PkgInfo
+t1333169280
+s8
+
+N/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/cameraview
+t2
+s0
+
+N/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/cameraviewViewController.nib
+t1333169280
+s795
+
+N/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraview.LinkFileList
+c000000004F768C800000000000000196
+t1333169280
+s406
+
+N/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewAppDelegate.o
+t2
+s0
+
+N/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewViewController.o
+t2
+s0
+
+N/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/main.o
+t1333169281
+s6292
+
+N/Users/sandeep/Desktop/cameraview/cameraviewViewController.xib
+c000000004F768BFE0000000000001A51
+t1333169150
+s6737
+
+N/Users/sandeep/Desktop/cameraview/cameraview_Prefix.pch
+c000000004F768BFE00000000000000BD
+t1333169150
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/cameraview/main.m
+c000000004F768BFE0000000000000168
+t1333169150
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch.gch
+t1333169281
+s15453392
+
+Ncameraview-Info.plist
+c000000004F768BFE000000000000038D
+t1333169150
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354862080#354862080#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewAppDelegate.o /Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354862081.587370
+e354862081.678605
+r0
+xCompileC
+xbuild/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewAppDelegate.o
+x/Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m:10:
+o/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h:24: error: expected identifier or '(' before '}' token
+lSLF07#2@73"Compile /Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m354862081#354862081#0(216"In file included from /Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m:10:/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h:24: error: expected identifier or '(' before '}' token1(4@43"Expected identifier or '(' before '}' token354862081#92#124#2(7@87"In file included from /Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m354862081#18446744073709551615#0#0(6@65"/Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m354861950#10#0#10#0#0"0(13@115"Expected identifier or '(' before '}' token in /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h354862081#18446744073709551615#0#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h354862079#24#0#24#0#0"0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h354862079#24#0#24#0#19"expected * before *0(0#0#65"/Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m8604850144#1961"    cd /Users/sandeep/Desktop/cameraview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-generated-files.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-own-target-headers.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-project-headers.hmap -F/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch -c /Users/sandeep/Desktop/cameraview/Classes/cameraviewAppDelegate.m -o /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewAppDelegate.o1#
+
+CCompileC build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewViewController.o /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354862081.644388
+e354862081.727036
+r0
+xCompileC
+xbuild/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewViewController.o
+x/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:9:
+o/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h:24: error: expected identifier or '(' before '}' token
+o/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: incomplete implementation of class 'cameraviewViewController'
+o/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: method definition for '-useCameraRoll' not found
+o/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: method definition for '-useCamera' not found
+lSLF07#2@76"Compile /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354862081#354862081#0(1045"In file included from /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:9:/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h:24: error: expected identifier or '(' before '}' token/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: incomplete implementation of class 'cameraviewViewController'/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: method definition for '-useCameraRoll' not found/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m:66: warning: method definition for '-useCamera' not found6(4@43"Expected identifier or '(' before '}' token354862081#94#124#2(7@90"In file included from /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354862081#18446744073709551615#0#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354861950#9#0#9#0#0"0(13@115"Expected identifier or '(' before '}' token in /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h354862081#18446744073709551615#0#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h354862079#24#0#24#0#0"0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.h354862079#24#0#24#0#19"expected * before *0(22@126"Property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation354862081#218#209#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354861950#66#0#66#0#0"0(22@133"Property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation354862081#427#216#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354861950#66#0#66#0#0"0(22@61"Incomplete implementation of class 'cameraviewViewController'354862081#643#144#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354861950#66#0#66#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-useCameraRoll' not found354862081#787#131#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354861950#66#0#66#0#35"method definition for '*' not found0(22@44"Method definition for '-useCamera' not found354862081#918#127#0(6@68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m354861950#66#0#66#0#35"method definition for '*' not found0(0#0#68"/Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m8613694016#1967"    cd /Users/sandeep/Desktop/cameraview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-generated-files.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-own-target-headers.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-project-headers.hmap -F/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch -c /Users/sandeep/Desktop/cameraview/Classes/cameraviewViewController.m -o /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/cameraviewViewController.o1#
+
+CCompileC build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/cameraview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354862081.585949
+e354862081.644282
+r1
+xCompileC
+xbuild/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/cameraview/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Desktop/cameraview/main.m354862081#354862081#0(0"0(0#0#40"/Users/sandeep/Desktop/cameraview/main.m8612207456#1919"    cd /Users/sandeep/Desktop/cameraview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-generated-files.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-own-target-headers.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-project-headers.hmap -F/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch -c /Users/sandeep/Desktop/cameraview/main.m -o /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sandeep/Desktop/cameraview/MainWindow.xib
+s354862080.067960
+e354862080.602360
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/cameraview/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354862080#354862080#0(0"0(0#0#48"/Users/sandeep/Desktop/cameraview/MainWindow.xib8606909856#558"    cd /Users/sandeep/Desktop/cameraview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/MainWindow.nib /Users/sandeep/Desktop/cameraview/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/cameraview/cameraviewViewController.xib
+s354862080.069000
+e354862080.580034
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/cameraview/cameraviewViewController.xib
+lSLF07#2@39"CompileXIB cameraviewViewController.xib354862080#354862080#0(0"0(0#0#62"/Users/sandeep/Desktop/cameraview/cameraviewViewController.xib8606834016#586"    cd /Users/sandeep/Desktop/cameraview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/cameraviewViewController.nib /Users/sandeep/Desktop/cameraview/cameraviewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app.dSYM /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/cameraview
+r0
+
+CLd /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/cameraview normal i386
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/Info.plist cameraview-Info.plist
+s354862080.053105
+e354862080.067866
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/Info.plist
+xcameraview-Info.plist
+lSLF07#2@29"Process cameraview-Info.plist354862080#354862080#0(0"0(0#0#55"/Users/sandeep/Desktop/cameraview/cameraview-Info.plist30681223440564324#473"    cd /Users/sandeep/Desktop/cameraview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility cameraview-Info.plist -genpkginfo /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch.gch cameraview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354862080.602512
+e354862081.585751
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch.gch
+xcameraview_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile cameraview_Prefix.pch354862080#354862081#0(0"0(0#0#55"/Users/sandeep/Desktop/cameraview/cameraview_Prefix.pch8613419808#1813"    cd /Users/sandeep/Desktop/cameraview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-generated-files.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-own-target-headers.hmap -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/cameraview-project-headers.hmap -F/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/cameraview/build/cameraview.build/Debug-iphonesimulator/cameraview.build/DerivedSources -c /Users/sandeep/Desktop/cameraview/cameraview_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cameraview_Prefix-cdydidpuacsdcdceskgsribkzeyj/cameraview_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/cameraview/build/Debug-iphonesimulator/cameraview.app
+r0
+

@@ -1,0 +1,568 @@
+Tphotosupload
+v7
+r0
+t344424949.175874
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/Info.plist photosupload-Info.plist
+cCompileXIB /Users/sandeep/Desktop/obj/photosupload/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/obj/photosupload/photosuploadViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch.gch photosupload_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/photosupload/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+cTouch /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.h
+c000000004DC0D93500000000000001F9
+t1304484149
+s505
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.m
+c000000004DC0D9350000000000000AAA
+t1304484149
+s2730
+i"photosuploadAppDelegate.h"
+i"photosuploadViewController.h"
+
+N/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.h
+c000000004DC0ED0600000000000002FF
+t1304489222
+s767
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.m
+c000000004DCB650F0000000000001262
+t1305175311
+s4706
+i"photosuploadViewController.h"
+
+N/Users/sandeep/Desktop/obj/photosupload/MainWindow.xib
+c000000004DC0D9350000000000004E65
+t1304484149
+s20069
+
+N/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app
+t1322732149
+s238
+
+N/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM
+t1322732149
+s102
+
+N/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/Info.plist
+t1304485192
+s611
+
+N/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/MainWindow.nib
+t1304485193
+s1133
+
+N/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/PkgInfo
+t1304485192
+s8
+
+N/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+t1322732149
+s26708
+
+N/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosuploadViewController.nib
+t1304485193
+s795
+
+N/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o
+t1322732148
+s6304
+
+N/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosupload.LinkFileList
+c000000004ED74A7300000000000001B8
+t1322732147
+s440
+
+N/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o
+t1322732149
+s56816
+
+N/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o
+t1322732149
+s73868
+
+N/Users/sandeep/Desktop/obj/photosupload/main.m
+c000000004DC0D935000000000000016A
+t1304484149
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/photosupload/photosuploadViewController.xib
+c000000004DC0D9350000000000001A59
+t1304484149
+s6745
+
+N/Users/sandeep/Desktop/obj/photosupload/photosupload_Prefix.pch
+c000000004DC0D93500000000000000C1
+t1304484149
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/Classes/photosuploadAppDelegate.h
+c000000004DC0D93500000000000001F9
+t1304484149
+s505
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/Classes/photosuploadAppDelegate.m
+c000000004DC0D9350000000000000AAA
+t1304484149
+s2730
+i"photosuploadAppDelegate.h"
+i"photosuploadViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/Classes/photosuploadViewController.h
+c000000004DC0ED0600000000000002FF
+t1304489222
+s767
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/Classes/photosuploadViewController.m
+c000000004DCB650F0000000000001262
+t1305175311
+s4706
+i"photosuploadViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/MainWindow.xib
+c000000004DC0D9350000000000004E65
+t1304484149
+s20069
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app
+t1322732149
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app.dSYM
+t1322732149
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/Info.plist
+t1304485192
+s611
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/MainWindow.nib
+t1304485193
+s1133
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/PkgInfo
+t1304485192
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/photosupload
+t1322732149
+s26708
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/photosuploadViewController.nib
+t1304485193
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o
+t1322732148
+s6304
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosupload.LinkFileList
+c000000004ED74A7300000000000001B8
+t1322732147
+s440
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o
+t1322732149
+s56816
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o
+t1322732149
+s73868
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/main.m
+c000000004DC0D935000000000000016A
+t1304484149
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/photosuploadViewController.xib
+c000000004DC0D9350000000000001A59
+t1304484149
+s6745
+
+N/Users/sandeep/Desktop/sandeeprdy/photosupload app/photosupload_Prefix.pch
+c000000004DC0D93500000000000000C1
+t1304484149
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/photosupload/Classes/photosuploadAppDelegate.h
+c000000004DC0D93500000000000001F9
+t1304484149
+s505
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/photosupload/Classes/photosuploadAppDelegate.m
+c000000004DC0D9350000000000000AAA
+t1304484149
+s2730
+i"photosuploadAppDelegate.h"
+i"photosuploadViewController.h"
+
+N/Users/sandeep/Documents/photosupload/Classes/photosuploadViewController.h
+c000000004DC0ED0600000000000002FF
+t1304489222
+s767
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/photosupload/Classes/photosuploadViewController.m
+c000000004DCB650F0000000000001262
+t1305175311
+s4706
+i"photosuploadViewController.h"
+
+N/Users/sandeep/Documents/photosupload/MainWindow.xib
+c000000004DC0D9350000000000004E65
+t1304484149
+s20069
+
+N/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app
+t1305175312
+s238
+
+N/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM
+t1305175312
+s102
+
+N/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/Info.plist
+t1304485192
+s611
+
+N/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/MainWindow.nib
+t1304485193
+s1133
+
+N/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/PkgInfo
+t1304485192
+s8
+
+N/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+t1305175312
+s26696
+
+N/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosuploadViewController.nib
+t1304485193
+s795
+
+N/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o
+t1304485195
+s6300
+
+N/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosupload.LinkFileList
+c000000004DC0DD4800000000000001B2
+t1304485192
+s434
+
+N/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o
+t1304489222
+s56812
+
+N/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o
+t1305175312
+s73864
+
+N/Users/sandeep/Documents/photosupload/main.m
+c000000004DC0D935000000000000016A
+t1304484149
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/photosupload/photosuploadViewController.xib
+c000000004DC0D9350000000000001A59
+t1304484149
+s6745
+
+N/Users/sandeep/Documents/photosupload/photosupload_Prefix.pch
+c000000004DC0D93500000000000000C1
+t1304484149
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch.gch
+t1322732148
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-bxsquwubynnltnevpgrujrymrpsj/photosupload_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-cxsbluvfzzhemvcahfqspchnqoir/photosupload_Prefix.pch.gch
+t1304485195
+s15453392
+
+Nphotosupload-Info.plist
+c000000004DC0D935000000000000038D
+t1304484149
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344424947#344424947#0(0"0(0#1#0"8599105184#0"0#
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/photosupload app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/photosupload/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424948.873415
+e344424948.989910
+r1
+xCompileC
+xbuild/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/photosupload/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/Desktop/obj/photosupload/main.m344424948#344424948#0(0"0(0#0#46"/Users/sandeep/Desktop/obj/photosupload/main.m8590478656#2025"    cd /Users/sandeep/Desktop/obj/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch -c /Users/sandeep/Desktop/obj/photosupload/main.m -o /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o0#
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o /Users/sandeep/Documents/photosupload/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326177995.360435
+e326177995.485700
+r1
+xCompileC
+xbuild/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/photosupload/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Documents/photosupload/main.m326177995#326177995#0(0"0(0#0#44"/Users/sandeep/Documents/photosupload/main.m8605654912#2003"    cd /Users/sandeep/Documents/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-cxsbluvfzzhemvcahfqspchnqoir/photosupload_Prefix.pch -c /Users/sandeep/Documents/photosupload/main.m -o /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/main.o0#
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/photosupload app/Classes/photosuploadAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424948.874793
+e344424949.016973
+r1
+xCompileC
+xbuild/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o
+x/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.m344424948#344424949#0(0"0(0#0#73"/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.m8600484256#2071"    cd /Users/sandeep/Desktop/obj/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch -c /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadAppDelegate.m -o /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o0#
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o /Users/sandeep/Documents/photosupload/Classes/photosuploadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326182022.410477
+e326182022.577489
+r1
+xCompileC
+xbuild/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o
+x/Users/sandeep/Documents/photosupload/Classes/photosuploadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/Documents/photosupload/Classes/photosuploadAppDelegate.m326182022#326182022#0(0"0(0#0#71"/Users/sandeep/Documents/photosupload/Classes/photosuploadAppDelegate.m8604364544#2049"    cd /Users/sandeep/Documents/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-cxsbluvfzzhemvcahfqspchnqoir/photosupload_Prefix.pch -c /Users/sandeep/Documents/photosupload/Classes/photosuploadAppDelegate.m -o /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadAppDelegate.o0#
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o "/Users/sandeep/Desktop/sandeeprdy/photosupload app/Classes/photosuploadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424948.990007
+e344424949.105832
+r1
+xCompileC
+xbuild/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o
+x/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.m344424948#344424949#0(0"0(0#0#76"/Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.m8624313184#2077"    cd /Users/sandeep/Desktop/obj/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch -c /Users/sandeep/Desktop/obj/photosupload/Classes/photosuploadViewController.m -o /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o0#
+
+CCompileC build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o /Users/sandeep/Documents/photosupload/Classes/photosuploadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326868111.799296
+e326868112.451821
+r1
+xCompileC
+xbuild/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o
+x/Users/sandeep/Documents/photosupload/Classes/photosuploadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/sandeep/Documents/photosupload/Classes/photosuploadViewController.m326868111#326868112#0(0"0(0#0#74"/Users/sandeep/Documents/photosupload/Classes/photosuploadViewController.m8602560448#2055"    cd /Users/sandeep/Documents/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-cxsbluvfzzhemvcahfqspchnqoir/photosupload_Prefix.pch -c /Users/sandeep/Documents/photosupload/Classes/photosuploadViewController.m -o /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosuploadViewController.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/photosupload app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/photosupload app/photosuploadViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/photosupload/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/photosupload/photosuploadViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Documents/photosupload/MainWindow.xib
+s326177992.838120
+e326177993.787029
+r1
+xCompileXIB
+x/Users/sandeep/Documents/photosupload/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326177992#326177993#0(0"0(0#0#52"/Users/sandeep/Documents/photosupload/MainWindow.xib8606870048#572"    cd /Users/sandeep/Documents/photosupload    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/MainWindow.nib /Users/sandeep/Documents/photosupload/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/photosupload/photosuploadViewController.xib
+s326177992.840472
+e326177993.805482
+r1
+xCompileXIB
+x/Users/sandeep/Documents/photosupload/photosuploadViewController.xib
+lSLF07#2@41"CompileXIB photosuploadViewController.xib326177992#326177993#0(0"0(0#0#68"/Users/sandeep/Documents/photosupload/photosuploadViewController.xib8606888352#604"    cd /Users/sandeep/Documents/photosupload    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosuploadViewController.nib /Users/sandeep/Documents/photosupload/photosuploadViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/photosupload"
+r0
+
+CGenerateDSYMFile /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+s344424949.132595
+e344424949.170224
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM
+x/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/photosupload.app.dSYM build/Debug-iphonesimulator/photosupload.app/photosupload344424949#344424949#0(0"0(0#0#97"/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload8600536672#401"    cd /Users/sandeep/Desktop/obj/photosupload    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload -o /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+s326868112.487802
+e326868112.507354
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM
+x/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/photosupload.app.dSYM build/Debug-iphonesimulator/photosupload.app/photosupload326868112#326868112#0(0"0(0#0#95"/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload8607650688#395"    cd /Users/sandeep/Documents/photosupload    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload -o /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/photosupload" normal i386
+r0
+
+CLd /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload normal i386
+s344424949.105924
+e344424949.132500
+r1
+xLd
+x/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+xnormal
+xi386
+lSLF07#2@102"Link /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload344424949#344424949#0(0"0(0#0#0"8605322368#930"    cd /Users/sandeep/Desktop/obj/photosupload    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosupload.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload0#
+
+CLd /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload normal i386
+s326868112.451908
+e326868112.487706
+r1
+xLd
+x/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload
+xnormal
+xi386
+lSLF07#2@100"Link /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload326868112#326868112#0(0"0(0#0#0"8608779520#920"    cd /Users/sandeep/Documents/photosupload    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator -F/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator -filelist /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/Objects-normal/i386/photosupload.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/photosupload0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app/Info.plist" photosupload-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app/Info.plist photosupload-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/Info.plist photosupload-Info.plist
+s326177992.822693
+e326177992.838014
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/Info.plist
+xphotosupload-Info.plist
+lSLF07#2@31"Process photosupload-Info.plist326177992#326177992#0(0"0(0#0#61"/Users/sandeep/Documents/photosupload/photosupload-Info.plist30962724186357872#491"    cd /Users/sandeep/Documents/photosupload    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility photosupload-Info.plist -genpkginfo /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch.gch photosupload_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344424947.210183
+e344424948.873243
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch.gch
+xphotosupload_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile photosupload_Prefix.pch344424947#344424948#0(0"0(0#0#63"/Users/sandeep/Desktop/obj/photosupload/photosupload_Prefix.pch8605411520#1911"    cd /Users/sandeep/Desktop/obj/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -c /Users/sandeep/Desktop/obj/photosupload/photosupload_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-agjuakmbyuhbbdezvsjjgqkxprnp/photosupload_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-bxsquwubynnltnevpgrujrymrpsj/photosupload_Prefix.pch.gch photosupload_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-cxsbluvfzzhemvcahfqspchnqoir/photosupload_Prefix.pch.gch photosupload_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326177993.805640
+e326177995.360289
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-cxsbluvfzzhemvcahfqspchnqoir/photosupload_Prefix.pch.gch
+xphotosupload_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile photosupload_Prefix.pch326177993#326177995#0(0"0(0#0#61"/Users/sandeep/Documents/photosupload/photosupload_Prefix.pch8028915885444920320#1891"    cd /Users/sandeep/Documents/photosupload    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-generated-files.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-own-target-headers.hmap -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-all-target-headers.hmap -iquote /Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/photosupload-project-headers.hmap -F/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator -I/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources/i386 -I/Users/sandeep/Documents/photosupload/build/photosupload.build/Debug-iphonesimulator/photosupload.build/DerivedSources -c /Users/sandeep/Documents/photosupload/photosupload_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/photosupload_Prefix-cxsbluvfzzhemvcahfqspchnqoir/photosupload_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/photosupload app/build/Debug-iphonesimulator/photosupload.app"
+r0
+
+CTouch /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app
+s344424949.170307
+e344424949.175825
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app
+lSLF07#2@90"Touch /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app344424949#344424949#0(0"0(0#0#0"8599728544#285"    cd /Users/sandeep/Desktop/obj/photosupload    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/obj/photosupload/build/Debug-iphonesimulator/photosupload.app0#
+
+CTouch /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app
+s326868112.507440
+e326868112.511131
+r1
+xTouch
+x/Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app
+lSLF07#2@88"Touch /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app326868112#326868112#0(0"0(0#0#0"8606674048#281"    cd /Users/sandeep/Documents/photosupload    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Documents/photosupload/build/Debug-iphonesimulator/photosupload.app0#
+

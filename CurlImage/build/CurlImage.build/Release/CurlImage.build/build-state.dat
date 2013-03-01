@@ -1,0 +1,75 @@
+TCurlImage
+v7
+r1
+
+N/Users/vanita/Downloads/CurlImage/CurlImageViewController.xib
+c000000004AB8AE7B00000000000024F5
+t1253617275
+s9461
+
+N/Users/vanita/Downloads/CurlImage/MainWindow.xib
+c000000004AB8AC5F000000000000242B
+t1253616735
+s9259
+
+N/Users/vanita/Downloads/CurlImage/Screen1.jpg
+c000000004AB8AEDF0000000000000F12
+t1253617375
+s3858
+
+N/Users/vanita/Downloads/CurlImage/Wonder.jpg
+c000000004AB8ADE00000000000000E63
+t1253617120
+s3683
+
+N/Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app
+t2
+s0
+
+N/Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app/Contents/Info.plist
+t2
+s0
+
+N/Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app/Contents/Resources/CurlImageViewController.nib
+t2
+s0
+
+N/Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app/Contents/Resources/Screen1.jpg
+t2
+s0
+
+N/Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app/Contents/Resources/Wonder.jpg
+t2
+s0
+
+NCurlImage-Info.plist
+c000000004AB8AC5F000000000000038D
+t1253616735
+s909
+
+CCompileXIB /Users/vanita/Downloads/CurlImage/CurlImageViewController.xib
+r0
+
+CCompileXIB /Users/vanita/Downloads/CurlImage/MainWindow.xib
+r0
+
+CCpResource build/Release/CurlImage.app/Contents/Resources/Screen1.jpg Screen1.jpg
+r0
+
+CCpResource build/Release/CurlImage.app/Contents/Resources/Wonder.jpg Wonder.jpg
+r0
+
+CProcessInfoPlistFile /Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app/Contents/Info.plist CurlImage-Info.plist
+r0
+
+CTouch /Users/vanita/Downloads/CurlImage/build/Release/CurlImage.app
+r0
+

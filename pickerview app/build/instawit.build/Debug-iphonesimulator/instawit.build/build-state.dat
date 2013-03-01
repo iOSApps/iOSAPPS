@@ -1,0 +1,885 @@
+Tinstawit
+v7
+r0
+t352618001.257839
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/Info.plist" instawit-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/pickerview app/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/pickerview app/instawitViewController.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch.gch instawit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9AD4330000000000000132
+t1285215283
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitAppDelegate.h
+c000000004D147B3800000000000001DE
+t1293187896
+s478
+i<UIKit/UIKit.h>
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitAppDelegate.m
+c000000004D147B380000000000000A93
+t1293187896
+s2707
+i"instawitAppDelegate.h"
+i"instawitViewController.h"
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitViewController.h
+c000000004D18735800000000000002A2
+t1293448024
+s674
+i<UIKit/UIKit.h>
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitViewController.m
+c000000004D281EB00000000000000C47
+t1294474928
+s3143
+i"instawitViewController.h"
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/MainWindow.xib
+c000000004D147B380000000000004E35
+t1293187896
+s20021
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app
+t1294472312
+s238
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app.dSYM
+t1294472312
+s102
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist
+t1293952594
+s595
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/MainWindow.nib
+t1293952594
+s1125
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/PkgInfo
+t1293952594
+s8
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+t1294472312
+s24212
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawitViewController.i
+t2
+s0
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawitViewController.nib
+t1293952594
+s2826
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList
+c000000004D20265100000000000001AD
+t1293952593
+s429
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+t1293952596
+s48736
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+t1294472311
+s49800
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+t1293952596
+s6320
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib
+c000000004D19C1BB0000000000007640
+t1293533627
+s30272
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/instawit_Prefix.pch
+c000000004D147B3800000000000000B9
+t1293187896
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/anuraggupta/Desktop/dharmendra/instawit/main.m
+c000000004D147B380000000000000163
+t1293187896
+s355
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/instawit/Classes/instawitAppDelegate.h
+c000000004D147B3800000000000001DE
+t1293187896
+s478
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/instawit/Classes/instawitAppDelegate.m
+c000000004D147B380000000000000A93
+t1293187896
+s2707
+i"instawitAppDelegate.h"
+i"instawitViewController.h"
+
+N/Users/sandeep/Desktop/instawit/Classes/instawitViewController.h
+c000000004D18735800000000000002A2
+t1293448024
+s674
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/instawit/Classes/instawitViewController.m
+c000000004D281EB00000000000000C47
+t1294474928
+s3143
+i"instawitViewController.h"
+
+N/Users/sandeep/Desktop/instawit/MainWindow.xib
+c000000004D147B380000000000004E35
+t1293187896
+s20021
+
+N/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app
+t1322894808
+s238
+
+N/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app.dSYM
+t1322894808
+s102
+
+N/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist
+t1293952594
+s595
+
+N/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/MainWindow.nib
+t1293952594
+s1125
+
+N/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/PkgInfo
+t1293952594
+s8
+
+N/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+t1322894808
+s24124
+
+N/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawitViewController.nib
+t1293952594
+s2826
+
+N/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList
+c000000004ED9C5D60000000000000180
+t1322894806
+s384
+
+N/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+t1322894808
+s51832
+
+N/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+t1322894808
+s52876
+
+N/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+t1322894807
+s6288
+
+N/Users/sandeep/Desktop/instawit/instawitViewController.xib
+c000000004D19C1BB0000000000007640
+t1293533627
+s30272
+
+N/Users/sandeep/Desktop/instawit/instawit_Prefix.pch
+c000000004D147B3800000000000000B9
+t1293187896
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/instawit/main.m
+c000000004D147B380000000000000163
+t1293187896
+s355
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.h
+c000000004D147B3800000000000001DE
+t1293187896
+s478
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.m
+c000000004D147B380000000000000A93
+t1293187896
+s2707
+i"instawitAppDelegate.h"
+i"instawitViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.h
+c000000004D18735800000000000002A2
+t1293448024
+s674
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.m
+c000000004F544EC60000000000000C93
+t1330925254
+s3219
+i"instawitViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/MainWindow.xib
+c000000004D147B380000000000004E35
+t1293187896
+s20021
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app
+t1330925201
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app.dSYM
+t1330925201
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/Info.plist
+t1293952594
+s595
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/MainWindow.nib
+t1293952594
+s1125
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/PkgInfo
+t1293952594
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit
+t1330925200
+s24224
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawitViewController.nib
+t1293952594
+s2826
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList
+c000000004F019BAE00000000000001B3
+t1325505454
+s435
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+t1330925198
+s51864
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+t1330925199
+s52908
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+t1330925198
+s6324
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/instawitViewController.xib
+c000000004D19C1BB0000000000007640
+t1293533627
+s30272
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/instawit_Prefix.pch
+c000000004D147B3800000000000000B9
+t1293187896
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/pickerview app/main.m
+c000000004D147B380000000000000163
+t1293187896
+s355
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/instawit/Classes/instawitAppDelegate.h
+c000000004D147B3800000000000001DE
+t1293187896
+s478
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/instawit/Classes/instawitAppDelegate.m
+c000000004D147B380000000000000A93
+t1293187896
+s2707
+i"instawitAppDelegate.h"
+i"instawitViewController.h"
+
+N/Users/sandeep/Downloads/instawit/Classes/instawitViewController.h
+c000000004D18735800000000000002A2
+t1293448024
+s674
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/instawit/Classes/instawitViewController.m
+c000000004D281EB00000000000000C47
+t1294474928
+s3143
+i"instawitViewController.h"
+
+N/Users/sandeep/Downloads/instawit/MainWindow.xib
+c000000004D147B380000000000004E35
+t1293187896
+s20021
+
+N/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app
+t1322824456
+s238
+
+N/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app.dSYM
+t1322824456
+s102
+
+N/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist
+t1293952594
+s595
+
+N/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/MainWindow.nib
+t1293952594
+s1125
+
+N/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/PkgInfo
+t1293952594
+s8
+
+N/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+t1322824456
+s24136
+
+N/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawitViewController.nib
+t1293952594
+s2826
+
+N/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList
+c000000004ED8B3070000000000000186
+t1322824455
+s390
+
+N/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+t1322824456
+s51836
+
+N/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+t1322824456
+s52880
+
+N/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+t1322824456
+s6292
+
+N/Users/sandeep/Downloads/instawit/instawitViewController.xib
+c000000004D19C1BB0000000000007640
+t1293533627
+s30272
+
+N/Users/sandeep/Downloads/instawit/instawit_Prefix.pch
+c000000004D147B3800000000000000B9
+t1293187896
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Downloads/instawit/main.m
+c000000004D147B380000000000000163
+t1293187896
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gchusirtkmojubbakwwfmslxbduq/instawit_Prefix.pch.gch
+t1293952596
+s15211536
+
+N/var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gttvjmqprjvjtveutbzrlzeptdvv/instawit_Prefix.pch.gch
+t1293188569
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-azagbzjrstrzdadmwmbbdgmrwuly/instawit_Prefix.pch.gch
+t1322824456
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-cgvhroxshyavrichdvrymdnnrydl/instawit_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch.gch
+t1330925189
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-gxzynpnvstnwgwblhlzoddbcqydz/instawit_Prefix.pch.gch
+t1322894807
+s15453392
+
+Ninstawit-Info.plist
+c000000004D147B38000000000000038D
+t1293187896
+s909
+
+C<C0011:'CompileXIB instawitViewController.xib':P9:W0>
+s315127327.592203
+e315127328.061509
+r1
+xCompileXIB
+x/Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib
+lSLF07#2@37"CompileXIB instawitViewController.xib315127327#315127328#0(0"0(0#0#73"/Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib19140500286144628#619"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawitViewController.nib /Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352617983#352617983#0(0"0(0#1#0"8606109792#0"0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s352617997.468653
+e352617998.942368
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.m352617997#352617998#0(0"0(0#0#78"/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.m8604580768#2104"    cd "/Users/sandeep/Desktop/sandeeprdy/pickerview app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o"0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o /Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315645396.466747
+e315645396.563640
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+x/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@84"Compile /Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitAppDelegate.m315645396#315645396#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#76"/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitAppDelegate.m8616694368#2101"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/include -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gchusirtkmojubbakwwfmslxbduq/instawit_Prefix.pch -c /Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitAppDelegate.m -o /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o /Users/sandeep/Desktop/instawit/Classes/instawitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344587607.902194
+e344587608.007389
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+x/Users/sandeep/Desktop/instawit/Classes/instawitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sandeep/Desktop/instawit/Classes/instawitAppDelegate.m344587607#344587608#0(0"0(0#0#61"/Users/sandeep/Desktop/instawit/Classes/instawitAppDelegate.m8605045536#1895"    cd /Users/sandeep/Desktop/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-gxzynpnvstnwgwblhlzoddbcqydz/instawit_Prefix.pch -c /Users/sandeep/Desktop/instawit/Classes/instawitAppDelegate.m -o /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o /Users/sandeep/Downloads/instawit/Classes/instawitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344517256.490312
+e344517256.722249
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o
+x/Users/sandeep/Downloads/instawit/Classes/instawitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sandeep/Downloads/instawit/Classes/instawitAppDelegate.m344517256#344517256#0(0"0(0#0#63"/Users/sandeep/Downloads/instawit/Classes/instawitAppDelegate.m8613334464#1917"    cd /Users/sandeep/Downloads/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-azagbzjrstrzdadmwmbbdgmrwuly/instawit_Prefix.pch -c /Users/sandeep/Downloads/instawit/Classes/instawitAppDelegate.m -o /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitAppDelegate.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s352617998.881969
+e352617999.039445
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.m352617998#352617999#0(0"0(0#0#81"/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.m8606195712#2110"    cd "/Users/sandeep/Desktop/sandeeprdy/pickerview app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/pickerview app/Classes/instawitViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o"0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o /Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316165111.452576
+e316165111.959973
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+x/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@87"Compile /Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitViewController.m316165111#316165111#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#79"/Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitViewController.m8599514176#2107"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/include -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gchusirtkmojubbakwwfmslxbduq/instawit_Prefix.pch -c /Users/anuraggupta/Desktop/dharmendra/instawit/Classes/instawitViewController.m -o /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o /Users/sandeep/Desktop/instawit/Classes/instawitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344587607.971788
+e344587608.066383
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+x/Users/sandeep/Desktop/instawit/Classes/instawitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/sandeep/Desktop/instawit/Classes/instawitViewController.m344587607#344587608#0(0"0(0#0#64"/Users/sandeep/Desktop/instawit/Classes/instawitViewController.m8604767744#1901"    cd /Users/sandeep/Desktop/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-gxzynpnvstnwgwblhlzoddbcqydz/instawit_Prefix.pch -c /Users/sandeep/Desktop/instawit/Classes/instawitViewController.m -o /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o /Users/sandeep/Downloads/instawit/Classes/instawitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344517256.576397
+e344517256.837372
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o
+x/Users/sandeep/Downloads/instawit/Classes/instawitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sandeep/Downloads/instawit/Classes/instawitViewController.m344517256#344517256#0(0"0(0#0#66"/Users/sandeep/Downloads/instawit/Classes/instawitViewController.m8606314752#1923"    cd /Users/sandeep/Downloads/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-azagbzjrstrzdadmwmbbdgmrwuly/instawit_Prefix.pch -c /Users/sandeep/Downloads/instawit/Classes/instawitViewController.m -o /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawitViewController.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s352617997.455146
+e352617998.881873
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/pickerview app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Desktop/sandeeprdy/pickerview app/main.m352617997#352617998#0(0"0(0#0#55"/Users/sandeep/Desktop/sandeeprdy/pickerview app/main.m8606692288#2066"    cd "/Users/sandeep/Desktop/sandeeprdy/pickerview app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/pickerview app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o /Users/anuraggupta/Desktop/dharmendra/instawit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315645396.465327
+e315645396.522051
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+x/Users/anuraggupta/Desktop/dharmendra/instawit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@61"Compile /Users/anuraggupta/Desktop/dharmendra/instawit/main.m315645396#315645396#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#53"/Users/anuraggupta/Desktop/dharmendra/instawit/main.m8617061408#2063"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/include -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gchusirtkmojubbakwwfmslxbduq/instawit_Prefix.pch -c /Users/anuraggupta/Desktop/dharmendra/instawit/main.m -o /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/instawit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344587607.901134
+e344587607.971681
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/instawit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/sandeep/Desktop/instawit/main.m344587607#344587607#0(0"0(0#0#38"/Users/sandeep/Desktop/instawit/main.m8603681088#1857"    cd /Users/sandeep/Desktop/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-gxzynpnvstnwgwblhlzoddbcqydz/instawit_Prefix.pch -c /Users/sandeep/Desktop/instawit/main.m -o /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o0#
+
+CCompileC build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o /Users/sandeep/Downloads/instawit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344517256.488860
+e344517256.576154
+r1
+xCompileC
+xbuild/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o
+x/Users/sandeep/Downloads/instawit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Downloads/instawit/main.m344517256#344517256#0(0"0(0#0#40"/Users/sandeep/Downloads/instawit/main.m8603620864#1879"    cd /Users/sandeep/Downloads/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-azagbzjrstrzdadmwmbbdgmrwuly/instawit_Prefix.pch -c /Users/sandeep/Downloads/instawit/main.m -o /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/pickerview app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/pickerview app/instawitViewController.xib"
+r0
+
+CCompileXIB /Users/anuraggupta/Desktop/dharmendra/instawit/MainWindow.xib
+s315645394.004482
+e315645394.538115
+r1
+xCompileXIB
+x/Users/anuraggupta/Desktop/dharmendra/instawit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315645394#315645394#0(0"0(0#0#61"/Users/anuraggupta/Desktop/dharmendra/instawit/MainWindow.xib8605748096#595"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/MainWindow.nib /Users/anuraggupta/Desktop/dharmendra/instawit/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib
+s315645394.006746
+e315645394.793157
+r1
+xCompileXIB
+x/Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib
+lSLF07#2@37"CompileXIB instawitViewController.xib315645394#315645394#0(0"0(0#0#73"/Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib8608848768#619"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawitViewController.nib /Users/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/instawit/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/instawit/instawitViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Downloads/instawit/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Downloads/instawit/instawitViewController.xib
+r0
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit"
+s352618000.596226
+e352618001.230751
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/instawit.app.dSYM build/Debug-iphonesimulator/instawit.app/instawit352618000#352618001#0(0"0(0#0#98"/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit8604049536#422"    cd "/Users/sandeep/Desktop/sandeeprdy/pickerview app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit" -o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app.dSYM"0#
+
+CGenerateDSYMFile /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app.dSYM /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+s316165112.197727
+e316165112.243240
+r1
+xGenerateDSYMFile
+x/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app.dSYM
+x/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/instawit.app.dSYM build/Debug-iphonesimulator/instawit.app/instawit316165112#316165112#0(0"0(0#0#96"/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit8608697728#410"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit -o /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app.dSYM /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+s344587608.093856
+e344587608.126223
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app.dSYM
+x/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/instawit.app.dSYM build/Debug-iphonesimulator/instawit.app/instawit344587608#344587608#0(0"0(0#0#81"/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit8599029728#365"    cd /Users/sandeep/Desktop/instawit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit -o /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app.dSYM /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+s344517256.908074
+e344517256.927770
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app.dSYM
+x/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/instawit.app.dSYM build/Debug-iphonesimulator/instawit.app/instawit344517256#344517256#0(0"0(0#0#83"/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit8600775968#371"    cd /Users/sandeep/Downloads/instawit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit -o /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit" normal i386
+s352617999.039600
+e352618000.596065
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit
+xnormal
+xi386
+lSLF07#2@103"Link /Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit352617999#352618000#0(0"0(0#0#0"8606858048#965"    cd "/Users/sandeep/Desktop/sandeeprdy/pickerview app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/instawit"0#
+
+CLd /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit normal i386
+s316165111.960060
+e316165112.197616
+r1
+xLd
+x/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+xnormal
+xi386
+lSLF07#2@101"Link /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit316165111#316165112#0(0"0(0#0#0"8608204032#945"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator -F/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator -filelist /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/instawit0#
+
+CLd /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit normal i386
+s344587608.066479
+e344587608.093748
+r1
+xLd
+x/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+xnormal
+xi386
+lSLF07#2@86"Link /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit344587608#344587608#0(0"0(0#0#0"8600401120#870"    cd /Users/sandeep/Desktop/instawit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/instawit0#
+
+CLd /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit normal i386
+s344517256.837596
+e344517256.907682
+r1
+xLd
+x/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit
+xnormal
+xi386
+lSLF07#2@88"Link /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit344517256#344517256#0(0"0(0#0#0"8590464960#880"    cd /Users/sandeep/Downloads/instawit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator -F/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator -filelist /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/Objects-normal/i386/instawit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/instawit0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app/Info.plist" instawit-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist instawit-Info.plist
+s315645393.986576
+e315645394.004385
+r1
+xProcessInfoPlistFile
+x/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist
+xinstawit-Info.plist
+lSLF07#2@27"Process instawit-Info.plist315645393#315645394#0(0"0(0#0#66"/Users/anuraggupta/Desktop/dharmendra/instawit/instawit-Info.plist28429264708632676#506"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility instawit-Info.plist -genpkginfo /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist instawit-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app/Info.plist instawit-Info.plist
+r0
+
+CProcessPCH /var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gchusirtkmojubbakwwfmslxbduq/instawit_Prefix.pch.gch instawit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315645394.793276
+e315645396.465084
+r1
+xProcessPCH
+x/var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gchusirtkmojubbakwwfmslxbduq/instawit_Prefix.pch.gch
+xinstawit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@30"Precompile instawit_Prefix.pch315645394#315645396#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#66"/Users/anuraggupta/Desktop/dharmendra/instawit/instawit_Prefix.pch5791475642145010688#1946"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/include -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -c /Users/anuraggupta/Desktop/dharmendra/instawit/instawit_Prefix.pch -o /var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gchusirtkmojubbakwwfmslxbduq/instawit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gttvjmqprjvjtveutbzrlzeptdvv/instawit_Prefix.pch.gch instawit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314881367.750548
+e314881369.856104
+r1
+xProcessPCH
+x/var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gttvjmqprjvjtveutbzrlzeptdvv/instawit_Prefix.pch.gch
+xinstawit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile instawit_Prefix.pch314881367#314881369#0(0"0(0#0#66"/Users/anuraggupta/Desktop/dharmendra/instawit/instawit_Prefix.pch8602144992#1905"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/include -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/anuraggupta/Desktop/dharmendra/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -c /Users/anuraggupta/Desktop/dharmendra/instawit/instawit_Prefix.pch -o /var/folders/8h/8hf6UpzYEP8Gvy7RxHgF8E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/instawit_Prefix-gttvjmqprjvjtveutbzrlzeptdvv/instawit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-azagbzjrstrzdadmwmbbdgmrwuly/instawit_Prefix.pch.gch instawit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344517255.256569
+e344517256.488729
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-azagbzjrstrzdadmwmbbdgmrwuly/instawit_Prefix.pch.gch
+xinstawit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile instawit_Prefix.pch344517255#344517256#0(0"0(0#0#53"/Users/sandeep/Downloads/instawit/instawit_Prefix.pch8604484896#1775"    cd /Users/sandeep/Downloads/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Downloads/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -c /Users/sandeep/Downloads/instawit/instawit_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-azagbzjrstrzdadmwmbbdgmrwuly/instawit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-cgvhroxshyavrichdvrymdnnrydl/instawit_Prefix.pch.gch instawit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch.gch instawit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s352617983.277620
+e352617997.454982
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch.gch
+xinstawit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile instawit_Prefix.pch352617983#352617997#0(0"0(0#0#68"/Users/sandeep/Desktop/sandeeprdy/pickerview app/instawit_Prefix.pch8606942624#1945"    cd "/Users/sandeep/Desktop/sandeeprdy/pickerview app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/pickerview app/instawit_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-fnymhzfqnfgjgrfjpaqisnhukoyn/instawit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-gxzynpnvstnwgwblhlzoddbcqydz/instawit_Prefix.pch.gch instawit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344587606.728043
+e344587607.901035
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-gxzynpnvstnwgwblhlzoddbcqydz/instawit_Prefix.pch.gch
+xinstawit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile instawit_Prefix.pch344587606#344587607#0(0"0(0#0#51"/Users/sandeep/Desktop/instawit/instawit_Prefix.pch8605587968#1755"    cd /Users/sandeep/Desktop/instawit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-generated-files.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-own-target-headers.hmap -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-all-target-headers.hmap -iquote /Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/instawit-project-headers.hmap -F/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources/i386 -I/Users/sandeep/Desktop/instawit/build/instawit.build/Debug-iphonesimulator/instawit.build/DerivedSources -c /Users/sandeep/Desktop/instawit/instawit_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/instawit_Prefix-gxzynpnvstnwgwblhlzoddbcqydz/instawit_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app"
+s352618001.230839
+e352618001.257768
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app
+lSLF07#2@95"Touch /Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app352618001#352618001#0(0"0(0#0#0"8606373568#303"    cd "/Users/sandeep/Desktop/sandeeprdy/pickerview app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/pickerview app/build/Debug-iphonesimulator/instawit.app"0#
+
+CTouch /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app
+s316165112.243329
+e316165112.245932
+r1
+xTouch
+x/Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app
+lSLF07#2@93"Touch /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app316165112#316165112#0(0"0(0#0#0"8608502816#295"    cd /Users/anuraggupta/Desktop/dharmendra/instawit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/anuraggupta/Desktop/dharmendra/instawit/build/Debug-iphonesimulator/instawit.app0#
+
+CTouch /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app
+s344587608.126309
+e344587608.129050
+r1
+xTouch
+x/Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app
+lSLF07#2@78"Touch /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app344587608#344587608#0(0"0(0#0#0"8603923040#265"    cd /Users/sandeep/Desktop/instawit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/instawit/build/Debug-iphonesimulator/instawit.app0#
+
+CTouch /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app
+s344517256.927857
+e344517256.931938
+r1
+xTouch
+x/Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app
+lSLF07#2@80"Touch /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app344517256#344517256#0(0"0(0#0#0"8611370272#269"    cd /Users/sandeep/Downloads/instawit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Downloads/instawit/build/Debug-iphonesimulator/instawit.app0#
+

@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CheckMarkAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 273}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 449}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CheckMarkAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{255, 315}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CheckMark */ = {
+		activeExec = 0;
+		executables = (
+			2CE7B39D1495CFEE0057062E /* CheckMark */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2CE7B39D1495CFEE0057062E /* CheckMark */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CheckMark */;
+		codeSenseManager = 2CE7B3B61495D0330057062E /* Code sense */;
+		executables = (
+			2CE7B39D1495CFEE0057062E /* CheckMark */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357198777;
+			PBXWorkspaceStateSaveDate = 357198777;
+		};
+		perUserProjectItems = {
+			2C59DDF51525624B009C334B /* PBXTextBookmark */ = 2C59DDF51525624B009C334B /* PBXTextBookmark */;
+			2C59DDF61525624B009C334B /* PBXTextBookmark */ = 2C59DDF61525624B009C334B /* PBXTextBookmark */;
+			2CA6A948154A6BC500163CA0 /* PBXTextBookmark */ = 2CA6A948154A6BC500163CA0 /* PBXTextBookmark */;
+			2CBEF34B14A5F71A009A1D55 /* PBXTextBookmark */ = 2CBEF34B14A5F71A009A1D55 /* PBXTextBookmark */;
+			2CCCBDC61526B71D0027EF53 /* PBXTextBookmark */ = 2CCCBDC61526B71D0027EF53 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2CE7B3B51495D0330057062E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C59DDF51525624B009C334B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CheckMarkAppDelegate.m */;
+		name = "CheckMarkAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 255;
+	};
+	2C59DDF61525624B009C334B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F0006202113EA1F6009F2CBC /* TableView.h */;
+		name = "TableView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 19;
+	};
+	2CA6A948154A6BC500163CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F0006203113EA1F6009F2CBC /* TableView.m */;
+		name = "TableView.m: 128";
+		rLen = 0;
+		rLoc = 3972;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 683;
+	};
+	2CBEF34B14A5F71A009A1D55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckMarkAppDelegate.h */;
+		name = "CheckMarkAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	2CCCBDC61526B71D0027EF53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F0006203113EA1F6009F2CBC /* TableView.m */;
+		name = "TableView.m: 128";
+		rLen = 0;
+		rLoc = 3972;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 3473;
+	};
+	2CE7B39D1495CFEE0057062E /* CheckMark */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CheckMark;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2CE7B3B51495D0330057062E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2CE7B3B61495D0330057062E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F0006202113EA1F6009F2CBC /* TableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{19, 236}";
+		};
+	};
+	F0006203113EA1F6009F2CBC /* TableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 1690}}";
+			sepNavSelRange = "{3972, 0}";
+			sepNavVisRange = "{683, 367}";
+		};
+	};
+	F057CF71113EA64F0089B8B5 /* CheckMark.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {750, 676}}";
+		};
+	};
+}

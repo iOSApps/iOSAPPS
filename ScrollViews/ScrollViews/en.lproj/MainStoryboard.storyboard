@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="1.1" toolsVersion="2177" systemVersion="11D50b" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="vxr-jM-Etx">
+    <dependencies>
+        <development defaultVersion="4200" identifier="xcode"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="1173"/>
+    </dependencies>
+    <scenes>
+        <!--Table View Controller-->
+        <scene sceneID="JTd-aA-qo0">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="DEy-Gf-o3G" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <tableViewController id="Ni2-nQ-biy" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="aLI-gA-diV">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <sections>
+                            <tableViewSection id="Mso-43-r8Y">
+                                <cells>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="uCZ-Wx-55P" style="IBUITableViewCellStyleDefault" id="Yc9-AI-YMV">
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="0.0" y="0.0" width="300" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Image scroll" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" id="uCZ-Wx-55P">
+                                                    <rect key="frame" x="10" y="0.0" width="280" height="43"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                </label>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        </view>
+                                        <connections>
+                                            <segue destination="sRX-I3-PPj" kind="push" id="fHV-9Q-hpd"/>
+                                        </connections>
+                                    </tableViewCell>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="C55-07-Zqu" style="IBUITableViewCellStyleDefault" id="ivs-DV-Bul">
+                                        <rect key="frame" x="0.0" y="44" width="320" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="0.0" y="0.0" width="300" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Custom view scroll" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" id="C55-07-Zqu">
+                                                    <rect key="frame" x="10" y="0.0" width="280" height="43"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                </label>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        </view>
+                                        <connections>
+                                            <segue destination="Vbj-jJ-nTv" kind="push" id="9RG-fe-n1A"/>
+                                        </connections>
+                                    </tableViewCell>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="O8t-rK-bQL" style="IBUITableViewCellStyleDefault" id="e6O-aM-Fvv">
+                                        <rect key="frame" x="0.0" y="88" width="320" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="0.0" y="0.0" width="300" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Paged" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" id="O8t-rK-bQL">
+                                                    <rect key="frame" x="10" y="0.0" width="280" height="43"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                </label>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        </view>
+                                        <connections>
+                                            <segue destination="MC4-p2-Y2V" kind="push" id="M9s-I0-e95"/>
+                                        </connections>
+                                    </tableViewCell>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="QC2-Fp-jDd" style="IBUITableViewCellStyleDefault" id="0ZK-XV-PcW">
+                                        <rect key="frame" x="0.0" y="132" width="320" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="0.0" y="0.0" width="300" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Paged with peeking" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" id="QC2-Fp-jDd">
+                                                    <rect key="frame" x="10" y="0.0" width="280" height="43"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                </label>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        </view>
+                                        <connections>
+                                            <segue destination="3C3-TF-asn" kind="push" id="bT7-fg-xuf"/>
+                                        </connections>
+                                    </tableViewCell>
+                                </cells>
+                            </tableViewSection>
+                        </sections>
+                        <connections>
+                            <outlet property="dataSource" destination="Ni2-nQ-biy" id="dRz-FU-MWT"/>
+                            <outlet property="delegate" destination="Ni2-nQ-biy" id="Bz3-8y-NeC"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="Mnb-A1-nc2"/>
+                </tableViewController>
+            </objects>
+            <point key="canvasLocation" x="576" y="106"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="N1a-H0-YgA">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ly3-WN-Dth" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <viewController id="sRX-I3-PPj" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="VLs-oO-Gin">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="Occ-FG-uvh">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="416"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="sRX-I3-PPj" id="kLg-ss-cXM"/>
+                                </connections>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="mee-Rc-mWM"/>
+                    <connections>
+                        <outlet property="scrollView" destination="Occ-FG-uvh" id="AYD-s5-PZp"/>
+                    </connections>
+                </viewController>
+            </objects>
+            <point key="canvasLocation" x="1065" y="-206"/>
+        </scene>
+        <!--Paged Scroll View Controller-->
+        <scene sceneID="Hrt-Jf-0os">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="y0v-Ij-W32" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <viewController id="MC4-p2-Y2V" customClass="PagedScrollViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="N0F-Cg-hvh">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" id="Wms-Ss-soK">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="416"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="MC4-p2-Y2V" id="7Io-qK-bFF"/>
+                                </connections>
+                            </scrollView>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" id="830-ws-gNq">
+                                <rect key="frame" x="20" y="360" width="280" height="36"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                            </pageControl>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="9Sr-gI-HGG"/>
+                    <connections>
+                        <outlet property="pageControl" destination="830-ws-gNq" id="v63-Tl-LkX"/>
+                        <outlet property="scrollView" destination="Wms-Ss-soK" id="Jb5-Dx-jvq"/>
+                    </connections>
+                </viewController>
+            </objects>
+            <point key="canvasLocation" x="1467" y="-206"/>
+        </scene>
+        <!--Custom Scroll View Controller-->
+        <scene sceneID="igi-eo-uNN">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xso-AJ-oQW" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <viewController id="Vbj-jJ-nTv" customClass="CustomScrollViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="D6b-s3-9Py">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="UCE-E6-2UA">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="416"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="Vbj-jJ-nTv" id="neu-xx-v4J"/>
+                                </connections>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="v70-ne-DqV"/>
+                    <connections>
+                        <outlet property="scrollView" destination="UCE-E6-2UA" id="R53-Zl-DuN"/>
+                    </connections>
+                </viewController>
+            </objects>
+            <point key="canvasLocation" x="1065" y="494"/>
+        </scene>
+        <!--Peek Paged Scroll View Controller-->
+        <scene sceneID="h0E-Ao-kiw">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="DdP-vK-i2l" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <viewController id="3C3-TF-asn" customClass="PeekPagedScrollViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Bpz-5U-onT">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" id="i43-WD-qKs" customClass="ScrollViewContainer">
+                                <rect key="frame" x="0.0" y="52" width="320" height="312"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <scrollView multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" id="OXj-Ii-Gol">
+                                        <rect key="frame" x="40" y="0.0" width="240" height="312"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                        <connections>
+                                            <outlet property="delegate" destination="3C3-TF-asn" id="qsW-h1-zTJ"/>
+                                        </connections>
+                                    </scrollView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <connections>
+                                    <outlet property="scrollView" destination="OXj-Ii-Gol" id="gzq-8c-ahL"/>
+                                </connections>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="usR-u3-iPm"/>
+                    <connections>
+                        <outlet property="scrollView" destination="OXj-Ii-Gol" id="upQ-9Z-Cwx"/>
+                    </connections>
+                </viewController>
+            </objects>
+            <point key="canvasLocation" x="1467" y="494"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="lVk-lK-lm4">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8PL-zg-dNy" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <navigationController id="vxr-jM-Etx" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="ARR-6W-Q4i">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Ni2-nQ-biy" kind="relationship" relationship="rootViewController" id="p6g-lf-p9D"/>
+                    </connections>
+                </navigationController>
+            </objects>
+            <point key="canvasLocation" x="50" y="106"/>
+        </scene>
+    </scenes>
+    <classes>
+        <class className="CustomScrollViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/CustomScrollViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="scrollView" candidateClass="UIScrollView"/>
+            </relationships>
+        </class>
+        <class className="PagedScrollViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/PagedScrollViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="pageControl" candidateClass="UIPageControl"/>
+                <relationship kind="outlet" name="scrollView" candidateClass="UIScrollView"/>
+            </relationships>
+        </class>
+        <class className="PeekPagedScrollViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/PeekPagedScrollViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="pageControl" candidateClass="UIPageControl"/>
+                <relationship kind="outlet" name="scrollView" candidateClass="UIScrollView"/>
+            </relationships>
+        </class>
+        <class className="ScrollViewContainer" superclassName="UIView">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ScrollViewContainer.h"/>
+            <relationships>
+                <relationship kind="outlet" name="scrollView" candidateClass="UIScrollView"/>
+            </relationships>
+        </class>
+        <class className="ViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="scrollView" candidateClass="UIScrollView"/>
+            </relationships>
+        </class>
+    </classes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>

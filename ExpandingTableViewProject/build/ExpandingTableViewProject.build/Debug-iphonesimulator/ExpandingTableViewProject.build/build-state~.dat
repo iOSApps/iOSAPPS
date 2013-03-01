@@ -1,0 +1,256 @@
+TExpandingTableViewProject
+v7
+r0
+t324361337.214063
+cCheck dependencies
+cProcessInfoPlistFile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/Info.plist ExpandingTableViewProject-Info.plist
+cCompileXIB /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/MainWindow.xib
+cCompileXIB /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProjectViewController.xib
+cProcessPCH /var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch.gch ExpandingTableViewProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/main.o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectAppDelegate.o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectViewController.o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject normal i386
+cGenerateDSYMFile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app.dSYM /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject
+cTouch /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D4759030000000000000110
+t1296521475
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.h
+c000000004DA524F40000000000000247
+t1302668532
+s583
+i<UIKit/UIKit.h>
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.m
+c000000004DA524F40000000000000AEB
+t1302668532
+s2795
+i"ExpandingTableViewProjectAppDelegate.h"
+i"ExpandingTableViewProjectViewController.h"
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.h
+c000000004DA524F40000000000000120
+t1302668532
+s288
+i<UIKit/UIKit.h>
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.m
+c000000004DA524F40000000000000605
+t1302668532
+s1541
+i"ExpandingTableViewProjectViewController.h"
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProjectViewController.xib
+c000000004DA524F40000000000001A8D
+t1302668532
+s6797
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProject_Prefix.pch
+c000000004DA524F400000000000000DB
+t1302668532
+s219
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/MainWindow.xib
+c000000004DA524F40000000000004F01
+t1302668532
+s20225
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app
+t1302668537
+s238
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app.dSYM
+t1302668537
+s102
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject
+t1302668537
+s18136
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProjectViewController.nib
+t1302668535
+s795
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/Info.plist
+t1302668535
+s669
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/MainWindow.nib
+t1302668535
+s1159
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/PkgInfo
+t1302668535
+s8
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProject.LinkFileList
+c000000004DA524F7000000000000025F
+t1302668535
+s607
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectAppDelegate.o
+t1302668537
+s51964
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectViewController.o
+t1302668537
+s37920
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/main.o
+t1302668537
+s6348
+
+N/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/main.m
+c000000004DA524F40000000000000177
+t1302668532
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch.gch
+t1302668536
+s15453392
+
+NExpandingTableViewProject-Info.plist
+c000000004DA524F4000000000000038D
+t1302668532
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324361334#324361335#0(0"0(0#1#0"8608113216#0"0#
+
+CCompileC build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectAppDelegate.o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324361337.006490
+e324361337.122641
+r1
+xCompileC
+xbuild/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectAppDelegate.o
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.m324361337#324361337#0(0"0(0#0#107"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.m8606470784#2588"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-generated-files.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-own-target-headers.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-all-target-headers.hmap -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-project-headers.hmap -F/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/include -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources/i386 -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources -include /var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch -c /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectAppDelegate.m -o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectAppDelegate.o0#
+
+CCompileC build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectViewController.o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324361337.080461
+e324361337.161362
+r1
+xCompileC
+xbuild/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectViewController.o
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.m324361337#324361337#0(0"0(0#0#110"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.m8627155296#2594"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-generated-files.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-own-target-headers.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-all-target-headers.hmap -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-project-headers.hmap -F/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/include -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources/i386 -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources -include /var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch -c /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/Classes/ExpandingTableViewProjectViewController.m -o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProjectViewController.o0#
+
+CCompileC build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/main.o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324361337.004549
+e324361337.080322
+r1
+xCompileC
+xbuild/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/main.o
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/main.m324361337#324361337#0(0"0(0#0#67"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/main.m8628301472#2516"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-generated-files.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-own-target-headers.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-all-target-headers.hmap -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-project-headers.hmap -F/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/include -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources/i386 -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources -include /var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch -c /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/main.m -o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProjectViewController.xib
+s324361335.174271
+e324361335.732487
+r1
+xCompileXIB
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProjectViewController.xib
+lSLF07#2@54"CompileXIB ExpandingTableViewProjectViewController.xib324361335#324361335#0(0"0(0#0#104"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProjectViewController.xib8606894688#712"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProjectViewController.nib /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProjectViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/MainWindow.xib
+s324361335.173301
+e324361335.732316
+r1
+xCompileXIB
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324361335#324361335#0(0"0(0#0#75"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/MainWindow.xib8607046752#654"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/MainWindow.nib /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app.dSYM /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject
+s324361337.191750
+e324361337.210633
+r1
+xGenerateDSYMFile
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app.dSYM
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject
+lSLF07#2@163"GenerateDSYMFile build/Debug-iphonesimulator/ExpandingTableViewProject.app.dSYM build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject324361337#324361337#0(0"0(0#0#144"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject8608068384#503"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject -o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app.dSYM0#
+
+CLd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject normal i386
+s324361337.161481
+e324361337.191628
+r1
+xLd
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject
+xnormal
+xi386
+lSLF07#2@149"Link /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject324361337#324361337#0(0"0(0#0#0"8620943552#1100"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator -F/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator -filelist /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/Objects-normal/i386/ExpandingTableViewProject.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/ExpandingTableViewProject0#
+
+CProcessInfoPlistFile /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/Info.plist ExpandingTableViewProject-Info.plist
+s324361335.154588
+e324361335.173190
+r1
+xProcessInfoPlistFile
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/Info.plist
+xExpandingTableViewProject-Info.plist
+lSLF07#2@44"Process ExpandingTableViewProject-Info.plist324361335#324361335#0(0"0(0#0#97"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProject-Info.plist8607898080#599"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ExpandingTableViewProject-Info.plist -genpkginfo /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app/Info.plist0#
+
+CProcessPCH /var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch.gch ExpandingTableViewProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324361335.732618
+e324361337.004147
+r1
+xProcessPCH
+x/var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch.gch
+xExpandingTableViewProject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Precompile ExpandingTableViewProject_Prefix.pch324361335#324361337#0(0"0(0#0#97"/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProject_Prefix.pch8601084128#2368"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-generated-files.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-own-target-headers.hmap -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-all-target-headers.hmap -iquote /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/ExpandingTableViewProject-project-headers.hmap -F/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/include -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources/i386 -I/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/ExpandingTableViewProject.build/Debug-iphonesimulator/ExpandingTableViewProject.build/DerivedSources -c /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/ExpandingTableViewProject_Prefix.pch -o /var/folders/FI/FIZmnBOaFiWh313te+9SZU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ExpandingTableViewProject_Prefix-aykdusohzrrzowevwacvxayejuqn/ExpandingTableViewProject_Prefix.pch.gch0#
+
+CTouch /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app
+s324361337.210738
+e324361337.214018
+r1
+xTouch
+x/Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app
+lSLF07#2@124"Touch /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app324361337#324361337#0(0"0(0#0#0"8606705760#340"    cd /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryannewsome/Desktop/exmples/ExpandingTableViewProject/build/Debug-iphonesimulator/ExpandingTableViewProject.app0#
+

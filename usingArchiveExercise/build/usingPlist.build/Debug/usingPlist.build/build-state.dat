@@ -1,0 +1,87 @@
+TusingPlist
+v7
+r1
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/MainWindow.xib
+c000000004B7654A1000000000000246F
+t1266046113
+s9327
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/Resources/data.plist
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/Resources/dummyData.plist
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/Resources/newDocumentData.plist
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/Resources/usingPlistViewController.nib
+t2
+s0
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/data.plist
+c000000004B7940A90000000000000124
+t1266237609
+s292
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/dummyData.plist
+c000000004B794A6C0000000000000104
+t1266240108
+s260
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/newDocumentData.plist
+c000000004B7956C200000000000001D5
+t1266243266
+s469
+
+N/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlistViewController.xib
+c000000004B79592D0000000000005844
+t1266243885
+s22596
+
+NusingPlist-Info.plist
+c000000004B7654A1000000000000038D
+t1266046113
+s909
+
+CCompileXIB "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/usingPlistViewController.xib"
+r0
+
+CCpResource build/Debug/usingPlist.app/Contents/Resources/data.plist data.plist
+r0
+
+CCpResource build/Debug/usingPlist.app/Contents/Resources/dummyData.plist dummyData.plist
+r0
+
+CCpResource build/Debug/usingPlist.app/Contents/Resources/newDocumentData.plist newDocumentData.plist
+r0
+
+CProcessInfoPlistFile "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app/Contents/Info.plist" usingPlist-Info.plist
+r0
+
+CTouch "/Users/Amrita/Desktop/Amrita/Devender_Backup/Day 3/usingArchiveExercise/build/Debug/usingPlist.app"
+r0
+

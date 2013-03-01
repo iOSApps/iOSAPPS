@@ -1,0 +1,296 @@
+Tmanojcore
+v7
+r0
+t356610900.853889
+cCheck dependencies
+cProcessInfoPlistFile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist manojcore-Info.plist
+cCompileXIB /Users/manoj1/Desktop/manojcore/MainWindow.xib
+cCompileXIB /Users/manoj1/Desktop/manojcore/Classes/next.xib
+cProcessPCH /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch manojcore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd /Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld
+cCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o /Users/manoj1/Desktop/manojcore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o /Users/manoj1/Desktop/manojcore/Classes/next.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.h
+c000000004F91367100000000000003AD
+t1334916721
+s941
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"next.h"
+
+N/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m
+c000000004F9136630000000000001E1B
+t1334916707
+s7707
+i"manojcoreAppDelegate.h"
+
+N/Users/manoj1/Desktop/manojcore/Classes/next.h
+c000000004F913B9000000000000001CE
+t1334918032
+s462
+i<UIKit/UIKit.h>
+
+N/Users/manoj1/Desktop/manojcore/Classes/next.m
+c000000004F913B8B0000000000000EC2
+t1334918027
+s3778
+i"next.h"
+
+N/Users/manoj1/Desktop/manojcore/Classes/next.xib
+c000000004F913BCC00000000000085D7
+t1334918092
+s34263
+
+N/Users/manoj1/Desktop/manojcore/MainWindow.xib
+c000000004F912FE500000000000021D1
+t1334915045
+s8657
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+t2
+s0
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM
+t2
+s0
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist
+t1334918095
+s599
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/MainWindow.nib
+t1334918096
+s986
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/PkgInfo
+t1334918095
+s8
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+t2
+s0
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd
+t2
+s0
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/next.nib
+t1334918096
+s2879
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o
+t1334918100
+s6288
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcore.LinkFileList
+c000000004F913BCE0000000000000175
+t1334918094
+s373
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o
+t2
+s0
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o
+t2
+s0
+
+N/Users/manoj1/Desktop/manojcore/main.m
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<UIKit/UIKit.h>
+
+N/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld
+c000000004F9132A30000000000000088
+t1334915747
+s136
+
+N/Users/manoj1/Desktop/manojcore/manojcore_Prefix.pch
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch
+t1334918100
+s16326640
+
+Nmanojcore-Info.plist
+c000000004F912FE5000000000000038D
+t1334915045
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356610894#356610895#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o /Users/manoj1/Desktop/manojcore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356610900.615241
+e356610900.706973
+r1
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o
+x/Users/manoj1/Desktop/manojcore/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/manoj1/Desktop/manojcore/main.m356610900#356610900#0(0"0(0#0#38"/Users/manoj1/Desktop/manojcore/main.m8615899136#1877"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch -c /Users/manoj1/Desktop/manojcore/main.m -o /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356610900.707070
+e356610900.853806
+r0
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o
+x/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.h:11,
+o                 from /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m:9:
+o/Users/manoj1/Desktop/manojcore/Classes/next.h:17: error: expected specifier-qualifier-list before '*' token
+o/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m:203: warning: property 'n' requires method '-n' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m:203: warning: property 'n' requires the method 'setN:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@70"Compile /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m356610900#356610900#0(669"In file included from /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.h:11,                 from /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m:9:/Users/manoj1/Desktop/manojcore/Classes/next.h:17: error: expected specifier-qualifier-list before '*' token/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m:203: warning: property 'n' requires method '-n' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m:203: warning: property 'n' requires the method 'setN:' to be defined - use @synthesize, @dynamic or provide a method implementation3(4@50"Expected specifier-qualifier-list before '*' token356610900#177#109#3(7@84"In file included from /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m356610900#18446744073709551615#0#0(6@62"/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m356609507#9#0#9#0#0"0(7@84"In file included from /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.h356610900#18446744073709551615#0#0(6@62"/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.h356609521#11#0#11#0#0"0(13@100"Expected specifier-qualifier-list before '*' token in /Users/manoj1/Desktop/manojcore/Classes/next.h356610900#18446744073709551615#0#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.h356610832#17#0#17#0#0"0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.h356610832#17#0#17#0#19"expected * before *0(22@110"Property 'n' requires method '-n' to be defined - use @synthesize, @dynamic or provide a method implementation356610900#286#188#0(6@62"/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m356609507#203#0#203#0#0"0(22@117"Property 'n' requires the method 'setN:' to be defined - use @synthesize, @dynamic or provide a method implementation356610900#474#195#0(6@62"/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m356609507#203#0#203#0#0"0(0#0#62"/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m7867630698036425728#1917"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch -c /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m -o /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o1#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o /Users/manoj1/Desktop/manojcore/Classes/next.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356610900.712543
+e356610900.821251
+r0
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o
+x/Users/manoj1/Desktop/manojcore/Classes/next.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/manoj1/Desktop/manojcore/Classes/next.m:9:
+o/Users/manoj1/Desktop/manojcore/Classes/next.h:17: error: expected specifier-qualifier-list before '*' token
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:13: error: no declaration of property 'status' found in the interface
+o/Users/manoj1/Desktop/manojcore/Classes/next.m: In function '-[next saveData]':
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: 'coredataAppDelegate' undeclared (first use in this function)
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: (Each undeclared identifier is reported only once
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: for each function it appears in.)
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: 'appDelegate' undeclared (first use in this function)
+o/Users/manoj1/Desktop/manojcore/Classes/next.m: In function '-[next findContact]':
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:38: error: 'coredataAppDelegate' undeclared (first use in this function)
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:38: error: 'appDelegate' undeclared (first use in this function)
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:49: error: 'name' undeclared (first use in this function)
+o/Users/manoj1/Desktop/manojcore/Classes/next.m: In function '-[next get]':
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:69: error: 'coredataAppDelegate' undeclared (first use in this function)
+o/Users/manoj1/Desktop/manojcore/Classes/next.m:69: error: 'appDelegate' undeclared (first use in this function)
+lSLF07#2@54"Compile /Users/manoj1/Desktop/manojcore/Classes/next.m356610900#356610900#0(1537"In file included from /Users/manoj1/Desktop/manojcore/Classes/next.m:9:/Users/manoj1/Desktop/manojcore/Classes/next.h:17: error: expected specifier-qualifier-list before '*' token/Users/manoj1/Desktop/manojcore/Classes/next.m:13: error: no declaration of property 'status' found in the interface/Users/manoj1/Desktop/manojcore/Classes/next.m: In function '-[next saveData]':/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: 'coredataAppDelegate' undeclared (first use in this function)/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: (Each undeclared identifier is reported only once/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: for each function it appears in.)/Users/manoj1/Desktop/manojcore/Classes/next.m:16: error: 'appDelegate' undeclared (first use in this function)/Users/manoj1/Desktop/manojcore/Classes/next.m: In function '-[next findContact]':/Users/manoj1/Desktop/manojcore/Classes/next.m:38: error: 'coredataAppDelegate' undeclared (first use in this function)/Users/manoj1/Desktop/manojcore/Classes/next.m:38: error: 'appDelegate' undeclared (first use in this function)/Users/manoj1/Desktop/manojcore/Classes/next.m:49: error: 'name' undeclared (first use in this function)/Users/manoj1/Desktop/manojcore/Classes/next.m: In function '-[next get]':/Users/manoj1/Desktop/manojcore/Classes/next.m:69: error: 'coredataAppDelegate' undeclared (first use in this function)/Users/manoj1/Desktop/manojcore/Classes/next.m:69: error: 'appDelegate' undeclared (first use in this function)9(4@50"Expected specifier-qualifier-list before '*' token356610900#72#109#2(7@68"In file included from /Users/manoj1/Desktop/manojcore/Classes/next.m356610900#18446744073709551615#0#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#9#0#9#0#0"0(13@100"Expected specifier-qualifier-list before '*' token in /Users/manoj1/Desktop/manojcore/Classes/next.h356610900#18446744073709551615#0#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.h356610832#17#0#17#0#0"0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.h356610832#17#0#17#0#19"expected * before *0(4@58"No declaration of property 'status' found in the interface356610900#181#117#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#13#0#13#0#0"0(4@61"'coredataAppDelegate' undeclared (first use in this function)356610900#378#120#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#16#0#16#0#43"'*' undeclared (first use in this function)0(4@53"'appDelegate' undeclared (first use in this function)356610900#698#112#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#16#0#16#0#43"'*' undeclared (first use in this function)0(4@61"'coredataAppDelegate' undeclared (first use in this function)356610900#893#120#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#38#0#38#0#43"'*' undeclared (first use in this function)0(4@53"'appDelegate' undeclared (first use in this function)356610900#1013#112#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#38#0#38#0#43"'*' undeclared (first use in this function)0(4@46"'name' undeclared (first use in this function)356610900#1125#105#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#49#0#49#0#43"'*' undeclared (first use in this function)0(4@61"'coredataAppDelegate' undeclared (first use in this function)356610900#1305#120#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#69#0#69#0#43"'*' undeclared (first use in this function)0(4@53"'appDelegate' undeclared (first use in this function)356610900#1425#112#0(6@46"/Users/manoj1/Desktop/manojcore/Classes/next.m356610827#69#0#69#0#43"'*' undeclared (first use in this function)0(0#0#46"/Users/manoj1/Desktop/manojcore/Classes/next.m8612497376#1885"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch -c /Users/manoj1/Desktop/manojcore/Classes/next.m -o /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o1#
+
+CCompileXIB /Users/manoj1/Desktop/manojcore/Classes/next.xib
+s356610895.386344
+e356610896.974856
+r1
+xCompileXIB
+x/Users/manoj1/Desktop/manojcore/Classes/next.xib
+o2012-04-20 16:04:56.483 Interface Builder Cocoa Touch Tool[5851:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@27"CompileXIB Classes/next.xib356610895#356610896#0(240"2012-04-20 16:04:56.483 Interface Builder Cocoa Touch Tool[5851:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#48"/Users/manoj1/Desktop/manojcore/Classes/next.xib8616456192#547"    cd /Users/manoj1/Desktop/manojcore    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/next.nib /Users/manoj1/Desktop/manojcore/Classes/next.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/manoj1/Desktop/manojcore/MainWindow.xib
+s356610895.378550
+e356610896.485395
+r1
+xCompileXIB
+x/Users/manoj1/Desktop/manojcore/MainWindow.xib
+o2012-04-20 16:04:56.353 Interface Builder Cocoa Touch Tool[5845:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib356610895#356610896#0(240"2012-04-20 16:04:56.353 Interface Builder Cocoa Touch Tool[5845:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#46"/Users/manoj1/Desktop/manojcore/MainWindow.xib8617246912#551"    cd /Users/manoj1/Desktop/manojcore    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/MainWindow.nib /Users/manoj1/Desktop/manojcore/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd /Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld
+s356610900.613295
+e356610900.712440
+r0
+xDataModelVersionCompile
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd
+x/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld
+o/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld/manojcore.xcdatamodel:employee.emp_name: error: employee.emp_name -- attribute must have a defined type 
+o/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld:0: error: Compilation failed for data model at path '/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd/manojcore.mom'
+lSLF07#2@103"DataModelVersionCompile build/Debug-iphonesimulator/manojcore.app/manojcore.momd manojcore.xcdatamodeld356610900#356610900#0(372"/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld/manojcore.xcdatamodel:employee.emp_name: error: employee.emp_name -- attribute must have a defined type /Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld:0: error: Compilation failed for data model at path '/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd/manojcore.mom'2(4@56"employee.emp_name -- attribute must have a defined type 356610900#18446744073709551615#0#0(6@76"/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld/manojcore.xcdatamodel356608547#0#0#0#0#0"0(4@146"Compilation failed for data model at path '/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd/manojcore.mom'356610900#18446744073709551615#0#0(6@54"/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld356608547#0#0#0#0#0"0(0#0#54"/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld8616036448#371"    cd /Users/manoj1/Desktop/manojcore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd1#
+
+CGenerateDSYMFile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+r0
+
+CLd /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore normal i386
+r0
+
+CProcessInfoPlistFile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist manojcore-Info.plist
+s356610895.268237
+e356610895.378261
+r1
+xProcessInfoPlistFile
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist
+xmanojcore-Info.plist
+lSLF07#2@28"Process manojcore-Info.plist356610895#356610895#0(0"0(0#0#52"/Users/manoj1/Desktop/manojcore/manojcore-Info.plist30399800003068008#464"    cd /Users/manoj1/Desktop/manojcore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility manojcore-Info.plist -genpkginfo /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist0#
+
+CProcessPCH /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch manojcore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356610896.975106
+e356610900.613056
+r1
+xProcessPCH
+x/var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch
+xmanojcore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile manojcore_Prefix.pch356610896#356610900#0(0"0(0#0#52"/Users/manoj1/Desktop/manojcore/manojcore_Prefix.pch8615277920#1774"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -c /Users/manoj1/Desktop/manojcore/manojcore_Prefix.pch -o /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch0#
+
+CTouch /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+r0
+

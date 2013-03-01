@@ -1,0 +1,932 @@
+Ttwo plists
+v7
+r0
+t354603089.888483
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/Info.plist" two_plists-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/two_plistsViewController.xib"
+cCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/one.plist" one.plist
+cCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/data3.plist" data3.plist
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch.gch two_plists_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsAppDelegate.h
+c000000004DA41A9900000000000001ED
+t1302600345
+s493
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsAppDelegate.m
+c000000004DA41A990000000000000AA0
+t1302600345
+s2720
+i"two_plistsAppDelegate.h"
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsViewController.h
+c000000004DA41A9900000000000000F3
+t1302600345
+s243
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsViewController.m
+c000000004DDDE2D40000000000001359
+t1306387156
+s4953
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Desktop/obj/two plists/MainWindow.xib
+c000000004DA41A990000000000004E4D
+t1302600345
+s20045
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app
+t1322734587
+s272
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app.dSYM
+t1322734587
+s102
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/Info.plist
+t1302601583
+s603
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/MainWindow.nib
+t1302601584
+s1129
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/PkgInfo
+t1302601583
+s8
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/one.plist
+t1302601584
+s42
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists
+t1322734587
+s17880
+
+N/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two_plistsViewController.nib
+t1302601584
+s795
+
+N/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+t1322734587
+s6300
+
+N/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList
+c000000004ED753FA00000000000001A2
+t1322734586
+s418
+
+N/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+t1322734587
+s51064
+
+N/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+t1322734587
+s43336
+
+N/Users/sandeep/Desktop/obj/two plists/main.m
+c000000004DA41A990000000000000168
+t1302600345
+s360
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/two plists/one.plist
+c000000004DA41F6F00000000000000B5
+t1302601583
+s181
+
+N/Users/sandeep/Desktop/obj/two plists/two_plistsViewController.xib
+c000000004DA41A990000000000001A51
+t1302600345
+s6737
+
+N/Users/sandeep/Desktop/obj/two plists/two_plists_Prefix.pch
+c000000004DA41A9900000000000000BD
+t1302600345
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.h
+c000000004DA41A9900000000000001ED
+t1302600345
+s493
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.m
+c000000004DA41A990000000000000AA0
+t1302600345
+s2720
+i"two_plistsAppDelegate.h"
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.h
+c000000004DA41A9900000000000000F3
+t1302600345
+s243
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m
+c000000004F7298D10000000000001412
+t1332910289
+s5138
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/MainWindow.xib
+c000000004DA41A990000000000004E4D
+t1302600345
+s20045
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app
+t1332910289
+s340
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM
+t1332910289
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/Info.plist
+t1302601583
+s603
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/MainWindow.nib
+t1302601584
+s1129
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/PkgInfo
+t1302601583
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/data3.plist
+t1332741917
+s42
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/one.plist
+t1332909918
+s42
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/t3.plist
+t1331792726
+s90
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists
+t1332910289
+s17976
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two_plistsViewController.nib
+t1302601584
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+t1332736301
+s6356
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList
+c000000004F6FF12500000000000001F6
+t1332736293
+s502
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+t1332736301
+s51120
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+t1332910289
+s41704
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/data3.plist
+c000000004F70071D00000000000000B6
+t1332741917
+s182
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/main.m
+c000000004DA41A990000000000000168
+t1302600345
+s360
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/one.plist
+c000000004F72975E00000000000000B5
+t1332909918
+s181
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/t3.plist
+c000000004F618B560000000000000150
+t1331792726
+s336
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/two_plistsViewController.xib
+c000000004DA41A990000000000001A51
+t1302600345
+s6737
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/two_plists_Prefix.pch
+c000000004DA41A9900000000000000BD
+t1302600345
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsAppDelegate.h
+c000000004DA41A9900000000000001ED
+t1302600345
+s493
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsAppDelegate.m
+c000000004DA41A990000000000000AA0
+t1302600345
+s2720
+i"two_plistsAppDelegate.h"
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsViewController.h
+c000000004DA41A9900000000000000F3
+t1302600345
+s243
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsViewController.m
+c000000004DDDE2D40000000000001359
+t1306387156
+s4953
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/MainWindow.xib
+c000000004DA41A990000000000004E4D
+t1302600345
+s20045
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app
+t1331792726
+s306
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM
+t1331791455
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/Info.plist
+t1302601583
+s603
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/MainWindow.nib
+t1302601584
+s1129
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/PkgInfo
+t1302601583
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/one.plist
+t1331792726
+s42
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/t3.plist
+t1331792726
+s90
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists
+t1331791455
+s17948
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two_plistsViewController.nib
+t1302601584
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+t1331791455
+s6324
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList
+c000000004F61865E00000000000001C3
+t1331791454
+s451
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+t1331791455
+s51084
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+t1331791455
+s43356
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/main.m
+c000000004DA41A990000000000000168
+t1302600345
+s360
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/one.plist
+c000000004F618B5600000000000000B6
+t1331792726
+s182
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/t3.plist
+c000000004F618B560000000000000150
+t1331792726
+s336
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/two_plistsViewController.xib
+c000000004DA41A990000000000001A51
+t1302600345
+s6737
+
+N/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/two_plists_Prefix.pch
+c000000004DA41A9900000000000000BD
+t1302600345
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/two plists/Classes/two_plistsAppDelegate.h
+c000000004DA41A9900000000000001ED
+t1302600345
+s493
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/two plists/Classes/two_plistsAppDelegate.m
+c000000004DA41A990000000000000AA0
+t1302600345
+s2720
+i"two_plistsAppDelegate.h"
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Documents/two plists/Classes/two_plistsViewController.h
+c000000004DA41A9900000000000000F3
+t1302600345
+s243
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/two plists/Classes/two_plistsViewController.m
+c000000004DDDE2D40000000000001359
+t1306387156
+s4953
+i"two_plistsViewController.h"
+
+N/Users/sandeep/Documents/two plists/MainWindow.xib
+c000000004DA41A990000000000004E4D
+t1302600345
+s20045
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app
+t1306387157
+s272
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app.dSYM
+t1306387157
+s102
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/Info.plist
+t1302601583
+s603
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/MainWindow.nib
+t1302601584
+s1129
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/PkgInfo
+t1302601583
+s8
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/one.plist
+t1302601584
+s42
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists
+t1306387157
+s17868
+
+N/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two_plistsViewController.nib
+t1302601584
+s795
+
+N/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+t1302601586
+s6296
+
+N/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList
+c000000004DA41F6F000000000000019C
+t1302601583
+s412
+
+N/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+t1302601586
+s51060
+
+N/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+t1306387157
+s43332
+
+N/Users/sandeep/Documents/two plists/main.m
+c000000004DA41A990000000000000168
+t1302600345
+s360
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/two plists/one.plist
+c000000004DA41F6F00000000000000B5
+t1302601583
+s181
+
+N/Users/sandeep/Documents/two plists/two_plistsViewController.xib
+c000000004DA41A990000000000001A51
+t1302600345
+s6737
+
+N/Users/sandeep/Documents/two plists/two_plists_Prefix.pch
+c000000004DA41A9900000000000000BD
+t1302600345
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-auikafphtbmbpzabqvkoychswigl/two_plists_Prefix.pch.gch
+t1331791455
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-cafnpawzvnnnrbergvyejiqlnpqx/two_plists_Prefix.pch.gch
+t1302601586
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-glldrjgmxwawtkhihwndstmgftwh/two_plists_Prefix.pch.gch
+t1322734586
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch.gch
+t1332736300
+s15453392
+
+Ntwo_plists-Info.plist
+c000000004DA41A99000000000000038D
+t1302600345
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354603089#354603089#0(0"0(0#1#0"8612744480#0"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o" "/Users/sandeep/Desktop/obj/two plists/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427386.981403
+e344427387.101883
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/two plists/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Desktop/obj/two plists/main.m344427386#344427387#0(0"0(0#0#44"/Users/sandeep/Desktop/obj/two plists/main.m8608346752#1985"    cd "/Users/sandeep/Desktop/obj/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-glldrjgmxwawtkhihwndstmgftwh/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/obj/two plists/main.m" -o "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354429100.911792
+e354429101.010381
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/main.m354429100#354429101#0(0"0(0#0#72"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/main.m8606864960#2293"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o" "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353484255.430274
+e353484255.527571
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Desktop/sandeeprdy/plist dynamic1/main.m353484255#353484255#0(0"0(0#0#55"/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/main.m8626795072#2106"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-auikafphtbmbpzabqvkoychswigl/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o" "/Users/sandeep/Documents/two plists/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324294386.379689
+e324294386.466282
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/two plists/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/sandeep/Documents/two plists/main.m324294386#324294386#0(0"0(0#0#42"/Users/sandeep/Documents/two plists/main.m8613078304#1963"    cd "/Users/sandeep/Documents/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-cafnpawzvnnnrbergvyejiqlnpqx/two_plists_Prefix.pch -c "/Users/sandeep/Documents/two plists/main.m" -o "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o" "/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427386.989871
+e344427387.176721
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+x/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sandeep/Desktop/obj/two plists/Classes/two_plistsAppDelegate.m344427386#344427387#0(0"0(0#0#69"/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsAppDelegate.m8643251232#2027"    cd "/Users/sandeep/Desktop/obj/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-glldrjgmxwawtkhihwndstmgftwh/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsAppDelegate.m" -o "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354429100.912842
+e354429101.012019
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.m354429100#354429101#0(0"0(0#0#97"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.m8601453664#2335"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o" "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353484255.431771
+e353484255.526217
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsAppDelegate.m353484255#353484255#0(0"0(0#0#80"/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsAppDelegate.m8625222816#2148"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-auikafphtbmbpzabqvkoychswigl/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o" "/Users/sandeep/Documents/two plists/Classes/two_plistsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324294386.380873
+e324294386.586039
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o
+x/Users/sandeep/Documents/two plists/Classes/two_plistsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Documents/two plists/Classes/two_plistsAppDelegate.m324294386#324294386#0(0"0(0#0#67"/Users/sandeep/Documents/two plists/Classes/two_plistsAppDelegate.m8613564224#2005"    cd "/Users/sandeep/Documents/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-cafnpawzvnnnrbergvyejiqlnpqx/two_plists_Prefix.pch -c "/Users/sandeep/Documents/two plists/Classes/two_plistsAppDelegate.m" -o "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsAppDelegate.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o" "/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427387.101991
+e344427387.204354
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+x/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sandeep/Desktop/obj/two plists/Classes/two_plistsViewController.m344427387#344427387#0(0"0(0#0#72"/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsViewController.m8612020928#2033"    cd "/Users/sandeep/Desktop/obj/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-glldrjgmxwawtkhihwndstmgftwh/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/obj/two plists/Classes/two_plistsViewController.m" -o "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354603089.537334
+e354603089.836692
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m: In function '-[two_plistsViewController viewDidLoad]':
+o/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m:50: warning: 'return' with a value, in function returning void
+o/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m:59: warning: 'return' with a value, in function returning void
+lSLF07#2@108"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m354603089#354603089#0(485"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m: In function '-[two_plistsViewController viewDidLoad]':/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m:50: warning: 'return' with a value, in function returning void/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m:59: warning: 'return' with a value, in function returning void2(22@49"'return' with a value, in function returning void354603089#157#164#0(6@100"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m354603089#50#0#50#0#0"0(22@49"'return' with a value, in function returning void354603089#321#164#0(6@100"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m354603089#59#0#59#0#0"0(0#0#100"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m8612662112#2341"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/Classes/two_plistsViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o" "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353484255.526331
+e353484255.601953
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsViewController.m353484255#353484255#0(0"0(0#0#83"/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsViewController.m8622558080#2154"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-auikafphtbmbpzabqvkoychswigl/two_plists_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/Classes/two_plistsViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o"0#
+
+CCompileC "build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o" "/Users/sandeep/Documents/two plists/Classes/two_plistsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328079956.914986
+e328079957.192134
+r1
+xCompileC
+xbuild/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o
+x/Users/sandeep/Documents/two plists/Classes/two_plistsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/sandeep/Documents/two plists/Classes/two_plistsViewController.m328079956#328079957#0(0"0(0#0#70"/Users/sandeep/Documents/two plists/Classes/two_plistsViewController.m8606158848#2011"    cd "/Users/sandeep/Documents/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-cafnpawzvnnnrbergvyejiqlnpqx/two_plists_Prefix.pch -c "/Users/sandeep/Documents/two plists/Classes/two_plistsViewController.m" -o "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two_plistsViewController.o"0#
+
+CCompileXIB "/Users/sandeep/Desktop/obj/two plists/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/obj/two plists/two_plistsViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/two_plistsViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/two_plistsViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Documents/two plists/MainWindow.xib"
+s324294383.436414
+e324294384.719805
+r1
+xCompileXIB
+x/Users/sandeep/Documents/two plists/MainWindow.xib
+o2011-04-12 15:16:24.595 Interface Builder Cocoa Touch Tool[6650:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib324294383#324294384#0(241"2011-04-12 15:16:24.595 Interface Builder Cocoa Touch Tool[6650:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#50"/Users/sandeep/Documents/two plists/MainWindow.xib8613450976#570"    cd "/Users/sandeep/Documents/two plists"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/MainWindow.nib" "/Users/sandeep/Documents/two plists/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sandeep/Documents/two plists/two_plistsViewController.xib"
+s324294383.439023
+e324294384.677945
+r1
+xCompileXIB
+x/Users/sandeep/Documents/two plists/two_plistsViewController.xib
+o2011-04-12 15:16:24.558 Interface Builder Cocoa Touch Tool[6649:1b03] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@39"CompileXIB two_plistsViewController.xib324294383#324294384#0(241"2011-04-12 15:16:24.558 Interface Builder Cocoa Touch Tool[6649:1b03] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#64"/Users/sandeep/Documents/two plists/two_plistsViewController.xib8613100352#598"    cd "/Users/sandeep/Documents/two plists"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two_plistsViewController.nib" "/Users/sandeep/Documents/two plists/two_plistsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/one.plist" one.plist
+r0
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/data3.plist" data3.plist
+s354434717.795638
+e354434717.948189
+r1
+xCopyPlistFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/data3.plist
+xdata3.plist
+lSLF07#2@16"Copy data3.plist354434717#354434717#0(0"0(0#0#77"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/data3.plist8603261248#447"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 data3.plist --outdir "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app"0#
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/one.plist" one.plist
+s354602718.293623
+e354602718.929915
+r1
+xCopyPlistFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/one.plist
+xone.plist
+lSLF07#2@14"Copy one.plist354602718#354602718#0(0"0(0#0#75"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/one.plist8608210336#445"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 one.plist --outdir "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app"0#
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/t3.plist" t3.plist
+r0
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/one.plist" one.plist
+s353485526.528827
+e353485526.736893
+r1
+xCopyPlistFile
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/one.plist
+xone.plist
+lSLF07#2@14"Copy one.plist353485526#353485526#0(0"0(0#0#58"/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/one.plist8614020000#411"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 one.plist --outdir "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app"0#
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/t3.plist" t3.plist
+s353485526.529631
+e353485526.736399
+r1
+xCopyPlistFile
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/t3.plist
+xt3.plist
+lSLF07#2@13"Copy t3.plist353485526#353485526#0(0"0(0#0#57"/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/t3.plist8614634912#410"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 t3.plist --outdir "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app"0#
+
+CCopyPlistFile "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/one.plist" one.plist
+s324294384.678037
+e324294384.714574
+r1
+xCopyPlistFile
+x/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/one.plist
+xone.plist
+lSLF07#2@14"Copy one.plist324294384#324294384#0(0"0(0#0#45"/Users/sandeep/Documents/two plists/one.plist7811904093214176256#385"    cd "/Users/sandeep/Documents/two plists"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 one.plist --outdir "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app.dSYM" "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists"
+s344427387.265453
+e344427387.303255
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app.dSYM
+x/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/two plists.app.dSYM" "build/Debug-iphonesimulator/two plists.app/two plists"344427387#344427387#0(0"0(0#0#91"/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists8623650528#395"    cd "/Users/sandeep/Desktop/obj/two plists"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists" -o "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists"
+s354603089.866056
+e354603089.884339
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/two plists.app.dSYM" "build/Debug-iphonesimulator/two plists.app/two plists"354603089#354603089#0(0"0(0#0#119"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists8608087008#479"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists"
+s353484255.652341
+e353484255.708907
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/two plists.app.dSYM" "build/Debug-iphonesimulator/two plists.app/two plists"353484255#353484255#0(0"0(0#0#102"/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists8612819904#428"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists" -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app.dSYM" "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists"
+s328079957.280684
+e328079957.627327
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app.dSYM
+x/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/two plists.app.dSYM" "build/Debug-iphonesimulator/two plists.app/two plists"328079957#328079957#0(0"0(0#0#89"/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists8612757600#389"    cd "/Users/sandeep/Documents/two plists"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists" -o "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app.dSYM"0#
+
+CLd "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists" normal i386
+s344427387.204450
+e344427387.265350
+r1
+xLd
+x/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists
+xnormal
+xi386
+lSLF07#2@96"Link /Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists344427387#344427387#0(0"0(0#0#0"8639369312#920"    cd "/Users/sandeep/Desktop/obj/two plists"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/two plists"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists" normal i386
+s354603089.836784
+e354603089.865949
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists
+xnormal
+xi386
+lSLF07#2@124"Link /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists354603089#354603089#0(0"0(0#0#0"8614940192#1060"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists" normal i386
+s353484255.602049
+e353484255.652177
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists
+xnormal
+xi386
+lSLF07#2@107"Link /Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists353484255#353484255#0(0"0(0#0#0"8590176704#975"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/two plists"0#
+
+CLd "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists" normal i386
+s328079957.192224
+e328079957.280479
+r1
+xLd
+x/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists
+xnormal
+xi386
+lSLF07#2@94"Link /Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists328079957#328079957#0(0"0(0#0#0"8613430304#910"    cd "/Users/sandeep/Documents/two plists"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator" "-F/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/Objects-normal/i386/two plists.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/two plists"0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app/Info.plist" two_plists-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app/Info.plist" two_plists-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app/Info.plist" two_plists-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/Info.plist" two_plists-Info.plist
+s324294383.429698
+e324294383.436318
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/Info.plist
+xtwo_plists-Info.plist
+lSLF07#2@29"Process two_plists-Info.plist324294383#324294383#0(0"0(0#0#57"/Users/sandeep/Documents/two plists/two_plists-Info.plist7578827501794051072#485"    cd "/Users/sandeep/Documents/two plists"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility two_plists-Info.plist -genpkginfo "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app/Info.plist"0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-auikafphtbmbpzabqvkoychswigl/two_plists_Prefix.pch.gch two_plists_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353484254.344043
+e353484255.430167
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-auikafphtbmbpzabqvkoychswigl/two_plists_Prefix.pch.gch
+xtwo_plists_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile two_plists_Prefix.pch353484254#353484255#0(0"0(0#0#70"/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/two_plists_Prefix.pch8623641536#1983"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/two_plists_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-auikafphtbmbpzabqvkoychswigl/two_plists_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-cafnpawzvnnnrbergvyejiqlnpqx/two_plists_Prefix.pch.gch two_plists_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324294384.720011
+e324294386.379531
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-cafnpawzvnnnrbergvyejiqlnpqx/two_plists_Prefix.pch.gch
+xtwo_plists_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile two_plists_Prefix.pch324294384#324294386#0(0"0(0#0#57"/Users/sandeep/Documents/two plists/two_plists_Prefix.pch8613993760#1853"    cd "/Users/sandeep/Documents/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Documents/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -c "/Users/sandeep/Documents/two plists/two_plists_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-cafnpawzvnnnrbergvyejiqlnpqx/two_plists_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-glldrjgmxwawtkhihwndstmgftwh/two_plists_Prefix.pch.gch two_plists_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427386.010257
+e344427386.981295
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-glldrjgmxwawtkhihwndstmgftwh/two_plists_Prefix.pch.gch
+xtwo_plists_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile two_plists_Prefix.pch344427386#344427386#0(0"0(0#0#59"/Users/sandeep/Desktop/obj/two plists/two_plists_Prefix.pch8640054656#1873"    cd "/Users/sandeep/Desktop/obj/two plists"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/two plists/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -c "/Users/sandeep/Desktop/obj/two plists/two_plists_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-glldrjgmxwawtkhihwndstmgftwh/two_plists_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch.gch two_plists_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354429093.649908
+e354429100.911644
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch.gch
+xtwo_plists_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile two_plists_Prefix.pch354429093#354429100#0(0"0(0#0#87"/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/two_plists_Prefix.pch8319401308288212992#2153"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/two plists-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/two plists.build/Debug-iphonesimulator/two plists.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/two_plists_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/two_plists_Prefix-hbmugbllmrrhnuefpdacifcnybdp/two_plists_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app"
+s344427387.303350
+e344427387.306634
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app
+lSLF07#2@86"Touch /Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app344427387#344427387#0(0"0(0#0#0"8622397376#283"    cd "/Users/sandeep/Desktop/obj/two plists"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/obj/two plists/build/Debug-iphonesimulator/two plists.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app"
+s354603089.884602
+e354603089.888427
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app
+lSLF07#2@114"Touch /Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app354603089#354603089#0(0"0(0#0#0"8607473952#339"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/plist dynamic1/build/Debug-iphonesimulator/two plists.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app"
+s353485526.737500
+e353485526.740701
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app
+lSLF07#2@97"Touch /Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app353485526#353485526#0(0"0(0#0#0"8622655104#305"    cd "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/plist dynamic1/build/Debug-iphonesimulator/two plists.app"0#
+
+CTouch "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app"
+s328079957.627414
+e328079957.632969
+r1
+xTouch
+x/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app
+lSLF07#2@84"Touch /Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app328079957#328079957#0(0"0(0#0#0"8612887712#279"    cd "/Users/sandeep/Documents/two plists"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Documents/two plists/build/Debug-iphonesimulator/two plists.app"0#
+

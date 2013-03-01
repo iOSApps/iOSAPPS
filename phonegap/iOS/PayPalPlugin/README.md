@@ -1,0 +1,1 @@
+This plugin has been moved to [http://github.com/shazron/PayPalPlugin](http://github.com/shazron/PayPalPlugin)

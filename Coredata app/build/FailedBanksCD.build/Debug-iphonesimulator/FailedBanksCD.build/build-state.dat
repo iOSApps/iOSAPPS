@@ -1,0 +1,1049 @@
+TFailedBanksCD
+v7
+r0
+t353488097.980495
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist" FailedBanksCD-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/Coredata app/MainWindow.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch.gch FailedBanksCD_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom" "/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBanksCD.xcdatamodel"
+cCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app"
+
+N/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankDetails.m
+c000000004BC722140000000000000143
+t1271341588
+s323
+i"FailedBankDetails.h"
+i"FailedBankInfo.h"
+
+N/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankInfo.m
+c000000004BC722140000000000000118
+t1271341588
+s280
+i"FailedBankInfo.h"
+
+N/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksCDAppDelegate.h
+c000000004BC722C40000000000000397
+t1271341764
+s919
+
+N/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m
+c000000004ECE16300000000000001985
+t1322128944
+s6533
+i"FailedBanksCDAppDelegate.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+i"FailedBanksListViewController.h"
+
+N/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksListViewController.h
+c000000004BC7225A00000000000001C7
+t1271341658
+s455
+i<UIKit/UIKit.h>
+
+N/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksListViewController.m
+c000000004BF55A980000000000001433
+t1274370712
+s5171
+i"FailedBanksListViewController.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+
+N/Developer/Flab-course/FailedBanksCD/FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Developer/Flab-course/FailedBanksCD/FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Developer/Flab-course/FailedBanksCD/FailedBanksCD.xcdatamodel
+c000000004ECE18A20000000000000088
+t1322129570
+s136
+
+N/Developer/Flab-course/FailedBanksCD/FailedBanksCD_Prefix.pch
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Developer/Flab-course/FailedBanksCD/MainWindow.xib
+c000000004BC722EE0000000000005A3F
+t1271341806
+s23103
+
+N/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app
+t1322196205
+s238
+
+N/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM
+t1322196205
+s102
+
+N/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+t1322196205
+s25748
+
+N/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom
+t1322196204
+s4091
+
+N/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist
+t1322196203
+s615
+
+N/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/MainWindow.nib
+t1322196203
+s1519
+
+N/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/PkgInfo
+t1322196203
+s8
+
+N/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o
+t1322196204
+s5424
+
+N/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o
+t1322196204
+s5376
+
+N/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCD.LinkFileList
+c000000004ECF1CEA00000000000002D8
+t1322196202
+s728
+
+N/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o
+t1322196204
+s68200
+
+N/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o
+t1322196205
+s53180
+
+N/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o
+t1322196204
+s6300
+
+N/Developer/Flab-course/FailedBanksCD/main.m
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankDetails.m
+c000000004BC722140000000000000143
+t1271341588
+s323
+i"FailedBankDetails.h"
+i"FailedBankInfo.h"
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankInfo.m
+c000000004BC722140000000000000118
+t1271341588
+s280
+i"FailedBankInfo.h"
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksCDAppDelegate.h
+c000000004BC722C40000000000000397
+t1271341764
+s919
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m
+c000000004F5D9920000000000000198B
+t1331534112
+s6539
+i"FailedBanksCDAppDelegate.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+i"FailedBanksListViewController.h"
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksListViewController.h
+c000000004BC7225A00000000000001C7
+t1271341658
+s455
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksListViewController.m
+c000000004BF55A980000000000001433
+t1274370712
+s5171
+i"FailedBanksListViewController.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+
+N/Users/sandeep/Desktop/FailedBanksCD/FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/FailedBanksCD/FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/FailedBanksCD/FailedBanksCD.xcdatamodel
+c000000004ECE18A20000000000000088
+t1322129570
+s136
+
+N/Users/sandeep/Desktop/FailedBanksCD/FailedBanksCD_Prefix.pch
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/FailedBanksCD/MainWindow.xib
+c000000004BC722EE0000000000005A3F
+t1271341806
+s23103
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app
+t1331534113
+s238
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM
+t1331534113
+s102
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+t1331534113
+s25748
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom
+t1322196204
+s4091
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist
+t1322196203
+s615
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/MainWindow.nib
+t1322196203
+s1519
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/PkgInfo
+t1322196203
+s8
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o
+t1331534113
+s5424
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o
+t1331534113
+s5376
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCD.LinkFileList
+c000000004F5D992100000000000002D8
+t1331534113
+s728
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o
+t1331534113
+s68208
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o
+t1331534113
+s53180
+
+N/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o
+t1331534113
+s6300
+
+N/Users/sandeep/Desktop/FailedBanksCD/main.m
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.m
+c000000004BC722140000000000000143
+t1271341588
+s323
+i"FailedBankDetails.h"
+i"FailedBankInfo.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.m
+c000000004BC722140000000000000118
+t1271341588
+s280
+i"FailedBankInfo.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.h
+c000000004BC722C40000000000000397
+t1271341764
+s919
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.m
+c000000004F5D9920000000000000198B
+t1331534112
+s6539
+i"FailedBanksCDAppDelegate.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+i"FailedBanksListViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.h
+c000000004BC7225A00000000000001C7
+t1271341658
+s455
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.m
+c000000004BF55A980000000000001433
+t1274370712
+s5171
+i"FailedBanksListViewController.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBanksCD.xcdatamodel
+c000000004ECE18A20000000000000088
+t1322129570
+s136
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBanksCD_Prefix.pch
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/MainWindow.xib
+c000000004BC722EE0000000000005A3F
+t1271341806
+s23103
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app
+t1331795297
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM
+t1331795297
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+t1331795297
+s25848
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom
+t1322196204
+s4091
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist
+t1322196203
+s615
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/MainWindow.nib
+t1322196203
+s1519
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/PkgInfo
+t1322196203
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o
+t1331795297
+s5444
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o
+t1331795297
+s5396
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCD.LinkFileList
+c000000004F61955F000000000000030A
+t1331795295
+s778
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o
+t1331795297
+s68236
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o
+t1331795297
+s53212
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o
+t1331795297
+s6320
+
+N/Users/sandeep/Desktop/sandeeprdy/Coredata app/main.m
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/../FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/../FailedBankDetails.m
+c000000004BC722140000000000000143
+t1271341588
+s323
+i"FailedBankDetails.h"
+i"FailedBankInfo.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/../FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/../FailedBankInfo.m
+c000000004BC722140000000000000118
+t1271341588
+s280
+i"FailedBankInfo.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/FailedBanksCDAppDelegate.h
+c000000004BC722C40000000000000397
+t1271341764
+s919
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/FailedBanksCDAppDelegate.m
+c000000004F5D9920000000000000198B
+t1331534112
+s6539
+i"FailedBanksCDAppDelegate.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+i"FailedBanksListViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/FailedBanksListViewController.h
+c000000004BC7225A00000000000001C7
+t1271341658
+s455
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/FailedBanksListViewController.m
+c000000004BF55A980000000000001433
+t1274370712
+s5171
+i"FailedBanksListViewController.h"
+i"FailedBankInfo.h"
+i"FailedBankDetails.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/FailedBankDetails.h
+c000000004BC7221400000000000001D6
+t1271341588
+s470
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/FailedBankInfo.h
+c000000004BC7222A00000000000001D3
+t1271341610
+s467
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/FailedBanksCD.xcdatamodel
+c000000004ECE18A20000000000000088
+t1322129570
+s136
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/FailedBanksCD_Prefix.pch
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/MainWindow.xib
+c000000004BC722EE0000000000005A3F
+t1271341806
+s23103
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app
+t1331795297
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM
+t1331795297
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+t1331795297
+s25848
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom
+t1322196204
+s4091
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist
+t1322196203
+s615
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/MainWindow.nib
+t1322196203
+s1519
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/PkgInfo
+t1322196203
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o
+t1331795297
+s5444
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o
+t1331795297
+s5396
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCD.LinkFileList
+c000000004F61955F000000000000030A
+t1331795295
+s778
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o
+t1331795297
+s68236
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o
+t1331795297
+s53212
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o
+t1331795297
+s6320
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/main.m
+c000000004BC72140000000000000016E
+t1271341376
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch.gch
+t1322196204
+s16326640
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch.gch
+t1331795297
+s16326640
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-fdkxekdvpsequwgqyfvqpfzuqiue/FailedBanksCD_Prefix.pch.gch
+t1331532313
+s16326640
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-frwyjwfepsffxxdinigqzpmchdns/FailedBanksCD_Prefix.pch.gch
+t2
+s0
+
+NFailedBanksCD-Info.plist
+c000000004BC72140000000000000038D
+t1271341376
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353488095#353488095#0(0"0(0#1#0"8625975328#0"0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353488097.801369
+e353488097.873867
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.m353488097#353488097#0(0"0(0#0#77"/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.m8625147776#2255"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankDetails.m" -o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o"0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/../FailedBankDetails.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o /Developer/Flab-course/FailedBanksCD/Classes/../FailedBankDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343889004.851726
+e343889004.911670
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o
+x/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Developer/Flab-course/FailedBanksCD/Classes/../FailedBankDetails.m343889004#343889004#0(0"0(0#0#67"/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankDetails.m8602813312#2123"    cd /Developer/Flab-course/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/include -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch -c /Developer/Flab-course/FailedBanksCD/Classes/../FailedBankDetails.m -o /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o /Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353226913.221082
+e353226913.286663
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o
+x/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankDetails.m353226913#353226913#0(0"0(0#0#67"/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankDetails.m8610762720#2123"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-fdkxekdvpsequwgqyfvqpfzuqiue/FailedBanksCD_Prefix.pch -c /Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankDetails.m -o /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankDetails.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353488097.711352
+e353488097.801089
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.m353488097#353488097#0(0"0(0#0#74"/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.m8626999072#2249"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/../FailedBankInfo.m" -o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o"0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/../FailedBankInfo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o /Developer/Flab-course/FailedBanksCD/Classes/../FailedBankInfo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343889004.763155
+e343889004.851627
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o
+x/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Developer/Flab-course/FailedBanksCD/Classes/../FailedBankInfo.m343889004#343889004#0(0"0(0#0#64"/Developer/Flab-course/FailedBanksCD/Classes/../FailedBankInfo.m8602493504#2117"    cd /Developer/Flab-course/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/include -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch -c /Developer/Flab-course/FailedBanksCD/Classes/../FailedBankInfo.m -o /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o /Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankInfo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353226913.161864
+e353226913.220977
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o
+x/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankInfo.m353226913#353226913#0(0"0(0#0#64"/Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankInfo.m8614205568#2117"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-fdkxekdvpsequwgqyfvqpfzuqiue/FailedBanksCD_Prefix.pch -c /Users/sandeep/Desktop/FailedBanksCD/Classes/../FailedBankInfo.m -o /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBankInfo.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353488097.642346
+e353488097.801281
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.m353488097#353488097#0(0"0(0#0#81"/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.m8622489920#2266"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksCDAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o"0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/FailedBanksCDAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o /Developer/Flab-course/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343889004.753138
+e343889004.913805
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o
+x/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Developer/Flab-course/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m343889004#343889004#0(0"0(0#0#71"/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m8602749024#2134"    cd /Developer/Flab-course/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/include -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch -c /Developer/Flab-course/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m -o /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o /Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353226913.044650
+e353226913.293744
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o
+x/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m353226913#353226913#0(0"0(0#0#71"/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m8610122240#2134"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-fdkxekdvpsequwgqyfvqpfzuqiue/FailedBanksCD_Prefix.pch -c /Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksCDAppDelegate.m -o /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCDAppDelegate.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353488097.802403
+e353488097.909097
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.m353488097#353488097#0(0"0(0#0#86"/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.m8625026624#2276"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/Coredata app/Classes/FailedBanksListViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o"0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/Classes/FailedBanksListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o /Developer/Flab-course/FailedBanksCD/Classes/FailedBanksListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343889004.911778
+e343889005.024271
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o
+x/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Developer/Flab-course/FailedBanksCD/Classes/FailedBanksListViewController.m343889004#343889005#0(0"0(0#0#76"/Developer/Flab-course/FailedBanksCD/Classes/FailedBanksListViewController.m8602583008#2144"    cd /Developer/Flab-course/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/include -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch -c /Developer/Flab-course/FailedBanksCD/Classes/FailedBanksListViewController.m -o /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o /Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353226913.286823
+e353226913.369851
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o
+x/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksListViewController.m353226913#353226913#0(0"0(0#0#76"/Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksListViewController.m8608517344#2144"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-fdkxekdvpsequwgqyfvqpfzuqiue/FailedBanksCD_Prefix.pch -c /Users/sandeep/Desktop/FailedBanksCD/Classes/FailedBanksListViewController.m -o /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksListViewController.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353488097.640813
+e353488097.711248
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/sandeeprdy/Coredata app/main.m353488097#353488097#0(0"0(0#0#53"/Users/sandeep/Desktop/sandeeprdy/Coredata app/main.m8624911552#2218"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/Coredata app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o /Developer/Flab-course/FailedBanksCD/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343889004.683081
+e343889004.763061
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o
+x/Developer/Flab-course/FailedBanksCD/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Developer/Flab-course/FailedBanksCD/main.m343889004#343889004#0(0"0(0#0#43"/Developer/Flab-course/FailedBanksCD/main.m8602992096#2086"    cd /Developer/Flab-course/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/include -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch -c /Developer/Flab-course/FailedBanksCD/main.m -o /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o0#
+
+CCompileC build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/FailedBanksCD/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353226913.043003
+e353226913.161765
+r1
+xCompileC
+xbuild/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/FailedBanksCD/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/sandeep/Desktop/FailedBanksCD/main.m353226913#353226913#0(0"0(0#0#43"/Users/sandeep/Desktop/FailedBanksCD/main.m8610270240#2086"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-fdkxekdvpsequwgqyfvqpfzuqiue/FailedBanksCD_Prefix.pch -c /Users/sandeep/Desktop/FailedBanksCD/main.m -o /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/Coredata app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/MainWindow.xib"
+r0
+
+CCompileXIB /Developer/Flab-course/FailedBanksCD/MainWindow.xib
+s343889003.183897
+e343889003.616860
+r1
+xCompileXIB
+x/Developer/Flab-course/FailedBanksCD/MainWindow.xib
+o2011-11-25 10:13:23.525 Interface Builder Cocoa Touch Tool[4216:1903] CFPreferences: user home directory at file://localhost/Users/mitanash/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib343889003#343889003#0(242"2011-11-25 10:13:23.525 Interface Builder Cocoa Touch Tool[4216:1903] CFPreferences: user home directory at file://localhost/Users/mitanash/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#51"/Developer/Flab-course/FailedBanksCD/MainWindow.xib8603337696#570"    cd /Developer/Flab-course/FailedBanksCD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/MainWindow.nib /Developer/Flab-course/FailedBanksCD/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/FailedBanksCD/MainWindow.xib
+r0
+
+CDataModelCompile "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom" "/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBanksCD.xcdatamodel"
+r0
+
+CDataModelCompile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/FailedBanksCD.xcdatamodel"
+r0
+
+CDataModelCompile /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom /Developer/Flab-course/FailedBanksCD/FailedBanksCD.xcdatamodel
+s343889004.681972
+e343889004.753036
+r1
+xDataModelCompile
+x/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom
+x/Developer/Flab-course/FailedBanksCD/FailedBanksCD.xcdatamodel
+lSLF07#2@70"Compile /Developer/Flab-course/FailedBanksCD/FailedBanksCD.xcdatamodel343889004#343889004#0(0"0(0#0#62"/Developer/Flab-course/FailedBanksCD/FailedBanksCD.xcdatamodel8603336096#396"    cd /Developer/Flab-course/FailedBanksCD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Developer/Flab-course/FailedBanksCD/FailedBanksCD.xcdatamodel /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom0#
+
+CDataModelCompile /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD.mom /Users/sandeep/Desktop/FailedBanksCD/FailedBanksCD.xcdatamodel
+r0
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD"
+s353488097.960406
+e353488097.977378
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/FailedBanksCD.app.dSYM build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD353488097#353488097#0(0"0(0#0#106"/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD8622926880#431"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD" -o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD"
+r0
+
+CGenerateDSYMFile /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+s343889005.057090
+e343889005.081727
+r1
+xGenerateDSYMFile
+x/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM
+x/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/FailedBanksCD.app.dSYM build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD343889005#343889005#0(0"0(0#0#96"/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD8601463296#395"    cd /Developer/Flab-course/FailedBanksCD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD -o /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+s353226913.395426
+e353226913.411730
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM
+x/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/FailedBanksCD.app.dSYM build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD353226913#353226913#0(0"0(0#0#96"/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD8592622912#395"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD -o /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD" normal i386
+s353488097.909189
+e353488097.960305
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+xnormal
+xi386
+old: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found
+lSLF07#2@111"Link /Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD353488097#353488097#0(118"ld: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found1(22@104"Directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found353488097#0#118#0(6@0"353488097#0#0#0#0#0"0(0#0#0"8624400256#1074"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -filelist "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCD.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD" normal i386
+r0
+
+CLd /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD normal i386
+s343889005.024417
+e343889005.056997
+r1
+xLd
+x/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+xnormal
+xi386
+old: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found
+lSLF07#2@101"Link /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD343889005#343889005#0(118"ld: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found1(22@104"Directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found343889005#0#118#0(6@0"343889005#0#0#0#0#0"0(0#0#0"8602627552#1014"    cd /Developer/Flab-course/FailedBanksCD    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator -F/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -filelist /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCD.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD0#
+
+CLd /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD normal i386
+s353226913.369948
+e353226913.395326
+r1
+xLd
+x/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD
+xnormal
+xi386
+old: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found
+lSLF07#2@101"Link /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD353226913#353226913#0(118"ld: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found1(22@104"Directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found353226913#0#118#0(6@0"353226913#0#0#0#0#0"0(0#0#0"8608395968#1014"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -filelist /Users/sandeep/Desktop/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/Objects-normal/i386/FailedBanksCD.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/FailedBanksCD0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist" FailedBanksCD-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist" FailedBanksCD-Info.plist
+r0
+
+CProcessInfoPlistFile /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist FailedBanksCD-Info.plist
+s343889003.165945
+e343889003.183800
+r1
+xProcessInfoPlistFile
+x/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist
+xFailedBanksCD-Info.plist
+lSLF07#2@32"Process FailedBanksCD-Info.plist343889003#343889003#0(0"0(0#0#61"/Developer/Flab-course/FailedBanksCD/FailedBanksCD-Info.plist28429445101453416#491"    cd /Developer/Flab-course/FailedBanksCD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FailedBanksCD-Info.plist -genpkginfo /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app/Info.plist FailedBanksCD-Info.plist
+r0
+
+CProcessPCH /var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch.gch FailedBanksCD_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s343889003.617047
+e343889004.681695
+r1
+xProcessPCH
+x/var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch.gch
+xFailedBanksCD_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile FailedBanksCD_Prefix.pch343889003#343889004#0(0"0(0#0#61"/Developer/Flab-course/FailedBanksCD/FailedBanksCD_Prefix.pch8601672352#1974"    cd /Developer/Flab-course/FailedBanksCD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap -iquote /Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap -F/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/include -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386 -I/Developer/Flab-course/FailedBanksCD/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources -c /Developer/Flab-course/FailedBanksCD/FailedBanksCD_Prefix.pch -o /var/folders/1V/1VDxaypVGUyRHq5OEqbfKk+++aE/-Caches-/com.apple.Xcode.612/SharedPrecompiledHeaders/FailedBanksCD_Prefix-chgqkyjrgogisiffdgedzqztwzlz/FailedBanksCD_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch.gch FailedBanksCD_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353488095.885757
+e353488097.640553
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch.gch
+xFailedBanksCD_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile FailedBanksCD_Prefix.pch353488095#353488097#0(0"0(0#0#71"/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBanksCD_Prefix.pch8623020256#2094"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/FailedBanksCD-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/FailedBanksCD.build/Debug-iphonesimulator/FailedBanksCD.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/Coredata app/FailedBanksCD_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-enajavfqedwnynegoqtsysghipxt/FailedBanksCD_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-fdkxekdvpsequwgqyfvqpfzuqiue/FailedBanksCD_Prefix.pch.gch FailedBanksCD_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/FailedBanksCD_Prefix-frwyjwfepsffxxdinigqzpmchdns/FailedBanksCD_Prefix.pch.gch FailedBanksCD_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app"
+s353488097.977483
+e353488097.980449
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app
+lSLF07#2@98"Touch /Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app353488097#353488097#0(0"0(0#0#0"8616961184#304"    cd "/Users/sandeep/Desktop/sandeeprdy/Coredata app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/Coredata app/build/Debug-iphonesimulator/FailedBanksCD.app"
+r0
+
+CTouch /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app
+s343889005.081812
+e343889005.084727
+r1
+xTouch
+x/Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app
+lSLF07#2@88"Touch /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app343889005#343889005#0(0"0(0#0#0"8601260352#280"    cd /Developer/Flab-course/FailedBanksCD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Flab-course/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app0#
+
+CTouch /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app
+s353226913.411812
+e353226913.414549
+r1
+xTouch
+x/Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app
+lSLF07#2@88"Touch /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app353226913#353226913#0(0"0(0#0#0"8603508672#280"    cd /Users/sandeep/Desktop/FailedBanksCD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/FailedBanksCD/build/Debug-iphonesimulator/FailedBanksCD.app0#
+

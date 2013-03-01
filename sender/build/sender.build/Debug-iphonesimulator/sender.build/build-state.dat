@@ -1,0 +1,443 @@
+Tsender
+v7
+r0
+t353912803.859358
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/Info.plist sender-Info.plist
+cCompileXIB /Users/sandeep/Desktop/sandeeprdy/sender/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/sandeeprdy/sender/senderViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch.gch sender_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/sandeeprdy/sender/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app.dSYM /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender
+cTouch /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mreddy/Documents/sender/Classes/senderAppDelegate.h
+c000000004E9C08A700000000000001DD
+t1318848679
+s477
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m
+c000000004E9C08A80000000000000A94
+t1318848680
+s2708
+i"senderAppDelegate.h"
+i"senderViewController.h"
+
+N/Users/mreddy/Documents/sender/Classes/senderViewController.h
+c000000004E9C191B00000000000001E5
+t1318852891
+s485
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/sender/Classes/senderViewController.m
+c000000004E9C145400000000000006BD
+t1318851668
+s1725
+i"senderViewController.h"
+
+N/Users/mreddy/Documents/sender/MainWindow.xib
+c000000004E9C08A80000000000004E1D
+t1318848680
+s19997
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app
+t1319003629
+s238
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app.dSYM
+t1318852954
+s102
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist
+t1318849639
+s587
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/MainWindow.nib
+t1318849642
+s1121
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/PkgInfo
+t1318849639
+s8
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender
+t1318852954
+s18308
+
+N/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/senderViewController.nib
+t1319003629
+s2145
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o
+t1318849645
+s6288
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/sender.LinkFileList
+c000000004E9C0C67000000000000016D
+t1318849639
+s365
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o
+t1318852954
+s50904
+
+N/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o
+t1318852954
+s42972
+
+N/Users/mreddy/Documents/sender/main.m
+c000000004E9C08A8000000000000016C
+t1318848680
+s364
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/sender/senderViewController.xib
+c000000004E9E65E70000000000005F84
+t1319003623
+s24452
+
+N/Users/mreddy/Documents/sender/sender_Prefix.pch
+c000000004E9C08A800000000000000B5
+t1318848680
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.h
+c000000004E9C08A700000000000001DD
+t1318848679
+s477
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.m
+c000000004E9C08A80000000000000A94
+t1318848680
+s2708
+i"senderAppDelegate.h"
+i"senderViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.h
+c000000004E9C191B00000000000001E5
+t1318852891
+s485
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.m
+c000000004F68105400000000000006E7
+t1332219988
+s1767
+i"senderViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/MainWindow.xib
+c000000004E9C08A80000000000004E1D
+t1318848680
+s19997
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app
+t1332220003
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app.dSYM
+t1332220003
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/Info.plist
+t1318849639
+s587
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/MainWindow.nib
+t1318849642
+s1121
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/PkgInfo
+t1318849639
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender
+t1332220003
+s18408
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/senderViewController.nib
+t1319003629
+s2145
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o
+t1332220003
+s6308
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/sender.LinkFileList
+c000000004F681055000000000000018B
+t1332219989
+s395
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o
+t1332220003
+s50924
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o
+t1332220003
+s43168
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/main.m
+c000000004E9C08A8000000000000016C
+t1318848680
+s364
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/senderViewController.xib
+c000000004E9E65E70000000000005F84
+t1319003623
+s24452
+
+N/Users/sandeep/Desktop/sandeeprdy/sender/sender_Prefix.pch
+c000000004E9C08A800000000000000B5
+t1318848680
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch.gch
+t1332220002
+s15453392
+
+Nsender-Info.plist
+c000000004E9C08A8000000000000038D
+t1318848680
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353912788#353912789#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o /Users/mreddy/Documents/sender/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340542445.417997
+e340542445.737850
+r1
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o
+x/Users/mreddy/Documents/sender/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/mreddy/Documents/sender/main.m340542445#340542445#0(0"0(0#0#37"/Users/mreddy/Documents/sender/main.m8613421536#1806"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch -c /Users/mreddy/Documents/sender/main.m -o /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/sandeeprdy/sender/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353912803.310147
+e353912803.403249
+r1
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/sender/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/sandeep/Desktop/sandeeprdy/sender/main.m353912803#353912803#0(0"0(0#0#47"/Users/sandeep/Desktop/sandeeprdy/sender/main.m8611332832#1916"    cd /Users/sandeep/Desktop/sandeeprdy/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/sender/main.m -o /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/main.o0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340545754.199534
+e340545754.678272
+r1
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o
+x/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m340545754#340545754#0(0"0(0#0#58"/Users/mreddy/Documents/sender/Classes/senderAppDelegate.m8614597696#1840"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch -c /Users/mreddy/Documents/sender/Classes/senderAppDelegate.m -o /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353912803.312304
+e353912803.500202
+r1
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.m353912803#353912803#0(0"0(0#0#68"/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.m8610736224#1950"    cd /Users/sandeep/Desktop/sandeeprdy/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderAppDelegate.m -o /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderAppDelegate.o0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o /Users/mreddy/Documents/sender/Classes/senderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340545754.202067
+e340545754.567031
+r1
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o
+x/Users/mreddy/Documents/sender/Classes/senderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/mreddy/Documents/sender/Classes/senderViewController.m340545754#340545754#0(0"0(0#0#61"/Users/mreddy/Documents/sender/Classes/senderViewController.m8613454944#1846"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch -c /Users/mreddy/Documents/sender/Classes/senderViewController.m -o /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o0#
+
+CCompileC build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353912803.403347
+e353912803.547895
+r1
+xCompileC
+xbuild/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.m353912803#353912803#0(0"0(0#0#71"/Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.m8611034784#1956"    cd /Users/sandeep/Desktop/sandeeprdy/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/sender/Classes/senderViewController.m -o /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/senderViewController.o0#
+
+CCompileXIB /Users/mreddy/Documents/sender/MainWindow.xib
+s340542439.811123
+e340542442.241472
+r1
+xCompileXIB
+x/Users/mreddy/Documents/sender/MainWindow.xib
+o2011-10-17 16:37:22.034 Interface Builder Cocoa Touch Tool[29702:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib340542439#340542442#0(241"2011-10-17 16:37:22.034 Interface Builder Cocoa Touch Tool[29702:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#45"/Users/mreddy/Documents/sender/MainWindow.xib8612161856#545"    cd /Users/mreddy/Documents/sender    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/MainWindow.nib /Users/mreddy/Documents/sender/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mreddy/Documents/sender/senderViewController.xib
+s340696427.975507
+e340696429.263555
+r1
+xCompileXIB
+x/Users/mreddy/Documents/sender/senderViewController.xib
+o2011-10-19 11:23:48.927 Interface Builder Cocoa Touch Tool[23524:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@35"CompileXIB senderViewController.xib340696427#340696429#0(241"2011-10-19 11:23:48.927 Interface Builder Cocoa Touch Tool[23524:1903] CFPreferences: user home directory at file://localhost/Users/mreddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#55"/Users/mreddy/Documents/sender/senderViewController.xib32088581143265392#565"    cd /Users/mreddy/Documents/sender    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/senderViewController.nib /Users/mreddy/Documents/sender/senderViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/sandeeprdy/sender/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/sandeeprdy/sender/senderViewController.xib
+r0
+
+CGenerateDSYMFile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app.dSYM /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender
+s340545754.717647
+e340545754.751888
+r1
+xGenerateDSYMFile
+x/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app.dSYM
+x/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/sender.app.dSYM build/Debug-iphonesimulator/sender.app/sender340545754#340545754#0(0"0(0#0#76"/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender8613194432#356"    cd /Users/mreddy/Documents/sender    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender -o /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app.dSYM /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender
+s353912803.785746
+e353912803.855849
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/sender.app.dSYM build/Debug-iphonesimulator/sender.app/sender353912803#353912803#0(0"0(0#0#86"/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender8610848096#386"    cd /Users/sandeep/Desktop/sandeeprdy/sender    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender -o /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app.dSYM0#
+
+CLd /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender normal i386
+s340545754.678442
+e340545754.717543
+r1
+xLd
+x/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender
+xnormal
+xi386
+lSLF07#2@81"Link /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender340545754#340545754#0(0"0(0#0#0"8612264544#855"    cd /Users/mreddy/Documents/sender    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -filelist /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/sender.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/sender0#
+
+CLd /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender normal i386
+s353912803.547988
+e353912803.785647
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender
+xnormal
+xi386
+lSLF07#2@91"Link /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender353912803#353912803#0(0"0(0#0#0"8611172128#905"    cd /Users/sandeep/Desktop/sandeeprdy/sender    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/Objects-normal/i386/sender.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/sender0#
+
+CProcessInfoPlistFile /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist sender-Info.plist
+s340542439.752543
+e340542439.811024
+r1
+xProcessInfoPlistFile
+x/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist
+xsender-Info.plist
+lSLF07#2@25"Process sender-Info.plist340542439#340542439#0(0"0(0#0#48"/Users/mreddy/Documents/sender/sender-Info.plist8612310944#452"    cd /Users/mreddy/Documents/sender    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility sender-Info.plist -genpkginfo /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app/Info.plist sender-Info.plist
+r0
+
+CProcessPCH /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch sender_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340542442.241665
+e340542445.417790
+r1
+xProcessPCH
+x/var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch
+xsender_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile sender_Prefix.pch340542442#340542445#0(0"0(0#0#48"/Users/mreddy/Documents/sender/sender_Prefix.pch8612485664#1707"    cd /Users/mreddy/Documents/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/mreddy/Documents/sender/build/Debug-iphonesimulator -I/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/mreddy/Documents/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -c /Users/mreddy/Documents/sender/sender_Prefix.pch -o /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/sender_Prefix-beigbvykofdwfsgfzzflwosimrpa/sender_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch.gch sender_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353912789.626714
+e353912803.309939
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch.gch
+xsender_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile sender_Prefix.pch353912789#353912803#0(0"0(0#0#58"/Users/sandeep/Desktop/sandeeprdy/sender/sender_Prefix.pch7309993516047098880#1807"    cd /Users/sandeep/Desktop/sandeeprdy/sender    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/sender-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/sender/build/sender.build/Debug-iphonesimulator/sender.build/DerivedSources -c /Users/sandeep/Desktop/sandeeprdy/sender/sender_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/sender_Prefix-aioailuhxvbdrahhmsyxvwgrsgdw/sender_Prefix.pch.gch0#
+
+CTouch /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app
+s340696429.264259
+e340696429.294402
+r1
+xTouch
+x/Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app
+lSLF07#2@75"Touch /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app340696429#340696429#0(0"0(0#0#0"30962681237405744#261"    cd /Users/mreddy/Documents/sender    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mreddy/Documents/sender/build/Debug-iphonesimulator/sender.app0#
+
+CTouch /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app
+s353912803.855931
+e353912803.859308
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app
+lSLF07#2@85"Touch /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app353912803#353912803#0(0"0(0#0#0"8603433696#281"    cd /Users/sandeep/Desktop/sandeeprdy/sender    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/sandeeprdy/sender/build/Debug-iphonesimulator/sender.app0#
+

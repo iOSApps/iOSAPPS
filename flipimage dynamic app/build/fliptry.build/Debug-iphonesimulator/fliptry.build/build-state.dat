@@ -1,0 +1,1042 @@
+Tfliptry
+v7
+r0
+t351000486.374963
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/Info.plist" fliptry-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/RootViewController.xib"
+cCpResource build/Debug-iphonesimulator/fliptry.app/b1.png b1.png
+cCpResource build/Debug-iphonesimulator/fliptry.app/c1.png c1.png
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch.gch fliptry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/anand/Documents/fliptry/Classes/RootViewController.h
+c000000004E01A4440000000000000190
+t1308730436
+s400
+i<UIKit/UIKit.h>
+
+N/Users/anand/Documents/fliptry/Classes/RootViewController.m
+c000000004E01AF120000000000001D48
+t1308733202
+s7496
+i"RootViewController.h"
+
+N/Users/anand/Documents/fliptry/Classes/fliptryAppDelegate.h
+c000000004E01A02900000000000001CD
+t1308729385
+s461
+i<UIKit/UIKit.h>
+
+N/Users/anand/Documents/fliptry/Classes/fliptryAppDelegate.m
+c000000004E01A0290000000000000AA1
+t1308729385
+s2721
+i"fliptryAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/anand/Documents/fliptry/MainWindow.xib
+c000000004E01A0290000000000005FF4
+t1308729385
+s24564
+
+N/Users/anand/Documents/fliptry/RootViewController.xib
+c000000004E01A0290000000000004452
+t1308729385
+s17490
+
+N/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app
+t1308732510
+s238
+
+N/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM
+t1308732510
+s102
+
+N/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist
+t1308729499
+s591
+
+N/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/MainWindow.nib
+t1308729500
+s1509
+
+N/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/PkgInfo
+t1308729499
+s8
+
+N/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/RootViewController.nib
+t1308729500
+s979
+
+N/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+t1308732510
+s24880
+
+N/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+t1308732510
+s57768
+
+N/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList
+c000000004E01A09B0000000000000172
+t1308729499
+s370
+
+N/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+t1308730440
+s52588
+
+N/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+t1308729501
+s6288
+
+N/Users/anand/Documents/fliptry/fliptry_Prefix.pch
+c000000004E01A0290000000000000140
+t1308729385
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/anand/Documents/fliptry/main.m
+c000000004E01A0290000000000000163
+t1308729385
+s355
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.h
+c000000004E01BEBE00000000000001DA
+t1308737214
+s474
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.m
+c000000004E01CC1D000000000000174C
+t1308740637
+s5964
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.h
+c000000004E01A02900000000000001CD
+t1308729385
+s461
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.m
+c000000004E01A0290000000000000AA1
+t1308729385
+s2721
+i"fliptryAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/MainWindow.xib
+c000000004E01A0290000000000005FF4
+t1308729385
+s24564
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/RootViewController.xib
+c000000004E01A0290000000000004452
+t1308729385
+s17490
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/b1.png
+c000000004DC7C810000000000001F308
+t1304938512
+s127752
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app
+t1329307686
+s306
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app.dSYM
+t1329307686
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/Info.plist
+t1308729499
+s591
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/MainWindow.nib
+t1308729500
+s1509
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/PkgInfo
+t1308729499
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/RootViewController.nib
+t1308729500
+s979
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/b1.png
+t1308736420
+s127752
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/c1.png
+t1308736420
+s146701
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry
+t1329307685
+s25520
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+t1329307685
+s57024
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList
+c000000004F3BA01900000000000001BD
+t1329307673
+s445
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+t1329307685
+s52636
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+t1329307685
+s6336
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/c1.png
+c000000004DC7CA4C0000000000023D0D
+t1304939084
+s146701
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/fliptry_Prefix.pch
+c000000004E01A0290000000000000140
+t1308729385
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/main.m
+c000000004E01A0290000000000000163
+t1308729385
+s355
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/Classes/RootViewController.h
+c000000004E01BEBE00000000000001DA
+t1308737214
+s474
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/Classes/RootViewController.m
+c000000004E01CC1D000000000000174C
+t1308740637
+s5964
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/Classes/fliptryAppDelegate.h
+c000000004E01A02900000000000001CD
+t1308729385
+s461
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/Classes/fliptryAppDelegate.m
+c000000004E01A0290000000000000AA1
+t1308729385
+s2721
+i"fliptryAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/MainWindow.xib
+c000000004E01A0290000000000005FF4
+t1308729385
+s24564
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/RootViewController.xib
+c000000004E01A0290000000000004452
+t1308729385
+s17490
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/b1.png
+c000000004DC7C810000000000001F308
+t1304938512
+s127752
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app
+t1329307686
+s306
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app.dSYM
+t1329307686
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/Info.plist
+t1308729499
+s591
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/MainWindow.nib
+t1308729500
+s1509
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/PkgInfo
+t1308729499
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/RootViewController.nib
+t1308729500
+s979
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/b1.png
+t1308736420
+s127752
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/c1.png
+t1308736420
+s146701
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry
+t1329307685
+s25520
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+t1329307685
+s57024
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList
+c000000004F3BA01900000000000001BD
+t1329307673
+s445
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+t1329307685
+s52636
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+t1329307685
+s6336
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/c1.png
+c000000004DC7CA4C0000000000023D0D
+t1304939084
+s146701
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/fliptry_Prefix.pch
+c000000004E01A0290000000000000140
+t1308729385
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/main.m
+c000000004E01A0290000000000000163
+t1308729385
+s355
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/fliptry/Classes/RootViewController.h
+c000000004E01BEBE00000000000001DA
+t1308737214
+s474
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/fliptry/Classes/RootViewController.m
+c000000004E01CC1D000000000000174C
+t1308740637
+s5964
+i"RootViewController.h"
+
+N/Users/sandeep/NO NAME/Programs/fliptry/Classes/fliptryAppDelegate.h
+c000000004E01A02900000000000001CD
+t1308729385
+s461
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/fliptry/Classes/fliptryAppDelegate.m
+c000000004E01A0290000000000000AA1
+t1308729385
+s2721
+i"fliptryAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/sandeep/NO NAME/Programs/fliptry/MainWindow.xib
+c000000004E01A0290000000000005FF4
+t1308729385
+s24564
+
+N/Users/sandeep/NO NAME/Programs/fliptry/RootViewController.xib
+c000000004E01A0290000000000004452
+t1308729385
+s17490
+
+N/Users/sandeep/NO NAME/Programs/fliptry/b1.png
+c000000004DC7C810000000000001F308
+t1304938512
+s127752
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app
+t1322806702
+s306
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM
+t1322806702
+s102
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist
+t1308729499
+s591
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/MainWindow.nib
+t1308729500
+s1509
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/PkgInfo
+t1308729499
+s8
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/RootViewController.nib
+t1308729500
+s979
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/b1.png
+t1308736420
+s127752
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/c1.png
+t1308736420
+s146701
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+t1322806701
+s25424
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+t1322806701
+s56992
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList
+c000000004ED86D9A000000000000018D
+t1322806682
+s397
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+t1322806699
+s52604
+
+N/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+t1322806699
+s6304
+
+N/Users/sandeep/NO NAME/Programs/fliptry/c1.png
+c000000004DC7CA4C0000000000023D0D
+t1304939084
+s146701
+
+N/Users/sandeep/NO NAME/Programs/fliptry/fliptry_Prefix.pch
+c000000004E01A0290000000000000140
+t1308729385
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/fliptry/main.m
+c000000004E01A0290000000000000163
+t1308729385
+s355
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Downloads/fliptry/Classes/RootViewController.h
+c000000004E01BEBE00000000000001DA
+t1308737214
+s474
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Downloads/fliptry/Classes/RootViewController.m
+c000000004E01CC1D000000000000174C
+t1308740637
+s5964
+i"RootViewController.h"
+
+N/Users/suhas/Downloads/fliptry/Classes/fliptryAppDelegate.h
+c000000004E01A02900000000000001CD
+t1308729385
+s461
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Downloads/fliptry/Classes/fliptryAppDelegate.m
+c000000004E01A0290000000000000AA1
+t1308729385
+s2721
+i"fliptryAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/suhas/Downloads/fliptry/MainWindow.xib
+c000000004E01A0290000000000005FF4
+t1308729385
+s24564
+
+N/Users/suhas/Downloads/fliptry/RootViewController.xib
+c000000004E01A0290000000000004452
+t1308729385
+s17490
+
+N/Users/suhas/Downloads/fliptry/b1.png
+c000000004DC7C810000000000001F308
+t1304938512
+s127752
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app
+t1308805109
+s306
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM
+t1308805109
+s102
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist
+t1308729499
+s591
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/MainWindow.nib
+t1308729500
+s1509
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/PkgInfo
+t1308729499
+s8
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/RootViewController.nib
+t1308729500
+s979
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/b1.png
+t1308736420
+s127752
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/c1.png
+t1308736420
+s146701
+
+N/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+t1308805109
+s25368
+
+N/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+t1308805109
+s56976
+
+N/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList
+c000000004E01B6C80000000000000172
+t1308735176
+s370
+
+N/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+t1308737247
+s52588
+
+N/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+t1308735177
+s6288
+
+N/Users/suhas/Downloads/fliptry/c1.png
+c000000004DC7CA4C0000000000023D0D
+t1304939084
+s146701
+
+N/Users/suhas/Downloads/fliptry/fliptry_Prefix.pch
+c000000004E01A0290000000000000140
+t1308729385
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Downloads/fliptry/main.m
+c000000004E01A0290000000000000163
+t1308729385
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-ecrrwqvzdllctxgnkcbstolsgvlz/fliptry_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-evwgorrclfteuhgazbimrzddcfvy/fliptry_Prefix.pch.gch
+t1322806697
+s15453392
+
+N/var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/fliptry_Prefix-gepkxopadqwdppfqzkmcuegeqivh/fliptry_Prefix.pch.gch
+t1308735177
+s15453392
+
+N/var/folders/a1/a1biqjriHk4Bx8sEnjXeFE+++Vg/-Caches-/com.apple.Xcode.539/SharedPrecompiledHeaders/fliptry_Prefix-cktyowgdqyuzhudvmzbntektqfqx/fliptry_Prefix.pch.gch
+t1308729501
+s15453392
+
+Nfliptry-Info.plist
+c000000004E01A029000000000000038D
+t1308729385
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351000473#351000473#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s351000485.418668
+e351000485.669357
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.m351000485#351000485#0(0"0(0#0#84"/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.m8603462656#2159"    cd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/RootViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/NO NAME/Programs/fliptry/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499499.508487
+e344499501.356474
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+x/Users/sandeep/NO NAME/Programs/fliptry/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/sandeep/NO NAME/Programs/fliptry/Classes/RootViewController.m344499499#344499501#0(0"0(0#0#68"/Users/sandeep/NO NAME/Programs/fliptry/Classes/RootViewController.m8600642080#1983"    cd "/Users/sandeep/NO NAME/Programs/fliptry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-evwgorrclfteuhgazbimrzddcfvy/fliptry_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/fliptry/Classes/RootViewController.m" -o "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o /Users/anand/Documents/fliptry/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330425310.069087
+e330425310.461797
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+x/Users/anand/Documents/fliptry/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/anand/Documents/fliptry/Classes/RootViewController.m330425310#330425310#0(0"0(0#0#59"/Users/anand/Documents/fliptry/Classes/RootViewController.m8615096736#1862"    cd /Users/anand/Documents/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/anand/Documents/fliptry/build/Debug-iphonesimulator -I/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/include -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -include /var/folders/a1/a1biqjriHk4Bx8sEnjXeFE+++Vg/-Caches-/com.apple.Xcode.539/SharedPrecompiledHeaders/fliptry_Prefix-cktyowgdqyuzhudvmzbntektqfqx/fliptry_Prefix.pch -c /Users/anand/Documents/fliptry/Classes/RootViewController.m -o /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o /Users/suhas/Downloads/fliptry/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330497909.155186
+e330497909.611785
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o
+x/Users/suhas/Downloads/fliptry/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/suhas/Downloads/fliptry/Classes/RootViewController.m330497909#330497909#0(0"0(0#0#59"/Users/suhas/Downloads/fliptry/Classes/RootViewController.m8247340415714734080#1862"    cd /Users/suhas/Downloads/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator -I/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/include -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -include /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/fliptry_Prefix-gepkxopadqwdppfqzkmcuegeqivh/fliptry_Prefix.pch -c /Users/suhas/Downloads/fliptry/Classes/RootViewController.m -o /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s351000485.128010
+e351000485.473788
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.m351000485#351000485#0(0"0(0#0#84"/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.m8603284288#2159"    cd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/Classes/fliptryAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o"0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/Classes/fliptryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o "/Users/sandeep/NO NAME/Programs/fliptry/Classes/fliptryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499498.684580
+e344499499.975361
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+x/Users/sandeep/NO NAME/Programs/fliptry/Classes/fliptryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/sandeep/NO NAME/Programs/fliptry/Classes/fliptryAppDelegate.m344499498#344499501#0(0"0(0#0#68"/Users/sandeep/NO NAME/Programs/fliptry/Classes/fliptryAppDelegate.m8595630496#1983"    cd "/Users/sandeep/NO NAME/Programs/fliptry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-evwgorrclfteuhgazbimrzddcfvy/fliptry_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/fliptry/Classes/fliptryAppDelegate.m" -o "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o"0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o /Users/anand/Documents/fliptry/Classes/fliptryAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330423239.852685
+e330423240.322088
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+x/Users/anand/Documents/fliptry/Classes/fliptryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/anand/Documents/fliptry/Classes/fliptryAppDelegate.m330423239#330423240#0(0"0(0#0#59"/Users/anand/Documents/fliptry/Classes/fliptryAppDelegate.m8622305824#1862"    cd /Users/anand/Documents/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/anand/Documents/fliptry/build/Debug-iphonesimulator -I/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/include -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -include /var/folders/a1/a1biqjriHk4Bx8sEnjXeFE+++Vg/-Caches-/com.apple.Xcode.539/SharedPrecompiledHeaders/fliptry_Prefix-cktyowgdqyuzhudvmzbntektqfqx/fliptry_Prefix.pch -c /Users/anand/Documents/fliptry/Classes/fliptryAppDelegate.m -o /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o /Users/suhas/Downloads/fliptry/Classes/fliptryAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330430047.621951
+e330430047.883381
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o
+x/Users/suhas/Downloads/fliptry/Classes/fliptryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/suhas/Downloads/fliptry/Classes/fliptryAppDelegate.m330430047#330430047#0(0"0(0#0#59"/Users/suhas/Downloads/fliptry/Classes/fliptryAppDelegate.m8615048512#1862"    cd /Users/suhas/Downloads/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator -I/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/include -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -include /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/fliptry_Prefix-gepkxopadqwdppfqzkmcuegeqivh/fliptry_Prefix.pch -c /Users/suhas/Downloads/fliptry/Classes/fliptryAppDelegate.m -o /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptryAppDelegate.o0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s351000485.125489
+e351000485.418571
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/main.m351000485#351000485#0(0"0(0#0#62"/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/main.m8603950624#2123"    cd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o "/Users/sandeep/NO NAME/Programs/fliptry/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499498.537979
+e344499499.507846
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+x/Users/sandeep/NO NAME/Programs/fliptry/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/NO NAME/Programs/fliptry/main.m344499498#344499501#0(0"0(0#0#46"/Users/sandeep/NO NAME/Programs/fliptry/main.m8601220288#1947"    cd "/Users/sandeep/NO NAME/Programs/fliptry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-evwgorrclfteuhgazbimrzddcfvy/fliptry_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/fliptry/main.m" -o "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o /Users/anand/Documents/fliptry/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330422301.260034
+e330422301.330273
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+x/Users/anand/Documents/fliptry/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/anand/Documents/fliptry/main.m330422301#330422301#0(0"0(0#0#37"/Users/anand/Documents/fliptry/main.m8619480448#1826"    cd /Users/anand/Documents/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/anand/Documents/fliptry/build/Debug-iphonesimulator -I/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/include -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -include /var/folders/a1/a1biqjriHk4Bx8sEnjXeFE+++Vg/-Caches-/com.apple.Xcode.539/SharedPrecompiledHeaders/fliptry_Prefix-cktyowgdqyuzhudvmzbntektqfqx/fliptry_Prefix.pch -c /Users/anand/Documents/fliptry/main.m -o /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o0#
+
+CCompileC build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o /Users/suhas/Downloads/fliptry/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330427977.722786
+e330427977.827722
+r1
+xCompileC
+xbuild/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o
+x/Users/suhas/Downloads/fliptry/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/suhas/Downloads/fliptry/main.m330427977#330427977#0(0"0(0#0#37"/Users/suhas/Downloads/fliptry/main.m8386658438684291072#1826"    cd /Users/suhas/Downloads/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator -I/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/include -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -include /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/fliptry_Prefix-gepkxopadqwdppfqzkmcuegeqivh/fliptry_Prefix.pch -c /Users/suhas/Downloads/fliptry/main.m -o /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/NO NAME/Programs/fliptry/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/NO NAME/Programs/fliptry/RootViewController.xib"
+r0
+
+CCompileXIB /Users/anand/Documents/fliptry/MainWindow.xib
+s330422299.623871
+e330422300.264155
+r1
+xCompileXIB
+x/Users/anand/Documents/fliptry/MainWindow.xib
+o2011-06-22 13:28:20.120 Interface Builder Cocoa Touch Tool[14836:1903] CFPreferences: user home directory at file://localhost/Users/anand/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib330422299#330422300#0(240"2011-06-22 13:28:20.120 Interface Builder Cocoa Touch Tool[14836:1903] CFPreferences: user home directory at file://localhost/Users/anand/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#45"/Users/anand/Documents/fliptry/MainWindow.xib8615023776#546"    cd /Users/anand/Documents/fliptry    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/MainWindow.nib /Users/anand/Documents/fliptry/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/anand/Documents/fliptry/RootViewController.xib
+s330422299.624648
+e330422300.218033
+r1
+xCompileXIB
+x/Users/anand/Documents/fliptry/RootViewController.xib
+o2011-06-22 13:28:20.155 Interface Builder Cocoa Touch Tool[14837:3903] CFPreferences: user home directory at file://localhost/Users/anand/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@33"CompileXIB RootViewController.xib330422299#330422300#0(240"2011-06-22 13:28:20.155 Interface Builder Cocoa Touch Tool[14837:3903] CFPreferences: user home directory at file://localhost/Users/anand/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#53"/Users/anand/Documents/fliptry/RootViewController.xib8619925536#562"    cd /Users/anand/Documents/fliptry    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/RootViewController.nib /Users/anand/Documents/fliptry/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/suhas/Downloads/fliptry/MainWindow.xib
+r0
+
+CCompileXIB /Users/suhas/Downloads/fliptry/RootViewController.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/fliptry.app/b1.png b1.png
+s330429220.869243
+e330429220.905847
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/fliptry.app/b1.png
+xb1.png
+lSLF07#2@11"Copy b1.png330429220#330429220#0(0"0(0#0#37"/Users/suhas/Downloads/fliptry/b1.png8614284800#440"    cd /Users/suhas/Downloads/fliptry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/suhas/Downloads/fliptry/b1.png /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app0#
+
+CCpResource build/Debug-iphonesimulator/fliptry.app/c1.png c1.png
+s330429220.880503
+e330429220.907375
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/fliptry.app/c1.png
+xc1.png
+lSLF07#2@11"Copy c1.png330429220#330429220#0(0"0(0#0#37"/Users/suhas/Downloads/fliptry/c1.png8617374816#440"    cd /Users/suhas/Downloads/fliptry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/suhas/Downloads/fliptry/c1.png /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry"
+s351000485.909000
+e351000486.368303
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/fliptry.app.dSYM build/Debug-iphonesimulator/fliptry.app/fliptry351000485#351000486#0(0"0(0#0#103"/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry8602889984#440"    cd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry" -o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry"
+r0
+
+CGenerateDSYMFile "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM" "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry"
+s344499501.822906
+e344499502.392324
+r1
+xGenerateDSYMFile
+x/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM
+x/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/fliptry.app.dSYM build/Debug-iphonesimulator/fliptry.app/fliptry344499501#344499502#0(0"0(0#0#87"/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry8593656736#392"    cd "/Users/sandeep/NO NAME/Programs/fliptry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry" -o "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM"0#
+
+CGenerateDSYMFile /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+s330425310.488199
+e330425310.506877
+r1
+xGenerateDSYMFile
+x/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM
+x/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/fliptry.app.dSYM build/Debug-iphonesimulator/fliptry.app/fliptry330425310#330425310#0(0"0(0#0#78"/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry8614408032#359"    cd /Users/anand/Documents/fliptry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry -o /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM0#
+
+CGenerateDSYMFile /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+s330497909.648111
+e330497909.688445
+r1
+xGenerateDSYMFile
+x/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM
+x/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/fliptry.app.dSYM build/Debug-iphonesimulator/fliptry.app/fliptry330497909#330497909#0(0"0(0#0#78"/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry8602585184#359"    cd /Users/suhas/Downloads/fliptry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry -o /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry" normal i386
+s351000485.669440
+e351000485.908903
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry
+xnormal
+xi386
+lSLF07#2@108"Link /Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry351000485#351000485#0(0"0(0#0#0"8603489536#995"    cd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/fliptry" normal i386
+r0
+
+CLd "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry" normal i386
+s344499501.356621
+e344499501.806864
+r1
+xLd
+x/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+xnormal
+xi386
+lSLF07#2@92"Link /Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry344499501#344499501#0(0"0(0#0#0"8603859680#915"    cd "/Users/sandeep/NO NAME/Programs/fliptry"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator" "-F/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator" -filelist "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry"0#
+
+CLd /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry normal i386
+s330425310.461882
+e330425310.488103
+r1
+xLd
+x/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+xnormal
+xi386
+lSLF07#2@83"Link /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry330425310#330425310#0(0"0(0#0#0"8615186336#860"    cd /Users/anand/Documents/fliptry    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/anand/Documents/fliptry/build/Debug-iphonesimulator -F/Users/anand/Documents/fliptry/build/Debug-iphonesimulator -filelist /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry0#
+
+CLd /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry normal i386
+s330497909.611874
+e330497909.648016
+r1
+xLd
+x/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry
+xnormal
+xi386
+lSLF07#2@83"Link /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry330497909#330497909#0(0"0(0#0#0"8602845472#860"    cd /Users/suhas/Downloads/fliptry    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator -F/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator -filelist /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/Objects-normal/i386/fliptry.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/fliptry0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/Info.plist" fliptry-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app/Info.plist" fliptry-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist" fliptry-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist fliptry-Info.plist
+s330422299.620646
+e330422299.623736
+r1
+xProcessInfoPlistFile
+x/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist
+xfliptry-Info.plist
+lSLF07#2@26"Process fliptry-Info.plist330422299#330422299#0(0"0(0#0#49"/Users/anand/Documents/fliptry/fliptry-Info.plist8619597376#455"    cd /Users/anand/Documents/fliptry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility fliptry-Info.plist -genpkginfo /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app/Info.plist fliptry-Info.plist
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch.gch fliptry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s351000473.599240
+e351000485.125267
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch.gch
+xfliptry_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile fliptry_Prefix.pch351000473#351000485#0(0"0(0#0#74"/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/fliptry_Prefix.pch8237188693676552192#1996"    cd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/fliptry_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-atwquihcsbpogrdhlgnpoudtbyni/fliptry_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-ecrrwqvzdllctxgnkcbstolsgvlz/fliptry_Prefix.pch.gch fliptry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-evwgorrclfteuhgazbimrzddcfvy/fliptry_Prefix.pch.gch fliptry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499482.823144
+e344499498.537590
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-evwgorrclfteuhgazbimrzddcfvy/fliptry_Prefix.pch.gch
+xfliptry_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile fliptry_Prefix.pch344499482#344499498#0(0"0(0#0#58"/Users/sandeep/NO NAME/Programs/fliptry/fliptry_Prefix.pch8590383008#1836"    cd "/Users/sandeep/NO NAME/Programs/fliptry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources" -c "/Users/sandeep/NO NAME/Programs/fliptry/fliptry_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/fliptry_Prefix-evwgorrclfteuhgazbimrzddcfvy/fliptry_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/fliptry_Prefix-gepkxopadqwdppfqzkmcuegeqivh/fliptry_Prefix.pch.gch fliptry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330427976.382400
+e330427977.722689
+r1
+xProcessPCH
+x/var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/fliptry_Prefix-gepkxopadqwdppfqzkmcuegeqivh/fliptry_Prefix.pch.gch
+xfliptry_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile fliptry_Prefix.pch330427976#330427977#0(0"0(0#0#49"/Users/suhas/Downloads/fliptry/fliptry_Prefix.pch8237188693676552192#1726"    cd /Users/suhas/Downloads/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator -I/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/include -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/suhas/Downloads/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -c /Users/suhas/Downloads/fliptry/fliptry_Prefix.pch -o /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/fliptry_Prefix-gepkxopadqwdppfqzkmcuegeqivh/fliptry_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/a1/a1biqjriHk4Bx8sEnjXeFE+++Vg/-Caches-/com.apple.Xcode.539/SharedPrecompiledHeaders/fliptry_Prefix-cktyowgdqyuzhudvmzbntektqfqx/fliptry_Prefix.pch.gch fliptry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330422300.264276
+e330422301.259793
+r1
+xProcessPCH
+x/var/folders/a1/a1biqjriHk4Bx8sEnjXeFE+++Vg/-Caches-/com.apple.Xcode.539/SharedPrecompiledHeaders/fliptry_Prefix-cktyowgdqyuzhudvmzbntektqfqx/fliptry_Prefix.pch.gch
+xfliptry_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile fliptry_Prefix.pch330422300#330422301#0(0"0(0#0#49"/Users/anand/Documents/fliptry/fliptry_Prefix.pch8621851168#1726"    cd /Users/anand/Documents/fliptry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-generated-files.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-own-target-headers.hmap -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-all-target-headers.hmap -iquote /Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/fliptry-project-headers.hmap -F/Users/anand/Documents/fliptry/build/Debug-iphonesimulator -I/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/include -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources/i386 -I/Users/anand/Documents/fliptry/build/fliptry.build/Debug-iphonesimulator/fliptry.build/DerivedSources -c /Users/anand/Documents/fliptry/fliptry_Prefix.pch -o /var/folders/a1/a1biqjriHk4Bx8sEnjXeFE+++Vg/-Caches-/com.apple.Xcode.539/SharedPrecompiledHeaders/fliptry_Prefix-cktyowgdqyuzhudvmzbntektqfqx/fliptry_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app"
+s351000486.368394
+e351000486.374902
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app
+lSLF07#2@101"Touch /Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app351000486#351000486#0(0"0(0#0#0"8603757408#316"    cd "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/flipimage dynamic app/build/Debug-iphonesimulator/fliptry.app"
+r0
+
+CTouch "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app"
+s344499502.392412
+e344499502.406519
+r1
+xTouch
+x/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app
+lSLF07#2@85"Touch /Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app344499502#344499502#0(0"0(0#0#0"8604158912#284"    cd "/Users/sandeep/NO NAME/Programs/fliptry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/NO NAME/Programs/fliptry/build/Debug-iphonesimulator/fliptry.app"0#
+
+CTouch /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app
+s330425310.506967
+e330425310.513137
+r1
+xTouch
+x/Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app
+lSLF07#2@76"Touch /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app330425310#330425310#0(0"0(0#0#0"8614150336#262"    cd /Users/anand/Documents/fliptry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/anand/Documents/fliptry/build/Debug-iphonesimulator/fliptry.app0#
+
+CTouch /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app
+s330497909.688528
+e330497909.691037
+r1
+xTouch
+x/Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app
+lSLF07#2@76"Touch /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app330497909#330497909#0(0"0(0#0#0"8598439840#262"    cd /Users/suhas/Downloads/fliptry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/suhas/Downloads/fliptry/build/Debug-iphonesimulator/fliptry.app0#
+

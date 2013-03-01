@@ -1,0 +1,685 @@
+Tmanojcore
+v7
+r0
+t356957607.146468
+cCheck dependencies
+cProcessInfoPlistFile /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist manojcore-Info.plist
+cCompileXIB /Users/vanita/Desktop/manojcore/MainWindow.xib
+cCompileXIB /Users/vanita/Desktop/manojcore/Classes/next.xib
+cProcessPCH /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch.gch manojcore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd /Users/vanita/Desktop/manojcore/manojcore.xcdatamodeld
+cCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o /Users/vanita/Desktop/manojcore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o /Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o /Users/vanita/Desktop/manojcore/Classes/next.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore normal i386
+cGenerateDSYMFile /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+cTouch /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/SandeepReddy/Desktop/manojcore/Classes/manojcoreAppDelegate.h
+c000000004F94F2CE00000000000003BE
+t1335161550
+s958
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"next.h"
+
+N/Users/SandeepReddy/Desktop/manojcore/Classes/manojcoreAppDelegate.m
+c000000004F9143E60000000000001E1A
+t1334920166
+s7706
+i"manojcoreAppDelegate.h"
+
+N/Users/SandeepReddy/Desktop/manojcore/Classes/next.h
+c000000004F913BEF00000000000001D6
+t1334918127
+s470
+i<UIKit/UIKit.h>
+
+N/Users/SandeepReddy/Desktop/manojcore/Classes/next.m
+c000000004F94F1E60000000000000F21
+t1335161318
+s3873
+i"next.h"
+i"manojcoreAppDelegate.h"
+
+N/Users/SandeepReddy/Desktop/manojcore/Classes/next.xib
+c000000004F913BCC00000000000085D7
+t1334918092
+s34263
+
+N/Users/SandeepReddy/Desktop/manojcore/MainWindow.xib
+c000000004F912FE500000000000021D1
+t1334915045
+s8657
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+t1335264807
+s272
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM
+t1335264807
+s102
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist
+t1334918095
+s599
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/MainWindow.nib
+t1334918096
+s986
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/PkgInfo
+t1334918095
+s8
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+t1335264807
+s24276
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd
+t1334918218
+s136
+
+N/Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/next.nib
+t1334918096
+s2879
+
+N/Users/SandeepReddy/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o
+t1335264806
+s6392
+
+N/Users/SandeepReddy/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcore.LinkFileList
+c000000004F9686240000000000000175
+t1335264804
+s373
+
+N/Users/SandeepReddy/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o
+t1335264806
+s62056
+
+N/Users/SandeepReddy/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o
+t1335264807
+s59952
+
+N/Users/SandeepReddy/Desktop/manojcore/main.m
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<UIKit/UIKit.h>
+
+N/Users/SandeepReddy/Desktop/manojcore/manojcore.xcdatamodeld
+c000000004F913C4A0000000000000088
+t1334918218
+s136
+
+N/Users/SandeepReddy/Desktop/manojcore/manojcore_Prefix.pch
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.h
+c000000004F94F2CE00000000000003BE
+t1335161550
+s958
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"next.h"
+
+N/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m
+c000000004F9143E60000000000001E1A
+t1334920166
+s7706
+i"manojcoreAppDelegate.h"
+
+N/Users/manoj1/Desktop/manojcore/Classes/next.h
+c000000004F913BEF00000000000001D6
+t1334918127
+s470
+i<UIKit/UIKit.h>
+
+N/Users/manoj1/Desktop/manojcore/Classes/next.m
+c000000004F94F1E60000000000000F21
+t1335161318
+s3873
+i"next.h"
+i"manojcoreAppDelegate.h"
+
+N/Users/manoj1/Desktop/manojcore/Classes/next.xib
+c000000004F913BCC00000000000085D7
+t1334918092
+s34263
+
+N/Users/manoj1/Desktop/manojcore/MainWindow.xib
+c000000004F912FE500000000000021D1
+t1334915045
+s8657
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+t1335161551
+s272
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM
+t1335161550
+s102
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist
+t1334918095
+s599
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/MainWindow.nib
+t1334918096
+s986
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/PkgInfo
+t1334918095
+s8
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+t1335161550
+s24276
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd
+t1334918218
+s136
+
+N/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/next.nib
+t1334918096
+s2879
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o
+t1334918100
+s6288
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcore.LinkFileList
+c000000004F913BCE0000000000000175
+t1334918094
+s373
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o
+t1335161550
+s61848
+
+N/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o
+t1335161550
+s59744
+
+N/Users/manoj1/Desktop/manojcore/main.m
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<UIKit/UIKit.h>
+
+N/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld
+c000000004F913C4A0000000000000088
+t1334918218
+s136
+
+N/Users/manoj1/Desktop/manojcore/manojcore_Prefix.pch
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.h
+c000000004F94F2CE00000000000003BE
+t1335161550
+s958
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"next.h"
+
+N/Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.m
+c000000004F9143E60000000000001E1A
+t1334920166
+s7706
+i"manojcoreAppDelegate.h"
+
+N/Users/vanita/Desktop/manojcore/Classes/next.h
+c000000004F913BEF00000000000001D6
+t1334918127
+s470
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Desktop/manojcore/Classes/next.m
+c000000004F94F1E60000000000000F21
+t1335161318
+s3873
+i"next.h"
+i"manojcoreAppDelegate.h"
+
+N/Users/vanita/Desktop/manojcore/Classes/next.xib
+c000000004F913BCC00000000000085D7
+t1334918092
+s34263
+
+N/Users/vanita/Desktop/manojcore/MainWindow.xib
+c000000004F912FE500000000000021D1
+t1334915045
+s8657
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+t1335264807
+s272
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM
+t1335264807
+s102
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist
+t1334918095
+s599
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/MainWindow.nib
+t1334918096
+s986
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/PkgInfo
+t1334918095
+s8
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+t1335264807
+s24276
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd
+t1334918218
+s136
+
+N/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/next.nib
+t1334918096
+s2879
+
+N/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o
+t1335264806
+s6392
+
+N/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcore.LinkFileList
+c000000004F9686240000000000000175
+t1335264804
+s373
+
+N/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o
+t1335264806
+s62056
+
+N/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o
+t1335264807
+s59952
+
+N/Users/vanita/Desktop/manojcore/main.m
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Desktop/manojcore/manojcore.xcdatamodeld
+c000000004F913C4A0000000000000088
+t1334918218
+s136
+
+N/Users/vanita/Desktop/manojcore/manojcore_Prefix.pch
+c000000004F912FE60000000000000166
+t1334915046
+s358
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch.gch
+t1335264806
+s16330736
+
+N/var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch
+t1334918100
+s16326640
+
+N/var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/manojcore_Prefix-ftkdmdowpllasogierdbkwvoryng/manojcore_Prefix.pch.gch
+t2
+s0
+
+Nmanojcore-Info.plist
+c000000004F912FE5000000000000038D
+t1334915045
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356957604#356957604#0(0"0(0#1#0"7021752170582210560#0"0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o /Users/SandeepReddy/Desktop/manojcore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o /Users/manoj1/Desktop/manojcore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356610900.615241
+e356610900.706973
+r1
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o
+x/Users/manoj1/Desktop/manojcore/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/manoj1/Desktop/manojcore/main.m356610900#356610900#0(0"0(0#0#38"/Users/manoj1/Desktop/manojcore/main.m8615899136#1877"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch -c /Users/manoj1/Desktop/manojcore/main.m -o /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o /Users/vanita/Desktop/manojcore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356957606.839799
+e356957606.924495
+r1
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o
+x/Users/vanita/Desktop/manojcore/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/vanita/Desktop/manojcore/main.m356957606#356957606#0(0"0(0#0#38"/Users/vanita/Desktop/manojcore/main.m2336574833424428544#1981"    cd /Users/vanita/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch -c /Users/vanita/Desktop/manojcore/main.m -o /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/main.o0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o /Users/SandeepReddy/Desktop/manojcore/Classes/manojcoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356854350.364884
+e356854350.562552
+r1
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o
+x/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m356854350#356854350#0(0"0(0#0#62"/Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m8605891648#1917"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch -c /Users/manoj1/Desktop/manojcore/Classes/manojcoreAppDelegate.m -o /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o /Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356957606.841104
+e356957607.003321
+r1
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o
+x/Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.m356957606#356957607#0(0"0(0#0#62"/Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.m8603294624#2021"    cd /Users/vanita/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch -c /Users/vanita/Desktop/manojcore/Classes/manojcoreAppDelegate.m -o /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcoreAppDelegate.o0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o /Users/SandeepReddy/Desktop/manojcore/Classes/next.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o /Users/manoj1/Desktop/manojcore/Classes/next.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356854350.365902
+e356854350.514383
+r1
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o
+x/Users/manoj1/Desktop/manojcore/Classes/next.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/manoj1/Desktop/manojcore/Classes/next.m356854350#356854350#0(0"0(0#0#46"/Users/manoj1/Desktop/manojcore/Classes/next.m8605786624#1885"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch -c /Users/manoj1/Desktop/manojcore/Classes/next.m -o /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o0#
+
+CCompileC build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o /Users/vanita/Desktop/manojcore/Classes/next.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356957606.924596
+e356957607.048289
+r1
+xCompileC
+xbuild/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o
+x/Users/vanita/Desktop/manojcore/Classes/next.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/vanita/Desktop/manojcore/Classes/next.m356957606#356957607#0(0"0(0#0#46"/Users/vanita/Desktop/manojcore/Classes/next.m8611169408#1989"    cd /Users/vanita/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch -c /Users/vanita/Desktop/manojcore/Classes/next.m -o /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/next.o0#
+
+CCompileXIB /Users/SandeepReddy/Desktop/manojcore/Classes/next.xib
+r0
+
+CCompileXIB /Users/SandeepReddy/Desktop/manojcore/MainWindow.xib
+r0
+
+CCompileXIB /Users/manoj1/Desktop/manojcore/Classes/next.xib
+s356610895.386344
+e356610896.974856
+r1
+xCompileXIB
+x/Users/manoj1/Desktop/manojcore/Classes/next.xib
+o2012-04-20 16:04:56.483 Interface Builder Cocoa Touch Tool[5851:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@27"CompileXIB Classes/next.xib356610895#356610896#0(240"2012-04-20 16:04:56.483 Interface Builder Cocoa Touch Tool[5851:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#48"/Users/manoj1/Desktop/manojcore/Classes/next.xib8616456192#547"    cd /Users/manoj1/Desktop/manojcore    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/next.nib /Users/manoj1/Desktop/manojcore/Classes/next.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/manoj1/Desktop/manojcore/MainWindow.xib
+s356610895.378550
+e356610896.485395
+r1
+xCompileXIB
+x/Users/manoj1/Desktop/manojcore/MainWindow.xib
+o2012-04-20 16:04:56.353 Interface Builder Cocoa Touch Tool[5845:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib356610895#356610896#0(240"2012-04-20 16:04:56.353 Interface Builder Cocoa Touch Tool[5845:1903] CFPreferences: user home directory at file://localhost/Users/manoj1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#46"/Users/manoj1/Desktop/manojcore/MainWindow.xib8617246912#551"    cd /Users/manoj1/Desktop/manojcore    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/MainWindow.nib /Users/manoj1/Desktop/manojcore/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/vanita/Desktop/manojcore/Classes/next.xib
+r0
+
+CCompileXIB /Users/vanita/Desktop/manojcore/MainWindow.xib
+r0
+
+CDataModelVersionCompile /Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd /Users/SandeepReddy/Desktop/manojcore/manojcore.xcdatamodeld
+r0
+
+CDataModelVersionCompile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd /Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld
+s356611018.725467
+e356611018.823330
+r1
+xDataModelVersionCompile
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd
+x/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld
+lSLF07#2@103"DataModelVersionCompile build/Debug-iphonesimulator/manojcore.app/manojcore.momd manojcore.xcdatamodeld356611018#356611018#0(0"0(0#0#54"/Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld8612076704#371"    cd /Users/manoj1/Desktop/manojcore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/manoj1/Desktop/manojcore/manojcore.xcdatamodeld /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd0#
+
+CDataModelVersionCompile /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore.momd /Users/vanita/Desktop/manojcore/manojcore.xcdatamodeld
+r0
+
+CGenerateDSYMFile /Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM /Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+r0
+
+CGenerateDSYMFile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+s356854350.626676
+e356854351.005018
+r1
+xGenerateDSYMFile
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/manojcore.app.dSYM build/Debug-iphonesimulator/manojcore.app/manojcore356854350#356854351#0(0"0(0#0#83"/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore8606048096#368"    cd /Users/manoj1/Desktop/manojcore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore -o /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM0#
+
+CGenerateDSYMFile /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+s356957607.113540
+e356957607.140575
+r1
+xGenerateDSYMFile
+x/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM
+x/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/manojcore.app.dSYM build/Debug-iphonesimulator/manojcore.app/manojcore356957607#356957607#0(0"0(0#0#83"/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore8609907168#446"    cd /Users/vanita/Desktop/manojcore    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/dsymutil /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore -o /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app.dSYM0#
+
+CLd /Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore normal i386
+r0
+
+CLd /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore normal i386
+s356854350.562909
+e356854350.626565
+r1
+xLd
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+xnormal
+xi386
+lSLF07#2@88"Link /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore356854350#356854350#0(0"0(0#0#0"8606186944#895"    cd /Users/manoj1/Desktop/manojcore    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -filelist /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcore.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore0#
+
+CLd /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore normal i386
+s356957607.048377
+e356957607.113447
+r1
+xLd
+x/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore
+xnormal
+xi386
+lSLF07#2@88"Link /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore356957607#356957607#0(0"0(0#0#0"8610693760#999"    cd /Users/vanita/Desktop/manojcore    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator -F/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator -filelist /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/Objects-normal/i386/manojcore.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/manojcore0#
+
+CProcessInfoPlistFile /Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist manojcore-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist manojcore-Info.plist
+s356610895.268237
+e356610895.378261
+r1
+xProcessInfoPlistFile
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist
+xmanojcore-Info.plist
+lSLF07#2@28"Process manojcore-Info.plist356610895#356610895#0(0"0(0#0#52"/Users/manoj1/Desktop/manojcore/manojcore-Info.plist30399800003068008#464"    cd /Users/manoj1/Desktop/manojcore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility manojcore-Info.plist -genpkginfo /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app/Info.plist manojcore-Info.plist
+r0
+
+CProcessPCH /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch.gch manojcore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356957604.760002
+e356957606.839571
+r1
+xProcessPCH
+x/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch.gch
+xmanojcore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile manojcore_Prefix.pch356957604#356957606#0(0"0(0#0#52"/Users/vanita/Desktop/manojcore/manojcore_Prefix.pch6874026228985786368#1878"    cd /Users/vanita/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/vanita/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -c /Users/vanita/Desktop/manojcore/manojcore_Prefix.pch -o /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/manojcore_Prefix-aufzohjnmnjwaudednbusgfsedrz/manojcore_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch manojcore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356610896.975106
+e356610900.613056
+r1
+xProcessPCH
+x/var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch
+xmanojcore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile manojcore_Prefix.pch356610896#356610900#0(0"0(0#0#52"/Users/manoj1/Desktop/manojcore/manojcore_Prefix.pch8615277920#1774"    cd /Users/manoj1/Desktop/manojcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-generated-files.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-own-target-headers.hmap -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-all-target-headers.hmap -iquote /Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/manojcore-project-headers.hmap -F/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator -I/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/include -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources/i386 -I/Users/manoj1/Desktop/manojcore/build/manojcore.build/Debug-iphonesimulator/manojcore.build/DerivedSources -c /Users/manoj1/Desktop/manojcore/manojcore_Prefix.pch -o /var/folders/MO/MO5IVMiJHsSqFEItJhyBmk+++cM/-Caches-/com.apple.Xcode.646/SharedPrecompiledHeaders/manojcore_Prefix-cpzghcyqlsjzkgayhghklkpdekqo/manojcore_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/manojcore_Prefix-ftkdmdowpllasogierdbkwvoryng/manojcore_Prefix.pch.gch manojcore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/SandeepReddy/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+r0
+
+CTouch /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+s356854351.005119
+e356854351.056088
+r1
+xTouch
+x/Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+lSLF07#2@79"Touch /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app356854351#356854351#0(0"0(0#0#0"8606164224#266"    cd /Users/manoj1/Desktop/manojcore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/manoj1/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app0#
+
+CTouch /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+s356957607.140665
+e356957607.146410
+r1
+xTouch
+x/Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app
+lSLF07#2@79"Touch /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app356957607#356957607#0(0"0(0#0#0"8609129504#318"    cd /Users/vanita/Desktop/manojcore    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vanita/Desktop/manojcore/build/Debug-iphonesimulator/manojcore.app0#
+

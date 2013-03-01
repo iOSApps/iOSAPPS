@@ -1,0 +1,1177 @@
+TIndainRailWayPNRStatus
+v7
+r0
+t353823805.514532
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/Info.plist IndainRailWayPNRStatus-Info.plist
+cCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib
+cCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib
+cCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch.gch IndainRailWayPNRStatus_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+cTouch /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.h
+c000000004F5AF2FC0000000000000234
+t1331360508
+s564
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m
+c000000004F5AF2FC0000000000000ADB
+t1331360508
+s2779
+i"IndainRailWayPNRStatusAppDelegate.h"
+i"IndainRailWayPNRStatusViewController.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.h
+c000000004F5AF796000000000000021A
+t1331361686
+s538
+i<UIKit/UIKit.h>
+i"PNRStatusDetailView.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m
+c000000004F5B0591000000000000080B
+t1331365265
+s2059
+i"IndainRailWayPNRStatusViewController.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m
+c000000004A748DD2000000000000089C
+t1249152466
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m
+c000000004A748DD2000000000000087C
+t1249152466
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.h
+c000000004A748DD20000000000000AED
+t1249152466
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m
+c000000004A748DD20000000000001ABC
+t1249152466
+s6844
+i"SBJSON.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.h
+c000000004F3B853500000000000000C7
+t1329300789
+s199
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.m
+c000000004F3B8535000000000000057D
+t1329300789
+s1405
+i"ram6.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.xib
+c000000004F3B85360000000000001847
+t1329300790
+s6215
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.h
+c000000004F5DA2A30000000000000458
+t1331536547
+s1112
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m
+c000000004F5DA2C500000000000013C4
+t1331536581
+s5060
+i"PNRStatusDetailView.h"
+i"JSON.h"
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib
+c000000004F5B31B9000000000000C3A4
+t1331376569
+s50084
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib
+c000000004F5AF7BA00000000000053BD
+t1331361722
+s21437
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch
+c000000004F5AF2FD00000000000000D5
+t1331360509
+s213
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/MainWindow.xib
+c000000004F5AF2FD0000000000004EDD
+t1331360509
+s20189
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app
+t1332131005
+s306
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM
+t1332131005
+s102
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+t1332131004
+s72492
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatusViewController.nib
+t1331361911
+s1868
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/Info.plist
+t1331361454
+s657
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/MainWindow.nib
+t1331361455
+s1153
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/PNRStatusDetailView.nib
+t1331376576
+s3761
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/PkgInfo
+t1331361454
+s8
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/ram6.nib
+t1331363398
+s764
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatus.LinkFileList
+c000000004F66B4A7000000000000074F
+t1332130983
+s1871
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o
+t1332131002
+s51860
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o
+t1332131002
+s50272
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o
+t1332131002
+s8316
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o
+t1332131003
+s8236
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o
+t1332131002
+s73640
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o
+t1332131003
+s20100
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o
+t1332131003
+s13232
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o
+t1332131003
+s35912
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o
+t1332131003
+s24880
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o
+t1332131002
+s6316
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o
+t1332131003
+s37368
+
+N/Users/sandeep/Desktop/IndainRailWayPNRStatus/main.m
+c000000004F5AF2FD0000000000000173
+t1331360509
+s371
+i<UIKit/UIKit.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.h
+c000000004F5AF2FC0000000000000234
+t1331360508
+s564
+i<UIKit/UIKit.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m
+c000000004F5AF2FC0000000000000ADB
+t1331360508
+s2779
+i"IndainRailWayPNRStatusAppDelegate.h"
+i"IndainRailWayPNRStatusViewController.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.h
+c000000004F5AF796000000000000021A
+t1331361686
+s538
+i<UIKit/UIKit.h>
+i"PNRStatusDetailView.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m
+c000000004F5B0591000000000000080B
+t1331365265
+s2059
+i"IndainRailWayPNRStatusViewController.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m
+c000000004A748DD2000000000000089C
+t1249152466
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m
+c000000004A748DD2000000000000087C
+t1249152466
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.h
+c000000004A748DD20000000000000AED
+t1249152466
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m
+c000000004A748DD20000000000001ABC
+t1249152466
+s6844
+i"SBJSON.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.h
+c000000004F3B853500000000000000C7
+t1329300789
+s199
+i<UIKit/UIKit.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m
+c000000004F3B8535000000000000057D
+t1329300789
+s1405
+i"ram6.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.xib
+c000000004F3B85360000000000001847
+t1329300790
+s6215
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.h
+c000000004F5DA2A30000000000000458
+t1331536547
+s1112
+i<UIKit/UIKit.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m
+c000000004F5DA2C500000000000013C4
+t1331536581
+s5060
+i"PNRStatusDetailView.h"
+i"JSON.h"
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib
+c000000004F5B31B9000000000000C3A4
+t1331376569
+s50084
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib
+c000000004F5AF7BA00000000000053BD
+t1331361722
+s21437
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch
+c000000004F5AF2FD00000000000000D5
+t1331360509
+s213
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/MainWindow.xib
+c000000004F5AF2FD0000000000004EDD
+t1331360509
+s20189
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app
+t1331536581
+s306
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM
+t1331536581
+s102
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+t1331536581
+s72516
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatusViewController.nib
+t1331361911
+s1868
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/Info.plist
+t1331361454
+s657
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/MainWindow.nib
+t1331361455
+s1153
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/PNRStatusDetailView.nib
+t1331376576
+s3761
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/PkgInfo
+t1331361454
+s8
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/ram6.nib
+t1331363398
+s764
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatus.LinkFileList
+c000000004F5AFE45000000000000075A
+t1331363397
+s1882
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o
+t1331536547
+s51864
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o
+t1331536547
+s50272
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o
+t1331363398
+s8316
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o
+t1331363398
+s8236
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o
+t1331536581
+s73640
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o
+t1331363398
+s20104
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o
+t1331363398
+s13236
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o
+t1331363398
+s35912
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o
+t1331363398
+s24880
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o
+t1331361457
+s6320
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o
+t1331363398
+s37368
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/IndainRailWayPNRStatusAppDelegate.plist
+t1331536547
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/IndainRailWayPNRStatusViewController.plist
+t1331536547
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist
+t1331370738
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist
+t1331370738
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/PNRStatusDetailView.plist
+t1331536594
+s9238
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJSON.plist
+t1331370738
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJsonBase.plist
+t1331370738
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJsonParser.plist
+t1331370743
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist
+t1331370739
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/main.plist
+t1331370738
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/ram6.plist
+t1331370738
+s276
+
+N/Users/venkat/Documents/IndainRailWayPNRStatus/main.m
+c000000004F5AF2FD0000000000000173
+t1331360509
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch.gch
+t1332131002
+s15453392
+
+N/var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch.pth
+t1331370738
+s2784072
+
+N/var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch.gch
+t1331361457
+s15453392
+
+NIndainRailWayPNRStatus-Info.plist
+c000000004F5AF2FD000000000000038D
+t1331360509
+s909
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m
+s353229347.815045
+e353229347.870171
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m
+lSLF07#2@98"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m353229347#353229347#0(0"0(0#0#90"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m8604540576#2377"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/IndainRailWayPNRStatusAppDelegate.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m
+s353229347.870261
+e353229347.934303
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m
+lSLF07#2@101"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m353229347#353229347#0(0"0(0#0#93"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m8606566208#2383"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/IndainRailWayPNRStatusViewController.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m
+s353063538.660692
+e353063538.725567
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m
+lSLF07#2@85"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m353063538#353063538#0(0"0(0#0#77"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m8603547328#2346"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m
+s353063538.722400
+e353063538.787236
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m
+lSLF07#2@85"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m353063538#353063538#0(0"0(0#0#77"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m8616576096#2346"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m
+s353063538.787411
+e353063538.845687
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m
+lSLF07#2@76"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m353063538#353063538#0(0"0(0#0#68"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m8602947104#2328"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJSON.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m
+s353063538.789480
+e353063538.848944
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m
+lSLF07#2@80"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m353063538#353063539#0(0"0(0#0#72"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m8612430112#2336"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJsonBase.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m
+s353063538.845783
+e353063543.779593
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m
+lSLF07#2@82"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m353063538#353063543#0(0"0(0#0#74"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m8611847040#2340"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJsonParser.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m
+s353063538.849039
+e353063539.006087
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m
+lSLF07#2@82"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m353063538#353063539#0(0"0(0#0#74"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m8615623680#2340"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m
+s353063538.725657
+e353063538.789394
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m
+lSLF07#2@74"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m353063538#353063538#0(0"0(0#0#66"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m8615774272#2324"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/ram6.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m
+s353229394.882131
+e353229394.963806
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:34:23: warning: Potential leak of an object allocated on line 34 and stored into 'urlData_'
+o         NSString *urlData_ = [[NSString alloc] initWithContentsOfURL:jsonURL];
+o                              ^
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:112:6:{112:18-112:19}: warning: Although the value stored to 'buttonIndex' is used in the enclosing expression, the value is never actually read from 'buttonIndex'
+o         if (buttonIndex=1) {
+o             ^           ~
+o2 warnings generated.
+lSLF07#2@84"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229394#353229394#0(601"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:34:23: warning: Potential leak of an object allocated on line 34 and stored into 'urlData_'         NSString *urlData_ = [[NSString alloc] initWithContentsOfURL:jsonURL];                              ^/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:112:6:{112:18-112:19}: warning: Although the value stored to 'buttonIndex' is used in the enclosing expression, the value is never actually read from 'buttonIndex'         if (buttonIndex=1) {             ^           ~2 warnings generated.2(0@75"Potential leak of an object allocated on line 34 and stored into 'urlData_'353229394#18446744073709551615#0#7(17@0"353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#0"0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#1(3@6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#29#5#29#5#6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#34#2#34#2#17@0"353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#0"0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#1(3@6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#34#2#34#2#6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#34#23#34#70#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#34#23#0#0#0"1(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#34#23#34#70#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#0"0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#1(3@6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#34#23#34#70#6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#39#2#39#2#17@0"353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#0"0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#1(3@6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#39#2#39#2#6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#49#2#49#2#17@0"353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#0"0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#0#0#0#0#1(3@6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#49#2#49#2#6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#52#5#52#17#21@140"Object allocated on line 34 and stored into 'urlData_' is no longer referenced after this point and has a retain count of +1 (object leaked)353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#52#5#0#0#0"1(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#52#5#52#17#140"Object allocated on line 34 and stored into 'urlData_' is no longer referenced after this point and has a retain count of +1 (object leaked)6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#52#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@131"Although the value stored to 'buttonIndex' is used in the enclosing expression, the value is never actually read from 'buttonIndex'353229394#18446744073709551615#0#1(21@131"Although the value stored to 'buttonIndex' is used in the enclosing expression, the value is never actually read from 'buttonIndex'353229394#18446744073709551615#0#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#112#6#0#0#0"1(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#112#18#112#18#131"Although the value stored to 'buttonIndex' is used in the enclosing expression, the value is never actually read from 'buttonIndex'6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#112#6#0#0#10"Dead store0(22"Dead nested assignment0#0#76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m8614113088#2349"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/PNRStatusDetailView.plist0#
+
+CAnalyze /Users/venkat/Documents/IndainRailWayPNRStatus/main.m
+s353063538.479221
+e353063538.545269
+r1
+xAnalyze
+x/Users/venkat/Documents/IndainRailWayPNRStatus/main.m
+lSLF07#2@61"Analyze /Users/venkat/Documents/IndainRailWayPNRStatus/main.m353063538#353063538#0(0"0(0#0#53"/Users/venkat/Documents/IndainRailWayPNRStatus/main.m8616863840#2311"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch --analyze /Users/venkat/Documents/IndainRailWayPNRStatus/main.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353823781#353823784#0(0"0(0#1#0"5643143792080742400#0"0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823802.331855
+e353823802.750213
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m353823802#353823802#0(0"0(0#0#89"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m8607358688#2357"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353229347.686515
+e353229347.814335
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m353229347#353229347#0(0"0(0#0#90"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m8603883200#2368"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusAppDelegate.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusAppDelegate.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823802.749085
+e353823802.833967
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m353823802#353823802#0(0"0(0#0#92"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m8605953888#2363"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353229347.687613
+e353229347.808297
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m353229347#353229347#0(0"0(0#0#93"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m8603529120#2374"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/IndainRailWayPNRStatusViewController.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatusViewController.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823802.834094
+e353823802.901271
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m353823802#353823802#0(0"0(0#0#76"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m7593460871560393728#2326"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353056198.115805
+e353056198.192408
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m353056198#353056198#0(0"0(0#0#77"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m8615677600#2337"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSObject+SBJSON.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823802.901369
+e353823803.047413
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m353823802#353823803#0(0"0(0#0#76"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m8599620896#2326"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353056198.192505
+e353056198.278732
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m353056198#353056198#0(0"0(0#0#77"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m8617110784#2337"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/NSString+SBJSON.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823802.750295
+e353823802.955022
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m: In function '-[PNRStatusDetailView viewDidLoad]':
+o/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: 'NSDictionary' may not respond to '-objectAtIndex:'
+o/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: (Messages without a matching method signature
+o/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: will be assumed to return 'id' and accept
+o/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: '...' as arguments.)
+o/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:68: warning: 'NSDictionary' may not respond to '-objectAtIndex:'
+lSLF07#2@83"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353823802#353823802#0(785"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m: In function '-[PNRStatusDetailView viewDidLoad]':/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: 'NSDictionary' may not respond to '-objectAtIndex:'/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: (Messages without a matching method signature/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: will be assumed to return 'id' and accept/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: '...' as arguments.)/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:68: warning: 'NSDictionary' may not respond to '-objectAtIndex:'3(22@51"'NSDictionary' may not respond to '-objectAtIndex:'353823802#127#141#0(6@75"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)353823802#268#135#0(6@75"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#67#0#67#0#0"0(22@51"'NSDictionary' may not respond to '-objectAtIndex:'353823802#644#141#0(6@75"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#68#0#68#0#26"'*' may not respond to '*'0(0#0#75"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m8603224512#2329"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353229381.584991
+e353229381.779727
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m: In function '-[PNRStatusDetailView viewDidLoad]':
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: 'NSDictionary' may not respond to '-objectAtIndex:'
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: (Messages without a matching method signature
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: will be assumed to return 'id' and accept
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: '...' as arguments.)
+o/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:68: warning: 'NSDictionary' may not respond to '-objectAtIndex:'
+lSLF07#2@84"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#353229381#0(791"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m: In function '-[PNRStatusDetailView viewDidLoad]':/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: 'NSDictionary' may not respond to '-objectAtIndex:'/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: (Messages without a matching method signature/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: will be assumed to return 'id' and accept/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:67: warning: '...' as arguments.)/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m:68: warning: 'NSDictionary' may not respond to '-objectAtIndex:'3(22@51"'NSDictionary' may not respond to '-objectAtIndex:'353229381#128#142#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)353229381#270#136#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#67#0#67#0#0"0(22@51"'NSDictionary' may not respond to '-objectAtIndex:'353229381#649#142#0(6@76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m353229381#68#0#68#0#26"'*' may not respond to '*'0(0#0#76"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m8615079648#2340"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/PNRStatusDetailView.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823803.047509
+e353823803.153521
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m353823803#353823803#0(0"0(0#0#67"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m8600972192#2308"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353056198.278834
+e353056198.418753
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m353056198#353056198#0(0"0(0#0#68"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m8614014848#2319"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJSON.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823803.127313
+e353823803.222891
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m353823803#353823803#0(0"0(0#0#71"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m8600211424#2316"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353056198.295368
+e353056198.383843
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m353056198#353056198#0(0"0(0#0#72"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m8612310304#2327"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonBase.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823803.153627
+e353823803.327992
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m353823803#353823803#0(0"0(0#0#73"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m8603181312#2320"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353056198.383947
+e353056198.572156
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m353056198#353056198#0(0"0(0#0#74"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m8615409408#2331"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonParser.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823803.222990
+e353823803.328248
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m353823803#353823803#0(0"0(0#0#73"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m8600235072#2320"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353056198.418926
+e353056198.560443
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m353056198#353056198#0(0"0(0#0#74"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m8616843584#2331"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/SBJsonWriter.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823802.330622
+e353823802.748984
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/main.m353823802#353823802#0(0"0(0#0#52"/Users/sandeep/Desktop/IndainRailWayPNRStatus/main.m8602756224#2291"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/main.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o /Users/venkat/Documents/IndainRailWayPNRStatus/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353054257.765391
+e353054257.829879
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/main.m353054257#353054257#0(0"0(0#0#53"/Users/venkat/Documents/IndainRailWayPNRStatus/main.m8613864736#2302"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/main.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/main.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823802.955118
+e353823803.127205
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.m353823802#353823803#0(0"0(0#0#65"/Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.m8606507968#2304"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.m -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o0#
+
+CCompileC build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353056198.204271
+e353056198.295262
+r1
+xCompileC
+xbuild/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m353056198#353056198#0(0"0(0#0#66"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m8616037824#2315"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -include /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch -c /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.m -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/ram6.o0#
+
+CCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/JSON/ram6.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/IndainRailWayPNRStatus/MainWindow.xib
+r0
+
+CCompileXIB /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.xib
+s353056197.114302
+e353056198.052470
+r1
+xCompileXIB
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.xib
+o2012-03-10 12:39:57.992 Interface Builder Cocoa Touch Tool[2886:1b03] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@32"CompileXIB Classes/JSON/ram6.xib353056197#353056198#0(240"2012-03-10 12:39:57.992 Interface Builder Cocoa Touch Tool[2886:1b03] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#68"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.xib28429440806879332#610"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/ram6.nib /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/JSON/ram6.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib
+s353069375.875943
+e353069376.407352
+r1
+xCompileXIB
+x/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib
+o2012-03-10 16:19:36.219 Interface Builder Cocoa Touch Tool[6610:1903] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@42"CompileXIB Classes/PNRStatusDetailView.xib353069375#353069376#0(240"2012-03-10 16:19:36.219 Interface Builder Cocoa Touch Tool[6610:1903] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#78"/Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib8612686176#635"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/PNRStatusDetailView.nib /Users/venkat/Documents/IndainRailWayPNRStatus/Classes/PNRStatusDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib
+s353054710.843596
+e353054711.322869
+r1
+xCompileXIB
+x/Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib
+o2012-03-10 12:15:11.222 Interface Builder Cocoa Touch Tool[2346:1c03] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@51"CompileXIB IndainRailWayPNRStatusViewController.xib353054710#353054711#0(240"2012-03-10 12:15:11.222 Interface Builder Cocoa Touch Tool[2346:1c03] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#87"/Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib8615431520#661"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatusViewController.nib /Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatusViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/venkat/Documents/IndainRailWayPNRStatus/MainWindow.xib
+s353054254.847933
+e353054255.534658
+r1
+xCompileXIB
+x/Users/venkat/Documents/IndainRailWayPNRStatus/MainWindow.xib
+o2012-03-10 12:07:35.396 Interface Builder Cocoa Touch Tool[2206:1903] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib353054254#353054255#0(240"2012-03-10 12:07:35.396 Interface Builder Cocoa Touch Tool[2206:1903] CFPreferences: user home directory at file://localhost/Users/venkat/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#61"/Users/venkat/Documents/IndainRailWayPNRStatus/MainWindow.xib8613931904#609"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/MainWindow.nib /Users/venkat/Documents/IndainRailWayPNRStatus/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+s353823804.927929
+e353823805.379229
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+lSLF07#2@154"GenerateDSYMFile build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus353823804#353823805#0(0"0(0#0#123"/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus8603708992#449"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM0#
+
+CGenerateDSYMFile /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+s353229381.816680
+e353229381.844754
+r1
+xGenerateDSYMFile
+x/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM
+x/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+lSLF07#2@154"GenerateDSYMFile build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus353229381#353229381#0(0"0(0#0#124"/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus8614283232#452"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus normal i386
+s353823803.328316
+e353823804.927728
+r1
+xLd
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+xnormal
+xi386
+lSLF07#2@128"Link /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus353823803#353823804#0(0"0(0#0#0"8603311968#1010"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatus.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus0#
+
+CLd /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus normal i386
+s353229381.779814
+e353229381.816581
+r1
+xLd
+x/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus
+xnormal
+xi386
+lSLF07#2@129"Link /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus353229381#353229381#0(0"0(0#0#0"8613667680#1015"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -filelist /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/Objects-normal/i386/IndainRailWayPNRStatus.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/IndainRailWayPNRStatus0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/Info.plist IndainRailWayPNRStatus-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/Info.plist IndainRailWayPNRStatus-Info.plist
+s353054254.841809
+e353054254.847832
+r1
+xProcessInfoPlistFile
+x/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/Info.plist
+xIndainRailWayPNRStatus-Info.plist
+lSLF07#2@41"Process IndainRailWayPNRStatus-Info.plist353054254#353054254#0(0"0(0#0#80"/Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatus-Info.plist27303446410166376#548"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IndainRailWayPNRStatus-Info.plist -genpkginfo /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch.gch IndainRailWayPNRStatus_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353823784.006029
+e353823802.330439
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch.gch
+xIndainRailWayPNRStatus_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile IndainRailWayPNRStatus_Prefix.pch353823784#353823802#0(0"0(0#0#79"/Users/sandeep/Desktop/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch7811882035318448128#2161"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-dvqnvmgogskbehcetabulyhezbzj/IndainRailWayPNRStatus_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch.pth IndainRailWayPNRStatus_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s353063537.878221
+e353063538.364591
+r1
+xProcessPCH
+x/var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch.pth
+xIndainRailWayPNRStatus_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@44"Precompile IndainRailWayPNRStatus_Prefix.pch353063537#353063538#0(0"0(0#0#80"/Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch8616598464#2162"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -c /Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch -o /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-chtwvlnxclxiwoafcaeyyjlllemm/IndainRailWayPNRStatus_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch.gch IndainRailWayPNRStatus_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353054255.866843
+e353054257.765157
+r1
+xProcessPCH
+x/var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch.gch
+xIndainRailWayPNRStatus_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile IndainRailWayPNRStatus_Prefix.pch353054255#353054257#0(0"0(0#0#80"/Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch8613326688#2171"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-generated-files.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-own-target-headers.hmap -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-all-target-headers.hmap -iquote /Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/IndainRailWayPNRStatus-project-headers.hmap -F/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/include -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources/i386 -I/Users/venkat/Documents/IndainRailWayPNRStatus/build/IndainRailWayPNRStatus.build/Debug-iphonesimulator/IndainRailWayPNRStatus.build/DerivedSources -c /Users/venkat/Documents/IndainRailWayPNRStatus/IndainRailWayPNRStatus_Prefix.pch -o /var/folders/Qe/QegNudMvFBaW6FfIL3qRyE+++Wc/-Caches-/com.apple.Xcode.554/SharedPrecompiledHeaders/IndainRailWayPNRStatus_Prefix-frfckpxzigmjeveehrcrrfafwfzf/IndainRailWayPNRStatus_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app
+s353823805.379348
+e353823805.514324
+r1
+xTouch
+x/Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app
+lSLF07#2@106"Touch /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app353823805#353823805#0(0"0(0#0#0"8607239936#307"    cd /Users/sandeep/Desktop/IndainRailWayPNRStatus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app0#
+
+CTouch /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app
+s353229381.844844
+e353229381.847770
+r1
+xTouch
+x/Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app
+lSLF07#2@107"Touch /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app353229381#353229381#0(0"0(0#0#0"8613887360#309"    cd /Users/venkat/Documents/IndainRailWayPNRStatus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/venkat/Documents/IndainRailWayPNRStatus/build/Debug-iphonesimulator/IndainRailWayPNRStatus.app0#
+

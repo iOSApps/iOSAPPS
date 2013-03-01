@@ -1,0 +1,820 @@
+Tcelladding
+v7
+r0
+t353996833.677038
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/Info.plist" celladding-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/RootViewController.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch.gch celladding_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/RootViewController.h
+c000000004E081B440000000000000240
+t1309154116
+s576
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/RootViewController.m
+c000000004E0836D600000000000017D9
+t1309161174
+s6105
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/celladdingAppDelegate.h
+c000000004E0312D800000000000001D6
+t1308824280
+s470
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/celladdingAppDelegate.m
+c000000004E0312D80000000000000AAD
+t1308824280
+s2733
+i"celladdingAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/MainWindow.xib
+c000000004E0312D80000000000006000
+t1308824280
+s24576
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/RootViewController.xib
+c000000004E0835090000000000003A49
+t1309160713
+s14921
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app
+t1325218724
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM
+t1325218724
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/Info.plist
+t1308824376
+s603
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/MainWindow.nib
+t1308824379
+s1512
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/PkgInfo
+t1308824376
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/RootViewController.nib
+t1309160717
+s764
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding
+t1325218723
+s23256
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+t1325218722
+s52108
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList
+c000000004EFD3B9000000000000001BD
+t1325218704
+s445
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+t1325218721
+s52784
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+t1325218721
+s6324
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/celladding_Prefix.pch
+c000000004E0312D80000000000000146
+t1308824280
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/celladding app/main.m
+c000000004E0312D80000000000000166
+t1308824280
+s358
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.h
+c000000004E081B440000000000000240
+t1309154116
+s576
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.m
+c000000004E0836D600000000000017D9
+t1309161174
+s6105
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.h
+c000000004E0312D800000000000001D6
+t1308824280
+s470
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.m
+c000000004E0312D80000000000000AAD
+t1308824280
+s2733
+i"celladdingAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/MainWindow.xib
+c000000004E0312D80000000000006000
+t1308824280
+s24576
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/RootViewController.xib
+c000000004E0835090000000000003A49
+t1309160713
+s14921
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app
+t1332304033
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM
+t1332304033
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/Info.plist
+t1308824376
+s603
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/MainWindow.nib
+t1308824379
+s1512
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/PkgInfo
+t1308824376
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/RootViewController.nib
+t1309160717
+s764
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding
+t1332304033
+s23356
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+t1332304031
+s52144
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList
+c000000004F69589B00000000000001F0
+t1332304027
+s496
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+t1332304031
+s52820
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+t1332304031
+s6356
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/celladding_Prefix.pch
+c000000004E0312D80000000000000146
+t1308824280
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/main.m
+c000000004E0312D80000000000000166
+t1308824280
+s358
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/celladding/Classes/RootViewController.h
+c000000004E081B440000000000000240
+t1309154116
+s576
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/celladding/Classes/RootViewController.m
+c000000004E0836D600000000000017D9
+t1309161174
+s6105
+i"RootViewController.h"
+
+N/Users/sandeep/NO NAME/Programs/celladding/Classes/celladdingAppDelegate.h
+c000000004E0312D800000000000001D6
+t1308824280
+s470
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/celladding/Classes/celladdingAppDelegate.m
+c000000004E0312D80000000000000AAD
+t1308824280
+s2733
+i"celladdingAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/sandeep/NO NAME/Programs/celladding/MainWindow.xib
+c000000004E0312D80000000000006000
+t1308824280
+s24576
+
+N/Users/sandeep/NO NAME/Programs/celladding/RootViewController.xib
+c000000004E0835090000000000003A49
+t1309160713
+s14921
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app
+t1322806257
+s238
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app.dSYM
+t1322806256
+s102
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/Info.plist
+t1308824376
+s603
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/MainWindow.nib
+t1308824379
+s1512
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/PkgInfo
+t1308824376
+s8
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/RootViewController.nib
+t1309160717
+s764
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding
+t1322806254
+s23220
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+t1322806247
+s52096
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList
+c000000004ED86BC500000000000001AB
+t1322806213
+s427
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+t1322806239
+s52772
+
+N/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+t1322806239
+s6312
+
+N/Users/sandeep/NO NAME/Programs/celladding/celladding_Prefix.pch
+c000000004E0312D80000000000000146
+t1308824280
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/celladding/main.m
+c000000004E0312D80000000000000166
+t1308824280
+s358
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Documents/celladding/Classes/RootViewController.h
+c000000004E081B440000000000000240
+t1309154116
+s576
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Documents/celladding/Classes/RootViewController.m
+c000000004E0836D600000000000017D9
+t1309161174
+s6105
+i"RootViewController.h"
+
+N/Users/suhas/Documents/celladding/Classes/celladdingAppDelegate.h
+c000000004E0312D800000000000001D6
+t1308824280
+s470
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Documents/celladding/Classes/celladdingAppDelegate.m
+c000000004E0312D80000000000000AAD
+t1308824280
+s2733
+i"celladdingAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/suhas/Documents/celladding/MainWindow.xib
+c000000004E0312D80000000000006000
+t1308824280
+s24576
+
+N/Users/suhas/Documents/celladding/RootViewController.xib
+c000000004E0835090000000000003A49
+t1309160713
+s14921
+
+N/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app
+t1309161176
+s238
+
+N/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app.dSYM
+t1309161176
+s102
+
+N/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/Info.plist
+t1308824376
+s603
+
+N/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/MainWindow.nib
+t1308824379
+s1512
+
+N/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/PkgInfo
+t1308824376
+s8
+
+N/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/RootViewController.nib
+t1309160717
+s764
+
+N/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding
+t1309161176
+s23164
+
+N/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+t1309161176
+s52080
+
+N/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList
+c000000004E0313380000000000000190
+t1308824376
+s400
+
+N/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+t1309154117
+s52756
+
+N/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+t1308824382
+s6292
+
+N/Users/suhas/Documents/celladding/celladding_Prefix.pch
+c000000004E0312D80000000000000146
+t1308824280
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/suhas/Documents/celladding/main.m
+c000000004E0312D80000000000000166
+t1308824280
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch.gch
+t1332304030
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-esfomxlczujhvrbtgvptyrbqkfgd/celladding_Prefix.pch.gch
+t1322806236
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-gdndwoheayycftcvpmaqvbyuwelx/celladding_Prefix.pch.gch
+t1325218721
+s15453392
+
+N/var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/celladding_Prefix-duwvcbymtcmsctgbigwtpzqbrzls/celladding_Prefix.pch.gch
+t1308824381
+s15453392
+
+Ncelladding-Info.plist
+c000000004E0312D8000000000000038D
+t1308824280
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353996827#353996827#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s346911521.858537
+e346911522.016437
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/RootViewController.m346911521#346911522#0(0"0(0#0#77"/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/RootViewController.m8603047104#2142"    cd "/Users/sandeep/Desktop/sandeeprdy/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-gdndwoheayycftcvpmaqvbyuwelx/celladding_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/RootViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353996831.621550
+e353996831.853303
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.m353996831#353996831#0(0"0(0#0#94"/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.m8603278816#2329"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/RootViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o "/Users/sandeep/NO NAME/Programs/celladding/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499039.756152
+e344499047.286314
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+x/Users/sandeep/NO NAME/Programs/celladding/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sandeep/NO NAME/Programs/celladding/Classes/RootViewController.m344499039#344499052#0(0"0(0#0#71"/Users/sandeep/NO NAME/Programs/celladding/Classes/RootViewController.m8601820960#2076"    cd "/Users/sandeep/NO NAME/Programs/celladding"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-esfomxlczujhvrbtgvptyrbqkfgd/celladding_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/celladding/Classes/RootViewController.m" -o "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o /Users/suhas/Documents/celladding/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330853976.707651
+e330853976.901276
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o
+x/Users/suhas/Documents/celladding/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/suhas/Documents/celladding/Classes/RootViewController.m330853976#330853976#0(0"0(0#0#62"/Users/suhas/Documents/celladding/Classes/RootViewController.m8610697536#1955"    cd /Users/suhas/Documents/celladding    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap -F/Users/suhas/Documents/celladding/build/Debug-iphonesimulator -I/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/include -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386 -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources -include /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/celladding_Prefix-duwvcbymtcmsctgbigwtpzqbrzls/celladding_Prefix.pch -c /Users/suhas/Documents/celladding/Classes/RootViewController.m -o /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/celladdingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s346911521.510431
+e346911521.873846
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/celladdingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/celladdingAppDelegate.m346911521#346911521#0(0"0(0#0#80"/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/celladdingAppDelegate.m8601806272#2148"    cd "/Users/sandeep/Desktop/sandeeprdy/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-gdndwoheayycftcvpmaqvbyuwelx/celladding_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/celladding app/Classes/celladdingAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353996831.358998
+e353996831.659447
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.m353996831#353996831#0(0"0(0#0#97"/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.m8603561408#2335"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/Classes/celladdingAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o "/Users/sandeep/NO NAME/Programs/celladding/Classes/celladdingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499038.465515
+e344499039.981069
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+x/Users/sandeep/NO NAME/Programs/celladding/Classes/celladdingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/sandeep/NO NAME/Programs/celladding/Classes/celladdingAppDelegate.m344499038#344499039#0(0"0(0#0#74"/Users/sandeep/NO NAME/Programs/celladding/Classes/celladdingAppDelegate.m8600203744#2082"    cd "/Users/sandeep/NO NAME/Programs/celladding"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-esfomxlczujhvrbtgvptyrbqkfgd/celladding_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/celladding/Classes/celladdingAppDelegate.m" -o "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o /Users/suhas/Documents/celladding/Classes/celladdingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330846917.108973
+e330846917.371758
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o
+x/Users/suhas/Documents/celladding/Classes/celladdingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/suhas/Documents/celladding/Classes/celladdingAppDelegate.m330846917#330846917#0(0"0(0#0#65"/Users/suhas/Documents/celladding/Classes/celladdingAppDelegate.m8612045856#1961"    cd /Users/suhas/Documents/celladding    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap -F/Users/suhas/Documents/celladding/build/Debug-iphonesimulator -I/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/include -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386 -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources -include /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/celladding_Prefix-duwvcbymtcmsctgbigwtpzqbrzls/celladding_Prefix.pch -c /Users/suhas/Documents/celladding/Classes/celladdingAppDelegate.m -o /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladdingAppDelegate.o0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/celladding app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s346911521.509172
+e346911521.858446
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/celladding app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Desktop/sandeeprdy/celladding app/main.m346911521#346911521#0(0"0(0#0#55"/Users/sandeep/Desktop/sandeeprdy/celladding app/main.m8602942080#2106"    cd "/Users/sandeep/Desktop/sandeeprdy/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-gdndwoheayycftcvpmaqvbyuwelx/celladding_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/celladding app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353996831.357844
+e353996831.621448
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/main.m353996831#353996831#0(0"0(0#0#72"/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/main.m8604247328#2293"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o "/Users/sandeep/NO NAME/Programs/celladding/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499038.461831
+e344499039.756053
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+x/Users/sandeep/NO NAME/Programs/celladding/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/sandeep/NO NAME/Programs/celladding/main.m344499038#344499039#0(0"0(0#0#49"/Users/sandeep/NO NAME/Programs/celladding/main.m8606660864#2040"    cd "/Users/sandeep/NO NAME/Programs/celladding"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-esfomxlczujhvrbtgvptyrbqkfgd/celladding_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/celladding/main.m" -o "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o /Users/suhas/Documents/celladding/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330517182.119967
+e330517182.226546
+r1
+xCompileC
+xbuild/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o
+x/Users/suhas/Documents/celladding/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/suhas/Documents/celladding/main.m330517182#330517182#0(0"0(0#0#40"/Users/suhas/Documents/celladding/main.m8604601120#1919"    cd /Users/suhas/Documents/celladding    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap -F/Users/suhas/Documents/celladding/build/Debug-iphonesimulator -I/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/include -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386 -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources -include /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/celladding_Prefix-duwvcbymtcmsctgbigwtpzqbrzls/celladding_Prefix.pch -c /Users/suhas/Documents/celladding/main.m -o /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/celladding app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/celladding app/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/NO NAME/Programs/celladding/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/NO NAME/Programs/celladding/RootViewController.xib"
+r0
+
+CCompileXIB /Users/suhas/Documents/celladding/MainWindow.xib
+s330517176.461903
+e330517179.806737
+r1
+xCompileXIB
+x/Users/suhas/Documents/celladding/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330517176#330517179#0(0"0(0#0#48"/Users/suhas/Documents/celladding/MainWindow.xib8604043328#558"    cd /Users/suhas/Documents/celladding    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/MainWindow.nib /Users/suhas/Documents/celladding/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/suhas/Documents/celladding/RootViewController.xib
+s330853517.347535
+e330853517.793755
+r1
+xCompileXIB
+x/Users/suhas/Documents/celladding/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib330853517#330853517#0(0"0(0#0#56"/Users/suhas/Documents/celladding/RootViewController.xib8612946208#574"    cd /Users/suhas/Documents/celladding    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/RootViewController.nib /Users/suhas/Documents/celladding/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding"
+s346911524.022894
+e346911524.844954
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/celladding.app.dSYM build/Debug-iphonesimulator/celladding.app/celladding346911524#346911524#0(0"0(0#0#102"/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding8604388512#428"    cd "/Users/sandeep/Desktop/sandeeprdy/celladding app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding" -o "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding"
+s353996833.074864
+e353996833.598927
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/celladding.app.dSYM build/Debug-iphonesimulator/celladding.app/celladding353996833#353996833#0(0"0(0#0#119"/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding8603541248#479"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app.dSYM" "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding"
+s344499056.198331
+e344499057.317992
+r1
+xGenerateDSYMFile
+x/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app.dSYM
+x/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/celladding.app.dSYM build/Debug-iphonesimulator/celladding.app/celladding344499056#344499057#0(0"0(0#0#96"/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding8608547680#410"    cd "/Users/sandeep/NO NAME/Programs/celladding"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding" -o "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app.dSYM"0#
+
+CGenerateDSYMFile /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app.dSYM /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding
+s330853976.934646
+e330853976.954189
+r1
+xGenerateDSYMFile
+x/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app.dSYM
+x/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/celladding.app.dSYM build/Debug-iphonesimulator/celladding.app/celladding330853976#330853976#0(0"0(0#0#87"/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding8611882432#377"    cd /Users/suhas/Documents/celladding    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding -o /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding" normal i386
+s346911522.016546
+e346911524.022707
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding
+xnormal
+xi386
+lSLF07#2@107"Link /Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding346911522#346911524#0(0"0(0#0#0"8601007648#975"    cd "/Users/sandeep/Desktop/sandeeprdy/celladding app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/celladding"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding" normal i386
+s353996831.853406
+e353996833.074644
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding
+xnormal
+xi386
+lSLF07#2@124"Link /Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding353996831#353996833#0(0"0(0#0#0"8601260544#1060"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/celladding"0#
+
+CLd "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding" normal i386
+s344499047.286572
+e344499056.198164
+r1
+xLd
+x/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding
+xnormal
+xi386
+lSLF07#2@101"Link /Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding344499047#344499056#0(0"0(0#0#0"8599418112#945"    cd "/Users/sandeep/NO NAME/Programs/celladding"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator" "-F/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator" -filelist "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/celladding"0#
+
+CLd /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding normal i386
+s330853976.901361
+e330853976.934548
+r1
+xLd
+x/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding
+xnormal
+xi386
+lSLF07#2@92"Link /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding330853976#330853976#0(0"0(0#0#0"8612261024#890"    cd /Users/suhas/Documents/celladding    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/suhas/Documents/celladding/build/Debug-iphonesimulator -F/Users/suhas/Documents/celladding/build/Debug-iphonesimulator -filelist /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/Objects-normal/i386/celladding.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/celladding0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app/Info.plist" celladding-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app/Info.plist" celladding-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app/Info.plist" celladding-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/Info.plist celladding-Info.plist
+s330517176.422706
+e330517176.461806
+r1
+xProcessInfoPlistFile
+x/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/Info.plist
+xcelladding-Info.plist
+lSLF07#2@29"Process celladding-Info.plist330517176#330517176#0(0"0(0#0#55"/Users/suhas/Documents/celladding/celladding-Info.plist8602766592#473"    cd /Users/suhas/Documents/celladding    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility celladding-Info.plist -genpkginfo /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch.gch celladding_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353996827.559557
+e353996831.357649
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch.gch
+xcelladding_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile celladding_Prefix.pch353996827#353996831#0(0"0(0#0#87"/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/celladding_Prefix.pch7453010313246501888#2153"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/celladding_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-byhrdmlxzqmfgabmgwxqcoixfesf/celladding_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-esfomxlczujhvrbtgvptyrbqkfgd/celladding_Prefix.pch.gch celladding_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344499013.476822
+e344499038.461659
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-esfomxlczujhvrbtgvptyrbqkfgd/celladding_Prefix.pch.gch
+xcelladding_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile celladding_Prefix.pch344499013#344499038#0(0"0(0#0#64"/Users/sandeep/NO NAME/Programs/celladding/celladding_Prefix.pch8602304832#1923"    cd "/Users/sandeep/NO NAME/Programs/celladding"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -c "/Users/sandeep/NO NAME/Programs/celladding/celladding_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-esfomxlczujhvrbtgvptyrbqkfgd/celladding_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-gdndwoheayycftcvpmaqvbyuwelx/celladding_Prefix.pch.gch celladding_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s346911504.895954
+e346911521.508934
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-gdndwoheayycftcvpmaqvbyuwelx/celladding_Prefix.pch.gch
+xcelladding_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile celladding_Prefix.pch346911505#346911521#0(0"0(0#0#70"/Users/sandeep/Desktop/sandeeprdy/celladding app/celladding_Prefix.pch7453010313246501888#1983"    cd "/Users/sandeep/Desktop/sandeeprdy/celladding app"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/celladding app/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/celladding app/celladding_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/celladding_Prefix-gdndwoheayycftcvpmaqvbyuwelx/celladding_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/celladding_Prefix-duwvcbymtcmsctgbigwtpzqbrzls/celladding_Prefix.pch.gch celladding_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330517179.806857
+e330517182.119835
+r1
+xProcessPCH
+x/var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/celladding_Prefix-duwvcbymtcmsctgbigwtpzqbrzls/celladding_Prefix.pch.gch
+xcelladding_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile celladding_Prefix.pch330517179#330517182#0(0"0(0#0#55"/Users/suhas/Documents/celladding/celladding_Prefix.pch8616667808#1813"    cd /Users/suhas/Documents/celladding    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-generated-files.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-own-target-headers.hmap -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-all-target-headers.hmap -iquote /Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/celladding-project-headers.hmap -F/Users/suhas/Documents/celladding/build/Debug-iphonesimulator -I/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/include -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources/i386 -I/Users/suhas/Documents/celladding/build/celladding.build/Debug-iphonesimulator/celladding.build/DerivedSources -c /Users/suhas/Documents/celladding/celladding_Prefix.pch -o /var/folders/P2/P2fXaxbvGdygfWNNilnR3k+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/celladding_Prefix-duwvcbymtcmsctgbigwtpzqbrzls/celladding_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app"
+s346911524.845055
+e346911524.895665
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app
+lSLF07#2@97"Touch /Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app346911524#346911524#0(0"0(0#0#0"8601556960#305"    cd "/Users/sandeep/Desktop/sandeeprdy/celladding app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/celladding app/build/Debug-iphonesimulator/celladding.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app"
+s353996833.599048
+e353996833.676959
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app
+lSLF07#2@114"Touch /Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app353996833#353996833#0(0"0(0#0#0"8602992608#339"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/celladding app/build/Debug-iphonesimulator/celladding.app"0#
+
+CTouch "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app"
+s344499057.318406
+e344499057.335628
+r1
+xTouch
+x/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app
+lSLF07#2@91"Touch /Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app344499057#344499057#0(0"0(0#0#0"8603699968#293"    cd "/Users/sandeep/NO NAME/Programs/celladding"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/NO NAME/Programs/celladding/build/Debug-iphonesimulator/celladding.app"0#
+
+CTouch /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app
+s330853976.954277
+e330853976.965023
+r1
+xTouch
+x/Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app
+lSLF07#2@82"Touch /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app330853976#330853976#0(0"0(0#0#0"8611295872#271"    cd /Users/suhas/Documents/celladding    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/suhas/Documents/celladding/build/Debug-iphonesimulator/celladding.app0#
+

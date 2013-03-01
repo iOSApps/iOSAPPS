@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '007-save' target in the '007-save' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

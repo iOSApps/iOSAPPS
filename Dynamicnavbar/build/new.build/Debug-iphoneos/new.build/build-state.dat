@@ -1,0 +1,497 @@
+Tnew
+v7
+r0
+t353044855.488573
+cCheck dependencies
+cCpResource build/Debug-iphoneos/new.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/Info.plist new-Info.plist
+cCompileXIB /Users/sandeep/Desktop/new/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/new/newViewController.xib
+cCompileXIB /Users/sandeep/Desktop/new/Classes/hi.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch.gch new_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch.gch new_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/main.o /Users/sandeep/Desktop/new/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newAppDelegate.o /Users/sandeep/Desktop/new/Classes/newAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newViewController.o /Users/sandeep/Desktop/new/Classes/newViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/hi.o /Users/sandeep/Desktop/new/Classes/hi.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/main.o /Users/sandeep/Desktop/new/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new normal armv6
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newAppDelegate.o /Users/sandeep/Desktop/new/Classes/newAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newViewController.o /Users/sandeep/Desktop/new/Classes/newViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/hi.o /Users/sandeep/Desktop/new/Classes/hi.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new normal armv7
+cCreateUniversalBinary /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new normal "armv6 armv7"
+cGenerateDSYMFile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app.dSYM /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new
+cProcessProductPackaging "/Users/sandeep/Library/MobileDevice/Provisioning Profiles/C18C91E2-76CF-458C-8E24-586379004DEB.mobileprovision" /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/embedded.mobileprovision
+cTouch /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new.xcent
+cCodeSign /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/sandeep/Desktop/new/Classes/hi.h
+c000000004EFC663700000000000000C0
+t1325164087
+s192
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/Classes/hi.m
+c000000004EFD5F5B00000000000007B9
+t1325227867
+s1977
+i"hi.h"
+
+N/Users/sandeep/Desktop/new/Classes/hi.xib
+c000000004EFC66380000000000001841
+t1325164088
+s6209
+
+N/Users/sandeep/Desktop/new/Classes/newAppDelegate.h
+c000000004EFC31C100000000000001C3
+t1325150657
+s451
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/Classes/newAppDelegate.m
+c000000004EFC31C10000000000000A7D
+t1325150657
+s2685
+i"newAppDelegate.h"
+i"newViewController.h"
+
+N/Users/sandeep/Desktop/new/Classes/newViewController.h
+c000000004EFC61FE00000000000001B3
+t1325163006
+s435
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/Classes/newViewController.m
+c000000004EFC6DCF00000000000011D0
+t1325166031
+s4560
+i"newViewController.h"
+i"hi.h"
+
+N/Users/sandeep/Desktop/new/MainWindow.xib
+c000000004EFC31C10000000000004DF9
+t1325150657
+s19961
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app
+t1331352055
+s408
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app.dSYM
+t1331352045
+s102
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/Info.plist
+t1325847150
+s765
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/MainWindow.nib
+t1325847151
+s1115
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/PkgInfo
+t1325847150
+s8
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/ResourceRules.plist
+t1325847150
+s485
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/embedded.mobileprovision
+t1325847160
+s7349
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/hi.nib
+t1325847152
+s764
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new
+t1331352045
+s52924
+
+N/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/newViewController.nib
+t1325847151
+s1204
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/hi.o
+t1331352044
+s41476
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/main.o
+t1331352044
+s6424
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new
+t1331352045
+s24252
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new.LinkFileList
+c000000004F06D26E0000000000000195
+t1325847150
+s405
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newAppDelegate.o
+t1331352044
+s50364
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newViewController.o
+t1331352044
+s54728
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/hi.o
+t1331352044
+s41340
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/main.o
+t1331352044
+s6408
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new
+t1331352045
+s24252
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new.LinkFileList
+c000000004F06D26E0000000000000195
+t1325847150
+s405
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newAppDelegate.o
+t1331352044
+s50280
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newViewController.o
+t1331352044
+s54408
+
+N/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new.xcent
+t1325847160
+s412
+
+N/Users/sandeep/Desktop/new/main.m
+c000000004EFC31C10000000000000161
+t1325150657
+s353
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/new/newViewController.xib
+c000000004EFC454D0000000000004F7A
+t1325155661
+s20346
+
+N/Users/sandeep/Desktop/new/new_Prefix.pch
+c000000004EFC31C100000000000000AF
+t1325150657
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Library/MobileDevice/Provisioning Profiles/C18C91E2-76CF-458C-8E24-586379004DEB.mobileprovision
+c000000004F06D2510000000000001CB5
+t1325847121
+s7349
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch.gch
+t1331352044
+s9983704
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch.gch
+t1331352043
+s10446552
+
+Nnew-Info.plist
+c000000004EFC31C1000000000000038D
+t1325150657
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353044841#353044841#0(0"0(0#1#0"8608971104#0"0#
+
+CCodeSign /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app
+s353044845.400625
+e353044855.488474
+r0
+xCodeSign
+x/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app
+o/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app: The operation was cancelled by the user.
+lSLF07#2@37"CodeSign build/Debug-iphoneos/new.app353044845#353044855#0(148"/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app: The operation was cancelled by the user.Command /usr/bin/codesign failed with exit code 11(4@49"Command /usr/bin/codesign failed with exit code 1353044855#18446744073709551615#0#0(1@0"0(0#0#55"/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app8604192384#579"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Ambuj Kumar (6JTR23AU9Z)" --resource-rules=/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/ResourceRules.plist --entitlements /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new.xcent /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app1#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/hi.o /Users/sandeep/Desktop/new/Classes/hi.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s353044844.397882
+e353044844.488681
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/hi.o
+x/Users/sandeep/Desktop/new/Classes/hi.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/sandeep/Desktop/new/Classes/hi.m353044844#353044844#0(0"0(0#0#39"/Users/sandeep/Desktop/new/Classes/hi.m8607683264#1516"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv6 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/hi.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/hi.o0#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/main.o /Users/sandeep/Desktop/new/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s353044844.226398
+e353044844.387942
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/main.o
+x/Users/sandeep/Desktop/new/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/sandeep/Desktop/new/main.m353044844#353044844#0(0"0(0#0#33"/Users/sandeep/Desktop/new/main.m8606659360#1512"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv6 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch -c /Users/sandeep/Desktop/new/main.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newAppDelegate.o /Users/sandeep/Desktop/new/Classes/newAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s353044844.227838
+e353044844.397784
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newAppDelegate.o
+x/Users/sandeep/Desktop/new/Classes/newAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sandeep/Desktop/new/Classes/newAppDelegate.m353044844#353044844#0(0"0(0#0#51"/Users/sandeep/Desktop/new/Classes/newAppDelegate.m8609114528#1540"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv6 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/newAppDelegate.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newAppDelegate.o0#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newViewController.o /Users/sandeep/Desktop/new/Classes/newViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s353044844.388037
+e353044844.487459
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newViewController.o
+x/Users/sandeep/Desktop/new/Classes/newViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sandeep/Desktop/new/Classes/newViewController.m353044844#353044844#0(0"0(0#0#54"/Users/sandeep/Desktop/new/Classes/newViewController.m8608103200#1546"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv6 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/newViewController.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/newViewController.o0#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/hi.o /Users/sandeep/Desktop/new/Classes/hi.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s353044844.753207
+e353044844.821513
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/hi.o
+x/Users/sandeep/Desktop/new/Classes/hi.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/sandeep/Desktop/new/Classes/hi.m353044844#353044844#0(0"0(0#0#39"/Users/sandeep/Desktop/new/Classes/hi.m8608327168#1516"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv7 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/hi.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/hi.o0#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/main.o /Users/sandeep/Desktop/new/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s353044844.487566
+e353044844.544915
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/main.o
+x/Users/sandeep/Desktop/new/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/sandeep/Desktop/new/main.m353044844#353044844#0(0"0(0#0#33"/Users/sandeep/Desktop/new/main.m8607459328#1512"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv7 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch -c /Users/sandeep/Desktop/new/main.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newAppDelegate.o /Users/sandeep/Desktop/new/Classes/newAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s353044844.545015
+e353044844.655590
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newAppDelegate.o
+x/Users/sandeep/Desktop/new/Classes/newAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sandeep/Desktop/new/Classes/newAppDelegate.m353044844#353044844#0(0"0(0#0#51"/Users/sandeep/Desktop/new/Classes/newAppDelegate.m8605904320#1540"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv7 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/newAppDelegate.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newAppDelegate.o0#
+
+CCompileC build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newViewController.o /Users/sandeep/Desktop/new/Classes/newViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s353044844.655690
+e353044844.753111
+r1
+xCompileC
+xbuild/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newViewController.o
+x/Users/sandeep/Desktop/new/Classes/newViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sandeep/Desktop/new/Classes/newViewController.m353044844#353044844#0(0"0(0#0#54"/Users/sandeep/Desktop/new/Classes/newViewController.m8604301952#1546"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv7 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch -c /Users/sandeep/Desktop/new/Classes/newViewController.m -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/newViewController.o0#
+
+CCompileXIB /Users/sandeep/Desktop/new/Classes/hi.xib
+s347539951.717405
+e347539952.729081
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/new/Classes/hi.xib
+lSLF07#2@25"CompileXIB Classes/hi.xib347539951#347539952#0(0"0(0#0#41"/Users/sandeep/Desktop/new/Classes/hi.xib8603234496#494"    cd /Users/sandeep/Desktop/new    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/hi.nib /Users/sandeep/Desktop/new/Classes/hi.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/new/MainWindow.xib
+s347539950.184077
+e347539951.717265
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/new/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib347539950#347539951#0(0"0(0#0#41"/Users/sandeep/Desktop/new/MainWindow.xib8603750624#502"    cd /Users/sandeep/Desktop/new    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/MainWindow.nib /Users/sandeep/Desktop/new/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/new/newViewController.xib
+s347539950.189898
+e347539951.775217
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/new/newViewController.xib
+lSLF07#2@32"CompileXIB newViewController.xib347539950#347539951#0(0"0(0#0#48"/Users/sandeep/Desktop/new/newViewController.xib8603010816#516"    cd /Users/sandeep/Desktop/new    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/newViewController.nib /Users/sandeep/Desktop/new/newViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/new.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s347539950.124088
+e347539950.183966
+r1
+xCpResource
+xbuild/Debug-iphoneos/new.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist347539950#347539950#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist7957693761158345728#466"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app0#
+
+CCreateUniversalBinary /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new normal "armv6 armv7"
+s353044845.161455
+e353044845.220119
+r1
+xCreateUniversalBinary
+x/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new
+xnormal
+xarmv6 armv7
+lSLF07#2@75"CreateUniversalBinary build/Debug-iphoneos/new.app/new normal "armv6 armv7"353044845#353044845#0(0"0(0#0#38"/Users/sandeep/Desktop/new/armv6 armv78607609120#438"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new -output /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app.dSYM /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new
+s353044845.220231
+e353044845.367037
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app.dSYM
+x/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new
+lSLF07#2@83"GenerateDSYMFile build/Debug-iphoneos/new.app.dSYM build/Debug-iphoneos/new.app/new353044845#353044845#0(0"0(0#0#59"/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new8607450528#314"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/new -o /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new normal armv6
+s353044844.488750
+e353044845.130206
+r1
+xLd
+x/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new
+xnormal
+xarmv6
+lSLF07#2@97"Link /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new353044844#353044845#0(0"0(0#0#0"8606931456#775"    cd /Users/sandeep/Desktop/new    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/sandeep/Desktop/new/build/Debug-iphoneos -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -filelist /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv6/new0#
+
+CLd /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new normal armv7
+s353044844.821602
+e353044845.161358
+r1
+xLd
+x/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new
+xnormal
+xarmv7
+lSLF07#2@97"Link /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new353044844#353044845#0(0"0(0#0#0"8608243968#775"    cd /Users/sandeep/Desktop/new    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/sandeep/Desktop/new/build/Debug-iphoneos -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -filelist /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/Objects-normal/armv7/new0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/Info.plist new-Info.plist
+s347539950.133798
+e347539950.179872
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/Info.plist
+xnew-Info.plist
+lSLF07#2@22"Process new-Info.plist347539950#347539950#0(0"0(0#0#41"/Users/sandeep/Desktop/new/new-Info.plist8603858368#498"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility new-Info.plist -genpkginfo /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/ResourceRules.plist -o /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch.gch new_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s353044841.461842
+e353044844.226293
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch.gch
+xnew_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile new_Prefix.pch353044841#353044844#0(0"0(0#0#41"/Users/sandeep/Desktop/new/new_Prefix.pch8608498688#1426"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv6 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -c /Users/sandeep/Desktop/new/new_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-cxrcatbriubhckdgkdjimqajooqf/new_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch.gch new_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s353044841.462716
+e353044843.773900
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch.gch
+xnew_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile new_Prefix.pch353044841#353044843#0(0"0(0#0#41"/Users/sandeep/Desktop/new/new_Prefix.pch8608360704#1426"    cd /Users/sandeep/Desktop/new    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-generated-files.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-own-target-headers.hmap -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-all-target-headers.hmap -iquote /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new-project-headers.hmap -F/Users/sandeep/Desktop/new/build/Debug-iphoneos -I/Users/sandeep/Desktop/new/build/Debug-iphoneos/include -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources/armv7 -I/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/DerivedSources -c /Users/sandeep/Desktop/new/new_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/new_Prefix-epyylbbswymqrhewekedjbqwhypt/new_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/sandeep/Library/MobileDevice/Provisioning Profiles/C18C91E2-76CF-458C-8E24-586379004DEB.mobileprovision" /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/embedded.mobileprovision
+s347539960.078575
+e347539960.113602
+r1
+xProcessProductPackaging
+x/Users/sandeep/Library/MobileDevice/Provisioning Profiles/C18C91E2-76CF-458C-8E24-586379004DEB.mobileprovision
+x/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/embedded.mobileprovision
+lSLF07#2@190"ProcessProductPackaging "/Users/sandeep/Library/MobileDevice/Provisioning Profiles/C18C91E2-76CF-458C-8E24-586379004DEB.mobileprovision" build/Debug-iphoneos/new.app/embedded.mobileprovision347539960#347539960#0(0"0(0#0#80"/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/embedded.mobileprovision8603881152#397"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sandeep/Library/MobileDevice/Provisioning Profiles/C18C91E2-76CF-458C-8E24-586379004DEB.mobileprovision" -o /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new.xcent
+s347539960.122163
+e347539960.142870
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new.xcent
+lSLF07#2@163"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/new.build/Debug-iphoneos/new.build/new.xcent347539960#347539960#0(0"0(0#0#77"/Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new.xcent8602981344#396"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/sandeep/Desktop/new/build/new.build/Debug-iphoneos/new.build/new.xcent0#
+
+CTouch /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app
+s353044845.367330
+e353044845.400300
+r1
+xTouch
+x/Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app
+lSLF07#2@61"Touch /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app353044845#353044845#0(0"0(0#0#0"8606078976#236"    cd /Users/sandeep/Desktop/new    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/new/build/Debug-iphoneos/new.app0#
+

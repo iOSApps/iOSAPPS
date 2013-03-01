@@ -1,0 +1,294 @@
+TCurlImage
+v7
+r0
+t354514941.144757
+cCheck dependencies
+cProcessInfoPlistFile /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/Info.plist CurlImage-Info.plist
+cCompileXIB /Users/vanita/Downloads/CurlImage/MainWindow.xib
+cCompileXIB /Users/vanita/Downloads/CurlImage/CurlImageViewController.xib
+cCpResource build/Debug-iphonesimulator/CurlImage.app/Screen1.jpg Screen1.jpg
+cCpResource build/Debug-iphonesimulator/CurlImage.app/Wonder.jpg Wonder.jpg
+cProcessPCH /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch.gch CurlImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/main.o /Users/vanita/Downloads/CurlImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageAppDelegate.o /Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageViewController.o /Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage normal i386
+cGenerateDSYMFile /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app.dSYM /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage
+cTouch /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.h
+c000000004AB8AC5F00000000000001E5
+t1253616735
+s485
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.m
+c000000004AB8AC5F000000000000026E
+t1253616735
+s622
+i"CurlImageAppDelegate.h"
+i"CurlImageViewController.h"
+
+N/Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.h
+c000000004AC1E6DD00000000000001FF
+t1254221533
+s511
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.m
+c000000004AC1E73E0000000000000BE2
+t1254221630
+s3042
+i"CurlImageViewController.h"
+
+N/Users/vanita/Downloads/CurlImage/CurlImageViewController.xib
+c000000004AB8AE7B00000000000024F5
+t1253617275
+s9461
+
+N/Users/vanita/Downloads/CurlImage/CurlImage_Prefix.pch
+c000000004AB8AC5F00000000000000BB
+t1253616735
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Downloads/CurlImage/MainWindow.xib
+c000000004AB8AC5F000000000000242B
+t1253616735
+s9259
+
+N/Users/vanita/Downloads/CurlImage/Screen1.jpg
+c000000004AB8AEDF0000000000000F12
+t1253617375
+s3858
+
+N/Users/vanita/Downloads/CurlImage/Wonder.jpg
+c000000004AB8ADE00000000000000E63
+t1253617120
+s3683
+
+N/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImage.LinkFileList
+c000000004F71407B000000000000018E
+t1332822139
+s398
+
+N/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageAppDelegate.o
+t1332822140
+s48744
+
+N/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageViewController.o
+t1332822141
+s48504
+
+N/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/main.o
+t1332822140
+s6396
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app
+t1332822141
+s306
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app.dSYM
+t1332822141
+s102
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage
+t1332822141
+s22240
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImageViewController.nib
+t1332822139
+s1162
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/Info.plist
+t1332822139
+s599
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/MainWindow.nib
+t1332822139
+s1103
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/PkgInfo
+t1332822139
+s8
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/Screen1.jpg
+t1332822139
+s3858
+
+N/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/Wonder.jpg
+t1332822139
+s3683
+
+N/Users/vanita/Downloads/CurlImage/main.m
+c000000004AB8AC5F0000000000000165
+t1253616735
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch.gch
+t1332822140
+s15461584
+
+NCurlImage-Info.plist
+c000000004AB8AC5F000000000000038D
+t1253616735
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354514939#354514939#0(0"0(0#1#0"8608033312#0"0#
+
+CCompileC build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageAppDelegate.o /Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354514940.809833
+e354514940.931130
+r1
+xCompileC
+xbuild/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageAppDelegate.o
+x/Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.m354514940#354514940#0(0"0(0#0#64"/Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.m8605498016#2043"    cd /Users/vanita/Downloads/CurlImage    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-generated-files.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-own-target-headers.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-all-target-headers.hmap -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-project-headers.hmap -F/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator -I/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources/i386 -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch -c /Users/vanita/Downloads/CurlImage/Classes/CurlImageAppDelegate.m -o /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageAppDelegate.o0#
+
+CCompileC build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageViewController.o /Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354514940.881334
+e354514941.005513
+r1
+xCompileC
+xbuild/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageViewController.o
+x/Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.m354514940#354514941#0(0"0(0#0#67"/Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.m8604323424#2049"    cd /Users/vanita/Downloads/CurlImage    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-generated-files.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-own-target-headers.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-all-target-headers.hmap -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-project-headers.hmap -F/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator -I/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources/i386 -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch -c /Users/vanita/Downloads/CurlImage/Classes/CurlImageViewController.m -o /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImageViewController.o0#
+
+CCompileC build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/main.o /Users/vanita/Downloads/CurlImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354514940.808721
+e354514940.881237
+r1
+xCompileC
+xbuild/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/main.o
+x/Users/vanita/Downloads/CurlImage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/vanita/Downloads/CurlImage/main.m354514940#354514940#0(0"0(0#0#40"/Users/vanita/Downloads/CurlImage/main.m8599421632#2003"    cd /Users/vanita/Downloads/CurlImage    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-generated-files.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-own-target-headers.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-all-target-headers.hmap -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-project-headers.hmap -F/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator -I/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources/i386 -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch -c /Users/vanita/Downloads/CurlImage/main.m -o /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/vanita/Downloads/CurlImage/CurlImageViewController.xib
+s354514939.191705
+e354514939.672172
+r1
+xCompileXIB
+x/Users/vanita/Downloads/CurlImage/CurlImageViewController.xib
+lSLF07#2@38"CompileXIB CurlImageViewController.xib354514939#354514939#0(0"0(0#0#61"/Users/vanita/Downloads/CurlImage/CurlImageViewController.xib8603702528#687"    cd /Users/vanita/Downloads/CurlImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImageViewController.nib /Users/vanita/Downloads/CurlImage/CurlImageViewController.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/vanita/Downloads/CurlImage/MainWindow.xib
+s354514939.190901
+e354514939.622261
+r1
+xCompileXIB
+x/Users/vanita/Downloads/CurlImage/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354514939#354514939#0(0"0(0#0#48"/Users/vanita/Downloads/CurlImage/MainWindow.xib8604020672#661"    cd /Users/vanita/Downloads/CurlImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/MainWindow.nib /Users/vanita/Downloads/CurlImage/MainWindow.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/CurlImage.app/Screen1.jpg Screen1.jpg
+s354514939.622349
+e354514939.628813
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CurlImage.app/Screen1.jpg
+xScreen1.jpg
+lSLF07#2@16"Copy Screen1.jpg354514939#354514939#0(0"0(0#0#45"/Users/vanita/Downloads/CurlImage/Screen1.jpg8600321504#534"    cd /Users/vanita/Downloads/CurlImage    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/vanita/Downloads/CurlImage/Screen1.jpg /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app0#
+
+CCpResource build/Debug-iphonesimulator/CurlImage.app/Wonder.jpg Wonder.jpg
+s354514939.623757
+e354514939.629887
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CurlImage.app/Wonder.jpg
+xWonder.jpg
+lSLF07#2@15"Copy Wonder.jpg354514939#354514939#0(0"0(0#0#44"/Users/vanita/Downloads/CurlImage/Wonder.jpg8600054144#533"    cd /Users/vanita/Downloads/CurlImage    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/vanita/Downloads/CurlImage/Wonder.jpg /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app0#
+
+CGenerateDSYMFile /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app.dSYM /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage
+s354514941.052306
+e354514941.091107
+r1
+xGenerateDSYMFile
+x/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app.dSYM
+x/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/CurlImage.app.dSYM build/Debug-iphonesimulator/CurlImage.app/CurlImage354514941#354514941#0(0"0(0#0#85"/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage8602810176#452"    cd /Users/vanita/Downloads/CurlImage    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/dsymutil /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage -o /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app.dSYM0#
+
+CLd /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage normal i386
+s354514941.005606
+e354514941.052215
+r1
+xLd
+x/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage
+xnormal
+xi386
+lSLF07#2@90"Link /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage354514941#354514941#0(0"0(0#0#0"8603478528#989"    cd /Users/vanita/Downloads/CurlImage    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator -F/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator -filelist /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/Objects-normal/i386/CurlImage.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/CurlImage0#
+
+CProcessInfoPlistFile /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/Info.plist CurlImage-Info.plist
+s354514939.161988
+e354514939.190812
+r1
+xProcessInfoPlistFile
+x/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/Info.plist
+xCurlImage-Info.plist
+lSLF07#2@28"Process CurlImage-Info.plist354514939#354514939#0(0"0(0#0#54"/Users/vanita/Downloads/CurlImage/CurlImage-Info.plist8604845728#522"    cd /Users/vanita/Downloads/CurlImage    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CurlImage-Info.plist -genpkginfo /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app/Info.plist0#
+
+CProcessPCH /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch.gch CurlImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354514939.672308
+e354514940.808570
+r1
+xProcessPCH
+x/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch.gch
+xCurlImage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CurlImage_Prefix.pch354514939#354514940#0(0"0(0#0#54"/Users/vanita/Downloads/CurlImage/CurlImage_Prefix.pch8599497632#1898"    cd /Users/vanita/Downloads/CurlImage    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-generated-files.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-own-target-headers.hmap -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-all-target-headers.hmap -iquote /Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/CurlImage-project-headers.hmap -F/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator -I/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/include -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources/i386 -I/Users/vanita/Downloads/CurlImage/build/CurlImage.build/Debug-iphonesimulator/CurlImage.build/DerivedSources -c /Users/vanita/Downloads/CurlImage/CurlImage_Prefix.pch -o /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/CurlImage_Prefix-gsmbzoodkzzfuqfvatyespscrdrj/CurlImage_Prefix.pch.gch0#
+
+CTouch /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app
+s354514941.091192
+e354514941.144699
+r1
+xTouch
+x/Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app
+lSLF07#2@81"Touch /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app354514941#354514941#0(0"0(0#0#0"8601078592#322"    cd /Users/vanita/Downloads/CurlImage    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vanita/Downloads/CurlImage/build/Debug-iphonesimulator/CurlImage.app0#
+

@@ -1,0 +1,779 @@
+TADD_with_subview
+v7
+r0
+t353489508.405253
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist ADD_with_subview-Info.plist
+cCompileXIB /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/ADD_with_subviewViewController.xib
+cCompileXIB /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch.gch ADD_with_subview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+cTouch /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/ADD_with_subviewViewController.xib
+c000000004E08187A000000000000673C
+t1309153402
+s26428
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/ADD_with_subview_Prefix.pch
+c000000004E0813E200000000000000C9
+t1309152226
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.m
+c000000004E08422000000000000005E1
+t1309164064
+s1505
+i"add.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.xib
+c000000004E0842480000000000005263
+t1309164104
+s21091
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.h
+c000000004E0813E20000000000000216
+t1309152226
+s534
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m
+c000000004E0813E20000000000000AC3
+t1309152226
+s2755
+i"ADD_with_subviewAppDelegate.h"
+i"ADD_with_subviewViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.h
+c000000004E0816EA00000000000001F6
+t1309153002
+s502
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.m
+c000000004F619AE300000000000007C6
+t1331796707
+s1990
+i"ADD_with_subviewViewController.h"
+i"add.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/MainWindow.xib
+c000000004E0813E20000000000004E95
+t1309152226
+s20117
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/add.h
+c000000004E0842690000000000000129
+t1309164137
+s297
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subview.LinkFileList
+c000000004EF84D260000000000000290
+t1324895526
+s656
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o
+t1331544624
+s51516
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o
+t1331796708
+s44732
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o
+t1331544624
+s39536
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o
+t1331544624
+s6328
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+t1331796708
+s272
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM
+t1331796708
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+t1331796708
+s20408
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subviewViewController.nib
+t1309161201
+s2210
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist
+t1309153011
+s633
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/MainWindow.nib
+t1309153012
+s1141
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/PkgInfo
+t1309153011
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/add.nib
+t1309164108
+s1812
+
+N/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/main.m
+c000000004E0813E20000000000000173
+t1309152226
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/ADD_with_subviewViewController.xib
+c000000004E08187A000000000000673C
+t1309153402
+s26428
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/ADD_with_subview_Prefix.pch
+c000000004E0813E200000000000000C9
+t1309152226
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.m
+c000000004E08422000000000000005E1
+t1309164064
+s1505
+i"add.h"
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.xib
+c000000004E0842480000000000005263
+t1309164104
+s21091
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.h
+c000000004E0813E20000000000000216
+t1309152226
+s534
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m
+c000000004E0813E20000000000000AC3
+t1309152226
+s2755
+i"ADD_with_subviewAppDelegate.h"
+i"ADD_with_subviewViewController.h"
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewViewController.h
+c000000004E0816EA00000000000001F6
+t1309153002
+s502
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewViewController.m
+c000000004E08441D00000000000007CC
+t1309164573
+s1996
+i"ADD_with_subviewViewController.h"
+i"add.h"
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/MainWindow.xib
+c000000004E0813E20000000000004E95
+t1309152226
+s20117
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/add.h
+c000000004E0842690000000000000129
+t1309164137
+s297
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subview.LinkFileList
+c000000004ED8694F0000000000000288
+t1322805583
+s648
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o
+t1322805615
+s51512
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o
+t1322805616
+s44736
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o
+t1322805616
+s39532
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o
+t1322805615
+s6324
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+t1322805617
+s272
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM
+t1322805617
+s102
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+t1322805616
+s20392
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subviewViewController.nib
+t1309161201
+s2210
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist
+t1309153011
+s633
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/MainWindow.nib
+t1309153012
+s1141
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/PkgInfo
+t1309153011
+s8
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/add.nib
+t1309164108
+s1812
+
+N/Users/sandeep/NO NAME/Programs/ADD_with_subview/main.m
+c000000004E0813E20000000000000173
+t1309152226
+s371
+i<UIKit/UIKit.h>
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subviewViewController.xib
+c000000004E08187A000000000000673C
+t1309153402
+s26428
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subview_Prefix.pch
+c000000004E0813E200000000000000C9
+t1309152226
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m
+c000000004E08422000000000000005E1
+t1309164064
+s1505
+i"add.h"
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.xib
+c000000004E0842480000000000005263
+t1309164104
+s21091
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.h
+c000000004E0813E20000000000000216
+t1309152226
+s534
+i<UIKit/UIKit.h>
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m
+c000000004E0813E20000000000000AC3
+t1309152226
+s2755
+i"ADD_with_subviewAppDelegate.h"
+i"ADD_with_subviewViewController.h"
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewViewController.h
+c000000004E0816EA00000000000001F6
+t1309153002
+s502
+i<UIKit/UIKit.h>
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewViewController.m
+c000000004E08441D00000000000007CC
+t1309164573
+s1996
+i"ADD_with_subviewViewController.h"
+i"add.h"
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/MainWindow.xib
+c000000004E0813E20000000000004E95
+t1309152226
+s20117
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/add.h
+c000000004E0842690000000000000129
+t1309164137
+s297
+i<UIKit/UIKit.h>
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/add.m
+c000000004E0813F70000000000000589
+t1309152247
+s1417
+i"add.h"
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/add.xib
+c000000004E0813F70000000000001844
+t1309152247
+s6212
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subview.LinkFileList
+c000000004E0816F30000000000000280
+t1309153011
+s640
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o
+t1309153013
+s51508
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o
+t1309164576
+s44732
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o
+t1309164137
+s39528
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o
+t1309153013
+s6320
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+t1309164576
+s272
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM
+t1309164576
+s102
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+t1309164576
+s20376
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subviewViewController.nib
+t1309161201
+s2210
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist
+t1309153011
+s633
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/MainWindow.nib
+t1309153012
+s1141
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/PkgInfo
+t1309153011
+s8
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/add.nib
+t1309164108
+s1812
+
+N/Users/saurabhkumar/Documents/ADD_with_subview/main.m
+c000000004E0813E20000000000000173
+t1309152226
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch.gch
+t1331544623
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch.gch
+t1322805613
+s15453392
+
+N/var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch.gch
+t1309153013
+s15453392
+
+NADD_with_subview-Info.plist
+c000000004E0813E2000000000000038D
+t1309152226
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353489507#353489507#0(0"0(0#1#0"8618993824#0"0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344498414.084041
+e344498415.772468
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m344498414#344498415#0(0"0(0#0#86"/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m8598831904#2280"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m" -o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o"0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353237424.051177
+e353237424.262112
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m353237424#353237424#0(0"0(0#0#88"/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m8613229568#2280"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m -o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o /Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330845813.818184
+e330845813.926468
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o
+x/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m330845813#330845813#0(0"0(0#0#84"/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m8612394816#2236"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator -I/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch -c /Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewAppDelegate.m -o /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewAppDelegate.o0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344498415.666089
+e344498416.415634
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewViewController.m344498415#344498416#0(0"0(0#0#89"/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewViewController.m8600638560#2286"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/ADD_with_subviewViewController.m" -o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o"0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353489507.362202
+e353489508.325390
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.m353489507#353489508#0(0"0(0#0#91"/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.m8625764384#2286"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/ADD_with_subviewViewController.m -o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o /Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330857376.173373
+e330857376.402260
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o
+x/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewViewController.m330857376#330857376#0(0"0(0#0#87"/Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewViewController.m8612369536#2242"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator -I/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch -c /Users/saurabhkumar/Documents/ADD_with_subview/Classes/ADD_with_subviewViewController.m -o /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subviewViewController.o0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344498415.772575
+e344498416.452371
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.m344498415#344498416#0(0"0(0#0#65"/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.m8603928512#2235"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.m" -o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o"0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353237424.262215
+e353237424.435792
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.m353237424#353237424#0(0"0(0#0#67"/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.m8603311936#2235"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.m -o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o /Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330856937.327295
+e330856937.466467
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o
+x/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m330856937#330856937#0(0"0(0#0#63"/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m8611629344#2191"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator -I/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch -c /Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m -o /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/add.o /Users/saurabhkumar/Documents/ADD_with_subview/add.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344498414.081776
+e344498415.665953
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/NO NAME/Programs/ADD_with_subview/main.m344498414#344498415#0(0"0(0#0#55"/Users/sandeep/NO NAME/Programs/ADD_with_subview/main.m8604188832#2226"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch -c "/Users/sandeep/NO NAME/Programs/ADD_with_subview/main.m" -o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353237424.050042
+e353237424.257501
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/main.m353237424#353237424#0(0"0(0#0#57"/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/main.m8608275168#2226"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/main.m -o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o0#
+
+CCompileC build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o /Users/saurabhkumar/Documents/ADD_with_subview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330845813.817052
+e330845813.881298
+r1
+xCompileC
+xbuild/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o
+x/Users/saurabhkumar/Documents/ADD_with_subview/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/saurabhkumar/Documents/ADD_with_subview/main.m330845813#330845813#0(0"0(0#0#53"/Users/saurabhkumar/Documents/ADD_with_subview/main.m8612739872#2182"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator -I/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -include /var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch -c /Users/saurabhkumar/Documents/ADD_with_subview/main.m -o /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/NO NAME/Programs/ADD_with_subview/ADD_with_subviewViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/NO NAME/Programs/ADD_with_subview/Classes/../add.xib"
+r0
+
+CCompileXIB "/Users/sandeep/NO NAME/Programs/ADD_with_subview/MainWindow.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/ADD_with_subviewViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/Classes/../add.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/MainWindow.xib
+r0
+
+CCompileXIB /Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subviewViewController.xib
+s330854001.053155
+e330854001.903155
+r1
+xCompileXIB
+x/Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subviewViewController.xib
+o2011-06-27 13:23:21.650 Interface Builder Cocoa Touch Tool[8335:1a03] CFPreferences: user home directory at file://localhost/Users/saurabhkumar/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@45"CompileXIB ADD_with_subviewViewController.xib330854001#330854001#0(246"2011-06-27 13:23:21.650 Interface Builder Cocoa Touch Tool[8335:1a03] CFPreferences: user home directory at file://localhost/Users/saurabhkumar/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#81"/Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subviewViewController.xib8612119200#643"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subviewViewController.nib /Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subviewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.xib
+s330856908.111847
+e330856908.696807
+r1
+xCompileXIB
+x/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.xib
+o2011-06-27 14:11:48.606 Interface Builder Cocoa Touch Tool[11271:1c03] CFPreferences: user home directory at file://localhost/Users/saurabhkumar/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@29"CompileXIB Classes/../add.xib330856908#330856908#0(247"2011-06-27 14:11:48.606 Interface Builder Cocoa Touch Tool[11271:1c03] CFPreferences: user home directory at file://localhost/Users/saurabhkumar/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#65"/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.xib8618230304#600"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/add.nib /Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/saurabhkumar/Documents/ADD_with_subview/MainWindow.xib
+s330845811.853392
+e330845812.415234
+r1
+xCompileXIB
+x/Users/saurabhkumar/Documents/ADD_with_subview/MainWindow.xib
+o2011-06-27 11:06:52.297 Interface Builder Cocoa Touch Tool[2822:1903] CFPreferences: user home directory at file://localhost/Users/saurabhkumar/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib330845811#330845812#0(246"2011-06-27 11:06:52.297 Interface Builder Cocoa Touch Tool[2822:1903] CFPreferences: user home directory at file://localhost/Users/saurabhkumar/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#61"/Users/saurabhkumar/Documents/ADD_with_subview/MainWindow.xib8618205952#603"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/MainWindow.nib /Users/saurabhkumar/Documents/ADD_with_subview/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/saurabhkumar/Documents/ADD_with_subview/add.xib
+r0
+
+CGenerateDSYMFile "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM" "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview"
+s344498416.878838
+e344498417.546542
+r1
+xGenerateDSYMFile
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/ADD_with_subview.app.dSYM build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview344498416#344498417#0(0"0(0#0#114"/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview8602190912#446"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview" -o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+s353489508.378678
+e353489508.402171
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/ADD_with_subview.app.dSYM build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview353489508#353489508#0(0"0(0#0#116"/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview8625097056#446"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview -o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM0#
+
+CGenerateDSYMFile /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+s330857376.437381
+e330857376.488724
+r1
+xGenerateDSYMFile
+x/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM
+x/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/ADD_with_subview.app.dSYM build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview330857376#330857376#0(0"0(0#0#112"/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview8615005024#434"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview -o /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app.dSYM0#
+
+CLd "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview" normal i386
+s344498416.452657
+e344498416.878698
+r1
+xLd
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+xnormal
+xi386
+lSLF07#2@119"Link /Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview344498416#344498416#0(0"0(0#0#0"8601026432#1005"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator" "-F/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator" -filelist "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subview.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview"0#
+
+CLd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview normal i386
+s353489508.325480
+e353489508.378575
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+xnormal
+xi386
+lSLF07#2@121"Link /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview353489508#353489508#0(0"0(0#0#0"8625480448#1005"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subview.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview0#
+
+CLd /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview normal i386
+s330857376.402351
+e330857376.437292
+r1
+xLd
+x/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview
+xnormal
+xi386
+lSLF07#2@117"Link /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview330857376#330857376#0(0"0(0#0#0"8617618656#985"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator -F/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator -filelist /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/Objects-normal/i386/ADD_with_subview.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/ADD_with_subview0#
+
+CProcessInfoPlistFile "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist" ADD_with_subview-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist ADD_with_subview-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist ADD_with_subview-Info.plist
+s330845811.845054
+e330845811.853290
+r1
+xProcessInfoPlistFile
+x/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist
+xADD_with_subview-Info.plist
+lSLF07#2@35"Process ADD_with_subview-Info.plist330845811#330845811#0(0"0(0#0#74"/Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subview-Info.plist27585050236354656#530"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ADD_with_subview-Info.plist -genpkginfo /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch.gch ADD_with_subview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353237414.027393
+e353237424.049876
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch.gch
+xADD_with_subview_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile ADD_with_subview_Prefix.pch353237414#353237424#0(0"0(0#0#78"/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/ADD_with_subview_Prefix.pch8610856736#2097"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -c /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/ADD_with_subview_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-cvwncxrwzaxzkjbtymqwethnjkfl/ADD_with_subview_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch.gch ADD_with_subview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344498383.641956
+e344498414.072433
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch.gch
+xADD_with_subview_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile ADD_with_subview_Prefix.pch344498383#344498414#0(0"0(0#0#76"/Users/sandeep/NO NAME/Programs/ADD_with_subview/ADD_with_subview_Prefix.pch8605833056#2097"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap" -iquote "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap" "-F/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/include" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386" "-I/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources" -c "/Users/sandeep/NO NAME/Programs/ADD_with_subview/ADD_with_subview_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/ADD_with_subview_Prefix-edjkvhzpzpicdpejmcxnczowafnt/ADD_with_subview_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch.gch ADD_with_subview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330845812.910153
+e330845813.816856
+r1
+xProcessPCH
+x/var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch.gch
+xADD_with_subview_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile ADD_with_subview_Prefix.pch330845812#330845813#0(0"0(0#0#74"/Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subview_Prefix.pch8616405888#2057"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-generated-files.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-own-target-headers.hmap -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-all-target-headers.hmap -iquote /Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/ADD_with_subview-project-headers.hmap -F/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator -I/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/include -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources/i386 -I/Users/saurabhkumar/Documents/ADD_with_subview/build/ADD_with_subview.build/Debug-iphonesimulator/ADD_with_subview.build/DerivedSources -c /Users/saurabhkumar/Documents/ADD_with_subview/ADD_with_subview_Prefix.pch -o /var/folders/WA/WAxy-e4bFO06JMUeY8bWNk+++Uw/-Caches-/com.apple.Xcode.527/SharedPrecompiledHeaders/ADD_with_subview_Prefix-guwxnoxcpswgozavjxphgnbeypog/ADD_with_subview_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app"
+s344498417.546705
+e344498417.564387
+r1
+xTouch
+x/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+lSLF07#2@103"Touch /Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app344498417#344498417#0(0"0(0#0#0"8599161632#311"    cd "/Users/sandeep/NO NAME/Programs/ADD_with_subview"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/NO NAME/Programs/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app"0#
+
+CTouch /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+s353489508.402357
+e353489508.405212
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+lSLF07#2@105"Touch /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app353489508#353489508#0(0"0(0#0#0"8624842080#311"    cd /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/sandeeprdy/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app0#
+
+CTouch /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+s330857376.488813
+e330857376.491811
+r1
+xTouch
+x/Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app
+lSLF07#2@101"Touch /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app330857376#330857376#0(0"0(0#0#0"8614723616#303"    cd /Users/saurabhkumar/Documents/ADD_with_subview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/saurabhkumar/Documents/ADD_with_subview/build/Debug-iphonesimulator/ADD_with_subview.app0#
+

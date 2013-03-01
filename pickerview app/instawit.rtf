@@ -1,0 +1,182 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;\f2\fmodern\fcharset0 Courier;
+\f3\fnil\fcharset0 Menlo-Regular;\f4\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green116\blue0;\red100\green56\blue32;\red196\green26\blue22;
+\red170\green13\blue145;\red92\green38\blue153;\red63\green110\blue116;\red28\green0\blue207;\red46\green13\blue110;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww19980\viewh13340\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 This tutorial is used to do some basic calculation like multiplication , addition, subtraction and division.\
+\
+1. 
+\f1\b\fs20 Open the xcode & choose "File->New Project".\
+2. Select "Application" from left menu and then "View-based Application".
+\f2\b0\fs24 \
+3.Name your project as "
+\f3\fs22 \CocoaLigature0 instawit
+\f2\fs24 \CocoaLigature1 " and save the project.\
+4.
+\f1\b\fs20 Now just select "
+\f3\b0\fs22 \cf2 \CocoaLigature0 instawitViewController.h
+\f1\b\fs20 \cf0 \CocoaLigature1 " file from left menu for defining a  . Set the property for UILabel , UITextField.\
+\
+\
+\
+\
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+
+\f3\b0\fs22 \cf3 \CocoaLigature0 #import \cf4 <UIKit/UIKit.h>\cf3 \
+\cf0 \
+\cf5 @interface\cf0  instawitViewController : UIViewController\
+<UIPickerViewDelegate, UIPickerViewDataSource>\
+\{   \cf5 IBOutlet\cf0  \cf6 UIPickerView\cf0  *\cf7 pickerView\cf0 ;    \cf2 // declare the Picker view .\cf0 \
+	\cf5 IBOutlet\cf0  \cf6 UITextField\cf0  *\cf7 txt1\cf0 ;           \cf2 // declare the UITextfield for showing the result fetched from the picker.\cf0  \
+	\cf5 IBOutlet\cf0  \cf6 UIButton\cf0  *\cf7 btn\cf0 ;              \cf2 //  declare the Button through which we will get the result .\cf0   \
+	\cf6 NSArray\cf0  *\cf7 activities\cf0 ;				 \cf2 //  declare the Array to hold the data for the first component.\cf0 \
+	\cf6 NSArray\cf0  *\cf7 feeling\cf0 ;                    \cf2 //  declare an Array to hold the data for the second component.\cf0 \
+\}\
+\cf5 @property\cf0 (\cf5 retain\cf0 ,\cf5 nonatomic\cf0 )UITextField *txt1;\
+\cf5 @property\cf0 (\cf5 retain\cf0 ,\cf5 nonatomic\cf0 )UIButton *btn;\
+\cf5 @property\cf0 (\cf5 retain\cf0 ,\cf5 nonatomic\cf0 )NSArray* activities;\
+\cf5 @property\cf0 (\cf5 retain\cf0 , \cf5 nonatomic\cf0 )NSArray* feeling;\
+\cf5 @property\cf0 (\cf5 retain\cf0 , \cf5 nonatomic\cf0 )UIPickerView *pickerView;\
+\
+-(\cf5 IBAction\cf0 )buttonPressed;\
+\cf5 @end\cf0 \
+\
+\
+\
+\
+\pard\pardeftab720\sa240\ql\qnatural
+
+\f1\b\fs20 \cf0 \CocoaLigature1 5. Then select 
+\f3\b0\fs22 \cf4 \CocoaLigature0 "instawitViewController.h" 
+\f1\b\fs20 \cf0 \CocoaLigature1  file from menu for implementation.\
+\
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+
+\f3\b0\fs22 \cf3 \CocoaLigature0 #import \cf4 "instawitViewController.h"\cf3 \
+\cf0 \
+\cf5 @implementation\cf0  instawitViewController\
+\cf5 @synthesize\cf0  activities, feeling, txt1, pickerView ,btn;\
+\
+\
+\
+\
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+\cf2 // Method to define the numberOfComponent in a picker view.\cf0 \
+\
+- (\cf6 NSInteger\cf0 )numberOfComponentsInPickerView:(\cf6 UIPickerView\cf0  *)\cf7 pickerView\cf0 \
+\{\
+	\cf5 return\cf0  \cf8 2\cf0 ;\
+\}\
+\
+\
+\cf2 // Method to define the numberOfRows in a component using the array.\cf0 \
+\
+- (\cf6 NSInteger\cf0 )pickerView:(\cf6 UIPickerView\cf0  *)\cf7 pickerView\cf0  numberOfRowsInComponent :(\cf6 NSInteger\cf0 )component \
+\{ \
+	\cf5 if\cf0  (component==\cf8 0\cf0 ) \{\
+		\cf5 return\cf0  [\cf7 activities\cf0  \cf9 count\cf0 ];\
+	\}\
+	\
+	\cf5 else\cf0  \{\
+		\cf5 return\cf0 [\cf7 feeling\cf0  count];\
+	\}\
+\
+\}\
+\
+\
+\cf2 // Method to show the title of row for a component.\cf0 \
+\
+\
+- (\cf6 NSString\cf0  *)pickerView:(\cf6 UIPickerView\cf0  *)\cf7 pickerView\cf0  titleForRow:(\cf6 NSInteger\cf0 )row forComponent:(\cf6 NSInteger\cf0 )component \{\
+	\
+		\cf5 switch\cf0  (component) \
+	\{\
+			\cf5 case\cf0  \cf8 0\cf0 :\
+				\cf5 return\cf0  [\cf7 activities\cf0  \cf9 objectAtIndex\cf0 :row];\
+				\cf5 break\cf0 ;\
+			\cf5 case\cf0  \cf8 1\cf0 :\
+				\cf5 return\cf0  [\cf7 feeling\cf0  \cf9 objectAtIndex\cf0 :row];\
+				\cf5 break\cf0 ;\
+	\}\
+		\cf5 return\cf0  \cf5 nil\cf0 ;\
+\}\
+\
+\
+\
+\
+\
+\cf2 // Button Pressed method to show the result in the text field.\cf0 \
+\
+-(\cf5 IBAction\cf0 )buttonPressed\
+\{\
+	\cf6 NSString\cf0  *msg = [\cf6 NSString\cf0  \cf9 stringWithFormat\cf0 : \cf4 @"I am feeling %@ for the activity %@"\cf0 ,\
+					[\cf7 activities\cf0  \cf9 objectAtIndex\cf0 :[\cf7 pickerView\cf0  \cf9 selectedRowInComponent\cf0 :\cf8 0\cf0 ]],\
+					[\cf7 feeling\cf0  \cf9 objectAtIndex\cf0 :[\cf7 pickerView\cf0  \cf9 selectedRowInComponent\cf0 :\cf8 1\cf0 ]]];\
+\
+	\cf9 NSLog\cf0 (\cf4 @"%@,%@"\cf0 ,[\cf7 activities\cf0  \cf9 objectAtIndex\cf0 :[\cf7 pickerView\cf0  \cf9 selectedRowInComponent\cf0 :\cf8 0\cf0 ]],[\cf7 feeling\cf0  \cf9 objectAtIndex\cf0 :[\cf7 pickerView\cf0  \cf9 selectedRowInComponent\cf0 :\cf8 1\cf0 ]]);\
+	\cf7 txt1\cf0 .\cf6 text\cf0  = msg;\
+					\
+\}\
+\
+\
+\
+\cf2 // This viewDidLoad method is used to initialize array .\cf0 \
+- (\cf5 void\cf0 )viewDidLoad \{\
+	 [\cf5 super\cf0  \cf9 viewDidLoad\cf0 ];\
+	\cf7 activities\cf0  =[[\cf6 NSArray\cf0  \cf9 alloc\cf0 ] \cf9 initWithObjects\cf0 :\cf4 @"Running"\cf0 ,\cf4 @"Crying"\cf0 ,\cf4 @"Boring"\cf0 ,\cf4 @"Working"\cf0 ,\cf5 nil\cf0 ];\
+	\cf7 feeling\cf0  = [[\cf6 NSArray\cf0  \cf9 alloc\cf0 ] \cf9 initWithObjects\cf0 : \cf4 @"Happy"\cf0 , \cf4 @"Sad"\cf0  , \cf4 @"Good"\cf0 , \cf4 @"joyce"\cf0 ,\cf5 nil\cf0 ];\
+\}\
+\
+\
+\
+- (\cf5 void\cf0 )didReceiveMemoryWarning \{\
+	\
+    [\cf5 super\cf0  \cf9 didReceiveMemoryWarning\cf0 ];\
+	\
+\}\
+\
+- (\cf5 void\cf0 )viewDidUnload \{\
+	\
+\}\
+\
+\
+- (\cf5 void\cf0 )dealloc \{\
+	[\cf7 pickerView\cf0  \cf9 release\cf0 ];\
+	[\cf7 activities\cf0  \cf9 release\cf0 ];\
+	[\cf7 feeling\cf0  \cf9 release\cf0 ];\
+    [\cf5 super\cf0  \cf9 dealloc\cf0 ];\
+\}\
+\
+ \cf5 @end\cf0 \
+\
+\
+\
+\pard\pardeftab720\ql\qnatural
+
+\f1\b\fs20 \cf0 \CocoaLigature1 6. Next double click on "
+\f3\b0\fs22 \CocoaLigature0 instawitViewController.xib
+\f1\b\fs20 \CocoaLigature1 " from Resource folder for open it.\
+\pard\pardeftab720\sa240\ql\qnatural
+
+\f4\b0\fs24 \cf0 \
+\pard\pardeftab720\sa240\ql\qnatural
+
+\f1\b\fs20 \cf0 7. On the view window drag the picker and textfields and button from library . Then link the picker and textfields to the File's Owner and methods to the button. \
+\pard\pardeftab720\ql\qnatural
+\cf0 8. Then Quit and Save the Interface Builder.
+\f4\b0\fs24 \
+\
+
+\f1\b\fs20 9. Now you are ready for\'a0 click on "Build & Run" button. \
+\
+\
+\
+After if you provide any string that is not integer then user will get an error alert and otherwise after clicking any of the button , you will see the correct output in the lable field.
+\f3\b0\fs22 \CocoaLigature0 \
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+\cf0 \
+}

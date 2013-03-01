@@ -1,0 +1,277 @@
+TBall
+v7
+r0
+t358082501.859319
+cCheck dependencies
+cProcessInfoPlistFile /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Info.plist Info.plist
+cCompileXIB /Users/SandeepReddy/Downloads/Ball/MainWindow.xib
+cCompileXIB /Users/SandeepReddy/Downloads/Ball/BallViewController.xib
+cCpResource build/Debug-iphonesimulator/Ball.app/ball.png ball.png
+cProcessPCH /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch.gch Ball_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/main.o /Users/SandeepReddy/Downloads/Ball/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallAppDelegate.o /Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallViewController.o /Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball normal i386
+cGenerateDSYMFile /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app.dSYM /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball
+cTouch /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/SandeepReddy/Downloads/Ball/BallViewController.xib
+c00000000490655D90000000000001C57
+t1225151961
+s7255
+
+N/Users/SandeepReddy/Downloads/Ball/Ball_Prefix.pch
+c000000004906555B00000000000000B1
+t1225151835
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.h
+c000000004906555B00000000000001D5
+t1225151835
+s469
+i<UIKit/UIKit.h>
+
+N/Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.m
+c000000004906555B0000000000000263
+t1225151835
+s611
+i"BallAppDelegate.h"
+i"BallViewController.h"
+
+N/Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.h
+c00000000490655950000000000000150
+t1225151893
+s336
+i<UIKit/UIKit.h>
+
+N/Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.m
+c0000000049065DD9000000000000065B
+t1225154009
+s1627
+i"BallViewController.h"
+
+N/Users/SandeepReddy/Downloads/Ball/MainWindow.xib
+c000000004906555B000000000000219E
+t1225151835
+s8606
+
+N/Users/SandeepReddy/Downloads/Ball/ball.png
+c0000000049052ABF0000000000000638
+t1225075391
+s1592
+
+N/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/Ball.LinkFileList
+c000000004FA7B0430000000000000169
+t1336389699
+s361
+
+N/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallAppDelegate.o
+t1336389701
+s48324
+
+N/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallViewController.o
+t1336389701
+s42608
+
+N/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/main.o
+t1336389701
+s6296
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app
+t1336389701
+s272
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app.dSYM
+t1336389701
+s102
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball
+t1336389701
+s16956
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/BallViewController.nib
+t1336389700
+s1074
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Info.plist
+t1336389699
+s574
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/MainWindow.nib
+t1336389700
+s1093
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/PkgInfo
+t1336389699
+s8
+
+N/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/ball.png
+t1336389700
+s1592
+
+N/Users/SandeepReddy/Downloads/Ball/main.m
+c000000004906555B000000000000016E
+t1225151835
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch.gch
+t1336389701
+s15453392
+
+NInfo.plist
+c000000004906555B0000000000000381
+t1225151835
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358082499#358082499#0(0"0(0#1#0"8602874880#0"0#
+
+CCompileC build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallAppDelegate.o /Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358082501.549116
+e358082501.733127
+r1
+xCompileC
+xbuild/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallAppDelegate.o
+x/Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.m358082501#358082501#0(0"0(0#0#60"/Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.m8607352800#1840"    cd /Users/SandeepReddy/Downloads/Ball    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-generated-files.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-own-target-headers.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-all-target-headers.hmap -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-project-headers.hmap -F/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator -I/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/include -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources/i386 -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources -include /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch -c /Users/SandeepReddy/Downloads/Ball/Classes/BallAppDelegate.m -o /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallAppDelegate.o0#
+
+CCompileC build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallViewController.o /Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358082501.684760
+e358082501.791313
+r1
+xCompileC
+xbuild/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallViewController.o
+x/Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.m358082501#358082501#0(0"0(0#0#63"/Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.m8605560672#1846"    cd /Users/SandeepReddy/Downloads/Ball    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-generated-files.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-own-target-headers.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-all-target-headers.hmap -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-project-headers.hmap -F/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator -I/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/include -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources/i386 -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources -include /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch -c /Users/SandeepReddy/Downloads/Ball/Classes/BallViewController.m -o /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/BallViewController.o0#
+
+CCompileC build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/main.o /Users/SandeepReddy/Downloads/Ball/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358082501.547690
+e358082501.684615
+r1
+xCompileC
+xbuild/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/main.o
+x/Users/SandeepReddy/Downloads/Ball/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/SandeepReddy/Downloads/Ball/main.m358082501#358082501#0(0"0(0#0#41"/Users/SandeepReddy/Downloads/Ball/main.m8607490048#1810"    cd /Users/SandeepReddy/Downloads/Ball    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-generated-files.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-own-target-headers.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-all-target-headers.hmap -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-project-headers.hmap -F/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator -I/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/include -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources/i386 -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources -include /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch -c /Users/SandeepReddy/Downloads/Ball/main.m -o /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/SandeepReddy/Downloads/Ball/BallViewController.xib
+s358082499.836584
+e358082500.560823
+r1
+xCompileXIB
+x/Users/SandeepReddy/Downloads/Ball/BallViewController.xib
+o2012-05-07 16:51:40.446 Interface Builder Cocoa Touch Tool[8453:1903] CFPreferences: user home directory at file://localhost/Users/SandeepReddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@33"CompileXIB BallViewController.xib358082499#358082500#0(246"2012-05-07 16:51:40.446 Interface Builder Cocoa Touch Tool[8453:1903] CFPreferences: user home directory at file://localhost/Users/SandeepReddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#57"/Users/SandeepReddy/Downloads/Ball/BallViewController.xib8605313984#571"    cd /Users/SandeepReddy/Downloads/Ball    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/BallViewController.nib /Users/SandeepReddy/Downloads/Ball/BallViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/SandeepReddy/Downloads/Ball/MainWindow.xib
+s358082499.835795
+e358082500.507329
+r1
+xCompileXIB
+x/Users/SandeepReddy/Downloads/Ball/MainWindow.xib
+o2012-05-07 16:51:40.414 Interface Builder Cocoa Touch Tool[8454:1903] CFPreferences: user home directory at file://localhost/Users/SandeepReddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib358082499#358082500#0(246"2012-05-07 16:51:40.414 Interface Builder Cocoa Touch Tool[8454:1903] CFPreferences: user home directory at file://localhost/Users/SandeepReddy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#49"/Users/SandeepReddy/Downloads/Ball/MainWindow.xib8605420672#555"    cd /Users/SandeepReddy/Downloads/Ball    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/MainWindow.nib /Users/SandeepReddy/Downloads/Ball/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Ball.app/ball.png ball.png
+s358082500.507454
+e358082500.514275
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Ball.app/ball.png
+xball.png
+lSLF07#2@13"Copy ball.png358082500#358082500#0(0"0(0#0#43"/Users/SandeepReddy/Downloads/Ball/ball.png32088624093986912#451"    cd /Users/SandeepReddy/Downloads/Ball    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/SandeepReddy/Downloads/Ball/ball.png /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app0#
+
+CGenerateDSYMFile /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app.dSYM /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball
+s358082501.836258
+e358082501.853789
+r1
+xGenerateDSYMFile
+x/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app.dSYM
+x/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Ball.app.dSYM build/Debug-iphonesimulator/Ball.app/Ball358082501#358082501#0(0"0(0#0#76"/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball8608766624#362"    cd /Users/SandeepReddy/Downloads/Ball    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball -o /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app.dSYM0#
+
+CLd /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball normal i386
+s358082501.791403
+e358082501.836170
+r1
+xLd
+x/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball
+xnormal
+xi386
+lSLF07#2@81"Link /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball358082501#358082501#0(0"0(0#0#0"8605016992#865"    cd /Users/SandeepReddy/Downloads/Ball    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator -F/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator -filelist /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Objects-normal/i386/Ball.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Ball0#
+
+CProcessInfoPlistFile /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Info.plist Info.plist
+s358082499.820892
+e358082499.835697
+r1
+xProcessInfoPlistFile
+x/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist358082499#358082499#0(0"0(0#0#45"/Users/SandeepReddy/Downloads/Ball/Info.plist8606979392#453"    cd /Users/SandeepReddy/Downloads/Ball    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app/Info.plist0#
+
+CProcessPCH /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch.gch Ball_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s358082500.560945
+e358082501.547470
+r1
+xProcessPCH
+x/var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch.gch
+xBall_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Ball_Prefix.pch358082500#358082501#0(0"0(0#0#50"/Users/SandeepReddy/Downloads/Ball/Ball_Prefix.pch8602207552#1709"    cd /Users/SandeepReddy/Downloads/Ball    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-generated-files.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-own-target-headers.hmap -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-all-target-headers.hmap -iquote /Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/Ball-project-headers.hmap -F/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator -I/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/include -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources/i386 -I/Users/SandeepReddy/Downloads/Ball/build/Ball.build/Debug-iphonesimulator/Ball.build/DerivedSources -c /Users/SandeepReddy/Downloads/Ball/Ball_Prefix.pch -o /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/Ball_Prefix-aymwxomekomutjcyzgmfkqaavihm/Ball_Prefix.pch.gch0#
+
+CTouch /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app
+s358082501.853879
+e358082501.859267
+r1
+xTouch
+x/Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app
+lSLF07#2@77"Touch /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app358082501#358082501#0(0"0(0#0#0"8608266656#267"    cd /Users/SandeepReddy/Downloads/Ball    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/SandeepReddy/Downloads/Ball/build/Debug-iphonesimulator/Ball.app0#
+

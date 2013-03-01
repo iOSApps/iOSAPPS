@@ -1,0 +1,493 @@
+Tmaps
+v7
+r0
+t358064919.667541
+cCheck dependencies
+cProcessInfoPlistFile "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/Info.plist" maps-Info.plist
+cCompileXIB "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/MainWindow.xib"
+cCompileXIB "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/mapsViewController.xib"
+cProcessPCH /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch.gch maps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps" normal i386
+cGenerateDSYMFile "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app.dSYM" "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps"
+cTouch "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.h
+c000000004F953BB600000000000001C8
+t1335180214
+s456
+i<UIKit/UIKit.h>
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.m
+c000000004F953BB60000000000000A81
+t1335180214
+s2689
+i"mapsAppDelegate.h"
+i"mapsViewController.h"
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.h
+c000000004F95415200000000000001B9
+t1335181650
+s441
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.m
+c000000004F96692B0000000000000B26
+t1335257387
+s2854
+i"mapsViewController.h"
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/MainWindow.xib
+c000000004F953BB60000000000004E05
+t1335180214
+s19973
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app
+t1336372119
+s238
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app.dSYM
+t1336372119
+s102
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/Info.plist
+t1335180399
+s579
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/MainWindow.nib
+t1335180582
+s1117
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/PkgInfo
+t1335180399
+s8
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps
+t1336372119
+s23084
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/mapsViewController.nib
+t1335257710
+s1390
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o
+t1336372119
+s6340
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/maps.LinkFileList
+c000000004FA76B9500000000000001AB
+t1336372117
+s427
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o
+t1336372119
+s52240
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o
+t1336372119
+s51504
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/main.m
+c000000004F953BB60000000000000161
+t1335180214
+s353
+i<UIKit/UIKit.h>
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/mapsViewController.xib
+c000000004F966A6700000000000052B7
+t1335257703
+s21175
+
+N/Users/SandeepReddy/Desktop/Public/iphone programes/maps/maps_Prefix.pch
+c000000004F953BB600000000000000B1
+t1335180214
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/vanita/Documents/maps/Classes/mapsAppDelegate.h
+c000000004F953BB600000000000001C8
+t1335180214
+s456
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Documents/maps/Classes/mapsAppDelegate.m
+c000000004F953BB60000000000000A81
+t1335180214
+s2689
+i"mapsAppDelegate.h"
+i"mapsViewController.h"
+
+N/Users/vanita/Documents/maps/Classes/mapsViewController.h
+c000000004F95415200000000000001B9
+t1335181650
+s441
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/vanita/Documents/maps/Classes/mapsViewController.m
+c000000004F96692B0000000000000B26
+t1335257387
+s2854
+i"mapsViewController.h"
+
+N/Users/vanita/Documents/maps/MainWindow.xib
+c000000004F953BB60000000000004E05
+t1335180214
+s19973
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app
+t1335257711
+s238
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app.dSYM
+t1335257393
+s102
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist
+t1335180399
+s579
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/MainWindow.nib
+t1335180582
+s1117
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/PkgInfo
+t1335180399
+s8
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps
+t1335257391
+s22916
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/mapsViewController.nib
+t1335257710
+s1390
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o
+t1335180587
+s6388
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/maps.LinkFileList
+c000000004F953C6D0000000000000157
+t1335180397
+s343
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o
+t1335181651
+s52392
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o
+t1335257388
+s51688
+
+N/Users/vanita/Documents/maps/main.m
+c000000004F953BB60000000000000161
+t1335180214
+s353
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Documents/maps/mapsViewController.xib
+c000000004F966A6700000000000052B7
+t1335257703
+s21175
+
+N/Users/vanita/Documents/maps/maps_Prefix.pch
+c000000004F953BB600000000000000B1
+t1335180214
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch.gch
+t1335180587
+s15461584
+
+N/var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch.gch
+t1336372118
+s15453392
+
+Nmaps-Info.plist
+c000000004F953BB6000000000000038D
+t1335180214
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358064917#358064917#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s358064918.962357
+e358064919.110692
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o
+x/Users/SandeepReddy/Desktop/Public/iphone programes/maps/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/SandeepReddy/Desktop/Public/iphone programes/maps/main.m358064918#358064919#0(0"0(0#0#63"/Users/SandeepReddy/Desktop/Public/iphone programes/maps/main.m8609836928#2074"    cd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap" -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap" "-F/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/include" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources" -include /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch -c "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/main.m" -o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o /Users/vanita/Documents/maps/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356873387.801814
+e356873387.937678
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o
+x/Users/vanita/Documents/maps/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/vanita/Documents/maps/main.m356873387#356873387#0(0"0(0#0#35"/Users/vanita/Documents/maps/main.m8607519392#1848"    cd /Users/vanita/Documents/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap -F/Users/vanita/Documents/maps/build/Debug-iphonesimulator -I/Users/vanita/Documents/maps/build/Debug-iphonesimulator/include -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386 -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch -c /Users/vanita/Documents/maps/main.m -o /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s358064918.963723
+e358064919.127583
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o
+x/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.m358064918#358064919#0(0"0(0#0#82"/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.m8600921632#2104"    cd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap" -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap" "-F/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/include" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources" -include /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch -c "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsAppDelegate.m" -o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o"0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o /Users/vanita/Documents/maps/Classes/mapsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356874451.190387
+e356874451.339267
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o
+x/Users/vanita/Documents/maps/Classes/mapsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/vanita/Documents/maps/Classes/mapsAppDelegate.m356874451#356874451#0(0"0(0#0#54"/Users/vanita/Documents/maps/Classes/mapsAppDelegate.m8613675328#1878"    cd /Users/vanita/Documents/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap -F/Users/vanita/Documents/maps/build/Debug-iphonesimulator -I/Users/vanita/Documents/maps/build/Debug-iphonesimulator/include -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386 -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch -c /Users/vanita/Documents/maps/Classes/mapsAppDelegate.m -o /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s358064919.110793
+e358064919.199218
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o
+x/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.m358064919#358064919#0(0"0(0#0#85"/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.m8608612672#2110"    cd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap" -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap" "-F/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/include" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources" -include /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch -c "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/Classes/mapsViewController.m" -o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o"0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o /Users/vanita/Documents/maps/Classes/mapsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356950188.159515
+e356950188.514006
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o
+x/Users/vanita/Documents/maps/Classes/mapsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/vanita/Documents/maps/Classes/mapsViewController.m356950188#356950188#0(0"0(0#0#57"/Users/vanita/Documents/maps/Classes/mapsViewController.m8615617152#1884"    cd /Users/vanita/Documents/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap -F/Users/vanita/Documents/maps/build/Debug-iphonesimulator -I/Users/vanita/Documents/maps/build/Debug-iphonesimulator/include -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386 -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources -include /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch -c /Users/vanita/Documents/maps/Classes/mapsViewController.m -o /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o0#
+
+CCompileXIB "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/mapsViewController.xib"
+r0
+
+CCompileXIB /Users/vanita/Documents/maps/MainWindow.xib
+s356873380.100826
+e356873382.946168
+r1
+xCompileXIB
+x/Users/vanita/Documents/maps/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib356873380#356873382#0(0"0(0#0#43"/Users/vanita/Documents/maps/MainWindow.xib8615272352#641"    cd /Users/vanita/Documents/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/MainWindow.nib /Users/vanita/Documents/maps/MainWindow.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/vanita/Documents/maps/mapsViewController.xib
+s356950508.885966
+e356950511.007404
+r1
+xCompileXIB
+x/Users/vanita/Documents/maps/mapsViewController.xib
+lSLF07#2@33"CompileXIB mapsViewController.xib356950508#356950511#0(0"0(0#0#51"/Users/vanita/Documents/maps/mapsViewController.xib8615511936#657"    cd /Users/vanita/Documents/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/mapsViewController.nib /Users/vanita/Documents/maps/mapsViewController.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app.dSYM" "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps"
+s358064919.516202
+e358064919.639543
+r1
+xGenerateDSYMFile
+x/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app.dSYM
+x/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/maps.app.dSYM build/Debug-iphonesimulator/maps.app/maps358064919#358064919#0(0"0(0#0#98"/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps8602848640#434"    cd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps" -o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app.dSYM"0#
+
+CGenerateDSYMFile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app.dSYM /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps
+s356950191.706744
+e356950193.359893
+r1
+xGenerateDSYMFile
+x/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app.dSYM
+x/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/maps.app.dSYM build/Debug-iphonesimulator/maps.app/maps356950191#356950193#0(0"0(0#0#70"/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps8615273664#422"    cd /Users/vanita/Documents/maps    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/dsymutil /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps -o /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app.dSYM0#
+
+CLd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps" normal i386
+s358064919.199313
+e358064919.516037
+r1
+xLd
+x/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps
+xnormal
+xi386
+lSLF07#2@103"Link /Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps358064919#358064919#0(0"0(0#0#0"8604762272#1003"    cd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator" "-F/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator" -filelist "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/maps.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/maps"0#
+
+CLd /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps normal i386
+s356950188.514100
+e356950191.706605
+r1
+xLd
+x/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps
+xnormal
+xi386
+lSLF07#2@75"Link /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps356950188#356950191#0(0"0(0#0#0"8615050560#957"    cd /Users/vanita/Documents/maps    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/vanita/Documents/maps/build/Debug-iphonesimulator -F/Users/vanita/Documents/maps/build/Debug-iphonesimulator -filelist /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/maps.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps0#
+
+CProcessInfoPlistFile "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app/Info.plist" maps-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist maps-Info.plist
+s356873198.330848
+e356873199.508517
+r1
+xProcessInfoPlistFile
+x/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist
+xmaps-Info.plist
+lSLF07#2@23"Process maps-Info.plist356873198#356873199#0(0"0(0#0#44"/Users/vanita/Documents/maps/maps-Info.plist31244220637446252#492"    cd /Users/vanita/Documents/maps    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility maps-Info.plist -genpkginfo /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist0#
+
+CProcessPCH /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch.gch maps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356873382.946453
+e356873387.801658
+r1
+xProcessPCH
+x/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch.gch
+xmaps_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile maps_Prefix.pch356873382#356873387#0(0"0(0#0#44"/Users/vanita/Documents/maps/maps_Prefix.pch8615270048#1753"    cd /Users/vanita/Documents/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap -iquote /Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap -F/Users/vanita/Documents/maps/build/Debug-iphonesimulator -I/Users/vanita/Documents/maps/build/Debug-iphonesimulator/include -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386 -I/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources -c /Users/vanita/Documents/maps/maps_Prefix.pch -o /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch.gch maps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s358064917.853180
+e358064918.962202
+r1
+xProcessPCH
+x/var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch.gch
+xmaps_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile maps_Prefix.pch358064917#358064918#0(0"0(0#0#72"/Users/SandeepReddy/Desktop/Public/iphone programes/maps/maps_Prefix.pch7594869363256030208#1949"    cd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-generated-files.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-own-target-headers.hmap" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-all-target-headers.hmap" -iquote "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/maps-project-headers.hmap" "-F/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/include" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources/i386" "-I/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/maps.build/Debug-iphonesimulator/maps.build/DerivedSources" -c "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/maps_Prefix.pch" -o /var/folders/xK/xKCpI3GpGEOTBsXsbljt3U+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/maps_Prefix-bdtlywettehvyuabglfmdakrimpc/maps_Prefix.pch.gch0#
+
+CTouch "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app"
+s358064919.639639
+e358064919.667480
+r1
+xTouch
+x/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app
+lSLF07#2@99"Touch /Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app358064919#358064919#0(0"0(0#0#0"8590301824#315"    cd "/Users/SandeepReddy/Desktop/Public/iphone programes/maps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/SandeepReddy/Desktop/Public/iphone programes/maps/build/Debug-iphonesimulator/maps.app"0#
+
+CTouch /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app
+s356950511.008141
+e356950511.089944
+r1
+xTouch
+x/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app
+lSLF07#2@71"Touch /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app356950511#356950511#0(0"0(0#0#0"8607630240#307"    cd /Users/vanita/Documents/maps    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app0#
+

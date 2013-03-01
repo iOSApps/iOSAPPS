@@ -1,0 +1,340 @@
+Tsavedetaildatabase
+v7
+r0
+t337694510.618917
+cCheck dependencies
+cProcessInfoPlistFile /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/Info.plist savedetaildatabase-Info.plist
+cCompileXIB /Users/rajan/Documents/savedetaildatabase/MainWindow.xib
+cCompileXIB /Users/rajan/Documents/savedetaildatabase/savedetaildatabaseViewController.xib
+cCpResource build/Debug-iphonesimulator/savedetaildatabase.app/sqlite1database sqlite1database
+cProcessPCH /var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch.gch savedetaildatabase_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o /Users/rajan/Documents/savedetaildatabase/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004E57867F0000000000000132
+t1314358911
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sqlite3.h
+c000000004BFDF9FB0000000000041A6F
+t1274935803
+s268911
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libsqlite3.dylib
+c000000004BFDFA0A0000000000079480
+t1274935818
+s496768
+
+N/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.h
+c000000004E70881C000000000000021A
+t1315997724
+s538
+i<UIKit/UIKit.h>
+
+N/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m
+c000000004E70881C0000000000000ABB
+t1315997724
+s2747
+i"savedetaildatabaseAppDelegate.h"
+i"savedetaildatabaseViewController.h"
+
+N/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.h
+c000000004E7097AB000000000000030A
+t1316001707
+s778
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m
+c000000004E7097AB00000000000011A7
+t1316001707
+s4519
+i"savedetaildatabaseViewController.h"
+
+N/Users/rajan/Documents/savedetaildatabase/MainWindow.xib
+c000000004E70881C0000000000004EAD
+t1315997724
+s20141
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app
+t2
+s0
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app.dSYM
+t2
+s0
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/Info.plist
+t1316001707
+s641
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/MainWindow.nib
+t1316001709
+s1145
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/PkgInfo
+t1316001707
+s8
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/savedetaildatabase
+t2
+s0
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/savedetaildatabaseViewController.nib
+t1316001709
+s795
+
+N/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/sqlite1database
+t1316001709
+s6144
+
+N/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o
+t1316001710
+s6308
+
+N/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabase.LinkFileList
+c000000004E7097AB00000000000001EE
+t1316001707
+s494
+
+N/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o
+t1316001710
+s48592
+
+N/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o
+t2
+s0
+
+N/Users/rajan/Documents/savedetaildatabase/main.m
+c000000004E70881C000000000000016D
+t1315997724
+s365
+i<UIKit/UIKit.h>
+
+N/Users/rajan/Documents/savedetaildatabase/savedetaildatabaseViewController.xib
+c000000004E70881C0000000000001A71
+t1315997724
+s6769
+
+N/Users/rajan/Documents/savedetaildatabase/savedetaildatabase_Prefix.pch
+c000000004E70881C00000000000000CD
+t1315997724
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rajan/Documents/savedetaildatabase/sqlite1database
+c000000004E7082380000000000001800
+t1315996216
+s6144
+
+N/var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch.gch
+t1316001710
+s15232016
+
+Nsavedetaildatabase-Info.plist
+c000000004E70881C000000000000038D
+t1315997724
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337694507#337694507#0(0"0(0#1#0"8612961184#0"0#
+
+CCompileC build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o /Users/rajan/Documents/savedetaildatabase/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337694510.476829
+e337694510.535320
+r1
+xCompileC
+xbuild/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o
+x/Users/rajan/Documents/savedetaildatabase/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/rajan/Documents/savedetaildatabase/main.m337694510#337694510#0(0"0(0#0#48"/Users/rajan/Documents/savedetaildatabase/main.m8617783200#2154"    cd /Users/rajan/Documents/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator -I/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/include -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources -include /var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch -c /Users/rajan/Documents/savedetaildatabase/main.m -o /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/main.o0#
+
+CCompileC build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337694510.478177
+e337694510.583769
+r1
+xCompileC
+xbuild/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o
+x/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m337694510#337694510#0(0"0(0#0#81"/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m8617621536#2212"    cd /Users/rajan/Documents/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator -I/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/include -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources -include /var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch -c /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseAppDelegate.m -o /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseAppDelegate.o0#
+
+CCompileC build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337694510.535428
+e337694510.618837
+r0
+xCompileC
+xbuild/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o
+x/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:22:54: warning: unknown escape sequence '\,'
+o/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m: In function '-[savedetaildatabaseViewController findContact]':
+o/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:58: error: 'email_id' undeclared (first use in this function)
+o/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:58: error: (Each undeclared identifier is reported only once
+o/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:58: error: for each function it appears in.)
+o/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:61: error: 'passwordField' undeclared (first use in this function)
+o/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:60: warning: unused variable 'phoneField'
+o{standard input}:320:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:320:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:307:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:307:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:300:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:300:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:290:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:290:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:283:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:275:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:275:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:268:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:268:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:260:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:253:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:253:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:245:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:238:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:238:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:230:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:230:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:223:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:223:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:202:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:202:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:179:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:179:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:172:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:172:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:166:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:166:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:159:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:159:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:153:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:153:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:146:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:146:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:140:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:127:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:127:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:123:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:123:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:111:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:111:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:103:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:103:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:97:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.databasePath$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:97:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.databasePath$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.databasePath$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+lSLF07#2@92"Compile /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m337694510#337694510#0(9555"/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:22:54: warning: unknown escape sequence '\,'/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m: In function '-[savedetaildatabaseViewController findContact]':/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:58: error: 'email_id' undeclared (first use in this function)/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:58: error: (Each undeclared identifier is reported only once/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:58: error: for each function it appears in.)/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:61: error: 'passwordField' undeclared (first use in this function)/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m:60: warning: unused variable 'phoneField'{standard input}:320:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" minus "L00000000001$pb"{standard input}:320:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:307:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:307:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:300:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" minus "L00000000001$pb"{standard input}:300:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:290:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:290:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" minus "L00000000001$pb"{standard input}:283:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:275:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:275:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:268:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" minus "L00000000001$pb"{standard input}:268:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:260:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:253:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" minus "L00000000001$pb"{standard input}:253:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:245:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:238:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" minus "L00000000001$pb"{standard input}:238:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:230:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:230:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:223:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" minus "L00000000001$pb"{standard input}:223:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:202:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" minus "L00000000001$pb"{standard input}:202:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:179:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:179:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:172:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:172:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:166:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" minus "L00000000001$pb"{standard input}:166:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:159:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:159:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:153:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" minus "L00000000001$pb"{standard input}:153:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:146:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:146:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" minus "L00000000001$pb"{standard input}:140:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:127:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" minus "L00000000001$pb"{standard input}:127:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:123:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:123:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:111:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" minus "L00000000001$pb"{standard input}:111:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:103:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:103:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:97:non-relocatable subtraction expression, "L_OBJC_IVAR_$_savedetaildatabaseViewController.databasePath$non_lazy_ptr" minus "L00000000001$pb"{standard input}:97:symbol: "L_OBJC_IVAR_$_savedetaildatabaseViewController.databasePath$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.databasePath$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.contactDB$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.zipcode$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.password$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.emailid$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.username$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_savedetaildatabaseViewController.status$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24(22@28"Unknown escape sequence '\,'337694510#0#130#0(6@84"/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m337694507#22#0#22#0#0"0(4@50"'email_id' undeclared (first use in this function)337694510#279#147#0(6@84"/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m337694507#58#0#58#0#43"'*' undeclared (first use in this function)0(4@55"'passwordField' undeclared (first use in this function)337694510#702#152#0(6@84"/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m337694507#61#0#61#0#43"'*' undeclared (first use in this function)0(22@28"Unused variable 'phoneField'337694510#854#127#0(6@84"/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m337694507#60#0#60#0#19"unused variable '*'0(0#0#84"/Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m8617331936#2218"    cd /Users/rajan/Documents/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator -I/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/include -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources -include /var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch -c /Users/rajan/Documents/savedetaildatabase/Classes/savedetaildatabaseViewController.m -o /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/Objects-normal/i386/savedetaildatabaseViewController.o1#
+
+CCompileXIB /Users/rajan/Documents/savedetaildatabase/MainWindow.xib
+s337694507.736277
+e337694509.241184
+r1
+xCompileXIB
+x/Users/rajan/Documents/savedetaildatabase/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib337694507#337694509#0(0"0(0#0#56"/Users/rajan/Documents/savedetaildatabase/MainWindow.xib8617996992#590"    cd /Users/rajan/Documents/savedetaildatabase    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/MainWindow.nib /Users/rajan/Documents/savedetaildatabase/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/rajan/Documents/savedetaildatabase/savedetaildatabaseViewController.xib
+s337694507.737080
+e337694509.219211
+r1
+xCompileXIB
+x/Users/rajan/Documents/savedetaildatabase/savedetaildatabaseViewController.xib
+lSLF07#2@47"CompileXIB savedetaildatabaseViewController.xib337694507#337694509#0(0"0(0#0#78"/Users/rajan/Documents/savedetaildatabase/savedetaildatabaseViewController.xib8614355296#634"    cd /Users/rajan/Documents/savedetaildatabase    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/savedetaildatabaseViewController.nib /Users/rajan/Documents/savedetaildatabase/savedetaildatabaseViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/savedetaildatabase.app/sqlite1database sqlite1database
+s337694509.219307
+e337694509.241643
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/savedetaildatabase.app/sqlite1database
+xsqlite1database
+lSLF07#2@20"Copy sqlite1database337694509#337694509#0(0"0(0#0#57"/Users/rajan/Documents/savedetaildatabase/sqlite1database8616359584#479"    cd /Users/rajan/Documents/savedetaildatabase    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rajan/Documents/savedetaildatabase/sqlite1database /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app0#
+
+CGenerateDSYMFile /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app.dSYM /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/savedetaildatabase
+r0
+
+CLd /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/savedetaildatabase normal i386
+r0
+
+CProcessInfoPlistFile /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/Info.plist savedetaildatabase-Info.plist
+s337694507.732235
+e337694507.736199
+r1
+xProcessInfoPlistFile
+x/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/Info.plist
+xsavedetaildatabase-Info.plist
+lSLF07#2@37"Process savedetaildatabase-Info.plist337694507#337694507#0(0"0(0#0#71"/Users/rajan/Documents/savedetaildatabase/savedetaildatabase-Info.plist8609570656#521"    cd /Users/rajan/Documents/savedetaildatabase    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility savedetaildatabase-Info.plist -genpkginfo /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app/Info.plist0#
+
+CProcessPCH /var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch.gch savedetaildatabase_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337694509.241736
+e337694510.476692
+r1
+xProcessPCH
+x/var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch.gch
+xsavedetaildatabase_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile savedetaildatabase_Prefix.pch337694509#337694510#0(0"0(0#0#71"/Users/rajan/Documents/savedetaildatabase/savedetaildatabase_Prefix.pch8614869952#2032"    cd /Users/rajan/Documents/savedetaildatabase    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-generated-files.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-own-target-headers.hmap -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-all-target-headers.hmap -iquote /Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/savedetaildatabase-project-headers.hmap -F/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator -I/Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/include -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources/i386 -I/Users/rajan/Documents/savedetaildatabase/build/savedetaildatabase.build/Debug-iphonesimulator/savedetaildatabase.build/DerivedSources -c /Users/rajan/Documents/savedetaildatabase/savedetaildatabase_Prefix.pch -o /var/folders/AI/AIJ1JpG-El8BuSOyrpdchk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/savedetaildatabase_Prefix-dupgyoeposcbljbirfgawpguskpt/savedetaildatabase_Prefix.pch.gch0#
+
+CTouch /Users/rajan/Documents/savedetaildatabase/build/Debug-iphonesimulator/savedetaildatabase.app
+r0
+

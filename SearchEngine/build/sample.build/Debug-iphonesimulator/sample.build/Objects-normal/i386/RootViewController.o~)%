@@ -1,0 +1,3 @@
+/Users/User/Desktop/sample/Classes/RootViewController.m:204: warning: incomplete implementation of class 'RootViewController'
+/Users/User/Desktop/sample/Classes/RootViewController.m:204: warning: method definition for '-removeScreen' not found
+/Users/User/Desktop/sample/Classes/RootViewController.m:204: warning: method definition for '-displayScreen' not found

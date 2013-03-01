@@ -1,0 +1,822 @@
+TCoreTextMagazine
+v7
+r0
+t354545486.578452
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/Info.plist CoreTextMagazine/CoreTextMagazine-Info.plist
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch.gch CoreTextMagazine/CoreTextMagazine-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+cCopyStringsFile /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/InfoPlist.strings CoreTextMagazine/en.lproj/InfoPlist.strings
+cCompileXIB /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib
+cCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/test.txt CoreTextMagazine/test.txt
+cCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombie1.jpg zombie1.jpg
+cCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombie2.jpg zombie2.jpg
+cCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombie3.jpg zombie3.jpg
+cCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombies.txt zombies.txt
+cTouch /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000004CC122FF000000000009AF90
+t1287725823
+s634768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h
+c000000004CC122F200000000000008C5
+t1287725810
+s2245
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.h
+c000000004E439C8A00000000000000F8
+t1313053834
+s248
+i<UIKit/UIKit.h>
+i<CoreText/CoreText.h>
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.m
+c000000004E439CA400000000000003C5
+t1313053860
+s965
+i"CTColumnView.h"
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.h
+c000000004E439CDE00000000000002DD
+t1313053918
+s733
+i<UIKit/UIKit.h>
+i"CTColumnView.h"
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.m
+c000000004E439CCF000000000000163A
+t1313053903
+s5690
+i"CTView.h"
+i<CoreText/CoreText.h>
+i"MarkupParser.h"
+i"CTColumnView.h"
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazine-Prefix.pch
+c000000004E4398CB0000000000000152
+t1313052875
+s338
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.h
+c000000004E4398CB00000000000001C4
+t1313052875
+s452
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m
+c000000004E4398CB000000000000098E
+t1313052875
+s2446
+i"CoreTextMagazineAppDelegate.h"
+i"CoreTextMagazineViewController.h"
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.h
+c000000004E4398CB0000000000000100
+t1313052875
+s256
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m
+c000000004E439CF30000000000000279
+t1313053939
+s633
+i"CoreTextMagazineViewController.h"
+i"CTView.h"
+i"MarkupParser.h"
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.h
+c000000004E4399B10000000000000222
+t1313053105
+s546
+i<Foundation/Foundation.h>
+i<CoreText/CoreText.h>
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.m
+c000000004E439C3100000000000020D4
+t1313053745
+s8404
+i"MarkupParser.h"
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib
+c000000004E439A230000000000001C63
+t1313053219
+s7267
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/en.lproj/InfoPlist.strings
+c000000004E4398CB000000000000002D
+t1313052875
+s45
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib
+c000000004E4398CB0000000000004D53
+t1313052875
+s19795
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/main.m
+c000000004E4398CB0000000000000169
+t1313052875
+s361
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/test.txt
+c000000004E439A880000000000000C5D
+t1313053320
+s3165
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o
+t1332852686
+s38004
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o
+t1332852686
+s55164
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazine.LinkFileList
+c000000004F71B7CD0000000000000391
+t1332852685
+s913
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o
+t1332852686
+s47912
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o
+t1332852686
+s34376
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o
+t1332852686
+s42932
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o
+t1332852686
+s3108
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app
+t1332852686
+s374
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM
+t1332852686
+s102
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+t1332852686
+s56528
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/Info.plist
+t1332852582
+s885
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/PkgInfo
+t1332852582
+s8
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/CoreTextMagazineViewController.nib
+t1332852585
+s1303
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/InfoPlist.strings
+t1332852585
+s42
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/MainWindow.nib
+t1332852585
+s1700
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/test.txt
+t1332852585
+s3165
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombie1.jpg
+t1332852585
+s154486
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombie2.jpg
+t1332852585
+s5575
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombie3.jpg
+t1332852585
+s39812
+
+N/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombies.txt
+t1332852585
+s3871
+
+N/Users/sandeep/Desktop/CoreTextMagazine/zombie1.jpg
+c000000004E0A1B110000000000025B76
+t1309285137
+s154486
+
+N/Users/sandeep/Desktop/CoreTextMagazine/zombie2.jpg
+c000000004E0A1B1100000000000015C7
+t1309285137
+s5575
+
+N/Users/sandeep/Desktop/CoreTextMagazine/zombie3.jpg
+c000000004E0A1B110000000000009B84
+t1309285137
+s39812
+
+N/Users/sandeep/Desktop/CoreTextMagazine/zombies.txt
+c000000004E0A1B110000000000000F1F
+t1309285137
+s3871
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTColumnView.h
+c000000004E439C8A00000000000000F8
+t1313053834
+s248
+i<UIKit/UIKit.h>
+i<CoreText/CoreText.h>
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTColumnView.m
+c000000004E439CA400000000000003C5
+t1313053860
+s965
+i"CTColumnView.h"
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTView.h
+c000000004E439CDE00000000000002DD
+t1313053918
+s733
+i<UIKit/UIKit.h>
+i"CTColumnView.h"
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTView.m
+c000000004E439CCF000000000000163A
+t1313053903
+s5690
+i"CTView.h"
+i<CoreText/CoreText.h>
+i"MarkupParser.h"
+i"CTColumnView.h"
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazine-Prefix.pch
+c000000004E4398CB0000000000000152
+t1313052875
+s338
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.h
+c000000004E4398CB00000000000001C4
+t1313052875
+s452
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m
+c000000004E4398CB000000000000098E
+t1313052875
+s2446
+i"CoreTextMagazineAppDelegate.h"
+i"CoreTextMagazineViewController.h"
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.h
+c000000004E4398CB0000000000000100
+t1313052875
+s256
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m
+c000000004E439CF30000000000000279
+t1313053939
+s633
+i"CoreTextMagazineViewController.h"
+i"CTView.h"
+i"MarkupParser.h"
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/MarkupParser.h
+c000000004E4399B10000000000000222
+t1313053105
+s546
+i<Foundation/Foundation.h>
+i<CoreText/CoreText.h>
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/MarkupParser.m
+c000000004E439C3100000000000020D4
+t1313053745
+s8404
+i"MarkupParser.h"
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib
+c000000004E439A230000000000001C63
+t1313053219
+s7267
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/InfoPlist.strings
+c000000004E4398CB000000000000002D
+t1313052875
+s45
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib
+c000000004E4398CB0000000000004D53
+t1313052875
+s19795
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/main.m
+c000000004E4398CB0000000000000169
+t1313052875
+s361
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/test.txt
+c000000004E439A880000000000000C5D
+t1313053320
+s3165
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o
+t1332852584
+s38012
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o
+t1332852584
+s55172
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazine.LinkFileList
+c000000004F71B76600000000000003A9
+t1332852582
+s937
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o
+t1332852583
+s47920
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o
+t1332852584
+s34384
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o
+t1332852584
+s42944
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o
+t1332852583
+s3116
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app
+t1332852585
+s374
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM
+t1332852584
+s102
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+t1332852584
+s56580
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/Info.plist
+t1332852582
+s885
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/PkgInfo
+t1332852582
+s8
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/CoreTextMagazineViewController.nib
+t1332852585
+s1303
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/InfoPlist.strings
+t1332852585
+s42
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/MainWindow.nib
+t1332852585
+s1700
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/test.txt
+t1332852585
+s3165
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombie1.jpg
+t1332852585
+s154486
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombie2.jpg
+t1332852585
+s5575
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombie3.jpg
+t1332852585
+s39812
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/zombies.txt
+t1332852585
+s3871
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/zombie1.jpg
+c000000004E0A1B110000000000025B76
+t1309285137
+s154486
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/zombie2.jpg
+c000000004E0A1B1100000000000015C7
+t1309285137
+s5575
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/zombie3.jpg
+c000000004E0A1B110000000000009B84
+t1309285137
+s39812
+
+N/Users/sivakumar/Downloads/CoreTextMagazine/zombies.txt
+c000000004E0A1B110000000000000F1F
+t1309285137
+s3871
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch.gch
+t1332852686
+s11992272
+
+N/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch.gch
+t1332852583
+s11992272
+
+NCoreTextMagazine/CoreTextMagazine-Info.plist
+c000000004E4398CB00000000000004F3
+t1313052875
+s1267
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354545485#354545485#0(0"0(0#1#0"8611522464#0"0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545486.405519
+e354545486.516486
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o
+x/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.m354545486#354545486#0(0"0(0#0#71"/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.m8611772224#2250"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch -c /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTColumnView.m -o /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTColumnView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545384.199739
+e354545384.346332
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTColumnView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@83"Compile /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTColumnView.m354545384#354545384#0(0"0(0#0#75"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTColumnView.m8618066112#2294"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch -c /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTColumnView.m -o /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTColumnView.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545486.241814
+e354545486.405413
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o
+x/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@73"Compile /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.m354545486#354545486#0(0"0(0#0#65"/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.m8612396096#2238"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch -c /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CTView.m -o /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545383.882455
+e354545384.199639
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTView.m354545383#354545384#0(0"0(0#0#69"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTView.m8616060480#2282"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch -c /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CTView.m -o /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CTView.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545486.115455
+e354545486.241715
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o
+x/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@94"Compile /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m354545486#354545486#0(0"0(0#0#86"/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m8612782496#2280"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch -c /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m -o /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545383.667780
+e354545383.882252
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@98"Compile /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m354545383#354545383#0(0"0(0#0#90"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m8619274528#2324"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch -c /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineAppDelegate.m -o /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineAppDelegate.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545486.193301
+e354545486.313585
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o
+x/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@97"Compile /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m354545486#354545486#0(0"0(0#0#89"/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m8609409824#2286"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch -c /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m -o /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545383.803155
+e354545384.043461
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@101"Compile /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m354545383#354545384#0(0"0(0#0#93"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m8617776256#2330"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch -c /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazineViewController.m -o /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazineViewController.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545486.313690
+e354545486.494999
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o
+x/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.m354545486#354545486#0(0"0(0#0#71"/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.m8612079360#2250"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch -c /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/MarkupParser.m -o /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/MarkupParser.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545384.043558
+e354545384.353949
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/MarkupParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@83"Compile /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/MarkupParser.m354545384#354545384#0(0"0(0#0#75"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/MarkupParser.m8615100192#2294"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch -c /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/MarkupParser.m -o /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/MarkupParser.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545486.113758
+e354545486.193194
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/main.m354545486#354545486#0(0"0(0#0#63"/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/main.m8612958208#2234"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch -c /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/main.m -o /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o0#
+
+CCompileC build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545383.666268
+e354545383.803050
+r1
+xCompileC
+xbuild/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@75"Compile /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/main.m354545383#354545383#0(0"0(0#0#67"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/main.m8622623136#2278"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch -c /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/main.m -o /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib
+s354545385.036880
+e354545385.487935
+r1
+xCompileXIB
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib
+lSLF07#2@71"CompileXIB CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib354545385#354545385#0(0"0(0#0#104"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib8618921632#669"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/CoreTextMagazineViewController.nib /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/CoreTextMagazineViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib
+s354545384.610918
+e354545385.256952
+r1
+xCompileXIB
+x/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib
+lSLF07#2@51"CompileXIB CoreTextMagazine/en.lproj/MainWindow.xib354545384#354545385#0(0"0(0#0#84"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib8601694016#629"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/MainWindow.nib /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/InfoPlist.strings CoreTextMagazine/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/InfoPlist.strings CoreTextMagazine/en.lproj/InfoPlist.strings
+s354545384.609769
+e354545385.036786
+r1
+xCopyStringsFile
+x/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj/InfoPlist.strings
+xCoreTextMagazine/en.lproj/InfoPlist.strings
+lSLF07#2@48"Copy CoreTextMagazine/en.lproj/InfoPlist.strings354545384#354545385#0(0"0(0#0#87"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/en.lproj/InfoPlist.strings8609584224#519"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary CoreTextMagazine/en.lproj/InfoPlist.strings --outdir /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/test.txt CoreTextMagazine/test.txt
+s354545385.257062
+e354545385.273774
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoreTextMagazine.app/test.txt
+xCoreTextMagazine/test.txt
+lSLF07#2@30"Copy CoreTextMagazine/test.txt354545385#354545385#0(0"0(0#0#69"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/test.txt8617980192#507"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/test.txt /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app0#
+
+CCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombie1.jpg zombie1.jpg
+s354545385.258930
+e354545385.273903
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoreTextMagazine.app/zombie1.jpg
+xzombie1.jpg
+lSLF07#2@16"Copy zombie1.jpg354545385#354545385#0(0"0(0#0#55"/Users/sivakumar/Downloads/CoreTextMagazine/zombie1.jpg8616459904#493"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Downloads/CoreTextMagazine/zombie1.jpg /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app0#
+
+CCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombie2.jpg zombie2.jpg
+s354545385.264079
+e354545385.277872
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoreTextMagazine.app/zombie2.jpg
+xzombie2.jpg
+lSLF07#2@16"Copy zombie2.jpg354545385#354545385#0(0"0(0#0#55"/Users/sivakumar/Downloads/CoreTextMagazine/zombie2.jpg8616240864#493"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Downloads/CoreTextMagazine/zombie2.jpg /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app0#
+
+CCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombie3.jpg zombie3.jpg
+s354545385.265932
+e354545385.278227
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoreTextMagazine.app/zombie3.jpg
+xzombie3.jpg
+lSLF07#2@16"Copy zombie3.jpg354545385#354545385#0(0"0(0#0#55"/Users/sivakumar/Downloads/CoreTextMagazine/zombie3.jpg8616008640#493"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Downloads/CoreTextMagazine/zombie3.jpg /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app0#
+
+CCpResource build/Debug-iphonesimulator/CoreTextMagazine.app/zombies.txt zombies.txt
+s354545385.268825
+e354545385.278827
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoreTextMagazine.app/zombies.txt
+xzombies.txt
+lSLF07#2@16"Copy zombies.txt354545385#354545385#0(0"0(0#0#55"/Users/sivakumar/Downloads/CoreTextMagazine/zombies.txt8615826464#493"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sivakumar/Downloads/CoreTextMagazine/zombies.txt /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+s354545486.551184
+e354545486.574568
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM
+x/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine354545486#354545486#0(0"0(0#0#105"/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine8614596128#413"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine -o /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM0#
+
+CGenerateDSYMFile /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+s354545384.578401
+e354545384.609676
+r1
+xGenerateDSYMFile
+x/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM
+x/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine354545384#354545384#0(0"0(0#0#109"/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine8615052832#425"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine -o /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine normal i386
+s354545486.516580
+e354545486.551092
+r1
+xLd
+x/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+xnormal
+xi386
+lSLF07#2@110"Link /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine354545486#354545486#0(0"0(0#0#0"8611616288#984"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazine.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreText -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine0#
+
+CLd /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine normal i386
+s354545384.354059
+e354545384.578303
+r1
+xLd
+x/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine
+xnormal
+xi386
+lSLF07#2@114"Link /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine354545384#354545384#0(0"0(0#0#0"8617940960#1004"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -filelist /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/Objects-normal/i386/CoreTextMagazine.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreText -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/CoreTextMagazine0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/Info.plist CoreTextMagazine/CoreTextMagazine-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/Info.plist CoreTextMagazine/CoreTextMagazine-Info.plist
+s354545382.358049
+e354545382.396711
+r1
+xProcessInfoPlistFile
+x/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/Info.plist
+xCoreTextMagazine/CoreTextMagazine-Info.plist
+lSLF07#2@52"Process CoreTextMagazine/CoreTextMagazine-Info.plist354545382#354545382#0(0"0(0#0#88"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazine-Info.plist8615345920#538"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreTextMagazine/CoreTextMagazine-Info.plist -genpkginfo /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch.gch CoreTextMagazine/CoreTextMagazine-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545485.243500
+e354545486.113645
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch.gch
+xCoreTextMagazine/CoreTextMagazine-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Precompile CoreTextMagazine/CoreTextMagazine-Prefix.pch354545485#354545486#0(0"0(0#0#84"/Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazine-Prefix.pch8611064416#2116"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sandeep/Desktop/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/sandeep/Desktop/CoreTextMagazine/CoreTextMagazine/CoreTextMagazine-Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-cdrssvxuiygobqbxjtjoecvqvoom/CoreTextMagazine-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch.gch CoreTextMagazine/CoreTextMagazine-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s354545382.396855
+e354545383.648069
+r1
+xProcessPCH
+x/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch.gch
+xCoreTextMagazine/CoreTextMagazine-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Precompile CoreTextMagazine/CoreTextMagazine-Prefix.pch354545382#354545383#0(0"0(0#0#88"/Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazine-Prefix.pch8614925632#2156"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-generated-files.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-own-target-headers.hmap -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-all-target-headers.hmap -iquote /Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/CoreTextMagazine-project-headers.hmap -F/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator -I/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/include -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources/i386 -I/Users/sivakumar/Downloads/CoreTextMagazine/build/CoreTextMagazine.build/Debug-iphonesimulator/CoreTextMagazine.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/sivakumar/Downloads/CoreTextMagazine/CoreTextMagazine/CoreTextMagazine-Prefix.pch -o /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/CoreTextMagazine-Prefix-eegwruyobuvvvebxkbsyjednwvdw/CoreTextMagazine-Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app
+s354545486.575030
+e354545486.578397
+r1
+xTouch
+x/Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app
+lSLF07#2@94"Touch /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app354545486#354545486#0(0"0(0#0#0"8612582144#289"    cd /Users/sandeep/Desktop/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app0#
+
+CTouch /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app
+s354545385.488130
+e354545385.492331
+r1
+xTouch
+x/Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app
+lSLF07#2@98"Touch /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app354545385#354545385#0(0"0(0#0#0"8615192608#297"    cd /Users/sivakumar/Downloads/CoreTextMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sivakumar/Downloads/CoreTextMagazine/build/Debug-iphonesimulator/CoreTextMagazine.app0#
+

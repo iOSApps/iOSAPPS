@@ -1,0 +1,56 @@
+Tinstawit
+v7
+r1
+cCheck dependencies
+
+N/Volumes/anuraggupta/Desktop/dharmendra/instawit/MainWindow.xib
+c000000004D147B380000000000004E35
+t1293187896
+s20021
+
+N/Volumes/anuraggupta/Desktop/dharmendra/instawit/build/Debug/instawit.app
+t2
+s0
+
+N/Volumes/anuraggupta/Desktop/dharmendra/instawit/build/Debug/instawit.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/anuraggupta/Desktop/dharmendra/instawit/build/Debug/instawit.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/anuraggupta/Desktop/dharmendra/instawit/build/Debug/instawit.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/anuraggupta/Desktop/dharmendra/instawit/build/Debug/instawit.app/Contents/Resources/instawitViewController.nib
+t2
+s0
+
+N/Volumes/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib
+c000000004D19C1BB0000000000007640
+t1293533627
+s30272
+
+Ninstawit-Info.plist
+c000000004D147B38000000000000038D
+t1293187896
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315645312#315645312#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'315645312#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB /Volumes/anuraggupta/Desktop/dharmendra/instawit/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/anuraggupta/Desktop/dharmendra/instawit/instawitViewController.xib
+r0
+
+CProcessInfoPlistFile /Volumes/anuraggupta/Desktop/dharmendra/instawit/build/Debug/instawit.app/Contents/Info.plist instawit-Info.plist
+r0
+
+CTouch /Volumes/anuraggupta/Desktop/dharmendra/instawit/build/Debug/instawit.app
+r0
+

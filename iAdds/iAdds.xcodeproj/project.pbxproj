@@ -1,0 +1,338 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AC0367601654F5790055B95F /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC03675F1654F5790055B95F /* iAd.framework */; };
+		ACBD7F741654EE1B001DBE19 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBD7F731654EE1B001DBE19 /* UIKit.framework */; };
+		ACBD7F761654EE1B001DBE19 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBD7F751654EE1B001DBE19 /* Foundation.framework */; };
+		ACBD7F781654EE1B001DBE19 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBD7F771654EE1B001DBE19 /* CoreGraphics.framework */; };
+		ACBD7F7E1654EE1B001DBE19 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = ACBD7F7C1654EE1B001DBE19 /* InfoPlist.strings */; };
+		ACBD7F801654EE1B001DBE19 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBD7F7F1654EE1B001DBE19 /* main.m */; };
+		ACBD7F841654EE1B001DBE19 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBD7F831654EE1B001DBE19 /* AppDelegate.m */; };
+		ACBD7F871654EE1B001DBE19 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBD7F861654EE1B001DBE19 /* ViewController.m */; };
+		ACBD7F8A1654EE1B001DBE19 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACBD7F881654EE1B001DBE19 /* ViewController.xib */; };
+		ACBD7F911654EF3B001DBE19 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBD7F901654EF3B001DBE19 /* AudioToolbox.framework */; };
+		ACBD7F931654EF49001DBE19 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBD7F921654EF49001DBE19 /* MessageUI.framework */; };
+		ACBD7F951654EF55001DBE19 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBD7F941654EF55001DBE19 /* SystemConfiguration.framework */; };
+		ACBD7FA31654F0C7001DBE19 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBD7FA11654F0C7001DBE19 /* libGoogleAdMobAds.a */; };
+		ACBD7FA41654F0C7001DBE19 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = ACBD7FA21654F0C7001DBE19 /* README.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AC03675F1654F5790055B95F /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		ACBD7F6F1654EE1B001DBE19 /* iAdds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iAdds.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACBD7F731654EE1B001DBE19 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		ACBD7F751654EE1B001DBE19 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		ACBD7F771654EE1B001DBE19 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		ACBD7F7B1654EE1B001DBE19 /* iAdds-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iAdds-Info.plist"; sourceTree = "<group>"; };
+		ACBD7F7D1654EE1B001DBE19 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		ACBD7F7F1654EE1B001DBE19 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		ACBD7F811654EE1B001DBE19 /* iAdds-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iAdds-Prefix.pch"; sourceTree = "<group>"; };
+		ACBD7F821654EE1B001DBE19 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		ACBD7F831654EE1B001DBE19 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		ACBD7F851654EE1B001DBE19 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		ACBD7F861654EE1B001DBE19 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		ACBD7F891654EE1B001DBE19 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		ACBD7F901654EF3B001DBE19 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		ACBD7F921654EF49001DBE19 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		ACBD7F941654EF55001DBE19 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		ACBD7F9B1654F0C7001DBE19 /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerView.h; sourceTree = "<group>"; };
+		ACBD7F9C1654F0C7001DBE19 /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerViewDelegate.h; sourceTree = "<group>"; };
+		ACBD7F9D1654F0C7001DBE19 /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitial.h; sourceTree = "<group>"; };
+		ACBD7F9E1654F0C7001DBE19 /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitialDelegate.h; sourceTree = "<group>"; };
+		ACBD7F9F1654F0C7001DBE19 /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequest.h; sourceTree = "<group>"; };
+		ACBD7FA01654F0C7001DBE19 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = "<group>"; };
+		ACBD7FA11654F0C7001DBE19 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = "<group>"; };
+		ACBD7FA21654F0C7001DBE19 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ACBD7F6C1654EE1B001DBE19 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC0367601654F5790055B95F /* iAd.framework in Frameworks */,
+				ACBD7F951654EF55001DBE19 /* SystemConfiguration.framework in Frameworks */,
+				ACBD7F931654EF49001DBE19 /* MessageUI.framework in Frameworks */,
+				ACBD7F911654EF3B001DBE19 /* AudioToolbox.framework in Frameworks */,
+				ACBD7F741654EE1B001DBE19 /* UIKit.framework in Frameworks */,
+				ACBD7F761654EE1B001DBE19 /* Foundation.framework in Frameworks */,
+				ACBD7F781654EE1B001DBE19 /* CoreGraphics.framework in Frameworks */,
+				ACBD7FA31654F0C7001DBE19 /* libGoogleAdMobAds.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ACBD7F641654EE1B001DBE19 = {
+			isa = PBXGroup;
+			children = (
+				ACBD7F791654EE1B001DBE19 /* iAdds */,
+				ACBD7F721654EE1B001DBE19 /* Frameworks */,
+				ACBD7F701654EE1B001DBE19 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ACBD7F701654EE1B001DBE19 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ACBD7F6F1654EE1B001DBE19 /* iAdds.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ACBD7F721654EE1B001DBE19 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AC03675F1654F5790055B95F /* iAd.framework */,
+				ACBD7F941654EF55001DBE19 /* SystemConfiguration.framework */,
+				ACBD7F921654EF49001DBE19 /* MessageUI.framework */,
+				ACBD7F901654EF3B001DBE19 /* AudioToolbox.framework */,
+				ACBD7F731654EE1B001DBE19 /* UIKit.framework */,
+				ACBD7F751654EE1B001DBE19 /* Foundation.framework */,
+				ACBD7F771654EE1B001DBE19 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ACBD7F791654EE1B001DBE19 /* iAdds */ = {
+			isa = PBXGroup;
+			children = (
+				ACBD7F9A1654F0A2001DBE19 /* AddMob */,
+				ACBD7F821654EE1B001DBE19 /* AppDelegate.h */,
+				ACBD7F831654EE1B001DBE19 /* AppDelegate.m */,
+				ACBD7F851654EE1B001DBE19 /* ViewController.h */,
+				ACBD7F861654EE1B001DBE19 /* ViewController.m */,
+				ACBD7F881654EE1B001DBE19 /* ViewController.xib */,
+				ACBD7F7A1654EE1B001DBE19 /* Supporting Files */,
+			);
+			path = iAdds;
+			sourceTree = "<group>";
+		};
+		ACBD7F7A1654EE1B001DBE19 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACBD7F7B1654EE1B001DBE19 /* iAdds-Info.plist */,
+				ACBD7F7C1654EE1B001DBE19 /* InfoPlist.strings */,
+				ACBD7F7F1654EE1B001DBE19 /* main.m */,
+				ACBD7F811654EE1B001DBE19 /* iAdds-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ACBD7F9A1654F0A2001DBE19 /* AddMob */ = {
+			isa = PBXGroup;
+			children = (
+				ACBD7F9B1654F0C7001DBE19 /* GADBannerView.h */,
+				ACBD7F9C1654F0C7001DBE19 /* GADBannerViewDelegate.h */,
+				ACBD7F9D1654F0C7001DBE19 /* GADInterstitial.h */,
+				ACBD7F9E1654F0C7001DBE19 /* GADInterstitialDelegate.h */,
+				ACBD7F9F1654F0C7001DBE19 /* GADRequest.h */,
+				ACBD7FA01654F0C7001DBE19 /* GADRequestError.h */,
+				ACBD7FA11654F0C7001DBE19 /* libGoogleAdMobAds.a */,
+				ACBD7FA21654F0C7001DBE19 /* README.txt */,
+			);
+			name = AddMob;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ACBD7F6E1654EE1B001DBE19 /* iAdds */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ACBD7F8D1654EE1B001DBE19 /* Build configuration list for PBXNativeTarget "iAdds" */;
+			buildPhases = (
+				ACBD7F6B1654EE1B001DBE19 /* Sources */,
+				ACBD7F6C1654EE1B001DBE19 /* Frameworks */,
+				ACBD7F6D1654EE1B001DBE19 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iAdds;
+			productName = iAdds;
+			productReference = ACBD7F6F1654EE1B001DBE19 /* iAdds.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ACBD7F661654EE1B001DBE19 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = ACBD7F691654EE1B001DBE19 /* Build configuration list for PBXProject "iAdds" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = ACBD7F641654EE1B001DBE19;
+			productRefGroup = ACBD7F701654EE1B001DBE19 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ACBD7F6E1654EE1B001DBE19 /* iAdds */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ACBD7F6D1654EE1B001DBE19 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACBD7F7E1654EE1B001DBE19 /* InfoPlist.strings in Resources */,
+				ACBD7F8A1654EE1B001DBE19 /* ViewController.xib in Resources */,
+				ACBD7FA41654F0C7001DBE19 /* README.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ACBD7F6B1654EE1B001DBE19 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACBD7F801654EE1B001DBE19 /* main.m in Sources */,
+				ACBD7F841654EE1B001DBE19 /* AppDelegate.m in Sources */,
+				ACBD7F871654EE1B001DBE19 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		ACBD7F7C1654EE1B001DBE19 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACBD7F7D1654EE1B001DBE19 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		ACBD7F881654EE1B001DBE19 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACBD7F891654EE1B001DBE19 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ACBD7F8B1654EE1B001DBE19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bhoopalam mahesh (6U988729CX)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhoopalam mahesh (6U988729CX)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PROVISIONING_PROFILE = "92F37102-6692-4BBE-AE9E-EFF9FEC03FEB";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "92F37102-6692-4BBE-AE9E-EFF9FEC03FEB";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		ACBD7F8C1654EE1B001DBE19 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bhoopalam mahesh (6U988729CX)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhoopalam mahesh (6U988729CX)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "92F37102-6692-4BBE-AE9E-EFF9FEC03FEB";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "92F37102-6692-4BBE-AE9E-EFF9FEC03FEB";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ACBD7F8E1654EE1B001DBE19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iAdds/iAdds-Prefix.pch";
+				INFOPLIST_FILE = "iAdds/iAdds-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/iAdds\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		ACBD7F8F1654EE1B001DBE19 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iAdds/iAdds-Prefix.pch";
+				INFOPLIST_FILE = "iAdds/iAdds-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/iAdds\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ACBD7F691654EE1B001DBE19 /* Build configuration list for PBXProject "iAdds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACBD7F8B1654EE1B001DBE19 /* Debug */,
+				ACBD7F8C1654EE1B001DBE19 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ACBD7F8D1654EE1B001DBE19 /* Build configuration list for PBXNativeTarget "iAdds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACBD7F8E1654EE1B001DBE19 /* Debug */,
+				ACBD7F8F1654EE1B001DBE19 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ACBD7F661654EE1B001DBE19 /* Project object */;
+}

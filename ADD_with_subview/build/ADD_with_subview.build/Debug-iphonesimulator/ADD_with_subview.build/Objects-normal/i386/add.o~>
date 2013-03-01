@@ -1,0 +1,2 @@
+/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m:71: warning: property 'val' requires method '-val' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/saurabhkumar/Documents/ADD_with_subview/Classes/../add.m:71: warning: property 'val' requires the method 'setVal:' to be defined - use @synthesize, @dynamic or provide a method implementation

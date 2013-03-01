@@ -1,0 +1,210 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* myMapAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 308}}";
+			sepNavSelRange = "{254, 0}";
+			sepNavVisRange = "{0, 464}";
+		};
+	};
+	1D3623250D0F684500981E51 /* myMapAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{235, 963}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* myMap */ = {
+		activeExec = 0;
+		executables = (
+			2CF9B33315243B890034FC60 /* myMap */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* myMapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 312}}";
+			sepNavSelRange = "{0, 392}";
+			sepNavVisRange = "{0, 392}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* myMapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1196}}";
+			sepNavSelRange = "{1291, 0}";
+			sepNavVisRange = "{1068, 413}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2CF9B33315243B890034FC60 /* myMap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* myMap */;
+		codeSenseManager = 2CF9B35615243B9B0034FC60 /* Code sense */;
+		executables = (
+			2CF9B33315243B890034FC60 /* myMap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357197899;
+			PBXWorkspaceStateSaveDate = 357197899;
+		};
+		perUserProjectItems = {
+			2C4BA180152C1A5E005B3D8D /* PBXTextBookmark */ = 2C4BA180152C1A5E005B3D8D /* PBXTextBookmark */;
+			2C59DF3A15256914009C334B /* PBXTextBookmark */ = 2C59DF3A15256914009C334B /* PBXTextBookmark */;
+			2C59DF3B15256914009C334B /* PBXTextBookmark */ = 2C59DF3B15256914009C334B /* PBXTextBookmark */;
+			2C59DF4015256929009C334B /* PBXTextBookmark */ = 2C59DF4015256929009C334B /* PBXTextBookmark */;
+			2CA6A8C9154A68AC00163CA0 /* PBXTextBookmark */ = 2CA6A8C9154A68AC00163CA0 /* PBXTextBookmark */;
+			2CEA4C2B1524930300769D89 /* PBXTextBookmark */ = 2CEA4C2B1524930300769D89 /* PBXTextBookmark */;
+			2CEA4C2E1524930300769D89 /* PBXTextBookmark */ = 2CEA4C2E1524930300769D89 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2CF9B35515243B9B0034FC60 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C4BA180152C1A5E005B3D8D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* myMapViewController.m */;
+		name = "myMapViewController.m: 54";
+		rLen = 0;
+		rLoc = 1209;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 1068;
+	};
+	2C59DF3A15256914009C334B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* myMapAppDelegate.h */;
+		name = "myMapAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 464;
+		vrLoc = 0;
+	};
+	2C59DF3B15256914009C334B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* myMapAppDelegate.m */;
+		name = "myMapAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 235;
+	};
+	2C59DF4015256929009C334B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* myMapViewController.h */;
+		name = "myMapViewController.h: 1";
+		rLen = 392;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 392;
+		vrLoc = 0;
+	};
+	2CA6A8C9154A68AC00163CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* myMapViewController.m */;
+		name = "myMapViewController.m: 60";
+		rLen = 0;
+		rLoc = 1291;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 1068;
+	};
+	2CEA4C2B1524930300769D89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2CEA4C2C1524930300769D89 /* UIApplication.h */;
+		name = "UIApplication.h: 231";
+		rLen = 42;
+		rLoc = 11105;
+		rType = 0;
+		vrLen = 575;
+		vrLoc = 0;
+	};
+	2CEA4C2C1524930300769D89 /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIApplication.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h;
+		sourceTree = "<absolute>";
+	};
+	2CEA4C2E1524930300769D89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2CEA4C2F1524930300769D89 /* UITableView.h */;
+		name = "UITableView.h: 48";
+		rLen = 62;
+		rLoc = 1811;
+		rType = 0;
+		vrLen = 1963;
+		vrLoc = 15225;
+	};
+	2CEA4C2F1524930300769D89 /* UITableView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h;
+		sourceTree = "<absolute>";
+	};
+	2CF9B33315243B890034FC60 /* myMap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = myMap;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2CF9B35515243B9B0034FC60 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2CF9B35615243B9B0034FC60 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

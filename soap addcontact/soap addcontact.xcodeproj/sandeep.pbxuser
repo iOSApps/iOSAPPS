@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* soap addcontact */ = {
+		activeExec = 0;
+		executables = (
+			2CAC0B4D15145F5D0014D8E5 /* soap addcontact */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* soap_addcontactViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {586, 468}}";
+			sepNavSelRange = "{0, 787}";
+			sepNavVisRange = "{0, 461}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* soap_addcontactViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 2457}}";
+			sepNavSelRange = "{1844, 0}";
+			sepNavVisRange = "{2836, 455}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2CAC0B4D15145F5D0014D8E5 /* soap addcontact */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* soap addcontact */;
+		codeSenseManager = 2CAC0B5F15145F660014D8E5 /* Code sense */;
+		executables = (
+			2CAC0B4D15145F5D0014D8E5 /* soap addcontact */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357735769;
+			PBXWorkspaceStateSaveDate = 357735769;
+		};
+		perUserProjectItems = {
+			2C2E4B6B15529E11007E165E /* PBXTextBookmark */ = 2C2E4B6B15529E11007E165E /* PBXTextBookmark */;
+			2CAC0BB1151461790014D8E5 /* PBXTextBookmark */ = 2CAC0BB1151461790014D8E5 /* PBXTextBookmark */;
+			2CAC0BB2151461790014D8E5 /* PBXTextBookmark */ = 2CAC0BB2151461790014D8E5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2CAC0B5E15145F660014D8E5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C2E4B6B15529E11007E165E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* soap_addcontactViewController.m */;
+		name = "soap_addcontactViewController.m: 54";
+		rLen = 0;
+		rLoc = 1844;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 2836;
+	};
+	2CAC0B4D15145F5D0014D8E5 /* soap addcontact */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "soap addcontact";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2CAC0B5E15145F660014D8E5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2CAC0B5F15145F660014D8E5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2CAC0BB1151461790014D8E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* soap_addcontactViewController.h */;
+		name = "soap_addcontactViewController.h: 1";
+		rLen = 787;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 0;
+	};
+	2CAC0BB2151461790014D8E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* soap_addcontactViewController.m */;
+		name = "soap_addcontactViewController.m: 1";
+		rLen = 4932;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,493 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* JsonurlAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 371}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 473}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JsonurlAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 683}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Jsonurl */ = {
+		activeExec = 0;
+		executables = (
+			AEE6B84C14FCAA7900D25F63 /* Jsonurl */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* JsonurlViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 377}}";
+			sepNavSelRange = "{403, 0}";
+			sepNavVisRange = "{0, 526}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1521}}";
+			sepNavSelRange = "{2087, 0}";
+			sepNavVisRange = "{1569, 576}";
+			sepNavWindowFrame = "{{15, 239}, {750, 502}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AEE6B84C14FCAA7900D25F63 /* Jsonurl */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Jsonurl */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Jsonurl */,
+		);
+		codeSenseManager = AEE6B85A14FCAA9700D25F63 /* Code sense */;
+		executables = (
+			AEE6B84C14FCAA7900D25F63 /* Jsonurl */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352282836;
+			PBXWorkspaceStateSaveDate = 352282836;
+		};
+		perUserProjectItems = {
+			AE59179114FCC7DF00488315 = AE59179114FCC7DF00488315 /* PBXTextBookmark */;
+			AE59179214FCC7DF00488315 = AE59179214FCC7DF00488315 /* PBXTextBookmark */;
+			AE59179314FCC7DF00488315 = AE59179314FCC7DF00488315 /* PBXTextBookmark */;
+			AE59179414FCC7DF00488315 = AE59179414FCC7DF00488315 /* PBXTextBookmark */;
+			AE5917F714FCD99400488315 = AE5917F714FCD99400488315 /* PBXTextBookmark */;
+			AE60843214FCBB870077E965 = AE60843214FCBB870077E965 /* PBXTextBookmark */;
+			AE9AD26014FF6CCF00694ADF /* XCBuildMessageTextBookmark */ = AE9AD26014FF6CCF00694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD26114FF6CCF00694ADF /* PBXTextBookmark */ = AE9AD26114FF6CCF00694ADF /* PBXTextBookmark */;
+			AE9AD26C14FF6D0D00694ADF /* XCBuildMessageTextBookmark */ = AE9AD26C14FF6D0D00694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD26D14FF6D0D00694ADF /* PBXTextBookmark */ = AE9AD26D14FF6D0D00694ADF /* PBXTextBookmark */;
+			AE9AD27014FF6D4200694ADF /* XCBuildMessageTextBookmark */ = AE9AD27014FF6D4200694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD27114FF6D4200694ADF /* PBXTextBookmark */ = AE9AD27114FF6D4200694ADF /* PBXTextBookmark */;
+			AE9AD27614FF6D7100694ADF /* XCBuildMessageTextBookmark */ = AE9AD27614FF6D7100694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD27714FF6D7100694ADF /* PBXTextBookmark */ = AE9AD27714FF6D7100694ADF /* PBXTextBookmark */;
+			AE9AD27A14FF6DA900694ADF /* XCBuildMessageTextBookmark */ = AE9AD27A14FF6DA900694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD27B14FF6DA900694ADF /* PBXTextBookmark */ = AE9AD27B14FF6DA900694ADF /* PBXTextBookmark */;
+			AE9AD28014FF6DC600694ADF /* PBXTextBookmark */ = AE9AD28014FF6DC600694ADF /* PBXTextBookmark */;
+			AE9AD28114FF6DC600694ADF /* XCBuildMessageTextBookmark */ = AE9AD28114FF6DC600694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD28214FF6DC600694ADF /* PBXTextBookmark */ = AE9AD28214FF6DC600694ADF /* PBXTextBookmark */;
+			AE9AD28714FF6DE100694ADF /* PBXTextBookmark */ = AE9AD28714FF6DE100694ADF /* PBXTextBookmark */;
+			AE9AD28C14FF6E2E00694ADF /* PBXTextBookmark */ = AE9AD28C14FF6E2E00694ADF /* PBXTextBookmark */;
+			AE9AD28F14FF6E7F00694ADF /* PBXTextBookmark */ = AE9AD28F14FF6E7F00694ADF /* PBXTextBookmark */;
+			AE9AD29414FF6F6400694ADF /* XCBuildMessageTextBookmark */ = AE9AD29414FF6F6400694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD29514FF6F6400694ADF /* PBXTextBookmark */ = AE9AD29514FF6F6400694ADF /* PBXTextBookmark */;
+			AE9AD29A14FF6F8100694ADF /* PBXTextBookmark */ = AE9AD29A14FF6F8100694ADF /* PBXTextBookmark */;
+			AE9AD29B14FF6F8100694ADF /* XCBuildMessageTextBookmark */ = AE9AD29B14FF6F8100694ADF /* XCBuildMessageTextBookmark */;
+			AE9AD29C14FF6F8100694ADF /* PBXTextBookmark */ = AE9AD29C14FF6F8100694ADF /* PBXTextBookmark */;
+			AE9AD29D14FF6F9400694ADF /* PBXTextBookmark */ = AE9AD29D14FF6F9400694ADF /* PBXTextBookmark */;
+			AE9AD2A014FF705500694ADF /* PBXTextBookmark */ = AE9AD2A014FF705500694ADF /* PBXTextBookmark */;
+			AE9AD2A414FF70A300694ADF /* PBXTextBookmark */ = AE9AD2A414FF70A300694ADF /* PBXTextBookmark */;
+			AE9AD2A514FF70A300694ADF /* PBXTextBookmark */ = AE9AD2A514FF70A300694ADF /* PBXTextBookmark */;
+			AE9AD2A614FF70A300694ADF /* PBXTextBookmark */ = AE9AD2A614FF70A300694ADF /* PBXTextBookmark */;
+			AEE6B89214FCB24A00D25F63 = AEE6B89214FCB24A00D25F63 /* PBXTextBookmark */;
+		};
+		sourceControlManager = AEE6B85914FCAA9700D25F63 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	AE59179114FCC7DF00488315 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEE6B87814FCACD300D25F63 /* Table.m */;
+		name = "Table.m: 13";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 30;
+	};
+	AE59179214FCC7DF00488315 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JsonurlViewController.h */;
+		name = "JsonurlViewController.h: 24";
+		rLen = 0;
+		rLoc = 524;
+		rType = 0;
+		vrLen = 529;
+		vrLoc = 0;
+	};
+	AE59179314FCC7DF00488315 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEE6B87714FCACD300D25F63 /* Table.h */;
+		name = "Table.h: 16";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	AE59179414FCC7DF00488315 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 39";
+		rLen = 0;
+		rLoc = 1773;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 1087;
+	};
+	AE5917F714FCD99400488315 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 47";
+		rLen = 0;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 1191;
+	};
+	AE60843214FCBB870077E965 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JsonurlAppDelegate.m */;
+		name = "JsonurlAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 0;
+	};
+	AE9AD26014FF6CCF00694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'didReceiveMemoryWarning' undeclared (first use in this function)";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 108;
+		rType = 1;
+	};
+	AE9AD26114FF6CCF00694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 107";
+		rLen = 0;
+		rLoc = 3044;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 2757;
+	};
+	AE9AD26C14FF6D0D00694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ';' before '{' token";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 108;
+		rType = 1;
+	};
+	AE9AD26D14FF6D0D00694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 107";
+		rLen = 0;
+		rLoc = 3044;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 2757;
+	};
+	AE9AD27014FF6D4200694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected declaration or statement at end of input";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 125;
+		rType = 1;
+	};
+	AE9AD27114FF6D4200694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 124";
+		rLen = 0;
+		rLoc = 3397;
+		rType = 0;
+		vrLen = 223;
+		vrLoc = 3100;
+	};
+	AE9AD27614FF6D7100694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected expression before 'end'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 125;
+		rType = 1;
+	};
+	AE9AD27714FF6D7100694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 124";
+		rLen = 0;
+		rLoc = 3397;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 1325;
+	};
+	AE9AD27A14FF6DA900694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier or '(' before '/' token";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 83;
+		rType = 1;
+	};
+	AE9AD27B14FF6DA900694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 82";
+		rLen = 0;
+		rLoc = 2476;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 2173;
+	};
+	AE9AD28014FF6DC600694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JsonurlViewController.h */;
+		name = "JsonurlViewController.h: 24";
+		rLen = 0;
+		rLoc = 524;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	AE9AD28114FF6DC600694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier or '(' before '/' token";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 83;
+		rType = 1;
+	};
+	AE9AD28214FF6DC600694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 82";
+		rLen = 0;
+		rLoc = 2476;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 2014;
+	};
+	AE9AD28714FF6DE100694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 82";
+		rLen = 0;
+		rLoc = 2476;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 1909;
+	};
+	AE9AD28C14FF6E2E00694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 47";
+		rLen = 0;
+		rLoc = 1627;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 675;
+	};
+	AE9AD28F14FF6E7F00694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 82";
+		rLen = 0;
+		rLoc = 2476;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 1908;
+	};
+	AE9AD29414FF6F6400694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "No declaration of property 'table' found in the interface";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 14;
+		rType = 1;
+	};
+	AE9AD29514FF6F6400694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 15";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 80;
+	};
+	AE9AD29A14FF6F8100694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JsonurlViewController.h */;
+		name = "JsonurlViewController.h: 22";
+		rLen = 0;
+		rLoc = 403;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 0;
+	};
+	AE9AD29B14FF6F8100694ADF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "No declaration of property 'table' found in the interface";
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 14;
+		rType = 1;
+	};
+	AE9AD29C14FF6F8100694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 15";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 691;
+		vrLoc = 0;
+	};
+	AE9AD29D14FF6F9400694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 15";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 80;
+	};
+	AE9AD2A014FF705500694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 15";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 80;
+	};
+	AE9AD2A414FF70A300694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JsonurlViewController.m */;
+		name = "JsonurlViewController.m: 70";
+		rLen = 0;
+		rLoc = 2087;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 1569;
+	};
+	AE9AD2A514FF70A300694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEE6B87714FCACD300D25F63 /* Table.h */;
+		name = "Table.h: 16";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	AE9AD2A614FF70A300694ADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEE6B87814FCACD300D25F63 /* Table.m */;
+		name = "Table.m: 13";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 809;
+		vrLoc = 1380;
+	};
+	AEE6B84C14FCAA7900D25F63 /* Jsonurl */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Jsonurl;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	AEE6B85914FCAA9700D25F63 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AEE6B85A14FCAA9700D25F63 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AEE6B87714FCACD300D25F63 /* Table.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 324}}";
+			sepNavSelRange = "{267, 0}";
+			sepNavVisRange = "{0, 273}";
+		};
+	};
+	AEE6B87814FCACD300D25F63 /* Table.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3608, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3659, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3709, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4410}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {908, 2301}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{1380, 809}";
+		};
+	};
+	AEE6B89214FCB24A00D25F63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JsonurlAppDelegate.h */;
+		name = "JsonurlAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+}

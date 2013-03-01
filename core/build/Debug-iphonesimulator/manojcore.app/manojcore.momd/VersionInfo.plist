@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>manojcore</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>manojcore</key>
+		<dict>
+			<key>employee</key>
+			<data>
+			3SttlWjj9RCcUQLR0LdKaBsZJhlQq3Nt1tj0RG/d/vQ=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

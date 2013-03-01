@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* nsdateAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 286}}";
+			sepNavSelRange = "{0, 469}";
+			sepNavVisRange = "{0, 328}";
+		};
+	};
+	1D3623250D0F684500981E51 /* nsdateAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1261}}";
+			sepNavSelRange = "{0, 2700}";
+			sepNavVisRange = "{0, 289}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* nsdate */ = {
+		activeExec = 0;
+		executables = (
+			2C2A0403141F472E0055A6D6 /* nsdate */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* nsdateViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 287}";
+			sepNavVisRange = "{0, 281}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* nsdateViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1014}}";
+			sepNavSelRange = "{470, 0}";
+			sepNavVisRange = "{177, 299}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2C2A0403141F472E0055A6D6 /* nsdate */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* nsdate */;
+		codeSenseManager = 2C2A0408141F474D0055A6D6 /* Code sense */;
+		executables = (
+			2C2A0403141F472E0055A6D6 /* nsdate */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351063437;
+			PBXWorkspaceStateSaveDate = 351063437;
+		};
+		perUserProjectItems = {
+			2C0CE4A114AEED0E001BC927 /* PBXTextBookmark */ = 2C0CE4A114AEED0E001BC927 /* PBXTextBookmark */;
+			2C0CE4A214AEED0E001BC927 /* PBXTextBookmark */ = 2C0CE4A214AEED0E001BC927 /* PBXTextBookmark */;
+			2C0CE4A314AEED0E001BC927 /* PBXTextBookmark */ = 2C0CE4A314AEED0E001BC927 /* PBXTextBookmark */;
+			2C31D37414B1B50000A105D7 /* PBXTextBookmark */ = 2C31D37414B1B50000A105D7 /* PBXTextBookmark */;
+			2C46019F14ECCD9600F7B380 /* PBXTextBookmark */ = 2C46019F14ECCD9600F7B380 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2C2A0407141F474D0055A6D6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C0CE4A114AEED0E001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* nsdateAppDelegate.h */;
+		name = "nsdateAppDelegate.h: 1";
+		rLen = 469;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 328;
+		vrLoc = 0;
+	};
+	2C0CE4A214AEED0E001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* nsdateAppDelegate.m */;
+		name = "nsdateAppDelegate.m: 1";
+		rLen = 2700;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 0;
+	};
+	2C0CE4A314AEED0E001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* nsdateViewController.h */;
+		name = "nsdateViewController.h: 1";
+		rLen = 287;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	2C2A0403141F472E0055A6D6 /* nsdate */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = nsdate;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2C2A0407141F474D0055A6D6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2C2A0408141F474D0055A6D6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2C31D37414B1B50000A105D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* nsdateViewController.m */;
+		name = "nsdateViewController.m: 1";
+		rLen = 1721;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 177;
+	};
+	2C46019F14ECCD9600F7B380 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* nsdateViewController.m */;
+		name = "nsdateViewController.m: 23";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 177;
+	};
+}

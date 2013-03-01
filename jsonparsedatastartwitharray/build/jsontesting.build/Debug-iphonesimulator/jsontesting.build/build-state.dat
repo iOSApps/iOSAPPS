@@ -1,0 +1,1011 @@
+Tjsontesting
+v7
+r0
+t353571983.363866
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/Info.plist jsontesting-Info.plist
+cCompileXIB /Users/sandeep/Desktop/jsontesting/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/jsontesting/jsontestingViewController.xib
+cCompileXIB /Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.xib
+cCompileXIB /Users/sandeep/Desktop/jsontesting/Classes/ta.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch.gch jsontesting_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/jsontesting/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o /Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o /Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o /Users/sandeep/Desktop/jsontesting/Classes/ta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+cTouch /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.m
+c000000004A748DD2000000000000089C
+t1249152466
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.m
+c000000004A748DD2000000000000087C
+t1249152466
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.h
+c000000004A748DD20000000000000AED
+t1249152466
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.m
+c000000004A748DD20000000000001ABC
+t1249152466
+s6844
+i"SBJSON.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.h
+c000000004F3B853500000000000000C7
+t1329300789
+s199
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.m
+c000000004F3B8535000000000000057D
+t1329300789
+s1405
+i"ram6.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.xib
+c000000004F3B85360000000000001847
+t1329300790
+s6215
+
+N/Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.h
+c000000004F4C607400000000000001F1
+t1330405492
+s497
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.m
+c000000004F4C60740000000000000AA3
+t1330405492
+s2723
+i"jsontestingAppDelegate.h"
+i"jsontestingViewController.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.h
+c000000004F4C63600000000000000212
+t1330406240
+s530
+i<UIKit/UIKit.h>
+i"ta.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.m
+c000000004F62DCF10000000000000C34
+t1331879153
+s3124
+i"jsontestingViewController.h"
+i"JSON.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/ta.h
+c000000004F4C6361000000000000010D
+t1330406241
+s269
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/jsontesting/Classes/ta.m
+c000000004F4C6361000000000000112D
+t1330406241
+s4397
+i"ta.h"
+
+N/Users/sandeep/Desktop/jsontesting/Classes/ta.xib
+c000000004F4C62310000000000001C51
+t1330405937
+s7249
+
+N/Users/sandeep/Desktop/jsontesting/MainWindow.xib
+c000000004F4C60740000000000004E59
+t1330405492
+s20057
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app
+t1331879154
+s306
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM
+t1331879154
+s102
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/Info.plist
+t1330405614
+s607
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/MainWindow.nib
+t1330405619
+s1131
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/PkgInfo
+t1330405614
+s8
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+t1331879154
+s61780
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontestingViewController.nib
+t1330406244
+s1471
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/ram6.nib
+t1330405876
+s764
+
+N/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/ta.nib
+t1330406243
+s979
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o
+t1331878834
+s8292
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o
+t1331878834
+s8212
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o
+t1331878834
+s20080
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o
+t1331878834
+s13212
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o
+t1331878834
+s35876
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o
+t1331878834
+s24856
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontesting.LinkFileList
+c000000004F62DBB100000000000005BD
+t1331878833
+s1469
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o
+t1331878834
+s51216
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o
+t1331879154
+s46696
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o
+t1331878834
+s6296
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o
+t1331878834
+s37344
+
+N/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o
+t1331878834
+s42232
+
+N/Users/sandeep/Desktop/jsontesting/jsontestingViewController.xib
+c000000004F4C635C0000000000004F82
+t1330406236
+s20354
+
+N/Users/sandeep/Desktop/jsontesting/jsontesting_Prefix.pch
+c000000004F4C607500000000000000BF
+t1330405493
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/jsontesting/main.m
+c000000004F4C60750000000000000167
+t1330405493
+s359
+i<UIKit/UIKit.h>
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/NSObject+SBJSON.m
+c000000004A748DD2000000000000089C
+t1249152466
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/NSString+SBJSON.m
+c000000004A748DD2000000000000087C
+t1249152466
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJSON.h
+c000000004A748DD20000000000000AED
+t1249152466
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJSON.m
+c000000004A748DD20000000000001ABC
+t1249152466
+s6844
+i"SBJSON.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/ram6.h
+c000000004F3B853500000000000000C7
+t1329300789
+s199
+i<UIKit/UIKit.h>
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/ram6.m
+c000000004F3B8535000000000000057D
+t1329300789
+s1405
+i"ram6.h"
+
+N/Users/srama/Documents/jsontesting/Classes/JSON/ram6.xib
+c000000004F3B85360000000000001847
+t1329300790
+s6215
+
+N/Users/srama/Documents/jsontesting/Classes/jsontestingAppDelegate.h
+c000000004F4C607400000000000001F1
+t1330405492
+s497
+i<UIKit/UIKit.h>
+
+N/Users/srama/Documents/jsontesting/Classes/jsontestingAppDelegate.m
+c000000004F4C60740000000000000AA3
+t1330405492
+s2723
+i"jsontestingAppDelegate.h"
+i"jsontestingViewController.h"
+
+N/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.h
+c000000004F4C63600000000000000212
+t1330406240
+s530
+i<UIKit/UIKit.h>
+i"ta.h"
+
+N/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m
+c000000004F4C6CE40000000000000BDF
+t1330408676
+s3039
+i"jsontestingViewController.h"
+i"JSON.h"
+
+N/Users/srama/Documents/jsontesting/Classes/ta.h
+c000000004F4C6361000000000000010D
+t1330406241
+s269
+i<UIKit/UIKit.h>
+
+N/Users/srama/Documents/jsontesting/Classes/ta.m
+c000000004F4C6361000000000000112D
+t1330406241
+s4397
+i"ta.h"
+
+N/Users/srama/Documents/jsontesting/Classes/ta.xib
+c000000004F4C62310000000000001C51
+t1330405937
+s7249
+
+N/Users/srama/Documents/jsontesting/MainWindow.xib
+c000000004F4C60740000000000004E59
+t1330405492
+s20057
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app
+t1330408682
+s306
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM
+t1330408681
+s102
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/Info.plist
+t1330405614
+s607
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/MainWindow.nib
+t1330405619
+s1131
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/PkgInfo
+t1330405614
+s8
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+t1330408680
+s61780
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontestingViewController.nib
+t1330406244
+s1471
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/ram6.nib
+t1330405876
+s764
+
+N/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/ta.nib
+t1330406243
+s979
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o
+t1330405876
+s8292
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o
+t1330405876
+s8212
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o
+t1330405876
+s20080
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o
+t1330405876
+s13212
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o
+t1330405876
+s35876
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o
+t1330405876
+s24856
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontesting.LinkFileList
+c000000004F4C636200000000000005BD
+t1330406242
+s1469
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o
+t1330406245
+s51216
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o
+t1330408679
+s47452
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o
+t1330405641
+s6296
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o
+t1330405876
+s37344
+
+N/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o
+t1330406245
+s42232
+
+N/Users/srama/Documents/jsontesting/jsontestingViewController.xib
+c000000004F4C635C0000000000004F82
+t1330406236
+s20354
+
+N/Users/srama/Documents/jsontesting/jsontesting_Prefix.pch
+c000000004F4C607500000000000000BF
+t1330405493
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/srama/Documents/jsontesting/main.m
+c000000004F4C60750000000000000167
+t1330405493
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch.gch
+t1331878834
+s15453392
+
+N/var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch.gch
+t1330405640
+s15453392
+
+Njsontesting-Info.plist
+c000000004F4C6075000000000000038D
+t1330405493
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353571983#353571983#0(0"0(0#1#0"8618063520#0"0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.433614
+e353571634.521685
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.m353571634#353571634#0(0"0(0#0#65"/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.m8611485024#1985"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSObject+SBJSON.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o /Users/srama/Documents/jsontesting/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098676.363231
+e352098676.457706
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/srama/Documents/jsontesting/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/srama/Documents/jsontesting/Classes/JSON/NSObject+SBJSON.m352098676#352098676#0(0"0(0#0#65"/Users/srama/Documents/jsontesting/Classes/JSON/NSObject+SBJSON.m8616463968#1985"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/JSON/NSObject+SBJSON.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.462480
+e353571634.546246
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.m353571634#353571634#0(0"0(0#0#65"/Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.m8605631840#1985"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/JSON/NSString+SBJSON.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o /Users/srama/Documents/jsontesting/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098676.458067
+e352098676.602890
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/srama/Documents/jsontesting/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/srama/Documents/jsontesting/Classes/JSON/NSString+SBJSON.m352098676#352098676#0(0"0(0#0#65"/Users/srama/Documents/jsontesting/Classes/JSON/NSString+SBJSON.m8608884512#1985"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/JSON/NSString+SBJSON.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.546477
+e353571634.669870
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o
+x/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.m353571634#353571634#0(0"0(0#0#56"/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.m8602779168#1967"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJSON.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o /Users/srama/Documents/jsontesting/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098676.569356
+e352098676.717983
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o
+x/Users/srama/Documents/jsontesting/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/srama/Documents/jsontesting/Classes/JSON/SBJSON.m352098676#352098676#0(0"0(0#0#56"/Users/srama/Documents/jsontesting/Classes/JSON/SBJSON.m8615585568#1967"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/JSON/SBJSON.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.638286
+e353571634.740777
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o
+x/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.m353571634#353571634#0(0"0(0#0#60"/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.m8615715424#1975"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonBase.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098676.602987
+e352098676.696230
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o
+x/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonBase.m352098676#352098676#0(0"0(0#0#60"/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonBase.m8608893504#1975"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonBase.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.669981
+e353571634.822343
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o
+x/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.m353571634#353571634#0(0"0(0#0#62"/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.m8614224352#1979"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonParser.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098676.696340
+e352098676.871100
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o
+x/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonParser.m352098676#352098676#0(0"0(0#0#62"/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonParser.m8608457440#1979"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonParser.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.740877
+e353571634.861600
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.m353571634#353571634#0(0"0(0#0#62"/Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.m8612764608#1979"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/JSON/SBJsonWriter.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098676.718075
+e352098676.869729
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonWriter.m352098676#352098676#0(0"0(0#0#62"/Users/srama/Documents/jsontesting/Classes/JSON/SBJsonWriter.m8616502560#1979"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/JSON/SBJsonWriter.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o /Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.335921
+e353571634.433510
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o
+x/Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.m353571634#353571634#0(0"0(0#0#67"/Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.m8614581120#1994"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/jsontestingAppDelegate.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o /Users/srama/Documents/jsontesting/Classes/jsontestingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352099044.722390
+e352099045.356974
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o
+x/Users/srama/Documents/jsontesting/Classes/jsontestingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/srama/Documents/jsontesting/Classes/jsontestingAppDelegate.m352099044#352099045#0(0"0(0#0#67"/Users/srama/Documents/jsontesting/Classes/jsontestingAppDelegate.m8615080320#1994"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/jsontestingAppDelegate.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingAppDelegate.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o /Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571953.772405
+e353571954.163935
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o
+x/Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.m353571953#353571954#0(0"0(0#0#70"/Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.m8618531648#2000"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/jsontestingViewController.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o /Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352101478.503569
+e352101479.626652
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o
+x/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m: In function '-[jsontestingViewController viewDidLoad]':
+o/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: 'NSDictionary' may not respond to '-objectAtIndex:'
+o/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: (Messages without a matching method signature
+o/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: will be assumed to return 'id' and accept
+o/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: '...' as arguments.)
+o/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:29: warning: unused variable 't1'
+lSLF07#2@78"Compile /Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m352101478#352101479#0(730"/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m: In function '-[jsontestingViewController viewDidLoad]':/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: 'NSDictionary' may not respond to '-objectAtIndex:'/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: (Messages without a matching method signature/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: will be assumed to return 'id' and accept/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:33: warning: '...' as arguments.)/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m:29: warning: unused variable 't1'3(22@51"'NSDictionary' may not respond to '-objectAtIndex:'352101479#128#136#0(6@70"/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m352101476#33#0#33#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)352101479#264#130#0(6@70"/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m352101476#33#0#33#0#0"0(22@20"Unused variable 't1'352101479#625#105#0(6@70"/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m352101476#29#0#29#0#19"unused variable '*'0(0#0#70"/Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m8617104224#2000"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/jsontestingViewController.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontestingViewController.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/jsontesting/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.334405
+e353571634.389389
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/jsontesting/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/sandeep/Desktop/jsontesting/main.m353571634#353571634#0(0"0(0#0#41"/Users/sandeep/Desktop/jsontesting/main.m8615427936#1950"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/main.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o /Users/srama/Documents/jsontesting/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098440.975363
+e352098441.811080
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o
+x/Users/srama/Documents/jsontesting/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/srama/Documents/jsontesting/main.m352098440#352098441#0(0"0(0#0#41"/Users/srama/Documents/jsontesting/main.m8609272832#1950"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/main.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/main.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o /Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.521795
+e353571634.635786
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o
+x/Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.m353571634#353571634#0(0"0(0#0#54"/Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.m8603220512#1963"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o /Users/srama/Documents/jsontesting/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098676.460284
+e352098676.569227
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o
+x/Users/srama/Documents/jsontesting/Classes/JSON/ram6.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/srama/Documents/jsontesting/Classes/JSON/ram6.m352098676#352098676#0(0"0(0#0#54"/Users/srama/Documents/jsontesting/Classes/JSON/ram6.m8608406816#1963"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/JSON/ram6.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ram6.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o /Users/sandeep/Desktop/jsontesting/Classes/ta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571634.822447
+e353571634.899629
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o
+x/Users/sandeep/Desktop/jsontesting/Classes/ta.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/sandeep/Desktop/jsontesting/Classes/ta.m353571634#353571634#0(0"0(0#0#47"/Users/sandeep/Desktop/jsontesting/Classes/ta.m8611016608#1954"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch -c /Users/sandeep/Desktop/jsontesting/Classes/ta.m -o /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o0#
+
+CCompileC build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o /Users/srama/Documents/jsontesting/Classes/ta.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352099045.331044
+e352099045.616045
+r1
+xCompileC
+xbuild/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o
+x/Users/srama/Documents/jsontesting/Classes/ta.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/srama/Documents/jsontesting/Classes/ta.m352099045#352099045#0(0"0(0#0#47"/Users/srama/Documents/jsontesting/Classes/ta.m8616206752#1954"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -include /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch -c /Users/srama/Documents/jsontesting/Classes/ta.m -o /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/ta.o0#
+
+CCompileXIB /Users/sandeep/Desktop/jsontesting/Classes/JSON/ram6.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/jsontesting/Classes/ta.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/jsontesting/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/jsontesting/jsontestingViewController.xib
+r0
+
+CCompileXIB /Users/srama/Documents/jsontesting/Classes/JSON/ram6.xib
+s352098674.898861
+e352098676.261312
+r1
+xCompileXIB
+x/Users/srama/Documents/jsontesting/Classes/JSON/ram6.xib
+lSLF07#2@32"CompileXIB Classes/JSON/ram6.xib352098674#352098676#0(0"0(0#0#56"/Users/srama/Documents/jsontesting/Classes/JSON/ram6.xib32370056121024624#563"    cd /Users/srama/Documents/jsontesting    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/ram6.nib /Users/srama/Documents/jsontesting/Classes/JSON/ram6.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/srama/Documents/jsontesting/Classes/ta.xib
+s352099042.802214
+e352099044.041270
+r1
+xCompileXIB
+x/Users/srama/Documents/jsontesting/Classes/ta.xib
+lSLF07#2@25"CompileXIB Classes/ta.xib352099042#352099044#0(0"0(0#0#49"/Users/srama/Documents/jsontesting/Classes/ta.xib8615044064#554"    cd /Users/srama/Documents/jsontesting    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/ta.nib /Users/srama/Documents/jsontesting/Classes/ta.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/srama/Documents/jsontesting/MainWindow.xib
+s352098414.407572
+e352098419.601236
+r1
+xCompileXIB
+x/Users/srama/Documents/jsontesting/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib352098414#352098419#0(0"0(0#0#49"/Users/srama/Documents/jsontesting/MainWindow.xib8599188288#562"    cd /Users/srama/Documents/jsontesting    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/MainWindow.nib /Users/srama/Documents/jsontesting/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/srama/Documents/jsontesting/jsontestingViewController.xib
+s352099042.801333
+e352099044.721769
+r1
+xCompileXIB
+x/Users/srama/Documents/jsontesting/jsontestingViewController.xib
+lSLF07#2@40"CompileXIB jsontestingViewController.xib352099042#352099044#0(0"0(0#0#64"/Users/srama/Documents/jsontesting/jsontestingViewController.xib8616859808#592"    cd /Users/srama/Documents/jsontesting    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontestingViewController.nib /Users/srama/Documents/jsontesting/jsontestingViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+s353571954.405189
+e353571954.646040
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM
+x/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/jsontesting.app.dSYM build/Debug-iphonesimulator/jsontesting.app/jsontesting353571954#353571954#0(0"0(0#0#90"/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting8616621952#383"    cd /Users/sandeep/Desktop/jsontesting    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting -o /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM0#
+
+CGenerateDSYMFile /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+s352101481.136747
+e352101482.756446
+r1
+xGenerateDSYMFile
+x/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM
+x/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/jsontesting.app.dSYM build/Debug-iphonesimulator/jsontesting.app/jsontesting352101481#352101482#0(0"0(0#0#90"/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting8618864160#383"    cd /Users/srama/Documents/jsontesting    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting -o /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting normal i386
+s353571954.164021
+e353571954.405084
+r1
+xLd
+x/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+xnormal
+xi386
+lSLF07#2@95"Link /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting353571954#353571954#0(0"0(0#0#0"8604152032#900"    cd /Users/sandeep/Desktop/jsontesting    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontesting.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting0#
+
+CLd /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting normal i386
+s352101479.626753
+e352101481.136589
+r1
+xLd
+x/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting
+xnormal
+xi386
+lSLF07#2@95"Link /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting352101479#352101481#0(0"0(0#0#0"8600940128#900"    cd /Users/srama/Documents/jsontesting    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -filelist /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/Objects-normal/i386/jsontesting.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/jsontesting0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app/Info.plist jsontesting-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/Info.plist jsontesting-Info.plist
+s352098414.334306
+e352098414.407478
+r1
+xProcessInfoPlistFile
+x/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/Info.plist
+xjsontesting-Info.plist
+lSLF07#2@30"Process jsontesting-Info.plist352098414#352098414#0(0"0(0#0#57"/Users/srama/Documents/jsontesting/jsontesting-Info.plist8600980704#479"    cd /Users/srama/Documents/jsontesting    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility jsontesting-Info.plist -genpkginfo /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch.gch jsontesting_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353571633.067310
+e353571634.334236
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch.gch
+xjsontesting_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile jsontesting_Prefix.pch353571633#353571634#0(0"0(0#0#57"/Users/sandeep/Desktop/jsontesting/jsontesting_Prefix.pch8612297728#1842"    cd /Users/sandeep/Desktop/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/sandeep/Desktop/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -c /Users/sandeep/Desktop/jsontesting/jsontesting_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/jsontesting_Prefix-ewcphtsowpovibcnlqpvyelqamfj/jsontesting_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch.gch jsontesting_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s352098419.601363
+e352098440.975110
+r1
+xProcessPCH
+x/var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch.gch
+xjsontesting_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile jsontesting_Prefix.pch352098419#352098440#0(0"0(0#0#57"/Users/srama/Documents/jsontesting/jsontesting_Prefix.pch8604211040#1842"    cd /Users/srama/Documents/jsontesting    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-generated-files.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-own-target-headers.hmap -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-all-target-headers.hmap -iquote /Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/jsontesting-project-headers.hmap -F/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator -I/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/include -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources/i386 -I/Users/srama/Documents/jsontesting/build/jsontesting.build/Debug-iphonesimulator/jsontesting.build/DerivedSources -c /Users/srama/Documents/jsontesting/jsontesting_Prefix.pch -o /var/folders/eC/eCRxF+aVFIKZqUGN-FYrcU+++Yc/-Caches-/com.apple.Xcode.586/SharedPrecompiledHeaders/jsontesting_Prefix-ajeoauyyxmlehsgfhjkrbsoffxdf/jsontesting_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app
+s353571954.646131
+e353571954.648787
+r1
+xTouch
+x/Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app
+lSLF07#2@84"Touch /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app353571954#353571954#0(0"0(0#0#0"8618880416#274"    cd /Users/sandeep/Desktop/jsontesting    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/jsontesting/build/Debug-iphonesimulator/jsontesting.app0#
+
+CTouch /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app
+s352101482.756636
+e352101482.904673
+r1
+xTouch
+x/Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app
+lSLF07#2@84"Touch /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app352101482#352101482#0(0"0(0#0#0"8616625696#274"    cd /Users/srama/Documents/jsontesting    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/srama/Documents/jsontesting/build/Debug-iphonesimulator/jsontesting.app0#
+

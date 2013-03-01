@@ -1,0 +1,403 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		222270BE14E1CE3B0074753F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222270BD14E1CE3B0074753F /* UIKit.framework */; };
+		222270C014E1CE3B0074753F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222270BF14E1CE3B0074753F /* Foundation.framework */; };
+		222270C214E1CE3B0074753F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222270C114E1CE3B0074753F /* CoreGraphics.framework */; };
+		222270C814E1CE3B0074753F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 222270C614E1CE3B0074753F /* InfoPlist.strings */; };
+		222270CA14E1CE3B0074753F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 222270C914E1CE3B0074753F /* main.m */; };
+		222270CE14E1CE3B0074753F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 222270CD14E1CE3B0074753F /* AppDelegate.m */; };
+		222270D114E1CE3B0074753F /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222270CF14E1CE3B0074753F /* MainStoryboard.storyboard */; };
+		222270D414E1CE3B0074753F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 222270D314E1CE3B0074753F /* ViewController.m */; };
+		222270DB14E1CE550074753F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222270DA14E1CE550074753F /* CoreData.framework */; };
+		2238C61A14E7C9FA00E98373 /* CoreDataTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2238C61914E7C9FA00E98373 /* CoreDataTableViewController.m */; };
+		2238C61E14E7CD3800E98373 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2238C61C14E7CD3700E98373 /* Model.xcdatamodeld */; };
+		225C128314F1170B007C6CF2 /* PersonRoleTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 225C128214F1170B007C6CF2 /* PersonRoleTVC.m */; };
+		227A530614EE2F440047D58A /* AddPersonTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A52F614EE2F440047D58A /* AddPersonTVC.m */; };
+		227A530714EE2F440047D58A /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A52F814EE2F440047D58A /* Person.m */; };
+		227A530814EE2F440047D58A /* PersonDetailTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A52FA14EE2F440047D58A /* PersonDetailTVC.m */; };
+		227A530A14EE2F440047D58A /* AddRoleTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A52FF14EE2F440047D58A /* AddRoleTVC.m */; };
+		227A530B14EE2F440047D58A /* Role.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A530114EE2F440047D58A /* Role.m */; };
+		227A530C14EE2F440047D58A /* RoleDetailTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A530314EE2F440047D58A /* RoleDetailTVC.m */; };
+		227A530D14EE2F440047D58A /* RolesTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A530514EE2F440047D58A /* RolesTVC.m */; };
+		227A531014EE2F7F0047D58A /* PersonsTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 227A530F14EE2F7F0047D58A /* PersonsTVC.m */; };
+		2C7D14F015D631B90086AB17 /* AddStudentTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C7D14EB15D631B90086AB17 /* AddStudentTVC.m */; };
+		2C7D14F115D631B90086AB17 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C7D14ED15D631B90086AB17 /* Student.m */; };
+		2C7D14F215D631B90086AB17 /* StudentMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C7D14EF15D631B90086AB17 /* StudentMasterViewController.m */; };
+		2C7D14FD15D636C90086AB17 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C7D14FC15D636C90086AB17 /* bg.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		222270B914E1CE3B0074753F /* Staff Manager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Staff Manager.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		222270BD14E1CE3B0074753F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		222270BF14E1CE3B0074753F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		222270C114E1CE3B0074753F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		222270C514E1CE3B0074753F /* Staff Manager-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Staff Manager-Info.plist"; sourceTree = "<group>"; };
+		222270C714E1CE3B0074753F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		222270C914E1CE3B0074753F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		222270CB14E1CE3B0074753F /* Staff Manager-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Staff Manager-Prefix.pch"; sourceTree = "<group>"; };
+		222270CC14E1CE3B0074753F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		222270CD14E1CE3B0074753F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		222270D014E1CE3B0074753F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		222270D214E1CE3B0074753F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		222270D314E1CE3B0074753F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		222270DA14E1CE550074753F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		2238C61814E7C9FA00E98373 /* CoreDataTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreDataTableViewController.h; sourceTree = "<group>"; };
+		2238C61914E7C9FA00E98373 /* CoreDataTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreDataTableViewController.m; sourceTree = "<group>"; };
+		2238C61D14E7CD3800E98373 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		225C128114F1170B007C6CF2 /* PersonRoleTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonRoleTVC.h; sourceTree = "<group>"; };
+		225C128214F1170B007C6CF2 /* PersonRoleTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonRoleTVC.m; sourceTree = "<group>"; };
+		227A52E714EE2A490047D58A /* Model 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Model 2.xcdatamodel"; sourceTree = "<group>"; };
+		227A52F514EE2F440047D58A /* AddPersonTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddPersonTVC.h; sourceTree = "<group>"; };
+		227A52F614EE2F440047D58A /* AddPersonTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddPersonTVC.m; sourceTree = "<group>"; };
+		227A52F714EE2F440047D58A /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		227A52F814EE2F440047D58A /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		227A52F914EE2F440047D58A /* PersonDetailTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonDetailTVC.h; sourceTree = "<group>"; };
+		227A52FA14EE2F440047D58A /* PersonDetailTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonDetailTVC.m; sourceTree = "<group>"; };
+		227A52FE14EE2F440047D58A /* AddRoleTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddRoleTVC.h; sourceTree = "<group>"; };
+		227A52FF14EE2F440047D58A /* AddRoleTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddRoleTVC.m; sourceTree = "<group>"; };
+		227A530014EE2F440047D58A /* Role.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Role.h; sourceTree = "<group>"; };
+		227A530114EE2F440047D58A /* Role.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Role.m; sourceTree = "<group>"; };
+		227A530214EE2F440047D58A /* RoleDetailTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoleDetailTVC.h; sourceTree = "<group>"; };
+		227A530314EE2F440047D58A /* RoleDetailTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoleDetailTVC.m; sourceTree = "<group>"; };
+		227A530414EE2F440047D58A /* RolesTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RolesTVC.h; sourceTree = "<group>"; };
+		227A530514EE2F440047D58A /* RolesTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RolesTVC.m; sourceTree = "<group>"; };
+		227A530E14EE2F7F0047D58A /* PersonsTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonsTVC.h; sourceTree = "<group>"; };
+		227A530F14EE2F7F0047D58A /* PersonsTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonsTVC.m; sourceTree = "<group>"; };
+		2C7D14EA15D631B90086AB17 /* AddStudentTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddStudentTVC.h; sourceTree = "<group>"; };
+		2C7D14EB15D631B90086AB17 /* AddStudentTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddStudentTVC.m; sourceTree = "<group>"; };
+		2C7D14EC15D631B90086AB17 /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
+		2C7D14ED15D631B90086AB17 /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
+		2C7D14EE15D631B90086AB17 /* StudentMasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StudentMasterViewController.h; sourceTree = "<group>"; };
+		2C7D14EF15D631B90086AB17 /* StudentMasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudentMasterViewController.m; sourceTree = "<group>"; };
+		2C7D14FC15D636C90086AB17 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		222270B614E1CE3B0074753F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				222270DB14E1CE550074753F /* CoreData.framework in Frameworks */,
+				222270BE14E1CE3B0074753F /* UIKit.framework in Frameworks */,
+				222270C014E1CE3B0074753F /* Foundation.framework in Frameworks */,
+				222270C214E1CE3B0074753F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		222270AE14E1CE3B0074753F = {
+			isa = PBXGroup;
+			children = (
+				2C7D14EA15D631B90086AB17 /* AddStudentTVC.h */,
+				2C7D14EB15D631B90086AB17 /* AddStudentTVC.m */,
+				2C7D14EC15D631B90086AB17 /* Student.h */,
+				2C7D14ED15D631B90086AB17 /* Student.m */,
+				2C7D14EE15D631B90086AB17 /* StudentMasterViewController.h */,
+				2C7D14EF15D631B90086AB17 /* StudentMasterViewController.m */,
+				222270C314E1CE3B0074753F /* Staff Manager */,
+				222270BC14E1CE3B0074753F /* Frameworks */,
+				222270BA14E1CE3B0074753F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		222270BA14E1CE3B0074753F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				222270B914E1CE3B0074753F /* Staff Manager.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		222270BC14E1CE3B0074753F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				222270DA14E1CE550074753F /* CoreData.framework */,
+				222270BD14E1CE3B0074753F /* UIKit.framework */,
+				222270BF14E1CE3B0074753F /* Foundation.framework */,
+				222270C114E1CE3B0074753F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		222270C314E1CE3B0074753F /* Staff Manager */ = {
+			isa = PBXGroup;
+			children = (
+				227A52F414EE2F440047D58A /* Person */,
+				227A52FD14EE2F440047D58A /* Role */,
+				2238C61814E7C9FA00E98373 /* CoreDataTableViewController.h */,
+				2238C61914E7C9FA00E98373 /* CoreDataTableViewController.m */,
+				222270CC14E1CE3B0074753F /* AppDelegate.h */,
+				222270CD14E1CE3B0074753F /* AppDelegate.m */,
+				222270CF14E1CE3B0074753F /* MainStoryboard.storyboard */,
+				222270D214E1CE3B0074753F /* ViewController.h */,
+				222270D314E1CE3B0074753F /* ViewController.m */,
+				222270C414E1CE3B0074753F /* Supporting Files */,
+				2238C61C14E7CD3700E98373 /* Model.xcdatamodeld */,
+			);
+			path = "Staff Manager";
+			sourceTree = "<group>";
+		};
+		222270C414E1CE3B0074753F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				222270C514E1CE3B0074753F /* Staff Manager-Info.plist */,
+				222270C614E1CE3B0074753F /* InfoPlist.strings */,
+				222270C914E1CE3B0074753F /* main.m */,
+				222270CB14E1CE3B0074753F /* Staff Manager-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		227A52F414EE2F440047D58A /* Person */ = {
+			isa = PBXGroup;
+			children = (
+				227A52F714EE2F440047D58A /* Person.h */,
+				227A52F814EE2F440047D58A /* Person.m */,
+				227A530E14EE2F7F0047D58A /* PersonsTVC.h */,
+				227A530F14EE2F7F0047D58A /* PersonsTVC.m */,
+				227A52F514EE2F440047D58A /* AddPersonTVC.h */,
+				227A52F614EE2F440047D58A /* AddPersonTVC.m */,
+				227A52F914EE2F440047D58A /* PersonDetailTVC.h */,
+				227A52FA14EE2F440047D58A /* PersonDetailTVC.m */,
+				225C128114F1170B007C6CF2 /* PersonRoleTVC.h */,
+				225C128214F1170B007C6CF2 /* PersonRoleTVC.m */,
+			);
+			path = Person;
+			sourceTree = "<group>";
+		};
+		227A52FD14EE2F440047D58A /* Role */ = {
+			isa = PBXGroup;
+			children = (
+				2C7D14FC15D636C90086AB17 /* bg.png */,
+				227A530014EE2F440047D58A /* Role.h */,
+				227A530114EE2F440047D58A /* Role.m */,
+				227A530414EE2F440047D58A /* RolesTVC.h */,
+				227A530514EE2F440047D58A /* RolesTVC.m */,
+				227A52FE14EE2F440047D58A /* AddRoleTVC.h */,
+				227A52FF14EE2F440047D58A /* AddRoleTVC.m */,
+				227A530214EE2F440047D58A /* RoleDetailTVC.h */,
+				227A530314EE2F440047D58A /* RoleDetailTVC.m */,
+			);
+			path = Role;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		222270B814E1CE3B0074753F /* Staff Manager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 222270D714E1CE3B0074753F /* Build configuration list for PBXNativeTarget "Staff Manager" */;
+			buildPhases = (
+				222270B514E1CE3B0074753F /* Sources */,
+				222270B614E1CE3B0074753F /* Frameworks */,
+				222270B714E1CE3B0074753F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Staff Manager";
+			productName = "Staff Manager";
+			productReference = 222270B914E1CE3B0074753F /* Staff Manager.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		222270B014E1CE3B0074753F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 222270B314E1CE3B0074753F /* Build configuration list for PBXProject "Staff Manager" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 222270AE14E1CE3B0074753F;
+			productRefGroup = 222270BA14E1CE3B0074753F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				222270B814E1CE3B0074753F /* Staff Manager */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		222270B714E1CE3B0074753F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				222270C814E1CE3B0074753F /* InfoPlist.strings in Resources */,
+				222270D114E1CE3B0074753F /* MainStoryboard.storyboard in Resources */,
+				2C7D14FD15D636C90086AB17 /* bg.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		222270B514E1CE3B0074753F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				222270CA14E1CE3B0074753F /* main.m in Sources */,
+				222270CE14E1CE3B0074753F /* AppDelegate.m in Sources */,
+				222270D414E1CE3B0074753F /* ViewController.m in Sources */,
+				2238C61A14E7C9FA00E98373 /* CoreDataTableViewController.m in Sources */,
+				2238C61E14E7CD3800E98373 /* Model.xcdatamodeld in Sources */,
+				227A530614EE2F440047D58A /* AddPersonTVC.m in Sources */,
+				227A530714EE2F440047D58A /* Person.m in Sources */,
+				227A530814EE2F440047D58A /* PersonDetailTVC.m in Sources */,
+				227A530A14EE2F440047D58A /* AddRoleTVC.m in Sources */,
+				227A530B14EE2F440047D58A /* Role.m in Sources */,
+				227A530C14EE2F440047D58A /* RoleDetailTVC.m in Sources */,
+				227A530D14EE2F440047D58A /* RolesTVC.m in Sources */,
+				227A531014EE2F7F0047D58A /* PersonsTVC.m in Sources */,
+				225C128314F1170B007C6CF2 /* PersonRoleTVC.m in Sources */,
+				2C7D14F015D631B90086AB17 /* AddStudentTVC.m in Sources */,
+				2C7D14F115D631B90086AB17 /* Student.m in Sources */,
+				2C7D14F215D631B90086AB17 /* StudentMasterViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		222270C614E1CE3B0074753F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				222270C714E1CE3B0074753F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		222270CF14E1CE3B0074753F /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				222270D014E1CE3B0074753F /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		222270D514E1CE3B0074753F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		222270D614E1CE3B0074753F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		222270D814E1CE3B0074753F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Staff Manager/Staff Manager-Prefix.pch";
+				INFOPLIST_FILE = "Staff Manager/Staff Manager-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		222270D914E1CE3B0074753F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Staff Manager/Staff Manager-Prefix.pch";
+				INFOPLIST_FILE = "Staff Manager/Staff Manager-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		222270B314E1CE3B0074753F /* Build configuration list for PBXProject "Staff Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				222270D514E1CE3B0074753F /* Debug */,
+				222270D614E1CE3B0074753F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		222270D714E1CE3B0074753F /* Build configuration list for PBXNativeTarget "Staff Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				222270D814E1CE3B0074753F /* Debug */,
+				222270D914E1CE3B0074753F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2238C61C14E7CD3700E98373 /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				227A52E714EE2A490047D58A /* Model 2.xcdatamodel */,
+				2238C61D14E7CD3800E98373 /* Model.xcdatamodel */,
+			);
+			currentVersion = 227A52E714EE2A490047D58A /* Model 2.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 222270B014E1CE3B0074753F /* Project object */;
+}

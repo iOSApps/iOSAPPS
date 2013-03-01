@@ -1,0 +1,324 @@
+Tflip
+v7
+r0
+t349794171.832684
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/Info.plist flip-Info.plist
+cCompileXIB /Users/sandeep/Desktop/flip/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/flip/flipViewController.xib
+cCompileXIB /Users/sandeep/Desktop/flip/Classes/second.xib
+cCopyPlistFile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/save.plist Classes/save.plist
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch.gch flip_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/flip/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipAppDelegate.o /Users/sandeep/Desktop/flip/Classes/flipAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipViewController.o /Users/sandeep/Desktop/flip/Classes/flipViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/second.o /Users/sandeep/Desktop/flip/Classes/second.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip normal i386
+cGenerateDSYMFile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app.dSYM /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip
+cTouch /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/flip/Classes/flipAppDelegate.h
+c000000004E9D5C5C00000000000001C6
+t1318935644
+s454
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/flip/Classes/flipAppDelegate.m
+c000000004E9D5C5C0000000000000254
+t1318935644
+s596
+i"flipAppDelegate.h"
+i"flipViewController.h"
+
+N/Users/sandeep/Desktop/flip/Classes/flipViewController.h
+c000000004E9D6D340000000000000146
+t1318939956
+s326
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/flip/Classes/flipViewController.m
+c000000004E9E5E0800000000000007D0
+t1319001608
+s2000
+i"flipViewController.h"
+i"second.h"
+
+N/Users/sandeep/Desktop/flip/Classes/save.plist
+c000000004E9E64AC00000000000000B6
+t1319003308
+s182
+
+N/Users/sandeep/Desktop/flip/Classes/second.h
+c000000004E9FAC8C000000000000015D
+t1319087244
+s349
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/flip/Classes/second.m
+c000000004E9FAAD60000000000000CF5
+t1319086806
+s3317
+i"second.h"
+
+N/Users/sandeep/Desktop/flip/Classes/second.xib
+c000000004E9E639400000000000039E2
+t1319003028
+s14818
+
+N/Users/sandeep/Desktop/flip/MainWindow.xib
+c000000004E9D5C5C000000000000242D
+t1318935644
+s9261
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app
+t1328101371
+s306
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app.dSYM
+t1328101371
+s102
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/Info.plist
+t1328101369
+s579
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/MainWindow.nib
+t1328101369
+s1093
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/PkgInfo
+t1328101369
+s8
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip
+t1328101371
+s18132
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flipViewController.nib
+t1328101369
+s1763
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/save.plist
+t1328101369
+s42
+
+N/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/second.nib
+t1328101370
+s2436
+
+N/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flip.LinkFileList
+c000000004F2937F900000000000001C7
+t1328101369
+s455
+
+N/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipAppDelegate.o
+t1328101371
+s48756
+
+N/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipViewController.o
+t1328101371
+s47388
+
+N/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/main.o
+t1328101371
+s6268
+
+N/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/second.o
+t1328101371
+s49988
+
+N/Users/sandeep/Desktop/flip/flipViewController.xib
+c000000004E9D6F8C0000000000002D00
+t1318940556
+s11520
+
+N/Users/sandeep/Desktop/flip/flip_Prefix.pch
+c000000004E9D5C5C00000000000000B1
+t1318935644
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/flip/main.m
+c000000004E9D5C5C000000000000015F
+t1318935644
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch.gch
+t1328101371
+s15117520
+
+Nflip-Info.plist
+c000000004E9D5C5C000000000000038D
+t1318935644
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349794169#349794169#0(0"0(0#1#0"8608533152#0"0#
+
+CCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipAppDelegate.o /Users/sandeep/Desktop/flip/Classes/flipAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349794171.526196
+e349794171.636058
+r1
+xCompileC
+xbuild/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipAppDelegate.o
+x/Users/sandeep/Desktop/flip/Classes/flipAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/flip/Classes/flipAppDelegate.m349794171#349794171#0(0"0(0#0#53"/Users/sandeep/Desktop/flip/Classes/flipAppDelegate.m8606613760#1798"    cd /Users/sandeep/Desktop/flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-generated-files.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-own-target-headers.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-all-target-headers.hmap -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-project-headers.hmap -F/Users/sandeep/Desktop/flip/build/Release-iphonesimulator -I/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources/i386 -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch -c /Users/sandeep/Desktop/flip/Classes/flipAppDelegate.m -o /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipAppDelegate.o0#
+
+CCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipViewController.o /Users/sandeep/Desktop/flip/Classes/flipViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349794171.590588
+e349794171.694537
+r1
+xCompileC
+xbuild/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipViewController.o
+x/Users/sandeep/Desktop/flip/Classes/flipViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sandeep/Desktop/flip/Classes/flipViewController.m349794171#349794171#0(0"0(0#0#56"/Users/sandeep/Desktop/flip/Classes/flipViewController.m8606449056#1804"    cd /Users/sandeep/Desktop/flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-generated-files.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-own-target-headers.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-all-target-headers.hmap -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-project-headers.hmap -F/Users/sandeep/Desktop/flip/build/Release-iphonesimulator -I/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources/i386 -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch -c /Users/sandeep/Desktop/flip/Classes/flipViewController.m -o /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flipViewController.o0#
+
+CCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/flip/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349794171.524569
+e349794171.590493
+r1
+xCompileC
+xbuild/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/flip/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/sandeep/Desktop/flip/main.m349794171#349794171#0(0"0(0#0#34"/Users/sandeep/Desktop/flip/main.m8607946624#1768"    cd /Users/sandeep/Desktop/flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-generated-files.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-own-target-headers.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-all-target-headers.hmap -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-project-headers.hmap -F/Users/sandeep/Desktop/flip/build/Release-iphonesimulator -I/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources/i386 -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch -c /Users/sandeep/Desktop/flip/main.m -o /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/main.o0#
+
+CCompileC build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/second.o /Users/sandeep/Desktop/flip/Classes/second.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349794171.636158
+e349794171.751468
+r1
+xCompileC
+xbuild/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/second.o
+x/Users/sandeep/Desktop/flip/Classes/second.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Desktop/flip/Classes/second.m349794171#349794171#0(0"0(0#0#44"/Users/sandeep/Desktop/flip/Classes/second.m8606211840#1780"    cd /Users/sandeep/Desktop/flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-generated-files.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-own-target-headers.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-all-target-headers.hmap -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-project-headers.hmap -F/Users/sandeep/Desktop/flip/build/Release-iphonesimulator -I/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources/i386 -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch -c /Users/sandeep/Desktop/flip/Classes/second.m -o /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/second.o0#
+
+CCompileXIB /Users/sandeep/Desktop/flip/Classes/second.xib
+s349794169.556237
+e349794170.043356
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/flip/Classes/second.xib
+lSLF07#2@29"CompileXIB Classes/second.xib349794169#349794170#0(0"0(0#0#46"/Users/sandeep/Desktop/flip/Classes/second.xib8606289376#536"    cd /Users/sandeep/Desktop/flip    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/second.nib /Users/sandeep/Desktop/flip/Classes/second.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/flip/MainWindow.xib
+s349794169.158571
+e349794169.556144
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/flip/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib349794169#349794169#0(0"0(0#0#42"/Users/sandeep/Desktop/flip/MainWindow.xib8607831712#536"    cd /Users/sandeep/Desktop/flip    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/MainWindow.nib /Users/sandeep/Desktop/flip/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/flip/flipViewController.xib
+s349794169.159257
+e349794169.707078
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/flip/flipViewController.xib
+lSLF07#2@33"CompileXIB flipViewController.xib349794169#349794169#0(0"0(0#0#50"/Users/sandeep/Desktop/flip/flipViewController.xib8606648416#552"    cd /Users/sandeep/Desktop/flip    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flipViewController.nib /Users/sandeep/Desktop/flip/flipViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/save.plist Classes/save.plist
+s349794169.707164
+e349794169.966397
+r1
+xCopyPlistFile
+x/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/save.plist
+xClasses/save.plist
+lSLF07#2@23"Copy Classes/save.plist349794169#349794169#0(0"0(0#0#46"/Users/sandeep/Desktop/flip/Classes/save.plist8603280256#370"    cd /Users/sandeep/Desktop/flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Classes/save.plist --outdir /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app.dSYM /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip
+s349794171.810323
+e349794171.829656
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app.dSYM
+x/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip
+lSLF07#2@104"GenerateDSYMFile build/Release-iphonesimulator/flip.app.dSYM build/Release-iphonesimulator/flip.app/flip349794171#349794171#0(0"0(0#0#71"/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip8604099936#345"    cd /Users/sandeep/Desktop/flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip -o /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app.dSYM0#
+
+CLd /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip normal i386
+s349794171.751558
+e349794171.810211
+r1
+xLd
+x/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip
+xnormal
+xi386
+lSLF07#2@76"Link /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip349794171#349794171#0(0"0(0#0#0"8605907040#838"    cd /Users/sandeep/Desktop/flip    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/flip/build/Release-iphonesimulator -F/Users/sandeep/Desktop/flip/build/Release-iphonesimulator -filelist /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/Objects-normal/i386/flip.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/flip0#
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/Info.plist flip-Info.plist
+s349794169.155049
+e349794169.158491
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/Info.plist
+xflip-Info.plist
+lSLF07#2@23"Process flip-Info.plist349794169#349794169#0(0"0(0#0#43"/Users/sandeep/Desktop/flip/flip-Info.plist8608099392#441"    cd /Users/sandeep/Desktop/flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility flip-Info.plist -genpkginfo /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch.gch flip_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s349794170.043481
+e349794171.524345
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch.gch
+xflip_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile flip_Prefix.pch349794170#349794171#0(0"0(0#0#43"/Users/sandeep/Desktop/flip/flip_Prefix.pch8608495392#1672"    cd /Users/sandeep/Desktop/flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-generated-files.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-own-target-headers.hmap -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-all-target-headers.hmap -iquote /Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/flip-project-headers.hmap -F/Users/sandeep/Desktop/flip/build/Release-iphonesimulator -I/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/include -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources/i386 -I/Users/sandeep/Desktop/flip/build/flip.build/Release-iphonesimulator/flip.build/DerivedSources -c /Users/sandeep/Desktop/flip/flip_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/flip_Prefix-dfcssvzwtwuzfgattpnfcvzsxetq/flip_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app
+s349794171.829739
+e349794171.832519
+r1
+xTouch
+x/Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app
+lSLF07#2@72"Touch /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app349794171#349794171#0(0"0(0#0#0"8603793600#255"    cd /Users/sandeep/Desktop/flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/flip/build/Release-iphonesimulator/flip.app0#
+

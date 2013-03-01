@@ -1,0 +1,245 @@
+// !$*UTF8*$!
+{
+	186CDF4B1483485300F9E37F /* FailedBanksCD */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FailedBanksCD;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	186CDF611483487200F9E37F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	186CDF621483487200F9E37F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	186CDF661483496300F9E37F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 358120F71177599400FA8609 /* FailedBankInfo.h */;
+		name = "FailedBankInfo.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 147;
+	};
+	186CDF671483496300F9E37F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 358120F81177599400FA8609 /* FailedBankInfo.m */;
+		name = "FailedBankInfo.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 25;
+	};
+	186CDF6C1483496300F9E37F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 358120FF117759D400FA8609 /* FailedBanksListViewController.h */;
+		name = "FailedBanksListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 39;
+	};
+	18DAA7AD148F445700A7136A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35812100117759D400FA8609 /* FailedBanksListViewController.m */;
+		name = "FailedBanksListViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 57;
+	};
+	18DAA7AE148F445700A7136A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FailedBanksCDAppDelegate.m */;
+		name = "FailedBanksCDAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 400;
+		vrLoc = 0;
+	};
+	18DAA7AF148F445700A7136A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FailedBanksCDAppDelegate.h */;
+		name = "FailedBanksCDAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 277;
+	};
+	18DAA7B0148F445700A7136A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 358120FA1177599400FA8609 /* FailedBankDetails.m */;
+		name = "FailedBankDetails.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 277;
+		vrLoc = 46;
+	};
+	18E166D714988A3700A42E73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 358120F91177599400FA8609 /* FailedBankDetails.h */;
+		name = "FailedBankDetails.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 319;
+		vrLoc = 149;
+	};
+	18E166D814988A3700A42E73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 358120F91177599400FA8609 /* FailedBankDetails.h */;
+		name = "FailedBankDetails.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 319;
+		vrLoc = 149;
+	};
+	1D3623240D0F684500981E51 /* FailedBanksCDAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 390}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{277, 642}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FailedBanksCDAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2483}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 400}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FailedBanksCD */ = {
+		activeExec = 0;
+		executables = (
+			186CDF4B1483485300F9E37F /* FailedBanksCD */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 186CDF4B1483485300F9E37F /* FailedBanksCD */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FailedBanksCD */;
+		codeSenseManager = 186CDF621483487200F9E37F /* Code sense */;
+		executables = (
+			186CDF4B1483485300F9E37F /* FailedBanksCD */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 345541165;
+			PBXWorkspaceStateSaveDate = 345541165;
+		};
+		perUserProjectItems = {
+			186CDF661483496300F9E37F /* PBXTextBookmark */ = 186CDF661483496300F9E37F /* PBXTextBookmark */;
+			186CDF671483496300F9E37F /* PBXTextBookmark */ = 186CDF671483496300F9E37F /* PBXTextBookmark */;
+			186CDF6C1483496300F9E37F /* PBXTextBookmark */ = 186CDF6C1483496300F9E37F /* PBXTextBookmark */;
+			18DAA7AD148F445700A7136A /* PBXTextBookmark */ = 18DAA7AD148F445700A7136A /* PBXTextBookmark */;
+			18DAA7AE148F445700A7136A /* PBXTextBookmark */ = 18DAA7AE148F445700A7136A /* PBXTextBookmark */;
+			18DAA7AF148F445700A7136A /* PBXTextBookmark */ = 18DAA7AF148F445700A7136A /* PBXTextBookmark */;
+			18DAA7B0148F445700A7136A /* PBXTextBookmark */ = 18DAA7B0148F445700A7136A /* PBXTextBookmark */;
+			18E166D714988A3700A42E73 /* PBXTextBookmark */ = 18E166D714988A3700A42E73 /* PBXTextBookmark */;
+			18E166D814988A3700A42E73 /* PBXTextBookmark */ = 18E166D814988A3700A42E73 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 186CDF611483487200F9E37F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	358120F71177599400FA8609 /* FailedBankInfo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 338}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{147, 320}";
+		};
+	};
+	358120F81177599400FA8609 /* FailedBankInfo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{25, 255}";
+		};
+	};
+	358120F91177599400FA8609 /* FailedBankDetails.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 338}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{149, 319}";
+		};
+	};
+	358120FA1177599400FA8609 /* FailedBankDetails.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 273}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{46, 277}";
+		};
+	};
+	358120FF117759D400FA8609 /* FailedBanksListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{39, 416}";
+		};
+	};
+	35812100117759D400FA8609 /* FailedBanksListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 2327}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{57, 579}";
+		};
+	};
+}

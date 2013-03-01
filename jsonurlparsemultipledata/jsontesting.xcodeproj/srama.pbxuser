@@ -1,0 +1,200 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* jsontesting */ = {
+		activeExec = 0;
+		executables = (
+			36F9057D14FC97F5004F0038 /* jsontesting */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* jsontestingViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 393}}";
+			sepNavSelRange = "{317, 0}";
+			sepNavVisRange = "{0, 530}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* jsontestingViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1391}}";
+			sepNavSelRange = "{1645, 0}";
+			sepNavVisRange = "{706, 938}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 36F9057D14FC97F5004F0038 /* jsontesting */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* jsontesting */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* jsontesting */,
+		);
+		codeSenseManager = 36F9058E14FC9814004F0038 /* Code sense */;
+		executables = (
+			36F9057D14FC97F5004F0038 /* jsontesting */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352099234;
+			PBXWorkspaceStateSaveDate = 352099234;
+		};
+		perUserProjectItems = {
+			36F905C314FC9B78004F0038 /* PBXTextBookmark */ = 36F905C314FC9B78004F0038 /* PBXTextBookmark */;
+			36F905C414FC9B78004F0038 /* PBXTextBookmark */ = 36F905C414FC9B78004F0038 /* PBXTextBookmark */;
+			36F905E314FCA049004F0038 /* PBXTextBookmark */ = 36F905E314FCA049004F0038 /* PBXTextBookmark */;
+			36F905E414FCA049004F0038 /* PBXTextBookmark */ = 36F905E414FCA049004F0038 /* PBXTextBookmark */;
+			36F9060214FCA926004F0038 /* PBXTextBookmark */ = 36F9060214FCA926004F0038 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 36F9058D14FC9814004F0038 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	36F9057D14FC97F5004F0038 /* jsontesting */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = jsontesting;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	36F9058D14FC9814004F0038 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	36F9058E14FC9814004F0038 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36F905B514FC99B1004F0038 /* ta.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 232}}";
+			sepNavSelRange = "{263, 0}";
+			sepNavVisRange = "{0, 269}";
+		};
+	};
+	36F905B614FC99B1004F0038 /* ta.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3595, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3646, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3696, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4397}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {908, 2262}}";
+			sepNavSelRange = "{1963, 0}";
+			sepNavVisRange = "{1444, 574}";
+		};
+	};
+	36F905C314FC9B78004F0038 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36F905B514FC99B1004F0038 /* ta.h */;
+		name = "ta.h: 15";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 0;
+	};
+	36F905C414FC9B78004F0038 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36F905B614FC99B1004F0038 /* ta.m */;
+		name = "ta.m: 80";
+		rLen = 0;
+		rLoc = 1963;
+		rType = 0;
+		vrLen = 574;
+		vrLoc = 1444;
+	};
+	36F905E314FCA049004F0038 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* jsontestingViewController.h */;
+		name = "jsontestingViewController.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 0;
+	};
+	36F905E414FCA049004F0038 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* jsontestingViewController.m */;
+		name = "jsontestingViewController.m: 52";
+		rLen = 0;
+		rLoc = 1645;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 0;
+	};
+	36F9060214FCA926004F0038 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* jsontestingViewController.m */;
+		name = "jsontestingViewController.m: 54";
+		rLen = 0;
+		rLoc = 1645;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 706;
+	};
+}

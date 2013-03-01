@@ -1,0 +1,260 @@
+Tcnu
+v7
+r0
+t322565901.240401
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/Info.plist cnu-Info.plist
+cCompileXIB /Users/sandeep/Documents/cnu/MainWindow.xib
+cCompileXIB /Users/sandeep/Documents/cnu/cnuViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch.gch cnu_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/main.o /Users/sandeep/Documents/cnu/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuAppDelegate.o /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuViewController.o /Users/sandeep/Documents/cnu/Classes/cnuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.h
+c000000004D89B72200000000000001C3
+t1300870946
+s451
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m
+c000000004D89B7220000000000000A7D
+t1300870946
+s2685
+i"cnuAppDelegate.h"
+i"cnuViewController.h"
+
+N/Users/sandeep/Documents/cnu/Classes/cnuViewController.h
+c000000004D89BF860000000000000256
+t1300873094
+s598
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/cnu/Classes/cnuViewController.m
+c000000004D89BF860000000000000707
+t1300873094
+s1799
+i"cnuViewController.h"
+
+N/Users/sandeep/Documents/cnu/MainWindow.xib
+c000000004D89B7220000000000004DF9
+t1300870946
+s19961
+
+N/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app
+t2
+s0
+
+N/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app.dSYM
+t2
+s0
+
+N/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/Info.plist
+t1300873094
+s575
+
+N/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/MainWindow.nib
+t1300873096
+s1115
+
+N/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/PkgInfo
+t1300873094
+s8
+
+N/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/cnu
+t2
+s0
+
+N/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/cnuViewController.nib
+t1300873097
+s795
+
+N/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnu.LinkFileList
+c000000004D89BF86000000000000014F
+t1300873094
+s335
+
+N/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuAppDelegate.o
+t2
+s0
+
+N/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuViewController.o
+t2
+s0
+
+N/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/main.o
+t1300873101
+s6284
+
+N/Users/sandeep/Documents/cnu/cnuViewController.xib
+c000000004D89B7220000000000001A35
+t1300870946
+s6709
+
+N/Users/sandeep/Documents/cnu/cnu_Prefix.pch
+c000000004D89B72200000000000000AF
+t1300870946
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/cnu/main.m
+c000000004D89B7220000000000000161
+t1300870946
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch.gch
+t1300873100
+s15453392
+
+Ncnu-Info.plist
+c000000004D89B722000000000000038D
+t1300870946
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322565894#322565895#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuAppDelegate.o /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322565900.795501
+e322565901.144562
+r0
+xCompileC
+xbuild/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuAppDelegate.o
+x/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m:10:
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:12: error: expected specifier-qualifier-list before 'UItextfield'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:13: error: expected specifier-qualifier-list before 'UItextfield'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:21: error: expected specifier-qualifier-list before 'intx'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:22: error: expected specifier-qualifier-list before 'inty'
+lSLF07#2@61"Compile /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322565900#322565901#0(558"In file included from /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m:10:/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:12: error: expected specifier-qualifier-list before 'UItextfield'/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:13: error: expected specifier-qualifier-list before 'UItextfield'/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:21: error: expected specifier-qualifier-list before 'intx'/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:22: error: expected specifier-qualifier-list before 'inty'4(4@54"Expected specifier-qualifier-list before 'UItextfield'322565900#80#123#2(7@75"In file included from /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322565900#18446744073709551615#0#0(6@53"/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322563746#10#0#10#0#0"0(13@114"Expected specifier-qualifier-list before 'UItextfield' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565900#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#12#0#12#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#12#0#12#0#19"expected * before *0(4@54"Expected specifier-qualifier-list before 'UItextfield'322565900#203#123#2(7@75"In file included from /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322565900#18446744073709551615#0#0(6@53"/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322563746#10#0#10#0#0"0(13@114"Expected specifier-qualifier-list before 'UItextfield' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565900#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#13#0#13#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#13#0#13#0#19"expected * before *0(4@47"Expected specifier-qualifier-list before 'intx'322565900#326#116#2(7@75"In file included from /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322565900#18446744073709551615#0#0(6@53"/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322563746#10#0#10#0#0"0(13@107"Expected specifier-qualifier-list before 'intx' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565900#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#21#0#21#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#21#0#21#0#19"expected * before *0(4@47"Expected specifier-qualifier-list before 'inty'322565900#442#116#2(7@75"In file included from /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322565900#18446744073709551615#0#0(6@53"/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m322563746#10#0#10#0#0"0(13@107"Expected specifier-qualifier-list before 'inty' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565900#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#22#0#22#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#22#0#22#0#19"expected * before *0(0#0#53"/Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m8613965504#1752"    cd /Users/sandeep/Documents/cnu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-generated-files.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-own-target-headers.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-all-target-headers.hmap -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-project-headers.hmap -F/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator -I/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources/i386 -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch -c /Users/sandeep/Documents/cnu/Classes/cnuAppDelegate.m -o /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuAppDelegate.o1#
+
+CCompileC build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuViewController.o /Users/sandeep/Documents/cnu/Classes/cnuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322565901.144654
+e322565901.240189
+r0
+xCompileC
+xbuild/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuViewController.o
+x/Users/sandeep/Documents/cnu/Classes/cnuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/sandeep/Documents/cnu/Classes/cnuViewController.m:9:
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:12: error: expected specifier-qualifier-list before 'UItextfield'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:13: error: expected specifier-qualifier-list before 'UItextfield'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:21: error: expected specifier-qualifier-list before 'intx'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:22: error: expected specifier-qualifier-list before 'inty'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:15: error: no declaration of property 'x' found in the interface
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:15: error: no declaration of property 'y' found in the interface
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:74: warning: return type defaults to 'int'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m: In function '_':
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:74: error: expected declaration specifiers before 'add'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: error: expected declaration specifiers before 'end'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m: At top level:
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: '@end' missing in implementation context
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: incomplete implementation of class 'cnuViewController'
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-div' not found
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-mul' not found
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-sub' not found
+o/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-add' not found
+lSLF07#2@64"Compile /Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565901#322565901#0(1949"In file included from /Users/sandeep/Documents/cnu/Classes/cnuViewController.m:9:/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:12: error: expected specifier-qualifier-list before 'UItextfield'/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:13: error: expected specifier-qualifier-list before 'UItextfield'/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:21: error: expected specifier-qualifier-list before 'intx'/Users/sandeep/Documents/cnu/Classes/cnuViewController.h:22: error: expected specifier-qualifier-list before 'inty'/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:15: error: no declaration of property 'x' found in the interface/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:15: error: no declaration of property 'y' found in the interface/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:74: warning: return type defaults to 'int'/Users/sandeep/Documents/cnu/Classes/cnuViewController.m: In function '_':/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:74: error: expected declaration specifiers before 'add'/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: error: expected declaration specifiers before 'end'/Users/sandeep/Documents/cnu/Classes/cnuViewController.m: At top level:/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: '@end' missing in implementation context/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: incomplete implementation of class 'cnuViewController'/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-div' not found/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-mul' not found/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-sub' not found/Users/sandeep/Documents/cnu/Classes/cnuViewController.m:84: warning: method definition for '-add' not found16(4@54"Expected specifier-qualifier-list before 'UItextfield'322565901#82#123#2(7@78"In file included from /Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#9#0#9#0#0"0(13@114"Expected specifier-qualifier-list before 'UItextfield' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#12#0#12#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#12#0#12#0#19"expected * before *0(4@54"Expected specifier-qualifier-list before 'UItextfield'322565901#205#123#2(7@78"In file included from /Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#9#0#9#0#0"0(13@114"Expected specifier-qualifier-list before 'UItextfield' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#13#0#13#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#13#0#13#0#19"expected * before *0(4@47"Expected specifier-qualifier-list before 'intx'322565901#328#116#2(7@78"In file included from /Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#9#0#9#0#0"0(13@107"Expected specifier-qualifier-list before 'intx' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#21#0#21#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#21#0#21#0#19"expected * before *0(4@47"Expected specifier-qualifier-list before 'inty'322565901#444#116#2(7@78"In file included from /Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#9#0#9#0#0"0(13@107"Expected specifier-qualifier-list before 'inty' in /Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565901#18446744073709551615#0#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#22#0#22#0#0"0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.h322565894#22#0#22#0#19"expected * before *0(4@53"No declaration of property 'x' found in the interface322565901#560#122#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#15#0#15#0#0"0(4@53"No declaration of property 'y' found in the interface322565901#682#122#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#15#0#15#0#0"0(22@29"Return type defaults to 'int'322565901#804#100#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#74#0#74#0#0"0(4@44"Expected declaration specifiers before 'add'322565901#979#113#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#74#0#74#0#19"expected * before *0(4@44"Expected declaration specifiers before 'end'322565901#1092#113#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#84#0#84#0#19"expected * before *0(23@13"At top level:322565901#1205#72#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#0#0#0#0#0"0(22@40"'@end' missing in implementation context322565901#1277#111#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#84#0#84#0#40"'@end' missing in implementation context0(22@54"Incomplete implementation of class 'cnuViewController'322565901#1388#125#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#84#0#84#0#38"incomplete implementation of class '*'0(22@38"Method definition for '-div' not found322565901#1513#109#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#84#0#84#0#35"method definition for '*' not found0(22@38"Method definition for '-mul' not found322565901#1622#109#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#84#0#84#0#35"method definition for '*' not found0(22@38"Method definition for '-sub' not found322565901#1731#109#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#84#0#84#0#35"method definition for '*' not found0(22@38"Method definition for '-add' not found322565901#1840#109#0(6@56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m322565894#84#0#84#0#35"method definition for '*' not found0(0#0#56"/Users/sandeep/Documents/cnu/Classes/cnuViewController.m8612702848#1758"    cd /Users/sandeep/Documents/cnu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-generated-files.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-own-target-headers.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-all-target-headers.hmap -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-project-headers.hmap -F/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator -I/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources/i386 -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch -c /Users/sandeep/Documents/cnu/Classes/cnuViewController.m -o /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/cnuViewController.o1#
+
+CCompileC build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/main.o /Users/sandeep/Documents/cnu/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322565900.793194
+e322565901.147373
+r1
+xCompileC
+xbuild/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/cnu/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/sandeep/Documents/cnu/main.m322565900#322565901#0(0"0(0#0#35"/Users/sandeep/Documents/cnu/main.m8612701120#1724"    cd /Users/sandeep/Documents/cnu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-generated-files.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-own-target-headers.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-all-target-headers.hmap -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-project-headers.hmap -F/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator -I/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources/i386 -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch -c /Users/sandeep/Documents/cnu/main.m -o /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sandeep/Documents/cnu/MainWindow.xib
+s322565894.837977
+e322565896.999642
+r1
+xCompileXIB
+x/Users/sandeep/Documents/cnu/MainWindow.xib
+o2011-03-23 15:08:16.832 Interface Builder Cocoa Touch Tool[13885:3e03] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib322565894#322565896#0(242"2011-03-23 15:08:16.832 Interface Builder Cocoa Touch Tool[13885:3e03] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#43"/Users/sandeep/Documents/cnu/MainWindow.xib8613803488#536"    cd /Users/sandeep/Documents/cnu    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/MainWindow.nib /Users/sandeep/Documents/cnu/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/cnu/cnuViewController.xib
+s322565894.840099
+e322565897.102879
+r1
+xCompileXIB
+x/Users/sandeep/Documents/cnu/cnuViewController.xib
+o2011-03-23 15:08:16.948 Interface Builder Cocoa Touch Tool[13884:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@32"CompileXIB cnuViewController.xib322565894#322565897#0(242"2011-03-23 15:08:16.948 Interface Builder Cocoa Touch Tool[13884:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#50"/Users/sandeep/Documents/cnu/cnuViewController.xib8602991360#550"    cd /Users/sandeep/Documents/cnu    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/cnuViewController.nib /Users/sandeep/Documents/cnu/cnuViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app.dSYM /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/cnu
+r0
+
+CLd /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/cnu normal i386
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/Info.plist cnu-Info.plist
+s322565894.784302
+e322565894.837876
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/Info.plist
+xcnu-Info.plist
+lSLF07#2@22"Process cnu-Info.plist322565894#322565895#0(0"0(0#0#43"/Users/sandeep/Documents/cnu/cnu-Info.plist31244220637446252#437"    cd /Users/sandeep/Documents/cnu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility cnu-Info.plist -genpkginfo /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch.gch cnu_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322565897.103003
+e322565900.793063
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch.gch
+xcnu_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile cnu_Prefix.pch322565897#322565900#0(0"0(0#0#43"/Users/sandeep/Documents/cnu/cnu_Prefix.pch8676578743001571328#1630"    cd /Users/sandeep/Documents/cnu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-generated-files.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-own-target-headers.hmap -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-all-target-headers.hmap -iquote /Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/cnu-project-headers.hmap -F/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator -I/Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources/i386 -I/Users/sandeep/Documents/cnu/build/cnu.build/Debug-iphonesimulator/cnu.build/DerivedSources -c /Users/sandeep/Documents/cnu/cnu_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/cnu_Prefix-clvhagqqhssisnbunlfxrcdyzrid/cnu_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Documents/cnu/build/Debug-iphonesimulator/cnu.app
+r0
+

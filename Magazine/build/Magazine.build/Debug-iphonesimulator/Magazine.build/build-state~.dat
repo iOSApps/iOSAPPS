@@ -1,0 +1,949 @@
+TMagazine
+v7
+r3
+t347281131.264236
+cCheck dependencies
+cProcessInfoPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist Magazine123-Info.plist
+cCompileXIB /Users/sivakumar/Desktop/Magazine/MainWindow.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Magazine123ViewController.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/Shop.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib
+cCopyPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Data.plist Classes/Data.plist
+cCpResource build/Debug-iphonesimulator/Magazine123.app/c1.png Classes/images/c1.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox-checked.png Classes/images/checkbox-checked.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox-pressed.png Classes/images/checkbox-pressed.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox.png Classes/images/checkbox.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/cp.png Classes/images/cp.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/cp1.png Classes/images/cp1.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/DarkBackground.png Classes/images/DarkBackground.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/i.png Classes/images/i.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/image46.png Classes/images/image46.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/iTunesArtwork Classes/images/iTunesArtwork
+cCpResource build/Debug-iphonesimulator/Magazine123.app/LightBackground.png Classes/images/LightBackground.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/StarsBackground.png Classes/images/StarsBackground.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/StarsForeground.png Classes/images/StarsForeground.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/magazineambujex Classes/magazineambujex
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib
+cCpResource build/Debug-iphonesimulator/Magazine123.app/Focus.pdf Classes/Focus.pdf
+cCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+cCpResource build/Debug-iphonesimulator/Magazine123.app/tab1.png Classes/images/tab1.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/tab2.png Classes/images/tab2.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/tab3.png Classes/images/tab3.png
+cCpResource build/Debug-iphonesimulator/Magazine123.app/project-icon1.jpg project-icon1.jpg
+cCpResource build/Debug-iphonesimulator/Magazine123.app/m1.jpg Classes/images/m1.jpg
+cCpResource build/Debug-iphonesimulator/Magazine123.app/m2.jpg Classes/images/m2.jpg
+cCpResource build/Debug-iphonesimulator/Magazine123.app/m3.jpg Classes/images/m3.jpg
+cCpResource build/Debug-iphonesimulator/Magazine123.app/m4.jpg Classes/images/m4.jpg
+cCpResource build/Debug-iphonesimulator/Magazine123.app/m5.jpg Classes/images/m5.jpg
+cCpResource build/Debug-iphonesimulator/Magazine123.app/m6.jpg Classes/images/m6.jpg
+cCpResource build/Debug-iphonesimulator/Magazine123.app/hindi-cover.jpg Classes/images/hindi-cover.jpg
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
+c000000004CC128D1000000000000015E
+t1287727313
+s350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+c000000004CC128DF000000000006B8F0
+t1287727327
+s440560
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.h
+c000000004F01BC4800000000000001F9
+t1325513800
+s505
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m
+c000000004F02DCD100000000000000C2
+t1325587665
+s194
+i"ApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.h
+c000000004F01BBE100000000000000A9
+t1325513697
+s169
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m
+c000000004F01C0CE0000000000000CB7
+t1325514958
+s3255
+i"CompositeSubviewBasedApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.h
+c000000004F02DCD700000000000003C6
+t1325587671
+s966
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+i"SingIn.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m
+c000000004F02DCDA00000000000021F8
+t1325587674
+s8696
+i"CreatingAccount.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib
+c000000004F01B97800000000000CB44F
+t1325513080
+s832591
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Data.plist
+c000000004F01F67F0000000000000658
+t1325528703
+s1624
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Focus.pdf
+c000000004F019DE0000000000015DCEA
+t1325506016
+s1432810
+
+N/Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.h
+c000000004F01BC48000000000000009D
+t1325513800
+s157
+i"ApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m
+c000000004F01C0CE0000000000000D15
+t1325514958
+s3349
+i"HybridSubviewBasedApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.h
+c000000004F01BC07000000000000017D
+t1325513735
+s381
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+i"RatingView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m
+c000000004F01BAFA0000000000000512
+t1325513466
+s1298
+i"IndividualSubviewsBasedApplicationCell.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+c000000004F01F6BC0000000000006C84
+t1325528764
+s27780
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.h
+c000000004F02D98D00000000000001E4
+t1325586829
+s484
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m
+c000000004F02D9190000000000000A99
+t1325586713
+s2713
+i"MagazineAppDelegate.h"
+i"MagazineViewController.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.h
+c000000004F02DCE100000000000000F8
+t1325587681
+s248
+i<UIKit/UIKit.h>
+i"MagazineMain.h"
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m
+c000000004F02DCE40000000000000B9E
+t1325587684
+s2974
+i"MagazineBuy.h"
+i"PDFFile.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib
+c000000004F01F32900000000000075DA
+t1325527849
+s30170
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.h
+c000000004F02DCE70000000000000341
+t1325587687
+s833
+i<UIKit/UIKit.h>
+i"ApplicationCell.h"
+i"MagazineBuy.h"
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m
+c000000004F02DCEA0000000000002370
+t1325587690
+s9072
+i"MagazineMain.h"
+i"CompositeSubviewBasedApplicationCell.h"
+i"HybridSubviewBasedApplicationCell.h"
+i"SingIn.h"
+i"Shop.h"
+i"MoreDetails.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib
+c000000004F01F71D00000000000063E7
+t1325528861
+s25575
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.h
+c000000004F02D9190000000000000171
+t1325586713
+s369
+i<UIKit/UIKit.h>
+i"Shop.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m
+c000000004F02DCEB0000000000001240
+t1325587691
+s4672
+i"MagazineViewController.h"
+i"CreatingAccount.h"
+i"Shop.h"
+i"MoreDetails.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.h
+c000000004F02DCEC0000000000000306
+t1325587692
+s774
+i<UIKit/UIKit.h>
+i"CreatingAccount.h"
+i"SingIn.h"
+i"MagazineViewController.h"
+i"Shop.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m
+c000000004F02DCEE00000000000015B5
+t1325587694
+s5557
+i"MoreDetails.h"
+i"SingIn.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib
+c000000004F01B718000000000000603F
+t1325512472
+s24639
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.h
+c000000004F02DCF00000000000000180
+t1325587696
+s384
+i<UIKit/UIKit.h>
+i"MagazineBuy.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m
+c000000004F02DCF10000000000000A53
+t1325587697
+s2643
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib
+c000000004F019D81000000000000226F
+t1325505921
+s8815
+
+N/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.h
+c000000004F02DCF200000000000000EE
+t1325587698
+s238
+i<UIKit/UIKit.h>
+i<QuickLook/QuickLook.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m
+c000000004F02DCF30000000000000859
+t1325587699
+s2137
+i"PDFFile.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib
+c000000004F01F3E900000000000052E9
+t1325528041
+s21225
+
+N/Users/sivakumar/Desktop/Magazine/Classes/RatingView.h
+c000000004F02DCF400000000000000B9
+t1325587700
+s185
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/Classes/RatingView.m
+c000000004F01BA92000000000000048D
+t1325513362
+s1165
+i"RatingView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Shop.h
+c000000004F02DCF500000000000002A3
+t1325587701
+s675
+i<UIKit/UIKit.h>
+i"MagazineMain.h"
+i"MoreWebView.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Shop.m
+c000000004F02DCF6000000000000185B
+t1325587702
+s6235
+i"Shop.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/Shop.xib
+c000000004F019A8200000000000034AA
+t1325505154
+s13482
+
+N/Users/sivakumar/Desktop/Magazine/Classes/SingIn.h
+c000000004F02DCF70000000000000291
+t1325587703
+s657
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+i"MagazineMain.h"
+i"CreatingAccount.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/SingIn.m
+c000000004F02DD0C0000000000001328
+t1325587724
+s4904
+i"SingIn.h"
+i"MoreDetails.h"
+
+N/Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib
+c000000004F01ECE00000000000008781
+t1325526240
+s34689
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/DarkBackground.png
+c000000004F019BB9000000000000004E
+t1325505465
+s78
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/LightBackground.png
+c000000004F019BBF000000000000004E
+t1325505471
+s78
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/StarsBackground.png
+c000000004F019BBF00000000000002EC
+t1325505471
+s748
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/StarsForeground.png
+c000000004F019BBF00000000000004D9
+t1325505471
+s1241
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/c1.png
+c000000004F019BB7000000000000019D
+t1325505463
+s413
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-checked.png
+c000000004F019BB70000000000000275
+t1325505463
+s629
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox-pressed.png
+c000000004F019BB80000000000000241
+t1325505464
+s577
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/checkbox.png
+c000000004F019BB8000000000000019D
+t1325505464
+s413
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/cp.png
+c000000004F019BB90000000000000275
+t1325505465
+s629
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/cp1.png
+c000000004F019BB90000000000000241
+t1325505465
+s577
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/hindi-cover.jpg
+c000000004F01DE1700000000000116E4
+t1325522455
+s71396
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/i.png
+c000000004F019BBA0000000000000291
+t1325505466
+s657
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/iTunesArtwork
+c000000004F019BBF0000000000001444
+t1325505471
+s5188
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/image46.png
+c000000004F019BBF0000000000000C47
+t1325505471
+s3143
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m1.jpg
+c000000004F01D801000000000000DB29
+t1325520897
+s56105
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m2.jpg
+c000000004F01D86B000000000000E1FD
+t1325521003
+s57853
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m3.jpg
+c000000004F01D9280000000000013714
+t1325521192
+s79636
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m4.jpg
+c000000004F01DA09000000000000B9E8
+t1325521417
+s47592
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m5.jpg
+c000000004F01DA78000000000001D7A6
+t1325521528
+s120742
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/m6.jpg
+c000000004F01DB49000000000000EDF6
+t1325521737
+s60918
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/tab1.png
+c000000004CD1DBE50000000000000188
+t1288821733
+s392
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/tab2.png
+c000000004CD1DBE50000000000000184
+t1288821733
+s388
+
+N/Users/sivakumar/Desktop/Magazine/Classes/images/tab3.png
+c000000004CD1DBE5000000000000018F
+t1288821733
+s399
+
+N/Users/sivakumar/Desktop/Magazine/Classes/magazineambujex
+c000000004F019C830000000000003000
+t1325505667
+s12288
+
+N/Users/sivakumar/Desktop/Magazine/Magazine123ViewController.xib
+c000000004F01E3000000000000007101
+t1325523712
+s28929
+
+N/Users/sivakumar/Desktop/Magazine/Magazine123_Prefix.pch
+c000000004F02DCDD00000000000000BC
+t1325587677
+s188
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/MainWindow.xib
+c000000004F01993A0000000000004E59
+t1325504826
+s20057
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app
+t1325587935
+s1394
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app.dSYM
+t1325586890
+s102
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/CreatingAccount.nib
+t1325587768
+s3386
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/DarkBackground.png
+t1325587777
+s78
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Data.plist
+t1325587787
+s400
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Focus.pdf
+t1325587878
+s1432810
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/IndividualSubviewsBasedApplicationCell.nib
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist
+t1325587746
+s652
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/LightBackground.png
+t1325587775
+s78
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123ViewController.nib
+t1325587761
+s1926
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MagazineBuy.nib
+t1325587834
+s2908
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MagazineMain.nib
+t1325587833
+s1641
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MainWindow.nib
+t1325587758
+s1131
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MoreDetails.nib
+t1325587770
+s1776
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/MoreWebView.nib
+t1325587845
+s1138
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/PDFFile.nib
+t1325587860
+s1342
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/PkgInfo
+t1325587746
+s8
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Shop.nib
+t1325587764
+s1394
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/SingIn.nib
+t1325587783
+s3154
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/StarsBackground.png
+t1325587777
+s748
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/StarsForeground.png
+t1325587778
+s1241
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/c1.png
+t1325587775
+s413
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/checkbox-checked.png
+t1325587775
+s629
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/checkbox-pressed.png
+t1325587773
+s577
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/checkbox.png
+t1325587776
+s413
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/cp.png
+t1325587776
+s629
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/cp1.png
+t1325587777
+s577
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/hindi-cover.jpg
+t1325587936
+s71396
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/i.png
+t1325587773
+s657
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/iTunesArtwork
+t1325587777
+s5188
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/image46.png
+t1325587773
+s3143
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m1.jpg
+t1325587926
+s56105
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m2.jpg
+t1325587924
+s57853
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m3.jpg
+t1325587935
+s79636
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m4.jpg
+t1325587938
+s47592
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m5.jpg
+t1325587938
+s120742
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/m6.jpg
+t1325587940
+s60918
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/magazineambujex
+t1325587778
+s12288
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/project-icon1.jpg
+t1325587915
+s8051
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/tab1.png
+t1325587916
+s392
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/tab2.png
+t1325587915
+s388
+
+N/Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/tab3.png
+t1325587925
+s399
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Magazine123.LinkFileList
+c000000004F02DF5F000000000000082E
+t1325588319
+s2094
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sivakumar/Desktop/Magazine/main.m
+c000000004F02DD170000000000000169
+t1325587735
+s361
+i<UIKit/UIKit.h>
+
+N/Users/sivakumar/Desktop/Magazine/project-icon1.jpg
+c000000004EF5AD9A0000000000001F73
+t1324723610
+s8051
+
+N/var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine123_Prefix.pch.gch
+t2
+s0
+
+NMagazine123-Info.plist
+c000000004F01C02A000000000000039E
+t1325514794
+s926
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347281079#347281121#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/ApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/ApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/CompositeSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/CreatingAccount.o /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/HybridSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineAppDelegate.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineBuy.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineMain.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MagazineViewController.o /Users/sivakumar/Desktop/Magazine/Classes/MagazineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreDetails.o /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/MoreWebView.o /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/PDFFile.o /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/RatingView.o /Users/sivakumar/Desktop/Magazine/Classes/RatingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/Shop.o /Users/sivakumar/Desktop/Magazine/Classes/Shop.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/SingIn.o /Users/sivakumar/Desktop/Magazine/Classes/SingIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Magazine.build/Debug-iphonesimulator/Magazine.build/Objects-normal/i386/main.o /Users/sivakumar/Desktop/Magazine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/CreatingAccount.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+s347281121.137002
+e347281131.264093
+r0
+xCompileXIB
+x/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib
+lSLF07#2@61"CompileXIB Classes/IndividualSubviewsBasedApplicationCell.xib347281121#347281131#0(0"0(0#0#84"/Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib7946935190141760512#623"    cd /Users/sivakumar/Desktop/Magazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/IndividualSubviewsBasedApplicationCell.nib /Users/sivakumar/Desktop/Magazine/Classes/IndividualSubviewsBasedApplicationCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk2#
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MagazineBuy.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MagazineMain.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MoreDetails.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/MoreWebView.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/PDFFile.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/Shop.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Classes/SingIn.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/Magazine123ViewController.xib
+r0
+
+CCompileXIB /Users/sivakumar/Desktop/Magazine/MainWindow.xib
+r0
+
+CCopyPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Data.plist Classes/Data.plist
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/DarkBackground.png Classes/images/DarkBackground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/Focus.pdf Classes/Focus.pdf
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/LightBackground.png Classes/images/LightBackground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/StarsBackground.png Classes/images/StarsBackground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/StarsForeground.png Classes/images/StarsForeground.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/c1.png Classes/images/c1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox-checked.png Classes/images/checkbox-checked.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox-pressed.png Classes/images/checkbox-pressed.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/checkbox.png Classes/images/checkbox.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/cp.png Classes/images/cp.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/cp1.png Classes/images/cp1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/hindi-cover.jpg Classes/images/hindi-cover.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/i.png Classes/images/i.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/iTunesArtwork Classes/images/iTunesArtwork
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/image46.png Classes/images/image46.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m1.jpg Classes/images/m1.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m2.jpg Classes/images/m2.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m3.jpg Classes/images/m3.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m4.jpg Classes/images/m4.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m5.jpg Classes/images/m5.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/m6.jpg Classes/images/m6.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/magazineambujex Classes/magazineambujex
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/project-icon1.jpg project-icon1.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/tab1.png Classes/images/tab1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/tab2.png Classes/images/tab2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Magazine123.app/tab3.png Classes/images/tab3.png
+r0
+
+CGenerateDSYMFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app.dSYM /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123
+r0
+
+CLd /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Magazine123 normal i386
+r0
+
+CProcessInfoPlistFile /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app/Info.plist Magazine123-Info.plist
+r0
+
+CProcessPCH /var/folders/zK/zKfkkfe0EyaZ5X2x4Zn+WE+++XI/-Caches-/com.apple.Xcode.565/SharedPrecompiledHeaders/Magazine123_Prefix-frdxzziailottfbxebfcyuforpjj/Magazine123_Prefix.pch.gch Magazine123_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/sivakumar/Desktop/Magazine/build/Debug-iphonesimulator/Magazine123.app
+r0
+

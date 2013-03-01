@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TwoTableViewsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 358}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 505}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TwoTableViewsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1066}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{267, 1258}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TwoTableViews */ = {
+		activeExec = 0;
+		executables = (
+			640F81731218A13B000E80E5 /* TwoTableViews */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TwoTableViewsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 286}}";
+			sepNavSelRange = "{293, 0}";
+			sepNavVisRange = "{0, 405}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TwoTableViewsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 1079}}";
+			sepNavSelRange = "{1685, 0}";
+			sepNavVisRange = "{0, 1507}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 640F81731218A13B000E80E5 /* TwoTableViews */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TwoTableViews */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TwoTableViews */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 640F81801218A15A000E80E5 /* Code sense */;
+		executables = (
+			640F81731218A13B000E80E5 /* TwoTableViews */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					954,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322789662;
+			PBXWorkspaceStateSaveDate = 322789662;
+		};
+		perUserProjectItems = {
+			640F82051218AAA6000E80E5 /* PBXTextBookmark */ = 640F82051218AAA6000E80E5 /* PBXTextBookmark */;
+			6478B4CA12BCB43C00FAB769 /* PBXTextBookmark */ = 6478B4CA12BCB43C00FAB769 /* PBXTextBookmark */;
+			6478B4CC12BCB43C00FAB769 /* PBXTextBookmark */ = 6478B4CC12BCB43C00FAB769 /* PBXTextBookmark */;
+			64E3F815133D61DE00E5226B /* PBXTextBookmark */ = 64E3F815133D61DE00E5226B /* PBXTextBookmark */;
+			64E3F830133D631700E5226B /* PBXTextBookmark */ = 64E3F830133D631700E5226B /* PBXTextBookmark */;
+			64E3F831133D631700E5226B /* PBXTextBookmark */ = 64E3F831133D631700E5226B /* PBXTextBookmark */;
+			64E3F83A133D634500E5226B /* PBXTextBookmark */ = 64E3F83A133D634500E5226B /* PBXTextBookmark */;
+			64E3F850133D6F1900E5226B /* PBXTextBookmark */ = 64E3F850133D6F1900E5226B /* PBXTextBookmark */;
+			64E3F855133D7BEB00E5226B /* PBXTextBookmark */ = 64E3F855133D7BEB00E5226B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 640F817F1218A15A000E80E5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	640F81731218A13B000E80E5 /* TwoTableViews */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TwoTableViews;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	640F817F1218A15A000E80E5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	640F81801218A15A000E80E5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	640F81871218A1C0000E80E5 /* FirstTVContoller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 358}}";
+			sepNavSelRange = "{289, 0}";
+			sepNavVisRange = "{0, 306}";
+		};
+	};
+	640F81881218A1C0000E80E5 /* FirstTVContoller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 910}}";
+			sepNavSelRange = "{1241, 0}";
+			sepNavVisRange = "{0, 1632}";
+		};
+	};
+	640F81BF1218A447000E80E5 /* SecondTVController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 718}}";
+			sepNavSelRange = "{297, 0}";
+			sepNavVisRange = "{0, 306}";
+		};
+	};
+	640F81C01218A447000E80E5 /* SecondTVController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 754}}";
+			sepNavSelRange = "{877, 0}";
+			sepNavVisRange = "{0, 1632}";
+		};
+	};
+	640F82051218AAA6000E80E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TwoTableViewsAppDelegate.m */;
+		name = "TwoTableViewsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1258;
+		vrLoc = 267;
+	};
+	6478B4CA12BCB43C00FAB769 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 640F81871218A1C0000E80E5 /* FirstTVContoller.h */;
+		name = "FirstTVContoller.h: 13";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 0;
+	};
+	6478B4CC12BCB43C00FAB769 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TwoTableViewsAppDelegate.h */;
+		name = "TwoTableViewsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	64E3F815133D61DE00E5226B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 640F81BF1218A447000E80E5 /* SecondTVController.h */;
+		name = "SecondTVController.h: 13";
+		rLen = 0;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 0;
+	};
+	64E3F830133D631700E5226B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 640F81881218A1C0000E80E5 /* FirstTVContoller.m */;
+		name = "FirstTVContoller.m: 46";
+		rLen = 0;
+		rLoc = 1241;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 0;
+	};
+	64E3F831133D631700E5226B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TwoTableViewsViewController.m */;
+		name = "TwoTableViewsViewController.m: 63";
+		rLen = 0;
+		rLoc = 1685;
+		rType = 0;
+		vrLen = 1507;
+		vrLoc = 0;
+	};
+	64E3F83A133D634500E5226B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TwoTableViewsViewController.h */;
+		name = "TwoTableViewsViewController.h: 13";
+		rLen = 0;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 0;
+	};
+	64E3F850133D6F1900E5226B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 640F81C01218A447000E80E5 /* SecondTVController.m */;
+		name = "SecondTVController.m: 33";
+		rLen = 0;
+		rLoc = 877;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 798;
+	};
+	64E3F855133D7BEB00E5226B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 640F81C01218A447000E80E5 /* SecondTVController.m */;
+		name = "SecondTVController.m: 33";
+		rLen = 0;
+		rLoc = 877;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 0;
+	};
+}

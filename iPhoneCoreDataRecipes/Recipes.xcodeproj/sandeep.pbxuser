@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RecipesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1608, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2657, 943}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RecipesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2371, 2366}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{5584, 1221}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Recipes */ = {
+		activeExec = 0;
+		executables = (
+			2CED959F1487ADA100EE31C3 /* Recipes */,
+		);
+	};
+	28FCBF0A0DE6A6C6007A15C7 /* RecipeListTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 884}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2081, 1163}";
+		};
+	};
+	28FCBF0B0DE6A6C6007A15C7 /* RecipeListTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2371, 4173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{7852, 1176}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2CED959F1487ADA100EE31C3 /* Recipes */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Recipes */;
+		codeSenseManager = 2CED95B61487ADB500EE31C3 /* Code sense */;
+		executables = (
+			2CED959F1487ADA100EE31C3 /* Recipes */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					622,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 349676432;
+			PBXWorkspaceStateSaveDate = 349676432;
+		};
+		perUserProjectItems = {
+			2C43A01D148A20AA00418EA3 /* PBXTextBookmark */ = 2C43A01D148A20AA00418EA3 /* PBXTextBookmark */;
+			2C6C0F1D1493365B00ECC249 /* PBXTextBookmark */ = 2C6C0F1D1493365B00ECC249 /* PBXTextBookmark */;
+			2CACDF7914CD5E1400EDC516 /* PBXTextBookmark */ = 2CACDF7914CD5E1400EDC516 /* PBXTextBookmark */;
+			2CE351AD14D7A396004C9BB6 /* PBXTextBookmark */ = 2CE351AD14D7A396004C9BB6 /* PBXTextBookmark */;
+			2CED95B81487AE7C00EE31C3 /* PBXTextBookmark */ = 2CED95B81487AE7C00EE31C3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2CED95B51487ADB500EE31C3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C43A01D148A20AA00418EA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FCBF0B0DE6A6C6007A15C7 /* RecipeListTableViewController.m */;
+		name = "RecipeListTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1176;
+		vrLoc = 7852;
+	};
+	2C6C0F1D1493365B00ECC249 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RecipesAppDelegate.h */;
+		name = "RecipesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 943;
+		vrLoc = 2657;
+	};
+	2CACDF7914CD5E1400EDC516 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FCBF0A0DE6A6C6007A15C7 /* RecipeListTableViewController.h */;
+		name = "RecipeListTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1163;
+		vrLoc = 2081;
+	};
+	2CE351AD14D7A396004C9BB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FCBF0A0DE6A6C6007A15C7 /* RecipeListTableViewController.h */;
+		name = "RecipeListTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1163;
+		vrLoc = 2081;
+	};
+	2CED959F1487ADA100EE31C3 /* Recipes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Recipes;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2CED95B51487ADB500EE31C3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2CED95B61487ADB500EE31C3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2CED95B81487AE7C00EE31C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RecipesAppDelegate.m */;
+		name = "RecipesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 5584;
+	};
+}

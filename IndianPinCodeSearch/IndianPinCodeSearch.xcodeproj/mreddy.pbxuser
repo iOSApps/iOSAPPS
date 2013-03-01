@@ -1,0 +1,170 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* IndianPinCodeSearchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1235}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 412}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* IndianPinCodeSearch */ = {
+		activeExec = 0;
+		executables = (
+			BFAA3DF3150F2C4100606CAA /* IndianPinCodeSearch */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* IndianPinCodeSearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 351}}";
+			sepNavSelRange = "{0, 702}";
+			sepNavVisRange = "{0, 702}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* IndianPinCodeSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 1183}}";
+			sepNavSelRange = "{446, 0}";
+			sepNavVisRange = "{240, 810}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BFAA3DF3150F2C4100606CAA /* IndianPinCodeSearch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IndianPinCodeSearch */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* IndianPinCodeSearch */,
+		);
+		codeSenseManager = BFAA3E05150F2C4C00606CAA /* Code sense */;
+		executables = (
+			BFAA3DF3150F2C4100606CAA /* IndianPinCodeSearch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353909268;
+			PBXWorkspaceStateSaveDate = 353909268;
+		};
+		perUserProjectItems = {
+			BF345FDD15183A1C00C1C1F6 /* PBXTextBookmark */ = BF345FDD15183A1C00C1C1F6 /* PBXTextBookmark */;
+			BF3A85DD150F75760098C9D0 = BF3A85DD150F75760098C9D0 /* PBXTextBookmark */;
+			BF3FBAB31510BB0E006C9267 = BF3FBAB31510BB0E006C9267 /* PBXTextBookmark */;
+			BF3FBAB41510BB0E006C9267 = BF3FBAB41510BB0E006C9267 /* PBXTextBookmark */;
+			BF3FBAB51510BB0E006C9267 = BF3FBAB51510BB0E006C9267 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BFAA3E04150F2C4C00606CAA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BF345FDD15183A1C00C1C1F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IndianPinCodeSearchViewController.m */;
+		name = "IndianPinCodeSearchViewController.m: 21";
+		rLen = 0;
+		rLoc = 446;
+		rType = 0;
+		vrLen = 810;
+		vrLoc = 240;
+	};
+	BF3A85DD150F75760098C9D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IndianPinCodeSearchAppDelegate.m */;
+		name = "IndianPinCodeSearchAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 0;
+	};
+	BF3FBAB31510BB0E006C9267 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IndianPinCodeSearchViewController.h */;
+		name = "IndianPinCodeSearchViewController.h: 1";
+		rLen = 702;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	BF3FBAB41510BB0E006C9267 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IndianPinCodeSearchViewController.m */;
+		name = "IndianPinCodeSearchViewController.m: 13";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 857;
+		vrLoc = 240;
+	};
+	BF3FBAB51510BB0E006C9267 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IndianPinCodeSearchViewController.m */;
+		name = "IndianPinCodeSearchViewController.m: 1";
+		rLen = 2413;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 857;
+		vrLoc = 240;
+	};
+	BFAA3DF3150F2C4100606CAA /* IndianPinCodeSearch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IndianPinCodeSearch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BFAA3E04150F2C4C00606CAA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BFAA3E05150F2C4C00606CAA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

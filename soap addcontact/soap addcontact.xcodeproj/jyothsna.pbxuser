@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* soap addcontact */ = {
+		activeExec = 0;
+		executables = (
+			ACCACDD41507436300C3A36B /* soap addcontact */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* soap_addcontactViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 416}}";
+			sepNavSelRange = "{267, 0}";
+			sepNavVisRange = "{0, 758}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* soap_addcontactViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1468, 2327}}";
+			sepNavSelRange = "{408, 0}";
+			sepNavVisRange = "{2557, 638}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ACCACDD41507436300C3A36B /* soap addcontact */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* soap addcontact */;
+		codeSenseManager = ACCACDE61507437400C3A36B /* Code sense */;
+		executables = (
+			ACCACDD41507436300C3A36B /* soap addcontact */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353222229;
+			PBXWorkspaceStateSaveDate = 353222229;
+		};
+		perUserProjectItems = {
+			ACB38EC4150DC46A009D9BE2 /* PBXTextBookmark */ = ACB38EC4150DC46A009D9BE2 /* PBXTextBookmark */;
+			ACB38EC5150DC46A009D9BE2 /* PBXTextBookmark */ = ACB38EC5150DC46A009D9BE2 /* PBXTextBookmark */;
+			ACB38EC6150DC46A009D9BE2 /* PBXTextBookmark */ = ACB38EC6150DC46A009D9BE2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ACCACDE51507437400C3A36B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	ACB38EC4150DC46A009D9BE2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* soap_addcontactViewController.h */;
+		name = "soap_addcontactViewController.h: 11";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 0;
+	};
+	ACB38EC5150DC46A009D9BE2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* soap_addcontactViewController.m */;
+		name = "soap_addcontactViewController.m: 121";
+		rLen = 0;
+		rLoc = 3610;
+		rType = 0;
+		vrLen = 1394;
+		vrLoc = 354;
+	};
+	ACB38EC6150DC46A009D9BE2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* soap_addcontactViewController.m */;
+		name = "soap_addcontactViewController.m: 21";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 2557;
+	};
+	ACCACDD41507436300C3A36B /* soap addcontact */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "soap addcontact";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ACCACDE51507437400C3A36B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ACCACDE61507437400C3A36B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* IndianPinCodeSearch */ = {
+		activeExec = 0;
+		executables = (
+			2C0905831518489F002535A2 /* IndianPinCodeSearch */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* IndianPinCodeSearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 364}}";
+			sepNavSelRange = "{0, 702}";
+			sepNavVisRange = "{0, 417}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* IndianPinCodeSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1300}}";
+			sepNavSelRange = "{0, 2413}";
+			sepNavVisRange = "{0, 444}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2C0905831518489F002535A2 /* IndianPinCodeSearch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IndianPinCodeSearch */;
+		codeSenseManager = 2C09058F151848AC002535A2 /* Code sense */;
+		executables = (
+			2C0905831518489F002535A2 /* IndianPinCodeSearch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353912992;
+			PBXWorkspaceStateSaveDate = 353912992;
+		};
+		perUserProjectItems = {
+			2C09059015184BD7002535A2 /* PBXTextBookmark */ = 2C09059015184BD7002535A2 /* PBXTextBookmark */;
+			2C09059115184BD7002535A2 /* PBXTextBookmark */ = 2C09059115184BD7002535A2 /* PBXTextBookmark */;
+			2C09059215184BD7002535A2 /* PBXTextBookmark */ = 2C09059215184BD7002535A2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2C09058E151848AC002535A2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C0905831518489F002535A2 /* IndianPinCodeSearch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IndianPinCodeSearch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2C09058E151848AC002535A2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2C09058F151848AC002535A2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2C09059015184BD7002535A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IndianPinCodeSearchViewController.h */;
+		name = "IndianPinCodeSearchViewController.h: 1";
+		rLen = 702;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 0;
+	};
+	2C09059115184BD7002535A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IndianPinCodeSearchViewController.m */;
+		name = "IndianPinCodeSearchViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 444;
+		vrLoc = 0;
+	};
+	2C09059215184BD7002535A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IndianPinCodeSearchViewController.m */;
+		name = "IndianPinCodeSearchViewController.m: 1";
+		rLen = 2413;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 444;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,197 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* photosuploadAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 299}}";
+			sepNavSelRange = "{0, 505}";
+			sepNavVisRange = "{0, 285}";
+		};
+	};
+	1D3623250D0F684500981E51 /* photosuploadAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 2730}";
+			sepNavVisRange = "{0, 268}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* photosupload */ = {
+		activeExec = 0;
+		executables = (
+			2C9BE03F137110B50000BBFF /* photosupload */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* photosuploadViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1279, 416}}";
+			sepNavSelRange = "{0, 767}";
+			sepNavVisRange = "{405, 359}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* photosuploadViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1153, 2132}}";
+			sepNavSelRange = "{0, 4706}";
+			sepNavVisRange = "{2463, 329}";
+			sepNavWindowFrame = "{{0, 57}, {750, 521}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2C9BE03F137110B50000BBFF /* photosupload */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* photosupload */;
+		codeSenseManager = 2C9BE055137110C10000BBFF /* Code sense */;
+		executables = (
+			2C9BE03F137110B50000BBFF /* photosupload */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 347018902;
+			PBXWorkspaceStateSaveDate = 347018902;
+		};
+		perUserProjectItems = {
+			2C0CE54314AEEFBB001BC927 /* PBXTextBookmark */ = 2C0CE54314AEEFBB001BC927 /* PBXTextBookmark */;
+			2C0CE54514AEEFBB001BC927 /* PBXTextBookmark */ = 2C0CE54514AEEFBB001BC927 /* PBXTextBookmark */;
+			2C0CE5EE14AF16A1001BC927 /* PBXTextBookmark */ = 2C0CE5EE14AF16A1001BC927 /* PBXTextBookmark */;
+			2C0CE5FA14AF16EE001BC927 /* PBXTextBookmark */ = 2C0CE5FA14AF16EE001BC927 /* PBXTextBookmark */;
+			2C0CE5FC14AF243B001BC927 /* PBXTextBookmark */ = 2C0CE5FC14AF243B001BC927 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2C9BE054137110C10000BBFF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C0CE54314AEEFBB001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* photosuploadAppDelegate.h */;
+		name = "photosuploadAppDelegate.h: 1";
+		rLen = 505;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	2C0CE54514AEEFBB001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* photosuploadViewController.h */;
+		name = "photosuploadViewController.h: 1";
+		rLen = 767;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 405;
+	};
+	2C0CE5EE14AF16A1001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* photosuploadViewController.m */;
+		name = "photosuploadViewController.m: 1";
+		rLen = 4706;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 2463;
+	};
+	2C0CE5FA14AF16EE001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* photosuploadAppDelegate.m */;
+		name = "photosuploadAppDelegate.m: 1";
+		rLen = 2730;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 2494;
+	};
+	2C0CE5FC14AF243B001BC927 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* photosuploadAppDelegate.m */;
+		name = "photosuploadAppDelegate.m: 1";
+		rLen = 2730;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 0;
+	};
+	2C9BE03F137110B50000BBFF /* photosupload */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = photosupload;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2C9BE054137110C10000BBFF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2C9BE055137110C10000BBFF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

@@ -1,0 +1,238 @@
+TPreloader
+v7
+r0
+t335687584.354334
+cCheck dependencies
+cProcessInfoPlistFile "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Info.plist" Preloader-Info.plist
+cCompileXIB "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/MainWindow.xib"
+cProcessPCH /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch.gch Preloader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/main.o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderAppDelegate.o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderViewController.o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader" normal i386
+cGenerateDSYMFile "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app.dSYM" "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader"
+cTouch "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.h
+c000000004E51F72500000000000001D1
+t1313994533
+s465
+i<UIKit/UIKit.h>
+i"PreloaderViewController.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.m
+c000000004E51F74D0000000000000A50
+t1313994573
+s2640
+i"PreloaderAppDelegate.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.h
+c000000004E51F81E0000000000000202
+t1313994782
+s514
+i<UIKit/UIKit.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.m
+c000000004E51F80F00000000000008C8
+t1313994767
+s2248
+i"PreloaderViewController.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/MainWindow.xib
+c000000004E51F6C60000000000002112
+t1313994438
+s8466
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Preloader_Prefix.pch
+c000000004E51F6C600000000000000BB
+t1313994438
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app
+t1313994784
+s204
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app.dSYM
+t1313994784
+s102
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Info.plist
+t1313994782
+s599
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/MainWindow.nib
+t1313994783
+s986
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/PkgInfo
+t1313994782
+s8
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader
+t1313994784
+s23828
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/Preloader.LinkFileList
+c000000004E51F81E00000000000001F1
+t1313994782
+s497
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderAppDelegate.o
+t1313994784
+s55372
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderViewController.o
+t1313994784
+s56544
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/main.o
+t1313994784
+s6360
+
+N/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/main.m
+c000000004E51F6C60000000000000163
+t1313994438
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch.gch
+t1313994783
+s15453392
+
+NPreloader-Info.plist
+c000000004E51F6C6000000000000038D
+t1313994438
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335687582#335687582#0(0"0(0#1#0"8626437312#0"0#
+
+CCompileC build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderAppDelegate.o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335687584.140972
+e335687584.291318
+r1
+xCompileC
+xbuild/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderAppDelegate.o
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.m335687584#335687584#0(0"0(0#0#97"/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.m8608414208#2324"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderAppDelegate.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderAppDelegate.o"0#
+
+CCompileC build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderViewController.o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335687584.208883
+e335687584.309455
+r1
+xCompileC
+xbuild/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderViewController.o
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.m335687584#335687584#0(0"0(0#0#100"/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.m8629206528#2330"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Classes/PreloaderViewController.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/PreloaderViewController.o"0#
+
+CCompileC build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/main.o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335687584.139489
+e335687584.208778
+r1
+xCompileC
+xbuild/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/main.o
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/main.m335687584#335687584#0(0"0(0#0#73"/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/main.m8624515296#2284"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/main.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/MainWindow.xib"
+s335687582.884342
+e335687583.236767
+r1
+xCompileXIB
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib335687582#335687583#0(0"0(0#0#81"/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/MainWindow.xib8620549952#662"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/MainWindow.nib" "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app.dSYM" "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader"
+s335687584.334258
+e335687584.351330
+r1
+xGenerateDSYMFile
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app.dSYM
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Preloader.app.dSYM build/Debug-iphonesimulator/Preloader.app/Preloader335687584#335687584#0(0"0(0#0#118"/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader8624286272#479"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader" -o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app.dSYM"0#
+
+CLd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader" normal i386
+s335687584.309552
+e335687584.334157
+r1
+xLd
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader
+xnormal
+xi386
+lSLF07#2@123"Link /Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader335687584#335687584#0(0"0(0#0#0"8625952320#1060"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator" "-F/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator" -filelist "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Objects-normal/i386/Preloader.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Preloader"0#
+
+CProcessInfoPlistFile "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Info.plist" Preloader-Info.plist
+s335687582.869647
+e335687582.884246
+r1
+xProcessInfoPlistFile
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Info.plist
+xPreloader-Info.plist
+lSLF07#2@28"Process Preloader-Info.plist335687582#335687582#0(0"0(0#0#87"/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Preloader-Info.plist8624232096#575"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Preloader-Info.plist -genpkginfo "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app/Info.plist"0#
+
+CProcessPCH /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch.gch Preloader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335687583.236892
+e335687584.139356
+r1
+xProcessPCH
+x/var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch.gch
+xPreloader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Preloader_Prefix.pch335687583#335687584#0(0"0(0#0#87"/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Preloader_Prefix.pch8599996352#2144"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/Preloader-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Preloader.build/Debug-iphonesimulator/Preloader.build/DerivedSources" -c "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/Preloader_Prefix.pch" -o /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Preloader_Prefix-cepyxrnspryijabcjymvrgqdscqo/Preloader_Prefix.pch.gch0#
+
+CTouch "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app"
+s335687584.351418
+e335687584.354298
+r1
+xTouch
+x/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app
+lSLF07#2@114"Touch /Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app335687584#335687584#0(0"0(0#0#0"8619698720#340"    cd "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/nmg/Documents/Haifa/Native Apps/Under Development/Preloader/build/Debug-iphonesimulator/Preloader.app"0#
+

@@ -1,0 +1,499 @@
+TIndianPinCodeSearch
+v7
+r0
+t353324545.714678
+cCheck dependencies
+cProcessInfoPlistFile /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/Info.plist IndianPinCodeSearch-Info.plist
+cCompileXIB /Users/mreddy/Documents/IndianPinCodeSearch/MainWindow.xib
+cCompileXIB /Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearchViewController.xib
+cCompileXIB /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.xib
+cProcessPCH /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch.gch IndianPinCodeSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/main.o /Users/mreddy/Documents/IndianPinCodeSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchAppDelegate.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchViewController.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSObject+SBJSON.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSString+SBJSON.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/ram6.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJSON.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonBase.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonParser.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonWriter.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch normal i386
+cGenerateDSYMFile /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app.dSYM /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch
+cTouch /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.h
+c000000004F5EF4C1000000000000022B
+t1331623105
+s555
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.m
+c000000004F5EF4C10000000000000AD5
+t1331623105
+s2773
+i"IndianPinCodeSearchAppDelegate.h"
+i"IndianPinCodeSearchViewController.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.h
+c000000004F5F165C000000000000020B
+t1331631708
+s523
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.m
+c000000004F5F165C00000000000007CA
+t1331631708
+s1994
+i"IndianPinCodeSearchViewController.h"
+i"JSON.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.m
+c000000004A748DD2000000000000089C
+t1249152466
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.m
+c000000004A748DD2000000000000087C
+t1249152466
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.h
+c000000004A748DD20000000000000AED
+t1249152466
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.m
+c000000004A748DD20000000000001ABC
+t1249152466
+s6844
+i"SBJSON.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.h
+c000000004F3B853500000000000000C7
+t1329300789
+s199
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.m
+c000000004F3B8535000000000000057D
+t1329300789
+s1405
+i"ram6.h"
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.xib
+c000000004F3B85360000000000001847
+t1329300790
+s6215
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearchViewController.xib
+c000000004F5F163C0000000000005ACA
+t1331631676
+s23242
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearch_Prefix.pch
+c000000004F5EF4C100000000000000CF
+t1331623105
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/MainWindow.xib
+c000000004F5EF4C10000000000004EB9
+t1331623105
+s20153
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app
+t1331631745
+s272
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app.dSYM
+t1331631745
+s102
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch
+t1331631744
+s60248
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearchViewController.nib
+t1331631716
+s2120
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/Info.plist
+t1331631709
+s645
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/MainWindow.nib
+t1331631716
+s1147
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/PkgInfo
+t1331631709
+s8
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/ram6.nib
+t1331631717
+s764
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearch.LinkFileList
+c000000004F5F165D000000000000064B
+t1331631709
+s1611
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchAppDelegate.o
+t1331631741
+s51684
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchViewController.o
+t1331631742
+s43536
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSObject+SBJSON.o
+t1331631742
+s8312
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSString+SBJSON.o
+t1331631742
+s8232
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJSON.o
+t1331631743
+s20096
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonBase.o
+t1331631743
+s13228
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonParser.o
+t1331631744
+s35908
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonWriter.o
+t1331631744
+s24876
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/main.o
+t1331631741
+s6312
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/ram6.o
+t1331631743
+s37364
+
+N/Users/mreddy/Documents/IndianPinCodeSearch/main.m
+c000000004F5EF4C10000000000000179
+t1331623105
+s377
+i<UIKit/UIKit.h>
+
+N/var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch.gch
+t1331631739
+s15453392
+
+NIndianPinCodeSearch-Info.plist
+c000000004F5EF4C1000000000000038D
+t1331623105
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353324508#353324509#0(0"0(0#1#0"7165897044918625280#0"0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchAppDelegate.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324540.632710
+e353324541.611534
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchAppDelegate.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.m353324540#353324541#0(0"0(0#0#84"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.m8611034496#2269"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchAppDelegate.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchAppDelegate.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchViewController.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324541.583085
+e353324542.448813
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchViewController.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.m353324541#353324542#0(0"0(0#0#87"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.m8615621568#2275"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/IndianPinCodeSearchViewController.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearchViewController.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSObject+SBJSON.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324541.611636
+e353324542.327015
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.m353324541#353324542#0(0"0(0#0#74"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.m8615362912#2244"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSObject+SBJSON.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSString+SBJSON.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324542.327205
+e353324542.827771
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.m353324542#353324542#0(0"0(0#0#74"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.m8611354272#2244"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/NSString+SBJSON.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJSON.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324542.827868
+e353324543.189194
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJSON.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.m353324542#353324543#0(0"0(0#0#65"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.m8615611904#2226"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJSON.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonBase.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324543.189292
+e353324543.542171
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonBase.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.m353324543#353324543#0(0"0(0#0#69"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.m8615766016#2234"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonBase.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonParser.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324543.194031
+e353324544.324567
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonParser.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.m353324543#353324544#0(0"0(0#0#71"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.m8615311776#2238"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonParser.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonWriter.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324543.542396
+e353324544.483403
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.m353324543#353324544#0(0"0(0#0#71"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.m8615813056#2238"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/SBJsonWriter.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/main.o /Users/mreddy/Documents/IndianPinCodeSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324540.624252
+e353324541.582990
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/main.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/mreddy/Documents/IndianPinCodeSearch/main.m353324540#353324541#0(0"0(0#0#50"/Users/mreddy/Documents/IndianPinCodeSearch/main.m8600287904#2209"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/main.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/main.o0#
+
+CCompileC build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/ram6.o /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324542.448915
+e353324543.193934
+r1
+xCompileC
+xbuild/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/ram6.o
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.m353324542#353324543#0(0"0(0#0#63"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.m8610282272#2222"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -include /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch -c /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.m -o /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/ram6.o0#
+
+CCompileXIB /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.xib
+s353324516.543903
+e353324518.483223
+r1
+xCompileXIB
+x/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.xib
+lSLF07#2@32"CompileXIB Classes/JSON/ram6.xib353324516#353324518#0(0"0(0#0#65"/Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.xib28429440806879332#598"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/ram6.nib /Users/mreddy/Documents/IndianPinCodeSearch/Classes/JSON/ram6.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearchViewController.xib
+s353324509.339806
+e353324516.689029
+r1
+xCompileXIB
+x/Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearchViewController.xib
+lSLF07#2@48"CompileXIB IndianPinCodeSearchViewController.xib353324509#353324516#0(0"0(0#0#81"/Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearchViewController.xib8600266688#643"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearchViewController.nib /Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearchViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mreddy/Documents/IndianPinCodeSearch/MainWindow.xib
+s353324509.315951
+e353324516.543698
+r1
+xCompileXIB
+x/Users/mreddy/Documents/IndianPinCodeSearch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib353324509#353324516#0(0"0(0#0#58"/Users/mreddy/Documents/IndianPinCodeSearch/MainWindow.xib8600148896#597"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/MainWindow.nib /Users/mreddy/Documents/IndianPinCodeSearch/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app.dSYM /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch
+s353324544.942134
+e353324545.640938
+r1
+xGenerateDSYMFile
+x/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app.dSYM
+x/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/IndianPinCodeSearch.app.dSYM build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch353324544#353324545#0(0"0(0#0#115"/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch8612829792#434"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch -o /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app.dSYM0#
+
+CLd /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch normal i386
+s353324544.483497
+e353324544.941851
+r1
+xLd
+x/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch
+xnormal
+xi386
+lSLF07#2@120"Link /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch353324544#353324544#0(0"0(0#0#0"8615815104#985"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -filelist /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/Objects-normal/i386/IndianPinCodeSearch.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/IndianPinCodeSearch0#
+
+CProcessInfoPlistFile /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/Info.plist IndianPinCodeSearch-Info.plist
+s353324509.206627
+e353324509.315858
+r1
+xProcessInfoPlistFile
+x/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/Info.plist
+xIndianPinCodeSearch-Info.plist
+lSLF07#2@38"Process IndianPinCodeSearch-Info.plist353324509#353324509#0(0"0(0#0#74"/Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearch-Info.plist28429329136681060#530"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IndianPinCodeSearch-Info.plist -genpkginfo /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app/Info.plist0#
+
+CProcessPCH /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch.gch IndianPinCodeSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353324518.483506
+e353324540.624058
+r1
+xProcessPCH
+x/var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch.gch
+xIndianPinCodeSearch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile IndianPinCodeSearch_Prefix.pch353324518#353324540#0(0"0(0#0#74"/Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearch_Prefix.pch8615670016#2084"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-generated-files.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-own-target-headers.hmap -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-all-target-headers.hmap -iquote /Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/IndianPinCodeSearch-project-headers.hmap -F/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator -I/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/include -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources/i386 -I/Users/mreddy/Documents/IndianPinCodeSearch/build/IndianPinCodeSearch.build/Debug-iphonesimulator/IndianPinCodeSearch.build/DerivedSources -c /Users/mreddy/Documents/IndianPinCodeSearch/IndianPinCodeSearch_Prefix.pch -o /var/folders/3N/3NI6oehoE0u-0nW9Bwo58U+++Xk/-Caches-/com.apple.Xcode.572/SharedPrecompiledHeaders/IndianPinCodeSearch_Prefix-bugmjocjfuvnzwgbhxhggvfyfbyp/IndianPinCodeSearch_Prefix.pch.gch0#
+
+CTouch /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app
+s353324545.641029
+e353324545.714627
+r1
+xTouch
+x/Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app
+lSLF07#2@101"Touch /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app353324545#353324545#0(0"0(0#0#0"8602446144#300"    cd /Users/mreddy/Documents/IndianPinCodeSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mreddy/Documents/IndianPinCodeSearch/build/Debug-iphonesimulator/IndianPinCodeSearch.app0#
+

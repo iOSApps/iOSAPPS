@@ -1,0 +1,976 @@
+Tsave
+v7
+r0
+t350991400.807660
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/Info.plist" save-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /saveViewController.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.xib"
+cCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/p.plist" p.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch.gch save_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.h
+c000000004ECB39CC0000000000000110
+t1321941452
+s272
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.m
+c000000004ED462FE00000000000014CF
+t1322541822
+s5327
+i"s1.h"
+i"s2.h"
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.xib
+c000000004ECB37260000000000001C51
+t1321940774
+s7249
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.h
+c000000004ED4640C00000000000000D2
+t1322542092
+s210
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.m
+c000000004ED463D30000000000000647
+t1322542035
+s1607
+i"s2.h"
+i"saveViewController.h"
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.xib
+c000000004ED46428000000000000489C
+t1322542120
+s18588
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveAppDelegate.h
+c000000004ECB36B600000000000001C9
+t1321940662
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveAppDelegate.m
+c000000004ECB36B60000000000000A82
+t1321940662
+s2690
+i"saveAppDelegate.h"
+i"saveViewController.h"
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveViewController.h
+c000000004ECB39CC0000000000000139
+t1321941452
+s313
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveViewController.m
+c000000004ED5D3360000000000000964
+t1322636086
+s2404
+i"saveViewController.h"
+i"s1.h"
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /MainWindow.xib
+c000000004ECB36B60000000000004E05
+t1321940662
+s19973
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app
+t1322737934
+s340
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM
+t1322737934
+s102
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/Info.plist
+t1321941452
+s579
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/MainWindow.nib
+t1321941454
+s1117
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/PkgInfo
+t1321941452
+s8
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/p.plist
+t1321942321
+s42
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/s1.nib
+t1321941456
+s979
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/s2.nib
+t1322542122
+s1419
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save
+t1322737934
+s24828
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/saveViewController.nib
+t1321942262
+s1817
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+t1322737933
+s6360
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+t1322737934
+s45536
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o
+t1322737934
+s38908
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/save.LinkFileList
+c000000004ED7610C00000000000002E5
+t1322737932
+s741
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+t1322737933
+s50820
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+t1322737934
+s43840
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /main.m
+c000000004ECB36B60000000000000162
+t1321940662
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /p.plist
+c000000004ECB3D2A00000000000000B6
+t1321942314
+s182
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /saveViewController.xib
+c000000004ECB3A210000000000005186
+t1321941537
+s20870
+
+N/Users/sandeep/Desktop/obj/save data in plist display in nextview /save_Prefix.pch
+c000000004ECB36B600000000000000B1
+t1321940662
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /../../cutefriendship11.gif
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /../../index.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.h
+c000000004ECB39CC0000000000000110
+t1321941452
+s272
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.m
+c000000004F3B68F600000000000014CF
+t1329293558
+s5327
+i"s1.h"
+i"s2.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.xib
+c000000004ECB37260000000000001C51
+t1321940774
+s7249
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.h
+c000000004ED4640C00000000000000D2
+t1322542092
+s210
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.m
+c000000004ED463D30000000000000647
+t1322542035
+s1607
+i"s2.h"
+i"saveViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.xib
+c000000004ED46428000000000000489C
+t1322542120
+s18588
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.h
+c000000004ECB36B600000000000001C9
+t1321940662
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.m
+c000000004ECB36B60000000000000A82
+t1321940662
+s2690
+i"saveAppDelegate.h"
+i"saveViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.h
+c000000004ECB39CC0000000000000139
+t1321941452
+s313
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.m
+c000000004ED5D3360000000000000964
+t1322636086
+s2404
+i"saveViewController.h"
+i"s1.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /MainWindow.xib
+c000000004ECB36B60000000000004E05
+t1321940662
+s19973
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app
+t1329293561
+s340
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM
+t1329293561
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/Info.plist
+t1321941452
+s579
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/MainWindow.nib
+t1321941454
+s1117
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/PkgInfo
+t1321941452
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/cutefriendship11.gif
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/index.jpg
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/p.plist
+t1321942321
+s42
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/s1.nib
+t1321941456
+s979
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/s2.nib
+t1322542122
+s1419
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save
+t1329293560
+s24896
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/saveViewController.nib
+t1321942262
+s1817
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+t1329283340
+s6372
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+t1329293560
+s45548
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o
+t1329283341
+s38924
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/save.LinkFileList
+c000000004EE1E50F0000000000000308
+t1323427087
+s776
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+t1329283340
+s50836
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+t1329283340
+s43856
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /main.m
+c000000004ECB36B60000000000000162
+t1321940662
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /p.plist
+c000000004ECB3D2A00000000000000B6
+t1321942314
+s182
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /saveViewController.xib
+c000000004ECB3A210000000000005186
+t1321941537
+s20870
+
+N/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /save_Prefix.pch
+c000000004ECB36B600000000000000B1
+t1321940662
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/s1.h
+c000000004ECB39CC0000000000000110
+t1321941452
+s272
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/s1.m
+c000000004ED462FE00000000000014CF
+t1322541822
+s5327
+i"s1.h"
+i"s2.h"
+
+N/Users/sandeep/Desktop/save/Classes/s1.xib
+c000000004ECB37260000000000001C51
+t1321940774
+s7249
+
+N/Users/sandeep/Desktop/save/Classes/s2.h
+c000000004ED4640C00000000000000D2
+t1322542092
+s210
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/s2.m
+c000000004ED463D30000000000000647
+t1322542035
+s1607
+i"s2.h"
+i"saveViewController.h"
+
+N/Users/sandeep/Desktop/save/Classes/s2.xib
+c000000004ED46428000000000000489C
+t1322542120
+s18588
+
+N/Users/sandeep/Desktop/save/Classes/saveAppDelegate.h
+c000000004ECB36B600000000000001C9
+t1321940662
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/saveAppDelegate.m
+c000000004ECB36B60000000000000A82
+t1321940662
+s2690
+i"saveAppDelegate.h"
+i"saveViewController.h"
+
+N/Users/sandeep/Desktop/save/Classes/saveViewController.h
+c000000004ECB39CC0000000000000139
+t1321941452
+s313
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/saveViewController.m
+c000000004ED5D3360000000000000964
+t1322636086
+s2404
+i"saveViewController.h"
+i"s1.h"
+
+N/Users/sandeep/Desktop/save/MainWindow.xib
+c000000004ECB36B60000000000004E05
+t1321940662
+s19973
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app
+t1322735971
+s340
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app.dSYM
+t1322735971
+s102
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist
+t1321941452
+s579
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/MainWindow.nib
+t1321941454
+s1117
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/PkgInfo
+t1321941452
+s8
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/p.plist
+t1321942321
+s42
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/s1.nib
+t1321941456
+s979
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/s2.nib
+t1322542122
+s1419
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save
+t1322735970
+s24436
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/saveViewController.nib
+t1321942262
+s1817
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+t1321941458
+s6280
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+t1322542093
+s45456
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o
+t1322542093
+s38832
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/save.LinkFileList
+c000000004ED462E30000000000000222
+t1322541795
+s546
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+t1321941458
+s50744
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+t1322735970
+s43764
+
+N/Users/sandeep/Desktop/save/main.m
+c000000004ECB36B60000000000000162
+t1321940662
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/p.plist
+c000000004ECB3D2A00000000000000B6
+t1321942314
+s182
+
+N/Users/sandeep/Desktop/save/saveViewController.xib
+c000000004ECB3A210000000000005186
+t1321941537
+s20870
+
+N/Users/sandeep/Desktop/save/save_Prefix.pch
+c000000004ECB36B600000000000000B1
+t1321940662
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch.gch
+t1322737933
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch
+t1321941458
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch.gch
+t1329283339
+s15453392
+
+Nsave-Info.plist
+c000000004ECB36B6000000000000038D
+t1321940662
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350991400#350991400#0(0"0(0#1#0"8602851968#0"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344430733.689720
+e344430733.911158
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sandeep/Desktop/obj/save data in plist display in nextview /main.m344430733#344430733#0(0"0(0#0#73"/Users/sandeep/Desktop/obj/save data in plist display in nextview /main.m8622141184#2184"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch -c "/Users/sandeep/Desktop/obj/save data in plist display in nextview /main.m" -o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350976140.102814
+e350976140.385138
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /main.m350976140#350976140#0(0"0(0#0#80"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /main.m8603650464#2261"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /main.m" -o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/save/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634258.601353
+e343634258.815891
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/save/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/sandeep/Desktop/save/main.m343634258#343634258#0(0"0(0#0#34"/Users/sandeep/Desktop/save/main.m8617401056#1733"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/main.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344430733.912543
+e344430734.092905
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.m344430733#344430734#0(0"0(0#0#79"/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.m8622372128#2188"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch -c "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.m" -o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350986359.532744
+e350986360.594716
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.m350986359#350986360#0(0"0(0#0#86"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.m8603814176#2265"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.m" -o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o /Users/sandeep/Desktop/save/Classes/s1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344234893.544311
+e344234893.648209
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+x/Users/sandeep/Desktop/save/Classes/s1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Desktop/save/Classes/s1.m344234893#344234893#0(0"0(0#0#40"/Users/sandeep/Desktop/save/Classes/s1.m8617643488#1737"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/Classes/s1.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344430734.020988
+e344430734.165052
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.m344430734#344430734#0(0"0(0#0#79"/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.m8605083328#2188"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch -c "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.m" -o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350976140.748516
+e350976141.155913
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.m350976140#350976141#0(0"0(0#0#86"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.m8603441312#2265"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.m" -o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o /Users/sandeep/Desktop/save/Classes/s2.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344234893.545451
+e344234893.633499
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o
+x/Users/sandeep/Desktop/save/Classes/s2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Desktop/save/Classes/s2.m344234893#344234893#0(0"0(0#0#40"/Users/sandeep/Desktop/save/Classes/s2.m8617477824#1737"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/Classes/s2.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s2.o0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344430733.690844
+e344430733.912460
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveAppDelegate.m344430733#344430733#0(0"0(0#0#92"/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveAppDelegate.m8602309280#2214"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch -c "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveAppDelegate.m" -o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350976140.121883
+e350976140.358124
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.m350976140#350976140#0(0"0(0#0#99"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.m8604101856#2291"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o /Users/sandeep/Desktop/save/Classes/saveAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634258.609366
+e343634258.934908
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+x/Users/sandeep/Desktop/save/Classes/saveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/save/Classes/saveAppDelegate.m343634258#343634258#0(0"0(0#0#53"/Users/sandeep/Desktop/save/Classes/saveAppDelegate.m8620138336#1763"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/Classes/saveAppDelegate.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s344430733.911260
+e344430734.020887
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveViewController.m344430733#344430734#0(0"0(0#0#95"/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveViewController.m8644166784#2220"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch -c "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/saveViewController.m" -o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350976140.358219
+e350976140.748418
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.m350976140#350976140#0(0"0(0#0#102"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.m8603178048#2297"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/saveViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o /Users/sandeep/Desktop/save/Classes/saveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344428769.078505
+e344428770.303128
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+x/Users/sandeep/Desktop/save/Classes/saveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sandeep/Desktop/save/Classes/saveViewController.m344428769#344428770#0(0"0(0#0#56"/Users/sandeep/Desktop/save/Classes/saveViewController.m8623769120#1769"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/Classes/saveViewController.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s1.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/obj/save data in plist display in nextview /Classes/s2.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/obj/save data in plist display in nextview /MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/obj/save data in plist display in nextview /saveViewController.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s1.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /Classes/s2.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /saveViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/save/Classes/s1.xib
+s343634254.899411
+e343634256.599996
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/save/Classes/s1.xib
+lSLF07#2@25"CompileXIB Classes/s1.xib343634254#343634256#0(0"0(0#0#42"/Users/sandeep/Desktop/save/Classes/s1.xib8619765728#526"    cd /Users/sandeep/Desktop/save    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/s1.nib /Users/sandeep/Desktop/save/Classes/s1.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/save/Classes/s2.xib
+s344234922.460978
+e344234922.892594
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/save/Classes/s2.xib
+lSLF07#2@25"CompileXIB Classes/s2.xib344234922#344234922#0(0"0(0#0#42"/Users/sandeep/Desktop/save/Classes/s2.xib8617086272#526"    cd /Users/sandeep/Desktop/save    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/s2.nib /Users/sandeep/Desktop/save/Classes/s2.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/save/MainWindow.xib
+s343634252.667943
+e343634254.899194
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/save/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib343634252#343634254#0(0"0(0#0#42"/Users/sandeep/Desktop/save/MainWindow.xib8617401248#534"    cd /Users/sandeep/Desktop/save    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/MainWindow.nib /Users/sandeep/Desktop/save/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/save/saveViewController.xib
+s343635057.626448
+e343635062.698912
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/save/saveViewController.xib
+lSLF07#2@33"CompileXIB saveViewController.xib343635057#343635062#0(0"0(0#0#50"/Users/sandeep/Desktop/save/saveViewController.xib8616985216#550"    cd /Users/sandeep/Desktop/save    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/saveViewController.nib /Users/sandeep/Desktop/save/saveViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/p.plist" p.plist
+r0
+
+CCopyPlistFile "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/p.plist" p.plist
+r0
+
+CCopyPlistFile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/p.plist p.plist
+s343635120.098794
+e343635121.873084
+r1
+xCopyPlistFile
+x/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/p.plist
+xp.plist
+lSLF07#2@12"Copy p.plist343635120#343635121#0(0"0(0#0#35"/Users/sandeep/Desktop/save/p.plist8619587360#357"    cd /Users/sandeep/Desktop/save    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 p.plist --outdir /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app0#
+
+CCpResource build/Debug-iphonesimulator/save.app/cutefriendship11.gif ../../cutefriendship11.gif
+s345124807.228910
+e345124807.255988
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/save.app/cutefriendship11.gif
+x../../cutefriendship11.gif
+opbxcp: cutefriendship11.gif: No such file or directory
+lSLF07#2@31"Copy ../../cutefriendship11.gif345124807#345124807#0(55"pbxcp: cutefriendship11.gif: No such file or directory1(4@54"pbxcp: cutefriendship11.gif: No such file or directory345124807#18446744073709551615#0#0(6@0"345124807#0#0#0#0#0"0(0#0#100"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /../../cutefriendship11.gif8610815616#592"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /../../cutefriendship11.gif" "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app"1#
+
+CCpResource build/Debug-iphonesimulator/save.app/index.jpg ../../index.jpg
+s350976132.373032
+e350976132.716802
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/save.app/index.jpg
+x../../index.jpg
+opbxcp: index.jpg: No such file or directory
+lSLF07#2@20"Copy ../../index.jpg350976132#350976132#0(44"pbxcp: index.jpg: No such file or directory1(4@43"pbxcp: index.jpg: No such file or directory350976132#18446744073709551615#0#0(6@0"350976132#0#0#0#0#0"0(0#0#89"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /../../index.jpg29555366482477168#581"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /../../index.jpg" "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app"1#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM" "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save"
+s344430734.195744
+e344430734.220431
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/save.app.dSYM build/Debug-iphonesimulator/save.app/save344430734#344430734#0(0"0(0#0#108"/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save8600351616#464"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save" -o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save"
+s350986360.990953
+e350986361.677069
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/save.app.dSYM build/Debug-iphonesimulator/save.app/save350986360#350986361#0(0"0(0#0#115"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save8603505696#485"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save" -o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app.dSYM /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save
+s344428770.874468
+e344428771.540666
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app.dSYM
+x/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/save.app.dSYM build/Debug-iphonesimulator/save.app/save344428770#344428771#0(0"0(0#0#69"/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save8624416480#341"    cd /Users/sandeep/Desktop/save    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save -o /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save" normal i386
+s344430734.165158
+e344430734.195632
+r1
+xLd
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save
+xnormal
+xi386
+lSLF07#2@113"Link /Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save344430734#344430734#0(0"0(0#0#0"8615483264#1035"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/save.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save"0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save" normal i386
+s350986360.594806
+e350986360.990846
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save
+xnormal
+xi386
+lSLF07#2@120"Link /Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save350986360#350986360#0(0"0(0#0#0"8607800192#1070"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/save.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/save"0#
+
+CLd /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save normal i386
+s344428770.303213
+e344428770.874263
+r1
+xLd
+x/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save
+xnormal
+xi386
+lSLF07#2@74"Link /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save344428770#344428770#0(0"0(0#0#0"8649011776#830"    cd /Users/sandeep/Desktop/save    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/save.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/Info.plist" save-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app/Info.plist" save-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist save-Info.plist
+s343634252.662046
+e343634252.667434
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist
+xsave-Info.plist
+lSLF07#2@23"Process save-Info.plist343634252#343634253#0(0"0(0#0#43"/Users/sandeep/Desktop/save/save-Info.plist8610834368#437"    cd /Users/sandeep/Desktop/save    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility save-Info.plist -genpkginfo /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch.gch save_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344430732.712581
+e344430733.689613
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch.gch
+xsave_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile save_Prefix.pch344430732#344430733#0(0"0(0#0#82"/Users/sandeep/Desktop/obj/save data in plist display in nextview /save_Prefix.pch8643325120#2049"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -c "/Users/sandeep/Desktop/obj/save data in plist display in nextview /save_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-duoqpdmnxjkurfhicskkaqeoesuh/save_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch save_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634256.600314
+e343634258.601171
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch
+xsave_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile save_Prefix.pch343634256#343634258#0(0"0(0#0#43"/Users/sandeep/Desktop/save/save_Prefix.pch8620198176#1639"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -c /Users/sandeep/Desktop/save/save_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch.gch save_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350976132.717152
+e350976140.102635
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch.gch
+xsave_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile save_Prefix.pch350976132#350976140#0(0"0(0#0#89"/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /save_Prefix.pch7594869363256026112#2119"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/save.build/Debug-iphonesimulator/save.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /save_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-enulkizpomfbrodlhiqltgbejpkt/save_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app"
+s344430734.220620
+e344430734.223401
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app
+lSLF07#2@109"Touch /Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app344430734#344430734#0(0"0(0#0#0"8622309280#335"    cd "/Users/sandeep/Desktop/obj/save data in plist display in nextview "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/obj/save data in plist display in nextview /build/Debug-iphonesimulator/save.app"0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app"
+s350986361.677257
+e350986361.711232
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app
+lSLF07#2@116"Touch /Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app350986361#350986361#0(0"0(0#0#0"8607695008#349"    cd "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/save data in plist display in nextview /build/Debug-iphonesimulator/save.app"0#
+
+CTouch /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app
+s344428771.540758
+e344428771.590629
+r1
+xTouch
+x/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app
+lSLF07#2@70"Touch /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app344428771#344428771#0(0"0(0#0#0"8643976096#253"    cd /Users/sandeep/Desktop/save    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app0#
+

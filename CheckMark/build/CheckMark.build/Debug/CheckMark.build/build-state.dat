@@ -1,0 +1,75 @@
+TCheckMark
+v7
+r1
+
+N/Users/Amrita/Documents/CheckMark/CheckMark.plist
+c000000004B8E6FC50000000000000228
+t1267625925
+s552
+
+N/Users/Amrita/Documents/CheckMark/MainWindow.xib
+c000000004B8E6DA40000000000003449
+t1267625380
+s13385
+
+N/Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app
+t2
+s0
+
+N/Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/Resources/CheckMark.plist
+t2
+s0
+
+N/Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/Resources/checked.png
+t2
+s0
+
+N/Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/Resources/unchecked.png
+t2
+s0
+
+N/Users/Amrita/Documents/CheckMark/checked.png
+c0000000049FA55B00000000000000542
+t1241142704
+s1346
+
+N/Users/Amrita/Documents/CheckMark/unchecked.png
+c0000000049FA55B00000000000000434
+t1241142704
+s1076
+
+NCheckMark-Info.plist
+c000000004B8E6A49000000000000038D
+t1267624521
+s909
+
+CCompileXIB /Users/Amrita/Documents/CheckMark/MainWindow.xib
+r0
+
+CCopyPlistFile /Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/Resources/CheckMark.plist CheckMark.plist
+r0
+
+CCpResource build/Debug/CheckMark.app/Contents/Resources/checked.png checked.png
+r0
+
+CCpResource build/Debug/CheckMark.app/Contents/Resources/unchecked.png unchecked.png
+r0
+
+CProcessInfoPlistFile /Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app/Contents/Info.plist CheckMark-Info.plist
+r0
+
+CTouch /Users/Amrita/Documents/CheckMark/build/Debug/CheckMark.app
+r0
+

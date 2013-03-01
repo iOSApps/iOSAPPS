@@ -1,0 +1,75 @@
+Tflip
+v7
+r1
+
+N/Users/sandeep/Desktop/flip/Classes/save.plist
+c000000004E9E64AC00000000000000B6
+t1319003308
+s182
+
+N/Users/sandeep/Desktop/flip/Classes/second.xib
+c000000004E9E639400000000000039E2
+t1319003028
+s14818
+
+N/Users/sandeep/Desktop/flip/MainWindow.xib
+c000000004E9D5C5C000000000000242D
+t1318935644
+s9261
+
+N/Users/sandeep/Desktop/flip/build/Release/flip.app
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/Resources/flipViewController.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/Resources/save.plist
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/Resources/second.nib
+t2
+s0
+
+N/Users/sandeep/Desktop/flip/flipViewController.xib
+c000000004E9D6F8C0000000000002D00
+t1318940556
+s11520
+
+Nflip-Info.plist
+c000000004E9D5C5C000000000000038D
+t1318935644
+s909
+
+CCompileXIB /Users/sandeep/Desktop/flip/Classes/second.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/flip/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/flip/flipViewController.xib
+r0
+
+CCopyPlistFile /Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/Resources/save.plist Classes/save.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/flip/build/Release/flip.app/Contents/Info.plist flip-Info.plist
+r0
+
+CTouch /Users/sandeep/Desktop/flip/build/Release/flip.app
+r0
+

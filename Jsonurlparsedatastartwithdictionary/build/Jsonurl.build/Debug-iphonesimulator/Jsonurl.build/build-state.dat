@@ -1,0 +1,775 @@
+TJsonurl
+v7
+r0
+t352284835.039887
+cCheck dependencies
+cProcessInfoPlistFile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Info.plist Jsonurl-Info.plist
+cCompileXIB /Users/aslam/Documents/Jsonurl/MainWindow.xib
+cCompileXIB /Users/aslam/Documents/Jsonurl/JsonurlViewController.xib
+cCompileXIB /Users/aslam/Documents/Jsonurl/Classes/Table.xib
+cCompileXIB /Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.xib
+cProcessPCH /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch.gch Jsonurl_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/main.o /Users/aslam/Documents/Jsonurl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlAppDelegate.o /Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlViewController.o /Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/Table.o /Users/aslam/Documents/Jsonurl/Classes/Table.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o /Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o /Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/ram6.o /Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl normal i386
+cGenerateDSYMFile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app.dSYM /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl
+cTouch /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.m
+c000000004A748DD2000000000000089C
+t1249152466
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.m
+c000000004A748DD2000000000000087C
+t1249152466
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.h
+c000000004A748DD20000000000000AED
+t1249152466
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.m
+c000000004A748DD20000000000001ABC
+t1249152466
+s6844
+i"SBJSON.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.h
+c000000004F3B853500000000000000C7
+t1329300789
+s199
+i<UIKit/UIKit.h>
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.m
+c000000004F3B8535000000000000057D
+t1329300789
+s1405
+i"ram6.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.xib
+c000000004F3B85360000000000001847
+t1329300790
+s6215
+
+N/Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.h
+c000000004F4C72F700000000000001D9
+t1330410231
+s473
+i<UIKit/UIKit.h>
+
+N/Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.m
+c000000004F4C72F80000000000000A8F
+t1330410232
+s2703
+i"JsonurlAppDelegate.h"
+i"JsonurlViewController.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.h
+c000000004F4F37CE0000000000000215
+t1330591694
+s533
+i<UIKit/UIKit.h>
+i"Table.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m
+c000000004F4F39220000000000000D4A
+t1330592034
+s3402
+i"JsonurlViewController.h"
+i"JSON.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/Table.h
+c000000004F4C79C30000000000000111
+t1330411971
+s273
+i<UIKit/UIKit.h>
+
+N/Users/aslam/Documents/Jsonurl/Classes/Table.m
+c000000004F4C7C84000000000000113A
+t1330412676
+s4410
+i"Table.h"
+
+N/Users/aslam/Documents/Jsonurl/Classes/Table.xib
+c000000004F4C75530000000000001C5A
+t1330410835
+s7258
+
+N/Users/aslam/Documents/Jsonurl/JSON/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/aslam/Documents/Jsonurl/JSON/NSObject+SBJSON.m
+c000000004A748DD2000000000000089C
+t1249152466
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/aslam/Documents/Jsonurl/JSON/NSString+SBJSON.m
+c000000004A748DD2000000000000087C
+t1249152466
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m
+c000000004A748DD20000000000001ABC
+t1249152466
+s6844
+i"SBJSON.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/aslam/Documents/Jsonurl/JSON/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/aslam/Documents/Jsonurl/JSON/ram6.xib
+c000000004F3B85360000000000001847
+t1329300790
+s6215
+
+N/Users/aslam/Documents/Jsonurl/JsonurlViewController.xib
+c000000004F4C8EBB0000000000004FB3
+t1330417339
+s20403
+
+N/Users/aslam/Documents/Jsonurl/Jsonurl_Prefix.pch
+c000000004F4C72F800000000000000B7
+t1330410232
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aslam/Documents/Jsonurl/MainWindow.xib
+c000000004F4C72F80000000000004E29
+t1330410232
+s20009
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app
+t1330592035
+s306
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app.dSYM
+t1330592034
+s102
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Info.plist
+t1330411975
+s591
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl
+t1330592034
+s60788
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/JsonurlViewController.nib
+t1330417378
+s1471
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/MainWindow.nib
+t1330411979
+s1123
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/PkgInfo
+t1330411975
+s8
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Table.nib
+t1330411984
+s979
+
+N/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/ram6.nib
+t1330415469
+s764
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/Jsonurl.LinkFileList
+c000000004F4C89E30000000000000534
+t1330416099
+s1332
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlAppDelegate.o
+t1330591695
+s50960
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlViewController.o
+t1330592034
+s45972
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o
+t1330415472
+s8284
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o
+t1330415473
+s8204
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o
+t1330416101
+s20072
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o
+t1330415473
+s13204
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o
+t1330415474
+s35864
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o
+t1330415474
+s24848
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/Table.o
+t1330412701
+s42360
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/main.o
+t1330412029
+s6288
+
+N/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/ram6.o
+t1330416100
+s37336
+
+N/Users/aslam/Documents/Jsonurl/main.m
+c000000004F4C72F90000000000000163
+t1330410233
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch.gch
+t1330412027
+s15453392
+
+NJsonurl-Info.plist
+c000000004F4C72F8000000000000038D
+t1330410232
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352284834#352284834#0(0"0(0#1#0"8612454976#0"0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlAppDelegate.o /Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352284494.899298
+e352284495.263779
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlAppDelegate.o
+x/Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.m352284494#352284495#0(0"0(0#0#59"/Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.m8614670336#1862"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JsonurlAppDelegate.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlAppDelegate.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlViewController.o /Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352284834.567169
+e352284834.837894
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlViewController.o
+x/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m: In function '-[JsonurlViewController viewDidLoad]':
+o/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: 'NSDictionary' may not respond to '-objectAtIndex:'
+o/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: (Messages without a matching method signature
+o/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: will be assumed to return 'id' and accept
+o/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: '...' as arguments.)
+o/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:49: warning: 'NSDictionary' may not respond to '-objectAtIndex:'
+o/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:34: warning: unused variable 't1'
+lSLF07#2@70"Compile /Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m352284834#352284834#0(806"/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m: In function '-[JsonurlViewController viewDidLoad]':/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: 'NSDictionary' may not respond to '-objectAtIndex:'/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: (Messages without a matching method signature/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: will be assumed to return 'id' and accept/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:38: warning: '...' as arguments.)/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:49: warning: 'NSDictionary' may not respond to '-objectAtIndex:'/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m:34: warning: unused variable 't1'4(22@51"'NSDictionary' may not respond to '-objectAtIndex:'352284834#116#128#0(6@62"/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m352284834#38#0#38#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)352284834#244#122#0(6@62"/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m352284834#38#0#38#0#0"0(22@51"'NSDictionary' may not respond to '-objectAtIndex:'352284834#581#128#0(6@62"/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m352284834#49#0#49#0#26"'*' may not respond to '*'0(22@20"Unused variable 't1'352284834#709#97#0(6@62"/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m352284834#34#0#34#0#19"unused variable '*'0(0#0#62"/Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m8612212832#1868"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JsonurlViewController.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/JsonurlViewController.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o /Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352108269.440470
+e352108272.878479
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.m352108269#352108272#0(0"0(0#0#61"/Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.m8607597600#1861"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JSON/NSObject+SBJSON.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o /Users/aslam/Documents/Jsonurl/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352104829.781644
+e352104830.635987
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/aslam/Documents/Jsonurl/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/aslam/Documents/Jsonurl/JSON/NSObject+SBJSON.m352104829#352104830#0(0"0(0#0#53"/Users/aslam/Documents/Jsonurl/JSON/NSObject+SBJSON.m8617487680#1853"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/JSON/NSObject+SBJSON.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o /Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352108272.668722
+e352108273.312956
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.m352108272#352108273#0(0"0(0#0#61"/Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.m8386658438684291072#1861"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JSON/NSString+SBJSON.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o /Users/aslam/Documents/Jsonurl/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352104830.636085
+e352104830.951520
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/aslam/Documents/Jsonurl/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/aslam/Documents/Jsonurl/JSON/NSString+SBJSON.m352104830#352104830#0(0"0(0#0#53"/Users/aslam/Documents/Jsonurl/JSON/NSString+SBJSON.m8617672928#1853"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/JSON/NSString+SBJSON.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352108900.395434
+e352108901.022805
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.m352108900#352108901#0(0"0(0#0#52"/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.m8601338144#1843"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJSON.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o /Users/aslam/Documents/Jsonurl/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352106011.003824
+e352106023.744721
+r0
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o
+x/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:30:19: error: SBJSON.h: No such file or directory
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:34: warning: cannot find interface declaration for 'SBJSON'
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON init]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:35: error: no super class declared in @interface for 'SBJSON'
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: (Each undeclared identifier is reported only once
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: for each function it appears in.)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: 'SBJsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:38: error: 'jsonParser' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:38: error: 'SBJsonParser' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: 'SBJSON' may not respond to '-setMaxDepth:'
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: (Messages without a matching method signature
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: will be assumed to return 'id' and accept
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: '...' as arguments.)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON dealloc]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:46: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:47: error: 'jsonParser' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:48: error: no super class declared in @interface for 'SBJSON'
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON stringWithObject:]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:55: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:59: error: 'errorTrace' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON stringWithObject:allowScalar:error:]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:76: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:80: error: 'errorTrace' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON objectWithString:]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:119: error: 'jsonParser' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:123: error: 'errorTrace' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON objectWithString:allowScalar:error:]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:141: error: 'jsonParser' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:145: error: 'errorTrace' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON maxDepth]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:186: error: 'jsonParser' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:187: warning: control reaches end of non-void function
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON setMaxDepth:]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:190: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:190: error: 'jsonParser' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON humanReadable]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:197: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:198: warning: control reaches end of non-void function
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON setHumanReadable:]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:201: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON sortKeys]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:205: error: 'jsonWriter' undeclared (first use in this function)
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:206: warning: control reaches end of non-void function
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON setSortKeys:]':
+o/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:209: error: 'jsonWriter' undeclared (first use in this function)
+lSLF07#2@52"Compile /Users/aslam/Documents/Jsonurl/JSON/SBJSON.m352106011#352106023#0(4648"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:30:19: error: SBJSON.h: No such file or directory/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:34: warning: cannot find interface declaration for 'SBJSON'/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON init]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:35: error: no super class declared in @interface for 'SBJSON'/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: (Each undeclared identifier is reported only once/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: for each function it appears in.)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:37: error: 'SBJsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:38: error: 'jsonParser' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:38: error: 'SBJsonParser' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: 'SBJSON' may not respond to '-setMaxDepth:'/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: (Messages without a matching method signature/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: will be assumed to return 'id' and accept/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:39: warning: '...' as arguments.)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON dealloc]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:46: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:47: error: 'jsonParser' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:48: error: no super class declared in @interface for 'SBJSON'/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON stringWithObject:]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:55: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:59: error: 'errorTrace' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON stringWithObject:allowScalar:error:]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:76: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:80: error: 'errorTrace' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON objectWithString:]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:119: error: 'jsonParser' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:123: error: 'errorTrace' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON objectWithString:allowScalar:error:]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:141: error: 'jsonParser' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:145: error: 'errorTrace' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON maxDepth]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:186: error: 'jsonParser' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:187: warning: control reaches end of non-void function/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON setMaxDepth:]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:190: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:190: error: 'jsonParser' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON humanReadable]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:197: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:198: warning: control reaches end of non-void function/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON setHumanReadable:]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:201: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON sortKeys]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:205: error: 'jsonWriter' undeclared (first use in this function)/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:206: warning: control reaches end of non-void function/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m: In function '-[SBJSON setSortKeys:]':/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m:209: error: 'jsonWriter' undeclared (first use in this function)30(4@35"SBJSON.h: No such file or directory352106023#0#95#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#30#0#30#0#28"*: No such file or directory0(22@46"Cannot find interface declaration for 'SBJSON'352106023#95#105#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#34#0#34#0#0"0(4@50"No super class declared in @interface for 'SBJSON'352106023#276#107#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#35#0#35#0#0"0(4@52"'jsonWriter' undeclared (first use in this function)352106023#383#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#37#0#37#0#43"'*' undeclared (first use in this function)0(4@54"'SBJsonWriter' undeclared (first use in this function)352106023#688#111#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#37#0#37#0#43"'*' undeclared (first use in this function)0(4@52"'jsonParser' undeclared (first use in this function)352106023#799#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#38#0#38#0#43"'*' undeclared (first use in this function)0(4@54"'SBJsonParser' undeclared (first use in this function)352106023#908#111#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#38#0#38#0#43"'*' undeclared (first use in this function)0(22@43"'SBJSON' may not respond to '-setMaxDepth:'352106023#1019#102#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#39#0#39#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)352106023#1121#104#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#39#0#39#0#0"0(4@52"'jsonWriter' undeclared (first use in this function)352106023#1483#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#46#0#46#0#43"'*' undeclared (first use in this function)0(4@52"'jsonParser' undeclared (first use in this function)352106023#1592#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#47#0#47#0#43"'*' undeclared (first use in this function)0(4@50"No super class declared in @interface for 'SBJSON'352106023#1701#107#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#48#0#48#0#0"0(4@52"'jsonWriter' undeclared (first use in this function)352106023#1897#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#55#0#55#0#43"'*' undeclared (first use in this function)0(4@52"'errorTrace' undeclared (first use in this function)352106023#2006#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#59#0#59#0#43"'*' undeclared (first use in this function)0(4@52"'jsonWriter' undeclared (first use in this function)352106023#2222#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#76#0#76#0#43"'*' undeclared (first use in this function)0(4@52"'errorTrace' undeclared (first use in this function)352106023#2331#109#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#80#0#80#0#43"'*' undeclared (first use in this function)0(4@52"'jsonParser' undeclared (first use in this function)352106023#2529#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#119#0#119#0#43"'*' undeclared (first use in this function)0(4@52"'errorTrace' undeclared (first use in this function)352106023#2639#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#123#0#123#0#43"'*' undeclared (first use in this function)0(4@52"'jsonParser' undeclared (first use in this function)352106023#2856#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#141#0#141#0#43"'*' undeclared (first use in this function)0(4@52"'errorTrace' undeclared (first use in this function)352106023#2966#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#145#0#145#0#43"'*' undeclared (first use in this function)0(4@52"'jsonParser' undeclared (first use in this function)352106023#3156#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#186#0#186#0#43"'*' undeclared (first use in this function)0(22@40"Control reaches end of non-void function352106023#3266#100#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#187#0#187#0#40"control reaches end of non-void function0(4@52"'jsonWriter' undeclared (first use in this function)352106023#3450#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#190#0#190#0#43"'*' undeclared (first use in this function)0(4@52"'jsonParser' undeclared (first use in this function)352106023#3560#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#190#0#190#0#43"'*' undeclared (first use in this function)0(4@52"'jsonWriter' undeclared (first use in this function)352106023#3755#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#197#0#197#0#43"'*' undeclared (first use in this function)0(22@40"Control reaches end of non-void function352106023#3865#100#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#198#0#198#0#40"control reaches end of non-void function0(4@52"'jsonWriter' undeclared (first use in this function)352106023#4054#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#201#0#201#0#43"'*' undeclared (first use in this function)0(4@52"'jsonWriter' undeclared (first use in this function)352106023#4244#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#205#0#205#0#43"'*' undeclared (first use in this function)0(22@40"Control reaches end of non-void function352106023#4354#100#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#206#0#206#0#40"control reaches end of non-void function0(4@52"'jsonWriter' undeclared (first use in this function)352106023#4538#110#0(6@44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m270845266#209#0#209#0#43"'*' undeclared (first use in this function)0(0#0#44"/Users/aslam/Documents/Jsonurl/JSON/SBJSON.m8614414336#1835"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/JSON/SBJSON.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJSON.o1#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352108273.313048
+e352108273.721091
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.m352108273#352108273#0(0"0(0#0#56"/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.m8607940096#1851"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonBase.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o /Users/aslam/Documents/Jsonurl/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352104830.951616
+e352104831.180201
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o
+x/Users/aslam/Documents/Jsonurl/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/aslam/Documents/Jsonurl/JSON/SBJsonBase.m352104830#352104831#0(0"0(0#0#48"/Users/aslam/Documents/Jsonurl/JSON/SBJsonBase.m8617657920#1843"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/JSON/SBJsonBase.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352108273.399064
+e352108274.354121
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.m352108273#352108274#0(0"0(0#0#58"/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.m8607674720#1855"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonParser.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o /Users/aslam/Documents/Jsonurl/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352104831.180455
+e352104832.361626
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o
+x/Users/aslam/Documents/Jsonurl/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/aslam/Documents/Jsonurl/JSON/SBJsonParser.m352104831#352104832#0(0"0(0#0#50"/Users/aslam/Documents/Jsonurl/JSON/SBJsonParser.m8617329952#1847"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/JSON/SBJsonParser.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352108273.721184
+e352108274.454538
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.m352108273#352108274#0(0"0(0#0#58"/Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.m8607849120#1855"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JSON/SBJsonWriter.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o /Users/aslam/Documents/Jsonurl/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352104831.627052
+e352104832.359160
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/aslam/Documents/Jsonurl/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/aslam/Documents/Jsonurl/JSON/SBJsonWriter.m352104831#352104832#0(0"0(0#0#50"/Users/aslam/Documents/Jsonurl/JSON/SBJsonWriter.m8617670816#1847"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/JSON/SBJsonWriter.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/Table.o /Users/aslam/Documents/Jsonurl/Classes/Table.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352105496.797948
+e352105501.925571
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/Table.o
+x/Users/aslam/Documents/Jsonurl/Classes/Table.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/aslam/Documents/Jsonurl/Classes/Table.m352105496#352105501#0(0"0(0#0#46"/Users/aslam/Documents/Jsonurl/Classes/Table.m8614493184#1836"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/Table.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/Table.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/main.o /Users/aslam/Documents/Jsonurl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352104829.144315
+e352104829.781572
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/main.o
+x/Users/aslam/Documents/Jsonurl/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/aslam/Documents/Jsonurl/main.m352104829#352104829#0(0"0(0#0#37"/Users/aslam/Documents/Jsonurl/main.m8616755680#1826"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/main.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/ram6.o /Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352108899.920417
+e352108900.656087
+r1
+xCompileC
+xbuild/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/ram6.o
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.m352108899#352108900#0(0"0(0#0#50"/Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.m8605727936#1839"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -include /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch -c /Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.m -o /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/ram6.o0#
+
+CCompileXIB /Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.xib
+s352108267.380960
+e352108269.429901
+r1
+xCompileXIB
+x/Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.xib
+o2012-02-28 13:21:09.108 Interface Builder Cocoa Touch Tool[1932:1903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@32"CompileXIB Classes/JSON/ram6.xib352108267#352108269#0(239"2012-02-28 13:21:09.108 Interface Builder Cocoa Touch Tool[1932:1903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#52"/Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.xib30399787118690416#547"    cd /Users/aslam/Documents/Jsonurl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/ram6.nib /Users/aslam/Documents/Jsonurl/Classes/JSON/ram6.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/aslam/Documents/Jsonurl/Classes/Table.xib
+s352104780.867407
+e352104785.340151
+r1
+xCompileXIB
+x/Users/aslam/Documents/Jsonurl/Classes/Table.xib
+o2012-02-28 12:23:03.544 Interface Builder Cocoa Touch Tool[5491:903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@28"CompileXIB Classes/Table.xib352104780#352104785#0(238"2012-02-28 12:23:03.544 Interface Builder Cocoa Touch Tool[5491:903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#48"/Users/aslam/Documents/Jsonurl/Classes/Table.xib8617657120#544"    cd /Users/aslam/Documents/Jsonurl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Table.nib /Users/aslam/Documents/Jsonurl/Classes/Table.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/aslam/Documents/Jsonurl/JSON/ram6.xib
+s352104780.865780
+e352104788.529581
+r1
+xCompileXIB
+x/Users/aslam/Documents/Jsonurl/JSON/ram6.xib
+o2012-02-28 12:23:06.225 Interface Builder Cocoa Touch Tool[5494:903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@24"CompileXIB JSON/ram6.xib352104780#352104788#0(238"2012-02-28 12:23:06.225 Interface Builder Cocoa Touch Tool[5494:903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#44"/Users/aslam/Documents/Jsonurl/JSON/ram6.xib8617699936#539"    cd /Users/aslam/Documents/Jsonurl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/ram6.nib /Users/aslam/Documents/Jsonurl/JSON/ram6.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/aslam/Documents/Jsonurl/JsonurlViewController.xib
+s352110171.684714
+e352110179.483825
+r1
+xCompileXIB
+x/Users/aslam/Documents/Jsonurl/JsonurlViewController.xib
+o2012-02-28 13:52:57.692 Interface Builder Cocoa Touch Tool[4439:903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@36"CompileXIB JsonurlViewController.xib352110171#352110179#0(238"2012-02-28 13:52:57.692 Interface Builder Cocoa Touch Tool[4439:903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#56"/Users/aslam/Documents/Jsonurl/JsonurlViewController.xib8615020448#568"    cd /Users/aslam/Documents/Jsonurl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/JsonurlViewController.nib /Users/aslam/Documents/Jsonurl/JsonurlViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/aslam/Documents/Jsonurl/MainWindow.xib
+s352104775.700438
+e352104780.865454
+r1
+xCompileXIB
+x/Users/aslam/Documents/Jsonurl/MainWindow.xib
+o2012-02-28 12:22:59.603 Interface Builder Cocoa Touch Tool[5488:1903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib352104775#352104780#0(239"2012-02-28 12:22:59.603 Interface Builder Cocoa Touch Tool[5488:1903] CFPreferences: user home directory at file://localhost/Users/aslam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#45"/Users/aslam/Documents/Jsonurl/MainWindow.xib8617422400#546"    cd /Users/aslam/Documents/Jsonurl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/MainWindow.nib /Users/aslam/Documents/Jsonurl/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app.dSYM /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl
+s352284834.909374
+e352284835.026640
+r1
+xGenerateDSYMFile
+x/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app.dSYM
+x/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Jsonurl.app.dSYM build/Debug-iphonesimulator/Jsonurl.app/Jsonurl352284834#352284835#0(0"0(0#0#78"/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl8612517888#359"    cd /Users/aslam/Documents/Jsonurl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl -o /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app.dSYM0#
+
+CLd /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl normal i386
+s352284834.837977
+e352284834.909272
+r1
+xLd
+x/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl
+xnormal
+xi386
+lSLF07#2@83"Link /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl352284834#352284834#0(0"0(0#0#0"8612643392#860"    cd /Users/aslam/Documents/Jsonurl    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -filelist /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Objects-normal/i386/Jsonurl.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Jsonurl0#
+
+CProcessInfoPlistFile /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Info.plist Jsonurl-Info.plist
+s352104775.403811
+e352104775.700347
+r1
+xProcessInfoPlistFile
+x/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Info.plist
+xJsonurl-Info.plist
+lSLF07#2@26"Process Jsonurl-Info.plist352104775#352104775#0(0"0(0#0#49"/Users/aslam/Documents/Jsonurl/Jsonurl-Info.plist27303536605069420#455"    cd /Users/aslam/Documents/Jsonurl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Jsonurl-Info.plist -genpkginfo /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app/Info.plist0#
+
+CProcessPCH /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch.gch Jsonurl_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s352104788.529780
+e352104829.144105
+r1
+xProcessPCH
+x/var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch.gch
+xJsonurl_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Jsonurl_Prefix.pch352104788#352104829#0(0"0(0#0#49"/Users/aslam/Documents/Jsonurl/Jsonurl_Prefix.pch8617156448#1726"    cd /Users/aslam/Documents/Jsonurl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-generated-files.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-own-target-headers.hmap -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-all-target-headers.hmap -iquote /Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/Jsonurl-project-headers.hmap -F/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator -I/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/include -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources/i386 -I/Users/aslam/Documents/Jsonurl/build/Jsonurl.build/Debug-iphonesimulator/Jsonurl.build/DerivedSources -c /Users/aslam/Documents/Jsonurl/Jsonurl_Prefix.pch -o /var/folders/oz/ozQAKq6iEpO6jeWFgKnLlU+++cA/-Caches-/com.apple.Xcode.643/SharedPrecompiledHeaders/Jsonurl_Prefix-dbunyalvrnmqgseiikrokguywafv/Jsonurl_Prefix.pch.gch0#
+
+CTouch /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app
+s352284835.026772
+e352284835.039840
+r1
+xTouch
+x/Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app
+lSLF07#2@76"Touch /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app352284835#352284835#0(0"0(0#0#0"8612119104#262"    cd /Users/aslam/Documents/Jsonurl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/aslam/Documents/Jsonurl/build/Debug-iphonesimulator/Jsonurl.app0#
+

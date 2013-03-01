@@ -1,0 +1,294 @@
+TCheckMark
+v7
+r0
+t299151440.461889
+cCheck dependencies
+cProcessInfoPlistFile /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/Info.plist CheckMark-Info.plist
+cCompileXIB /Users/Amrita/Documents/CheckMark/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/CheckMark.app/checked.png checked.png
+cCpResource build/Debug-iphonesimulator/CheckMark.app/unchecked.png unchecked.png
+cCopyPlistFile /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark.plist CheckMark.plist
+cProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch.gch CheckMark_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/main.o /Users/Amrita/Documents/CheckMark/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/CheckMarkAppDelegate.o /Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/TableView.o /Users/Amrita/Documents/CheckMark/Classes/TableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark normal i386
+cGenerateDSYMFile /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app.dSYM /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark
+cTouch /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C120D340000000000000132
+t1276251444
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Amrita/Documents/CheckMark/CheckMark.plist
+c000000004B8E6FC50000000000000228
+t1267625925
+s552
+
+N/Users/Amrita/Documents/CheckMark/CheckMark_Prefix.pch
+c000000004B8E6A4900000000000000BB
+t1267624521
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.h
+c000000004BC2C82600000000000001C2
+t1271056422
+s450
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.m
+c000000004BC2C80C000000000000023A
+t1271056396
+s570
+i"CheckMarkAppDelegate.h"
+
+N/Users/Amrita/Documents/CheckMark/Classes/TableView.h
+c000000004BC2C81100000000000000FF
+t1271056401
+s255
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/CheckMark/Classes/TableView.m
+c000000004C2478CE0000000000000F8C
+t1277458638
+s3980
+i"TableView.h"
+
+N/Users/Amrita/Documents/CheckMark/MainWindow.xib
+c000000004B8E6DA40000000000003449
+t1267625380
+s13385
+
+N/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/CheckMark.LinkFileList
+c000000004B8E6B790000000000000180
+t1267624825
+s384
+
+N/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/CheckMarkAppDelegate.o
+t1277458640
+s46932
+
+N/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/TableView.o
+t1277458640
+s50164
+
+N/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/main.o
+t1277458640
+s6292
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app
+t1277458640
+s306
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app.dSYM
+t1277458640
+s102
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark
+t1277458640
+s21996
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark.plist
+t1277458639
+s119
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/Info.plist
+t1277458638
+s599
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/MainWindow.nib
+t1277458639
+s1731
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/PkgInfo
+t1277458638
+s8
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/checked.png
+t1277458638
+s1346
+
+N/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/unchecked.png
+t1277458638
+s1076
+
+N/Users/Amrita/Documents/CheckMark/checked.png
+c0000000049FA55B00000000000000542
+t1241142704
+s1346
+
+N/Users/Amrita/Documents/CheckMark/main.m
+c000000004BC2C8230000000000000166
+t1271056419
+s358
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/CheckMark/unchecked.png
+c0000000049FA55B00000000000000434
+t1241142704
+s1076
+
+N/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch.gch
+t1277458639
+s15232016
+
+NCheckMark-Info.plist
+c000000004B8E6A49000000000000038D
+t1267624521
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299151438#299151438#0(0"0(0#1#0"8601262240#0"0#
+
+CCompileC build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/CheckMarkAppDelegate.o /Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299151440.101780
+e299151440.300716
+r1
+xCompileC
+xbuild/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/CheckMarkAppDelegate.o
+x/Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.m299151440#299151440#0(0"0(0#0#64"/Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.m8621640192#1926"    cd /Users/Amrita/Documents/CheckMark    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-generated-files.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-own-target-headers.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-all-target-headers.hmap -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-project-headers.hmap -F/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator -I/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources/i386 -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch -c /Users/Amrita/Documents/CheckMark/Classes/CheckMarkAppDelegate.m -o /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/CheckMarkAppDelegate.o0#
+
+CCompileC build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/TableView.o /Users/Amrita/Documents/CheckMark/Classes/TableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299151440.287612
+e299151440.386475
+r1
+xCompileC
+xbuild/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/TableView.o
+x/Users/Amrita/Documents/CheckMark/Classes/TableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Amrita/Documents/CheckMark/Classes/TableView.m299151440#299151440#0(0"0(0#0#53"/Users/Amrita/Documents/CheckMark/Classes/TableView.m8628108192#1904"    cd /Users/Amrita/Documents/CheckMark    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-generated-files.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-own-target-headers.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-all-target-headers.hmap -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-project-headers.hmap -F/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator -I/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources/i386 -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch -c /Users/Amrita/Documents/CheckMark/Classes/TableView.m -o /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/TableView.o0#
+
+CCompileC build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/main.o /Users/Amrita/Documents/CheckMark/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299151440.100566
+e299151440.287388
+r1
+xCompileC
+xbuild/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/main.o
+x/Users/Amrita/Documents/CheckMark/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Amrita/Documents/CheckMark/main.m299151440#299151440#0(0"0(0#0#40"/Users/Amrita/Documents/CheckMark/main.m8623307520#1886"    cd /Users/Amrita/Documents/CheckMark    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-generated-files.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-own-target-headers.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-all-target-headers.hmap -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-project-headers.hmap -F/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator -I/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources/i386 -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch -c /Users/Amrita/Documents/CheckMark/main.m -o /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Amrita/Documents/CheckMark/MainWindow.xib
+s299151438.625825
+e299151439.086630
+r1
+xCompileXIB
+x/Users/Amrita/Documents/CheckMark/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299151438#299151439#0(0"0(0#0#48"/Users/Amrita/Documents/CheckMark/MainWindow.xib8623307072#557"    cd /Users/Amrita/Documents/CheckMark    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/MainWindow.nib /Users/Amrita/Documents/CheckMark/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCopyPlistFile /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark.plist CheckMark.plist
+s299151438.627713
+e299151439.040053
+r1
+xCopyPlistFile
+x/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark.plist
+xCheckMark.plist
+lSLF07#2@20"Copy CheckMark.plist299151438#299151439#0(0"0(0#0#49"/Users/Amrita/Documents/CheckMark/CheckMark.plist8626840544#382"    cd /Users/Amrita/Documents/CheckMark    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 CheckMark.plist --outdir /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app0#
+
+CCpResource build/Debug-iphonesimulator/CheckMark.app/checked.png checked.png
+s299151438.626563
+e299151438.704012
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CheckMark.app/checked.png
+xchecked.png
+lSLF07#2@16"Copy checked.png299151438#299151438#0(0"0(0#0#45"/Users/Amrita/Documents/CheckMark/checked.png8625693248#442"    cd /Users/Amrita/Documents/CheckMark    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Amrita/Documents/CheckMark/checked.png /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app0#
+
+CCpResource build/Debug-iphonesimulator/CheckMark.app/unchecked.png unchecked.png
+s299151438.627150
+e299151438.657855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CheckMark.app/unchecked.png
+xunchecked.png
+lSLF07#2@18"Copy unchecked.png299151438#299151438#0(0"0(0#0#47"/Users/Amrita/Documents/CheckMark/unchecked.png8626042528#444"    cd /Users/Amrita/Documents/CheckMark    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Amrita/Documents/CheckMark/unchecked.png /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app0#
+
+CGenerateDSYMFile /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app.dSYM /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark
+s299151440.442286
+e299151440.458851
+r1
+xGenerateDSYMFile
+x/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app.dSYM
+x/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/CheckMark.app.dSYM build/Debug-iphonesimulator/CheckMark.app/CheckMark299151440#299151440#0(0"0(0#0#85"/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark8627622432#374"    cd /Users/Amrita/Documents/CheckMark    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark -o /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app.dSYM0#
+
+CLd /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark normal i386
+s299151440.386574
+e299151440.442177
+r1
+xLd
+x/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark
+xnormal
+xi386
+lSLF07#2@90"Link /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark299151440#299151440#0(0"0(0#0#0"8626743552#885"    cd /Users/Amrita/Documents/CheckMark    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator -F/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator -filelist /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/Objects-normal/i386/CheckMark.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/CheckMark0#
+
+CProcessInfoPlistFile /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/Info.plist CheckMark-Info.plist
+s299151438.606046
+e299151438.625736
+r1
+xProcessInfoPlistFile
+x/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/Info.plist
+xCheckMark-Info.plist
+lSLF07#2@28"Process CheckMark-Info.plist299151438#299151438#0(0"0(0#0#54"/Users/Amrita/Documents/CheckMark/CheckMark-Info.plist8605928320#470"    cd /Users/Amrita/Documents/CheckMark    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CheckMark-Info.plist -genpkginfo /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app/Info.plist0#
+
+CProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch.gch CheckMark_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299151439.086768
+e299151440.100450
+r1
+xProcessPCH
+x/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch.gch
+xCheckMark_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CheckMark_Prefix.pch299151439#299151440#0(0"0(0#0#54"/Users/Amrita/Documents/CheckMark/CheckMark_Prefix.pch8626561408#1781"    cd /Users/Amrita/Documents/CheckMark    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-generated-files.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-own-target-headers.hmap -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-all-target-headers.hmap -iquote /Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/CheckMark-project-headers.hmap -F/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator -I/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources/i386 -I/Users/Amrita/Documents/CheckMark/build/CheckMark.build/Debug-iphonesimulator/CheckMark.build/DerivedSources -c /Users/Amrita/Documents/CheckMark/CheckMark_Prefix.pch -o /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CheckMark_Prefix-btpvxkerwgrcrlevfhgwsbnafriw/CheckMark_Prefix.pch.gch0#
+
+CTouch /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app
+s299151440.458946
+e299151440.461853
+r1
+xTouch
+x/Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app
+lSLF07#2@81"Touch /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app299151440#299151440#0(0"0(0#0#0"8626231904#270"    cd /Users/Amrita/Documents/CheckMark    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Amrita/Documents/CheckMark/build/Debug-iphonesimulator/CheckMark.app0#
+

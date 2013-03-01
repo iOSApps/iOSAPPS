@@ -1,0 +1,191 @@
+Tmaps
+v7
+r3
+t356873200.136752
+cCheck dependencies
+cProcessInfoPlistFile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist maps-Info.plist
+cCompileXIB /Users/vanita/Documents/maps/MainWindow.xib
+cCompileXIB /Users/vanita/Documents/maps/mapsViewController.xib
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/vanita/Documents/maps/Classes/mapsAppDelegate.h
+c000000004F953BB600000000000001C8
+t1335180214
+s456
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Documents/maps/Classes/mapsAppDelegate.m
+c000000004F953BB60000000000000A81
+t1335180214
+s2689
+i"mapsAppDelegate.h"
+i"mapsViewController.h"
+
+N/Users/vanita/Documents/maps/Classes/mapsViewController.h
+c000000004F953C6C0000000000000109
+t1335180396
+s265
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Documents/maps/Classes/mapsViewController.m
+c000000004F953BB600000000000005B0
+t1335180214
+s1456
+i"mapsViewController.h"
+
+N/Users/vanita/Documents/maps/MainWindow.xib
+c000000004F953BB60000000000004E05
+t1335180214
+s19973
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app
+t2
+s0
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app.dSYM
+t2
+s0
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist
+t1335180399
+s579
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/MainWindow.nib
+t2
+s0
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/PkgInfo
+t1335180399
+s8
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps
+t2
+s0
+
+N/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/mapsViewController.nib
+t2
+s0
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/maps.LinkFileList
+c000000004F953C6D0000000000000157
+t1335180397
+s343
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o
+t2
+s0
+
+N/Users/vanita/Documents/maps/build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o
+t2
+s0
+
+N/Users/vanita/Documents/maps/main.m
+c000000004F953BB60000000000000161
+t1335180214
+s353
+i<UIKit/UIKit.h>
+
+N/Users/vanita/Documents/maps/mapsViewController.xib
+c000000004F953BB60000000000001A39
+t1335180214
+s6713
+
+N/Users/vanita/Documents/maps/maps_Prefix.pch
+c000000004F953BB600000000000000B1
+t1335180214
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch.gch
+t2
+s0
+
+Nmaps-Info.plist
+c000000004F953BB6000000000000038D
+t1335180214
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356873196#356873198#0(0"0(0#1#0"7021752170582210560#0"0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/main.o /Users/vanita/Documents/maps/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsAppDelegate.o /Users/vanita/Documents/maps/Classes/mapsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphonesimulator/maps.build/Objects-normal/i386/mapsViewController.o /Users/vanita/Documents/maps/Classes/mapsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/vanita/Documents/maps/MainWindow.xib
+s356873199.508645
+e356873200.036153
+r0
+xCompileXIB
+x/Users/vanita/Documents/maps/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib356873199#356873200#0(0"0(0#0#43"/Users/vanita/Documents/maps/MainWindow.xib8613622944#641"    cd /Users/vanita/Documents/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/MainWindow.nib /Users/vanita/Documents/maps/MainWindow.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk2#
+
+CCompileXIB /Users/vanita/Documents/maps/mapsViewController.xib
+s356873199.510339
+e356873200.136709
+r0
+xCompileXIB
+x/Users/vanita/Documents/maps/mapsViewController.xib
+lSLF07#2@33"CompileXIB mapsViewController.xib356873199#356873200#0(0"0(0#0#51"/Users/vanita/Documents/maps/mapsViewController.xib8613579424#657"    cd /Users/vanita/Documents/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/sandeepkumar/Public/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/mapsViewController.nib /Users/vanita/Documents/maps/mapsViewController.xib --sdk /Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk2#
+
+CGenerateDSYMFile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app.dSYM /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps
+r0
+
+CLd /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/maps normal i386
+r0
+
+CProcessInfoPlistFile /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist maps-Info.plist
+s356873198.330848
+e356873199.508517
+r1
+xProcessInfoPlistFile
+x/Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist
+xmaps-Info.plist
+lSLF07#2@23"Process maps-Info.plist356873198#356873199#0(0"0(0#0#44"/Users/vanita/Documents/maps/maps-Info.plist31244220637446252#492"    cd /Users/vanita/Documents/maps    setenv PATH "/Users/sandeepkumar/Public/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/sandeepkumar/Public/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility maps-Info.plist -genpkginfo /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app/Info.plist0#
+
+CProcessPCH /var/folders/81/81r6WB+lFQq8WK5h9Mpj3k+++XA/-Caches-/com.apple.Xcode.563/SharedPrecompiledHeaders/maps_Prefix-deerunppmiofxkabgvkbkqwwrboe/maps_Prefix.pch.gch maps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/vanita/Documents/maps/build/Debug-iphonesimulator/maps.app
+r0
+

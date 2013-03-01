@@ -1,0 +1,328 @@
+TButton_Example
+v7
+r0
+t323940248.165313
+cCheck dependencies
+cProcessInfoPlistFile /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Info.plist Button_Example-Info.plist
+cCompileXIB /Users/Amrita/Documents/Button_Example/MainWindow.xib
+cCompileXIB /Users/Amrita/Documents/Button_Example/Button_ExampleViewController.xib
+cCpResource build/Debug-iphonesimulator/Button_Example.app/middleRow.png middleRow.png
+cCpResource build/Debug-iphonesimulator/Button_Example.app/icon2.png icon2.png
+cProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch.gch Button_Example_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/main.o /Users/Amrita/Documents/Button_Example/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleAppDelegate.o /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleViewController.o /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Item.o /Users/Amrita/Documents/Button_Example/Classes/Item.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example normal i386
+cGenerateDSYMFile /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app.dSYM /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example
+cTouch /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Amrita/Documents/Button_Example/Button_ExampleViewController.xib
+c000000004D9DC9220000000000004860
+t1302186274
+s18528
+
+N/Users/Amrita/Documents/Button_Example/Button_Example_Prefix.pch
+c000000004D9D676C00000000000000C5
+t1302161260
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.h
+c000000004D9D676C0000000000000212
+t1302161260
+s530
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.m
+c000000004D9D676C0000000000000AC1
+t1302161260
+s2753
+i"Button_ExampleAppDelegate.h"
+i"Button_ExampleViewController.h"
+
+N/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.h
+c000000004D9EA96B000000000000028E
+t1302243691
+s654
+i<UIKit/UIKit.h>
+i"Item.h"
+
+N/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m
+c000000004D9EB817000000000000192B
+t1302247447
+s6443
+i"Button_ExampleViewController.h"
+i"Item.h"
+
+N/Users/Amrita/Documents/Button_Example/Classes/Item.h
+c000000004D9EA925000000000000019A
+t1302243621
+s410
+i<Foundation/Foundation.h>
+
+N/Users/Amrita/Documents/Button_Example/Classes/Item.m
+c000000004D9EA93E00000000000000E3
+t1302243646
+s227
+i"Item.h"
+
+N/Users/Amrita/Documents/Button_Example/MainWindow.xib
+c000000004D9D676C0000000000004E7D
+t1302161260
+s20093
+
+N/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_Example.LinkFileList
+c000000004D9EA93F000000000000024D
+t1302243647
+s589
+
+N/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleAppDelegate.o
+t1302243707
+s51372
+
+N/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleViewController.o
+t1302247448
+s60692
+
+N/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Item.o
+t1302243647
+s8808
+
+N/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/main.o
+t1302161458
+s6304
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app
+t1302247448
+s306
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app.dSYM
+t1302247448
+s102
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example
+t1302247448
+s25844
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_ExampleViewController.nib
+t1302243518
+s1169
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Info.plist
+t1302161455
+s619
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/MainWindow.nib
+t1302161456
+s1137
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/PkgInfo
+t1302161455
+s8
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/icon2.png
+t1302243925
+s9372
+
+N/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/middleRow.png
+t1302161693
+s3778
+
+N/Users/Amrita/Documents/Button_Example/icon2.png
+c000000004D947ED0000000000000249C
+t1301577424
+s9372
+
+N/Users/Amrita/Documents/Button_Example/main.m
+c000000004D9D676C0000000000000179
+t1302161260
+s377
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/Button_Example/middleRow.png
+c000000004BC46BDF0000000000000EC2
+t1271163871
+s3778
+
+N/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch.gch
+t1302161457
+s15453392
+
+NButton_Example-Info.plist
+c000000004D9D676C000000000000038D
+t1302161260
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323940247#323940247#0(0"0(0#1#0"8618195168#0"0#
+
+CCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleAppDelegate.o /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323936507.841700
+e323936507.943090
+r1
+xCompileC
+xbuild/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleAppDelegate.o
+x/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.m323936507#323936507#0(0"0(0#0#74"/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.m8608800096#2104"    cd /Users/Amrita/Documents/Button_Example    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-generated-files.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-own-target-headers.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-all-target-headers.hmap -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-project-headers.hmap -F/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator -I/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources/i386 -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch -c /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleAppDelegate.m -o /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleAppDelegate.o0#
+
+CCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleViewController.o /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323940247.784154
+e323940248.071192
+r1
+xCompileC
+xbuild/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleViewController.o
+x/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m: In function '-[Button_ExampleViewController tableView:cellForRowAtIndexPath:]':
+o/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m:85: warning: local declaration of 'tableView' hides instance variable
+lSLF07#2@85"Compile /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m323940247#323940248#0(307"/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m: In function '-[Button_ExampleViewController tableView:cellForRowAtIndexPath:]':/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m:85: warning: local declaration of 'tableView' hides instance variable1(22@56"Local declaration of 'tableView' hides instance variable323940247#159#148#0(6@77"/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m323940247#85#0#85#0#0"0(0#0#77"/Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m8613601440#2110"    cd /Users/Amrita/Documents/Button_Example    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-generated-files.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-own-target-headers.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-all-target-headers.hmap -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-project-headers.hmap -F/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator -I/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources/i386 -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch -c /Users/Amrita/Documents/Button_Example/Classes/Button_ExampleViewController.m -o /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_ExampleViewController.o0#
+
+CCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Item.o /Users/Amrita/Documents/Button_Example/Classes/Item.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323936447.359650
+e323936447.489473
+r1
+xCompileC
+xbuild/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Item.o
+x/Users/Amrita/Documents/Button_Example/Classes/Item.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Amrita/Documents/Button_Example/Classes/Item.m323936447#323936447#0(0"0(0#0#53"/Users/Amrita/Documents/Button_Example/Classes/Item.m8606966944#2062"    cd /Users/Amrita/Documents/Button_Example    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-generated-files.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-own-target-headers.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-all-target-headers.hmap -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-project-headers.hmap -F/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator -I/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources/i386 -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch -c /Users/Amrita/Documents/Button_Example/Classes/Item.m -o /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Item.o0#
+
+CCompileC build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/main.o /Users/Amrita/Documents/Button_Example/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323854258.055148
+e323854258.232339
+r1
+xCompileC
+xbuild/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/main.o
+x/Users/Amrita/Documents/Button_Example/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Amrita/Documents/Button_Example/main.m323854258#323854258#0(0"0(0#0#45"/Users/Amrita/Documents/Button_Example/main.m8610264672#2054"    cd /Users/Amrita/Documents/Button_Example    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-generated-files.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-own-target-headers.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-all-target-headers.hmap -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-project-headers.hmap -F/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator -I/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources/i386 -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch -c /Users/Amrita/Documents/Button_Example/main.m -o /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Amrita/Documents/Button_Example/Button_ExampleViewController.xib
+s323936318.164185
+e323936318.734665
+r1
+xCompileXIB
+x/Users/Amrita/Documents/Button_Example/Button_ExampleViewController.xib
+lSLF07#2@43"CompileXIB Button_ExampleViewController.xib323936318#323936318#0(0"0(0#0#71"/Users/Amrita/Documents/Button_Example/Button_ExampleViewController.xib32088645568430192#613"    cd /Users/Amrita/Documents/Button_Example    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_ExampleViewController.nib /Users/Amrita/Documents/Button_Example/Button_ExampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Amrita/Documents/Button_Example/MainWindow.xib
+s323854255.444750
+e323854256.293351
+r1
+xCompileXIB
+x/Users/Amrita/Documents/Button_Example/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323854255#323854256#0(0"0(0#0#53"/Users/Amrita/Documents/Button_Example/MainWindow.xib8612834880#577"    cd /Users/Amrita/Documents/Button_Example    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/MainWindow.nib /Users/Amrita/Documents/Button_Example/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Button_Example.app/icon2.png icon2.png
+s323936725.370379
+e323936725.394685
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Button_Example.app/icon2.png
+xicon2.png
+lSLF07#2@14"Copy icon2.png323936725#323936725#0(0"0(0#0#48"/Users/Amrita/Documents/Button_Example/icon2.png8612881824#474"    cd /Users/Amrita/Documents/Button_Example    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Amrita/Documents/Button_Example/icon2.png /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app0#
+
+CCpResource build/Debug-iphonesimulator/Button_Example.app/middleRow.png middleRow.png
+s323854493.770981
+e323854493.823145
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Button_Example.app/middleRow.png
+xmiddleRow.png
+lSLF07#2@18"Copy middleRow.png323854493#323854493#0(0"0(0#0#52"/Users/Amrita/Documents/Button_Example/middleRow.png8619949600#478"    cd /Users/Amrita/Documents/Button_Example    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Amrita/Documents/Button_Example/middleRow.png /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app0#
+
+CGenerateDSYMFile /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app.dSYM /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example
+s323940248.098462
+e323940248.162476
+r1
+xGenerateDSYMFile
+x/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app.dSYM
+x/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/Button_Example.app.dSYM build/Debug-iphonesimulator/Button_Example.app/Button_Example323940248#323940248#0(0"0(0#0#100"/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example8608229728#404"    cd /Users/Amrita/Documents/Button_Example    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example -o /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app.dSYM0#
+
+CLd /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example normal i386
+s323940248.071311
+e323940248.098363
+r1
+xLd
+x/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example
+xnormal
+xi386
+lSLF07#2@105"Link /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example323940248#323940248#0(0"0(0#0#0"8611018560#935"    cd /Users/Amrita/Documents/Button_Example    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator -F/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator -filelist /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Objects-normal/i386/Button_Example.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Button_Example0#
+
+CProcessInfoPlistFile /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Info.plist Button_Example-Info.plist
+s323854255.367034
+e323854255.444655
+r1
+xProcessInfoPlistFile
+x/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Info.plist
+xButton_Example-Info.plist
+lSLF07#2@33"Process Button_Example-Info.plist323854255#323854255#0(0"0(0#0#64"/Users/Amrita/Documents/Button_Example/Button_Example-Info.plist31244169098821736#500"    cd /Users/Amrita/Documents/Button_Example    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Button_Example-Info.plist -genpkginfo /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app/Info.plist0#
+
+CProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch.gch Button_Example_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323854256.293682
+e323854258.054926
+r1
+xProcessPCH
+x/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch.gch
+xButton_Example_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Button_Example_Prefix.pch323854256#323854258#0(0"0(0#0#64"/Users/Amrita/Documents/Button_Example/Button_Example_Prefix.pch8610332736#1939"    cd /Users/Amrita/Documents/Button_Example    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-generated-files.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-own-target-headers.hmap -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-all-target-headers.hmap -iquote /Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/Button_Example-project-headers.hmap -F/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator -I/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources/i386 -I/Users/Amrita/Documents/Button_Example/build/Button_Example.build/Debug-iphonesimulator/Button_Example.build/DerivedSources -c /Users/Amrita/Documents/Button_Example/Button_Example_Prefix.pch -o /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Example_Prefix-awijydkbidhsopfpvgxdveiyumib/Button_Example_Prefix.pch.gch0#
+
+CTouch /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app
+s323940248.162578
+e323940248.165275
+r1
+xTouch
+x/Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app
+lSLF07#2@91"Touch /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app323940248#323940248#0(0"0(0#0#0"8607818112#285"    cd /Users/Amrita/Documents/Button_Example    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Amrita/Documents/Button_Example/build/Debug-iphonesimulator/Button_Example.app0#
+

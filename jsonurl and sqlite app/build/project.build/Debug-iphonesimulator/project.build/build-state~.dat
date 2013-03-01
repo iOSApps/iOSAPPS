@@ -1,0 +1,258 @@
+Tproject
+v7
+r0
+t353832202.221380
+cCheck dependencies
+cProcessInfoPlistFile /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/Info.plist project-Info.plist
+cCompileXIB /Users/arunbabu/Documents/project/MainWindow.xib
+cCompileXIB /Users/arunbabu/Documents/project/projectViewController.xib
+cProcessPCH /var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch.gch project_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/main.o /Users/arunbabu/Documents/project/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectAppDelegate.o /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectViewController.o /Users/arunbabu/Documents/project/Classes/projectViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/arunbabu/Documents/project/Classes/projectAppDelegate.h
+c000000004F66C8A300000000000001DC
+t1332136099
+s476
+i<UIKit/UIKit.h>
+
+N/Users/arunbabu/Documents/project/Classes/projectAppDelegate.m
+c000000004F66C8A30000000000000A92
+t1332136099
+s2706
+i"projectAppDelegate.h"
+i"projectViewController.h"
+
+N/Users/arunbabu/Documents/project/Classes/projectViewController.h
+c000000004F66D37B00000000000001B0
+t1332138875
+s432
+i<UIKit/UIKit.h>
+i"JSON.h"
+
+N/Users/arunbabu/Documents/project/Classes/projectViewController.m
+c000000004F66D503000000000000077C
+t1332139267
+s1916
+i"projectViewController.h"
+i"JSON.h"
+
+N/Users/arunbabu/Documents/project/MainWindow.xib
+c000000004F66C8A30000000000004E29
+t1332136099
+s20009
+
+N/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app
+t1332138992
+s204
+
+N/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app.dSYM
+t2
+s0
+
+N/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/Info.plist
+t1332138881
+s591
+
+N/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/MainWindow.nib
+t1332138991
+s1123
+
+N/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/PkgInfo
+t1332138882
+s8
+
+N/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/project
+t2
+s0
+
+N/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/projectViewController.nib
+t1332138990
+s795
+
+N/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/main.o
+t1332139396
+s6292
+
+N/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/project.LinkFileList
+c000000004F66D37E000000000000017E
+t1332138878
+s382
+
+N/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectAppDelegate.o
+t2
+s0
+
+N/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectViewController.o
+t2
+s0
+
+N/Users/arunbabu/Documents/project/main.m
+c000000004F66C8A50000000000000166
+t1332136101
+s358
+i<UIKit/UIKit.h>
+
+N/Users/arunbabu/Documents/project/projectViewController.xib
+c000000004F66C8A40000000000001A45
+t1332136100
+s6725
+
+N/Users/arunbabu/Documents/project/project_Prefix.pch
+c000000004F66C8A400000000000000B7
+t1332136100
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch.gch
+t1332139364
+s15453392
+
+Nproject-Info.plist
+c000000004F66C8A3000000000000038D
+t1332136099
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353831678#353831681#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/main.o /Users/arunbabu/Documents/project/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353832166.255257
+e353832198.976913
+r1
+xCompileC
+xbuild/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/main.o
+x/Users/arunbabu/Documents/project/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/arunbabu/Documents/project/main.m353832166#353832200#0(0"0(0#0#40"/Users/arunbabu/Documents/project/main.m8612899264#1859"    cd /Users/arunbabu/Documents/project    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-generated-files.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-own-target-headers.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-all-target-headers.hmap -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-project-headers.hmap -F/Users/arunbabu/Documents/project/build/Debug-iphonesimulator -I/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/include -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources/i386 -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources -include /var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch -c /Users/arunbabu/Documents/project/main.m -o /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/main.o0#
+
+CCompileC build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectAppDelegate.o /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353832166.257869
+e353832198.229112
+r0
+xCompileC
+xbuild/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectAppDelegate.o
+x/Users/arunbabu/Documents/project/Classes/projectAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m:10:
+o/Users/arunbabu/Documents/project/Classes/projectViewController.h:10:17: error: JSON.h: No such file or directory
+oIn file included from /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m:10:
+o/Users/arunbabu/Documents/project/Classes/projectViewController.h:22: error: duplicate property declaration 't1'
+lSLF07#2@70"Compile /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m353832166#353832198#0(405"In file included from /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m:10:/Users/arunbabu/Documents/project/Classes/projectViewController.h:10:17: error: JSON.h: No such file or directoryIn file included from /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m:10:/Users/arunbabu/Documents/project/Classes/projectViewController.h:22: error: duplicate property declaration 't1'2(4@33"JSON.h: No such file or directory353832178#89#114#2(7@84"In file included from /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m353832177#18446744073709551615#0#0(6@62"/Users/arunbabu/Documents/project/Classes/projectAppDelegate.m353828899#10#0#10#0#0"0(13@102"JSON.h: No such file or directory in /Users/arunbabu/Documents/project/Classes/projectViewController.h353832178#18446744073709551615#0#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#10#0#10#0#0"0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#10#0#10#0#28"*: No such file or directory0(4@35"Duplicate property declaration 't1'353832178#292#113#2(7@84"In file included from /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m353832178#18446744073709551615#0#0(6@62"/Users/arunbabu/Documents/project/Classes/projectAppDelegate.m353828899#10#0#10#0#0"0(13@104"Duplicate property declaration 't1' in /Users/arunbabu/Documents/project/Classes/projectViewController.h353832178#18446744073709551615#0#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#22#0#22#0#0"0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#22#0#22#0#0"0(0#0#62"/Users/arunbabu/Documents/project/Classes/projectAppDelegate.m8610519168#1895"    cd /Users/arunbabu/Documents/project    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-generated-files.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-own-target-headers.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-all-target-headers.hmap -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-project-headers.hmap -F/Users/arunbabu/Documents/project/build/Debug-iphonesimulator -I/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/include -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources/i386 -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources -include /var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch -c /Users/arunbabu/Documents/project/Classes/projectAppDelegate.m -o /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectAppDelegate.o1#
+
+CCompileC build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectViewController.o /Users/arunbabu/Documents/project/Classes/projectViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353832198.229278
+e353832202.221222
+r0
+xCompileC
+xbuild/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectViewController.o
+x/Users/arunbabu/Documents/project/Classes/projectViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/arunbabu/Documents/project/Classes/projectViewController.m:9:
+o/Users/arunbabu/Documents/project/Classes/projectViewController.h:10:17: error: JSON.h: No such file or directory
+oIn file included from /Users/arunbabu/Documents/project/Classes/projectViewController.m:9:
+o/Users/arunbabu/Documents/project/Classes/projectViewController.h:22: error: duplicate property declaration 't1'
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:12: error: no declaration of property 't2' found in the interface
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m: In function '-[projectViewController viewDidLoad]':
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: 'NSString' may not respond to '-JSONValue'
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: (Messages without a matching method signature
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: will be assumed to return 'id' and accept
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: '...' as arguments.)
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: unused variable 'dictionary'
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m: At top level:
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:78: warning: incomplete implementation of class 'projectViewController'
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:78: warning: method definition for '-search' not found
+o/Users/arunbabu/Documents/project/Classes/projectViewController.m:78: warning: method definition for '-show' not found
+lSLF07#2@73"Compile /Users/arunbabu/Documents/project/Classes/projectViewController.m353832198#353832202#0(1695"In file included from /Users/arunbabu/Documents/project/Classes/projectViewController.m:9:/Users/arunbabu/Documents/project/Classes/projectViewController.h:10:17: error: JSON.h: No such file or directoryIn file included from /Users/arunbabu/Documents/project/Classes/projectViewController.m:9:/Users/arunbabu/Documents/project/Classes/projectViewController.h:22: error: duplicate property declaration 't1'/Users/arunbabu/Documents/project/Classes/projectViewController.m:12: error: no declaration of property 't2' found in the interface/Users/arunbabu/Documents/project/Classes/projectViewController.m: In function '-[projectViewController viewDidLoad]':/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: 'NSString' may not respond to '-JSONValue'/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: (Messages without a matching method signature/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: will be assumed to return 'id' and accept/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: '...' as arguments.)/Users/arunbabu/Documents/project/Classes/projectViewController.m:42: warning: unused variable 'dictionary'/Users/arunbabu/Documents/project/Classes/projectViewController.m: At top level:/Users/arunbabu/Documents/project/Classes/projectViewController.m:78: warning: incomplete implementation of class 'projectViewController'/Users/arunbabu/Documents/project/Classes/projectViewController.m:78: warning: method definition for '-search' not found/Users/arunbabu/Documents/project/Classes/projectViewController.m:78: warning: method definition for '-show' not found10(4@33"JSON.h: No such file or directory353832199#91#114#2(7@87"In file included from /Users/arunbabu/Documents/project/Classes/projectViewController.m353832199#18446744073709551615#0#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#9#0#9#0#0"0(13@102"JSON.h: No such file or directory in /Users/arunbabu/Documents/project/Classes/projectViewController.h353832199#18446744073709551615#0#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#10#0#10#0#0"0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#10#0#10#0#28"*: No such file or directory0(4@35"Duplicate property declaration 't1'353832199#296#113#2(7@87"In file included from /Users/arunbabu/Documents/project/Classes/projectViewController.m353832199#18446744073709551615#0#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#9#0#9#0#0"0(13@104"Duplicate property declaration 't1' in /Users/arunbabu/Documents/project/Classes/projectViewController.h353832199#18446744073709551615#0#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#22#0#22#0#0"0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.h353831675#22#0#22#0#0"0(4@54"No declaration of property 't2' found in the interface353832199#409#132#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#12#0#12#0#0"0(22@42"'NSString' may not respond to '-JSONValue'353832199#660#122#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)353832199#782#125#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#42#0#42#0#0"0(22@28"Unused variable 'dictionary'353832199#1128#108#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#42#0#42#0#19"unused variable '*'0(23@13"At top level:353832200#1236#81#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#0#0#0#0#0"0(22@58"Incomplete implementation of class 'projectViewController'353832200#1317#138#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#78#0#78#0#38"incomplete implementation of class '*'0(22@41"Method definition for '-search' not found353832200#1455#121#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#78#0#78#0#35"method definition for '*' not found0(22@39"Method definition for '-show' not found353832200#1576#119#0(6@65"/Users/arunbabu/Documents/project/Classes/projectViewController.m353831445#78#0#78#0#35"method definition for '*' not found0(0#0#65"/Users/arunbabu/Documents/project/Classes/projectViewController.m8609980896#1901"    cd /Users/arunbabu/Documents/project    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-generated-files.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-own-target-headers.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-all-target-headers.hmap -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-project-headers.hmap -F/Users/arunbabu/Documents/project/build/Debug-iphonesimulator -I/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/include -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources/i386 -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources -include /var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch -c /Users/arunbabu/Documents/project/Classes/projectViewController.m -o /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/Objects-normal/i386/projectViewController.o1#
+
+CCompileXIB /Users/arunbabu/Documents/project/MainWindow.xib
+s353831682.280676
+e353831802.225148
+r1
+xCompileXIB
+x/Users/arunbabu/Documents/project/MainWindow.xib
+o2012-03-19 12:06:23.521 Interface Builder Cocoa Touch Tool[5970:903] CFPreferences: user home directory at file://localhost/Users/arunbabu/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib353831682#353831802#0(241"2012-03-19 12:06:23.521 Interface Builder Cocoa Touch Tool[5970:903] CFPreferences: user home directory at file://localhost/Users/arunbabu/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#48"/Users/arunbabu/Documents/project/MainWindow.xib8612865472#555"    cd /Users/arunbabu/Documents/project    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/MainWindow.nib /Users/arunbabu/Documents/project/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/arunbabu/Documents/project/projectViewController.xib
+s353831682.498263
+e353831793.365456
+r1
+xCompileXIB
+x/Users/arunbabu/Documents/project/projectViewController.xib
+o2012-03-19 12:06:22.770 Interface Builder Cocoa Touch Tool[5969:903] CFPreferences: user home directory at file://localhost/Users/arunbabu/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@36"CompileXIB projectViewController.xib353831682#353831793#0(241"2012-03-19 12:06:22.770 Interface Builder Cocoa Touch Tool[5969:903] CFPreferences: user home directory at file://localhost/Users/arunbabu/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#59"/Users/arunbabu/Documents/project/projectViewController.xib8612270240#577"    cd /Users/arunbabu/Documents/project    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/projectViewController.nib /Users/arunbabu/Documents/project/projectViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app.dSYM /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/project
+r0
+
+CLd /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/project normal i386
+r0
+
+CProcessInfoPlistFile /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/Info.plist project-Info.plist
+s353831681.525281
+e353831682.280577
+r1
+xProcessInfoPlistFile
+x/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/Info.plist
+xproject-Info.plist
+lSLF07#2@26"Process project-Info.plist353831681#353831682#0(0"0(0#0#52"/Users/arunbabu/Documents/project/project-Info.plist30681223440564324#464"    cd /Users/arunbabu/Documents/project    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility project-Info.plist -genpkginfo /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app/Info.plist0#
+
+CProcessPCH /var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch.gch project_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353831802.225421
+e353832166.109675
+r1
+xProcessPCH
+x/var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch.gch
+xproject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile project_Prefix.pch353831802#353832166#0(0"0(0#0#52"/Users/arunbabu/Documents/project/project_Prefix.pch8237188671949073408#1756"    cd /Users/arunbabu/Documents/project    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-generated-files.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-own-target-headers.hmap -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-all-target-headers.hmap -iquote /Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/project-project-headers.hmap -F/Users/arunbabu/Documents/project/build/Debug-iphonesimulator -I/Users/arunbabu/Documents/project/build/Debug-iphonesimulator/include -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources/i386 -I/Users/arunbabu/Documents/project/build/project.build/Debug-iphonesimulator/project.build/DerivedSources -c /Users/arunbabu/Documents/project/project_Prefix.pch -o /var/folders/cI/cISPqJpwGvGAponVTPoPnU+++Vc/-Caches-/com.apple.Xcode.538/SharedPrecompiledHeaders/project_Prefix-hfzkasacqdqcoxagqnuomoovqfuz/project_Prefix.pch.gch0#
+
+CTouch /Users/arunbabu/Documents/project/build/Debug-iphonesimulator/project.app
+r0
+

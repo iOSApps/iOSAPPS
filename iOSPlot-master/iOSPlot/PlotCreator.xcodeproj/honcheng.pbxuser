@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PlotCreator */ = {
+		activeExec = 0;
+		executables = (
+			F897D6D113630CF40025FE6E /* PlotCreator */,
+		);
+	};
+	2860E325111B887F00E27156 /* AppDelegate_iPhone.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 572}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{682, 791}";
+		};
+	};
+	2860E326111B887F00E27156 /* AppDelegate_iPhone.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1651}}";
+			sepNavSelRange = "{1360, 313}";
+			sepNavVisRange = "{871, 840}";
+		};
+	};
+	2860E32B111B888700E27156 /* AppDelegate_iPad.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 585}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{0, 1271}";
+		};
+	};
+	2860E32C111B888700E27156 /* AppDelegate_iPad.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 819}}";
+			sepNavSelRange = "{201, 0}";
+			sepNavVisRange = "{164, 950}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F897D6D113630CF40025FE6E /* PlotCreator */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PlotCreator */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PlotCreator */,
+		);
+		codeSenseManager = F897D6E313630D020025FE6E /* Code sense */;
+		executables = (
+			F897D6D113630CF40025FE6E /* PlotCreator */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					727,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					667,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330766678;
+			PBXWorkspaceStateSaveDate = 330766678;
+		};
+		perUserProjectItems = {
+			F861BEDE13B7198D009957D4 /* PlistBookmark */ = F861BEDE13B7198D009957D4 /* PlistBookmark */;
+			F861BEDF13B7198D009957D4 /* PBXTextBookmark */ = F861BEDF13B7198D009957D4 /* PBXTextBookmark */;
+			F861BEE013B7198D009957D4 /* PBXTextBookmark */ = F861BEE013B7198D009957D4 /* PBXTextBookmark */;
+			F861BEE113B7198D009957D4 /* PBXTextBookmark */ = F861BEE113B7198D009957D4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F897D6E213630D020025FE6E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* PlotCreator_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 535}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	F83260681363D49B0045F9DC /* ChartListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 546}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{611, 777}";
+		};
+	};
+	F83260691363D49B0045F9DC /* ChartListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 2067}}";
+			sepNavSelRange = "{1522, 504}";
+			sepNavVisRange = "{1477, 763}";
+		};
+	};
+	F832608E1363D5CF0045F9DC /* GenericViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 559}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{678, 775}";
+		};
+	};
+	F832608F1363D5CF0045F9DC /* GenericViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 1300}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{1366, 1325}";
+		};
+	};
+	F83260C01363D91E0045F9DC /* PieChartViewController2.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 546}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{0, 1271}";
+		};
+	};
+	F83260C11363D91E0045F9DC /* PieChartViewController2.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1807}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{0, 1271}";
+		};
+	};
+	F861BEDE13B7198D009957D4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = F897D6ED13630F560025FE6E /* sample_piechart_data.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/honcheng/Dropbox/Open Source Projects/PlotCreator/iOSPlot/Sample Data/sample_piechart_data.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	F861BEDF13B7198D009957D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F87DE41C1370D82D00347F69 /* HalfPieChartViewController.m */;
+		name = "HalfPieChartViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1600;
+		vrLoc = 0;
+	};
+	F861BEE013B7198D009957D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F87DE41B1370D82D00347F69 /* HalfPieChartViewController.h */;
+		name = "HalfPieChartViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	F861BEE113B7198D009957D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F87DE41B1370D82D00347F69 /* HalfPieChartViewController.h */;
+		name = "HalfPieChartViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	F87DE41B1370D82D00347F69 /* HalfPieChartViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 550}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 285}";
+		};
+	};
+	F87DE41C1370D82D00347F69 /* HalfPieChartViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1279, 1365}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1600}";
+		};
+	};
+	F88CC4C613684F0E0096327F /* PCLineChartView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1356, 936}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{774, 804}";
+		};
+	};
+	F88CC4C713684F0E0096327F /* PCLineChartView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 4108}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{774, 765}";
+		};
+	};
+	F88CC4D113684FD30096327F /* LineChartViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 559}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{611, 870}";
+		};
+	};
+	F88CC4D213684FD30096327F /* LineChartViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 1521}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{728, 806}";
+		};
+	};
+	F897D6D113630CF40025FE6E /* PlotCreator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PlotCreator;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F897D6E213630D020025FE6E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F897D6E313630D020025FE6E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F897D6EF13630FD40025FE6E /* PCPieChart.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1314, 1092}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{222, 1117}";
+		};
+	};
+	F897D6F013630FD40025FE6E /* PCPieChart.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 6006}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{728, 835}";
+			sepNavWindowFrame = "{{15, 135}, {1295, 888}}";
+		};
+	};
+	F897D6FE136311E60025FE6E /* PieChartViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 546}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{611, 809}";
+		};
+	};
+	F897D6FF136311E60025FE6E /* PieChartViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1729}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{728, 823}";
+		};
+	};
+}

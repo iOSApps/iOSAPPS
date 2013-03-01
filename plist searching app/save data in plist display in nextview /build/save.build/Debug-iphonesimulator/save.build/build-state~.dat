@@ -1,0 +1,294 @@
+Tsave
+v7
+r0
+t343634259.062947
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist save-Info.plist
+cCompileXIB /Users/sandeep/Desktop/save/MainWindow.xib
+cCompileXIB /Users/sandeep/Desktop/save/saveViewController.xib
+cCompileXIB /Users/sandeep/Desktop/save/Classes/s1.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch save_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/save/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o /Users/sandeep/Desktop/save/Classes/saveAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o /Users/sandeep/Desktop/save/Classes/saveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o /Users/sandeep/Desktop/save/Classes/s1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/save/Classes/s1.h
+c000000004ECB39CC0000000000000110
+t1321941452
+s272
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/s1.m
+c000000004ECB39CC000000000000140D
+t1321941452
+s5133
+i"s1.h"
+
+N/Users/sandeep/Desktop/save/Classes/s1.xib
+c000000004ECB37260000000000001C51
+t1321940774
+s7249
+
+N/Users/sandeep/Desktop/save/Classes/saveAppDelegate.h
+c000000004ECB36B600000000000001C9
+t1321940662
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/saveAppDelegate.m
+c000000004ECB36B60000000000000A82
+t1321940662
+s2690
+i"saveAppDelegate.h"
+i"saveViewController.h"
+
+N/Users/sandeep/Desktop/save/Classes/saveViewController.h
+c000000004ECB39CC0000000000000139
+t1321941452
+s313
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/Classes/saveViewController.m
+c000000004ECB39CC0000000000000964
+t1321941452
+s2404
+i"saveViewController.h"
+i"s1.h"
+
+N/Users/sandeep/Desktop/save/MainWindow.xib
+c000000004ECB36B60000000000004E05
+t1321940662
+s19973
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app
+t2
+s0
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app.dSYM
+t2
+s0
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist
+t1321941452
+s579
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/MainWindow.nib
+t1321941454
+s1117
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/PkgInfo
+t1321941452
+s8
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/s1.nib
+t1321941456
+s979
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save
+t2
+s0
+
+N/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/saveViewController.nib
+t1321941454
+s1703
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+t1321941458
+s6280
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+t2
+s0
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/save.LinkFileList
+c000000004ECB39CC00000000000001BB
+t1321941452
+s443
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+t1321941458
+s50744
+
+N/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+t2
+s0
+
+N/Users/sandeep/Desktop/save/main.m
+c000000004ECB36B60000000000000162
+t1321940662
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/save/saveViewController.xib
+c000000004ECB39C90000000000004B5C
+t1321941449
+s19292
+
+N/Users/sandeep/Desktop/save/save_Prefix.pch
+c000000004ECB36B600000000000000B1
+t1321940662
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch
+t1321941458
+s15453392
+
+Nsave-Info.plist
+c000000004ECB36B6000000000000038D
+t1321940662
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343634252#343634253#0(0"0(0#1#0"8619828416#0"0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/save/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634258.601353
+e343634258.815891
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/save/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/sandeep/Desktop/save/main.m343634258#343634258#0(0"0(0#0#34"/Users/sandeep/Desktop/save/main.m8617401056#1733"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/main.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/main.o0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o /Users/sandeep/Desktop/save/Classes/s1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634258.935015
+e343634259.062865
+r0
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o
+x/Users/sandeep/Desktop/save/Classes/s1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/save/Classes/s1.m: In function '-[s1 viewWillAppear:]':
+o/Users/sandeep/Desktop/save/Classes/s1.m:33: error: 'a' undeclared (first use in this function)
+o/Users/sandeep/Desktop/save/Classes/s1.m:33: error: (Each undeclared identifier is reported only once
+o/Users/sandeep/Desktop/save/Classes/s1.m:33: error: for each function it appears in.)
+lSLF07#2@48"Compile /Users/sandeep/Desktop/save/Classes/s1.m343634258#343634259#0(363"/Users/sandeep/Desktop/save/Classes/s1.m: In function '-[s1 viewWillAppear:]':/Users/sandeep/Desktop/save/Classes/s1.m:33: error: 'a' undeclared (first use in this function)/Users/sandeep/Desktop/save/Classes/s1.m:33: error: (Each undeclared identifier is reported only once/Users/sandeep/Desktop/save/Classes/s1.m:33: error: for each function it appears in.)1(4@43"'a' undeclared (first use in this function)343634258#79#96#0(6@40"/Users/sandeep/Desktop/save/Classes/s1.m343634252#33#0#33#0#43"'*' undeclared (first use in this function)0(0#0#40"/Users/sandeep/Desktop/save/Classes/s1.m8619607872#1737"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/Classes/s1.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/s1.o1#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o /Users/sandeep/Desktop/save/Classes/saveAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634258.609366
+e343634258.934908
+r1
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o
+x/Users/sandeep/Desktop/save/Classes/saveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sandeep/Desktop/save/Classes/saveAppDelegate.m343634258#343634258#0(0"0(0#0#53"/Users/sandeep/Desktop/save/Classes/saveAppDelegate.m8620138336#1763"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/Classes/saveAppDelegate.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveAppDelegate.o0#
+
+CCompileC build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o /Users/sandeep/Desktop/save/Classes/saveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634258.816004
+e343634258.968947
+r0
+xCompileC
+xbuild/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o
+x/Users/sandeep/Desktop/save/Classes/saveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Desktop/save/Classes/saveViewController.m: In function '-[saveViewController save]':
+o/Users/sandeep/Desktop/save/Classes/saveViewController.m:39: error: 'text1' undeclared (first use in this function)
+o/Users/sandeep/Desktop/save/Classes/saveViewController.m:39: error: (Each undeclared identifier is reported only once
+o/Users/sandeep/Desktop/save/Classes/saveViewController.m:39: error: for each function it appears in.)
+o/Users/sandeep/Desktop/save/Classes/saveViewController.m: At top level:
+o/Users/sandeep/Desktop/save/Classes/saveViewController.m:48: error: expected identifier or '(' before '}' token
+lSLF07#2@64"Compile /Users/sandeep/Desktop/save/Classes/saveViewController.m343634258#343634259#0(620"/Users/sandeep/Desktop/save/Classes/saveViewController.m: In function '-[saveViewController save]':/Users/sandeep/Desktop/save/Classes/saveViewController.m:39: error: 'text1' undeclared (first use in this function)/Users/sandeep/Desktop/save/Classes/saveViewController.m:39: error: (Each undeclared identifier is reported only once/Users/sandeep/Desktop/save/Classes/saveViewController.m:39: error: for each function it appears in.)/Users/sandeep/Desktop/save/Classes/saveViewController.m: At top level:/Users/sandeep/Desktop/save/Classes/saveViewController.m:48: error: expected identifier or '(' before '}' token3(4@47"'text1' undeclared (first use in this function)343634258#100#116#0(6@56"/Users/sandeep/Desktop/save/Classes/saveViewController.m343634252#39#0#39#0#43"'*' undeclared (first use in this function)0(23@13"At top level:343634258#436#72#0(6@56"/Users/sandeep/Desktop/save/Classes/saveViewController.m343634252#0#0#0#0#0"0(4@43"Expected identifier or '(' before '}' token343634258#508#112#0(6@56"/Users/sandeep/Desktop/save/Classes/saveViewController.m343634252#48#0#48#0#19"expected * before *0(0#0#56"/Users/sandeep/Desktop/save/Classes/saveViewController.m8609270880#1769"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch -c /Users/sandeep/Desktop/save/Classes/saveViewController.m -o /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/Objects-normal/i386/saveViewController.o1#
+
+CCompileXIB /Users/sandeep/Desktop/save/Classes/s1.xib
+s343634254.899411
+e343634256.599996
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/save/Classes/s1.xib
+lSLF07#2@25"CompileXIB Classes/s1.xib343634254#343634256#0(0"0(0#0#42"/Users/sandeep/Desktop/save/Classes/s1.xib8619765728#526"    cd /Users/sandeep/Desktop/save    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/s1.nib /Users/sandeep/Desktop/save/Classes/s1.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/save/MainWindow.xib
+s343634252.667943
+e343634254.899194
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/save/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib343634252#343634254#0(0"0(0#0#42"/Users/sandeep/Desktop/save/MainWindow.xib8617401248#534"    cd /Users/sandeep/Desktop/save    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/MainWindow.nib /Users/sandeep/Desktop/save/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Desktop/save/saveViewController.xib
+s343634252.674632
+e343634254.996890
+r1
+xCompileXIB
+x/Users/sandeep/Desktop/save/saveViewController.xib
+lSLF07#2@33"CompileXIB saveViewController.xib343634252#343634254#0(0"0(0#0#50"/Users/sandeep/Desktop/save/saveViewController.xib8619791872#550"    cd /Users/sandeep/Desktop/save    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/saveViewController.nib /Users/sandeep/Desktop/save/saveViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app.dSYM /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save
+r0
+
+CLd /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/save normal i386
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist save-Info.plist
+s343634252.662046
+e343634252.667434
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist
+xsave-Info.plist
+lSLF07#2@23"Process save-Info.plist343634252#343634253#0(0"0(0#0#43"/Users/sandeep/Desktop/save/save-Info.plist8610834368#437"    cd /Users/sandeep/Desktop/save    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility save-Info.plist -genpkginfo /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch save_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s343634256.600314
+e343634258.601171
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch
+xsave_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile save_Prefix.pch343634256#343634258#0(0"0(0#0#43"/Users/sandeep/Desktop/save/save_Prefix.pch8620198176#1639"    cd /Users/sandeep/Desktop/save    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-generated-files.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-own-target-headers.hmap -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-all-target-headers.hmap -iquote /Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/save-project-headers.hmap -F/Users/sandeep/Desktop/save/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/save/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources/i386 -I/Users/sandeep/Desktop/save/build/save.build/Debug-iphonesimulator/save.build/DerivedSources -c /Users/sandeep/Desktop/save/save_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/save_Prefix-efbhcezcystbuufyinlnphrlnmao/save_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Desktop/save/build/Debug-iphonesimulator/save.app
+r0
+

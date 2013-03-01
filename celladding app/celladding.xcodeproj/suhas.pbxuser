@@ -1,0 +1,208 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* celladdingAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 355}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 470}";
+			sepNavWindowFrame = "{{15, 68}, {750, 674}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* celladdingAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1066}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1320}";
+			sepNavWindowFrame = "{{15, 68}, {750, 674}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* celladding */ = {
+		activeExec = 0;
+		executables = (
+			ADC79E3813B34A5800990FF1 /* celladding */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 355}}";
+			sepNavSelRange = "{519, 0}";
+			sepNavVisRange = "{0, 576}";
+			sepNavWindowFrame = "{{85, 70}, {750, 676}}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{5287, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{5338, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{5388, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6105}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {957, 3367}}";
+			sepNavSelRange = "{3637, 0}";
+			sepNavVisRange = "{1103, 802}";
+			sepNavWindowFrame = "{{274, 68}, {750, 674}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ADC79E3813B34A5800990FF1 /* celladding */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* celladding */;
+		codeSenseManager = ADC79E4F13B34A6200990FF1 /* Code sense */;
+		executables = (
+			ADC79E3813B34A5800990FF1 /* celladding */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330855704;
+			PBXWorkspaceStateSaveDate = 330855704;
+		};
+		perUserProjectItems = {
+			AD68C18B13B84C03006273C3 = AD68C18B13B84C03006273C3 /* PBXTextBookmark */;
+			AD68C27713B872A0006273C3 = AD68C27713B872A0006273C3 /* PBXTextBookmark */;
+			AD68C27813B872A0006273C3 = AD68C27813B872A0006273C3 /* PBXTextBookmark */;
+			AD68C27913B872A0006273C3 = AD68C27913B872A0006273C3 /* PBXTextBookmark */;
+			AD68C27A13B872A0006273C3 = AD68C27A13B872A0006273C3 /* PBXTextBookmark */;
+			AD68C28113B8752B006273C3 /* PBXTextBookmark */ = AD68C28113B8752B006273C3 /* PBXTextBookmark */;
+			AD68C28213B8752B006273C3 /* PBXTextBookmark */ = AD68C28213B8752B006273C3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ADC79E4E13B34A6200990FF1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	AD5146D313B46007005EB52E /* UITableViewCell.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableViewCell.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h;
+		sourceTree = "<absolute>";
+	};
+	AD68C18B13B84C03006273C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AD5146D313B46007005EB52E /* UITableViewCell.h */;
+		name = "UITableViewCell.h: 17";
+		rLen = 134;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 0;
+	};
+	AD68C27713B872A0006273C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 21";
+		rLen = 0;
+		rLoc = 519;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 0;
+	};
+	AD68C27813B872A0006273C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* celladdingAppDelegate.h */;
+		name = "celladdingAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	AD68C27913B872A0006273C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 156";
+		rLen = 0;
+		rLoc = 3637;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 343;
+	};
+	AD68C27A13B872A0006273C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 156";
+		rLen = 0;
+		rLoc = 3637;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 1084;
+	};
+	AD68C28113B8752B006273C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 156";
+		rLen = 0;
+		rLoc = 3637;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 1086;
+	};
+	AD68C28213B8752B006273C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 156";
+		rLen = 0;
+		rLoc = 3637;
+		rType = 0;
+		vrLen = 802;
+		vrLoc = 1103;
+	};
+	ADC79E3813B34A5800990FF1 /* celladding */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = celladding;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ADC79E4E13B34A6200990FF1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ADC79E4F13B34A6200990FF1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

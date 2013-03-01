@@ -1,0 +1,1035 @@
+Timagedragining
+v7
+r0
+t355206813.196150
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist" imagedragining-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/imagedraginingViewController.xib"
+cCpResource build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.jpg cutefriendship11.jpg
+cCpResource build/Debug-iphonesimulator/imagedragining.app/index.png index.png
+cCpResource build/Debug-iphonesimulator/imagedragining.app/7.png 7.png
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch.gch imagedragining_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/imagedragining/../../Desktop/Prasad/New folder/a1.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/obj/imagedragining/../../Desktop/Prasad/New folder/a3.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/obj/imagedragining/../../Desktop/cutefriendship11.gif
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/obj/imagedragining/../../Desktop/index.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/obj/imagedragining/../../Desktop/prasad2/butter2/d7.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/obj/imagedragining/Classes/imagedraginingAppDelegate.h
+c000000004DCA21C00000000000000205
+t1305092544
+s517
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imagedragining/Classes/imagedraginingAppDelegate.m
+c000000004DCA21C00000000000000AB4
+t1305092544
+s2740
+i"imagedraginingAppDelegate.h"
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Desktop/obj/imagedragining/Classes/imagedraginingViewController.h
+c000000004DCB67BC0000000000000191
+t1305175996
+s401
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imagedragining/Classes/imagedraginingViewController.m
+c000000004DCCD43C0000000000000A58
+t1305269308
+s2648
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Desktop/obj/imagedragining/MainWindow.xib
+c000000004DCA21C00000000000004E7D
+t1305092544
+s20093
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+t1305269313
+s442
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM
+t1305269313
+s102
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist
+t1305097420
+s619
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/MainWindow.nib
+t1305097422
+s1137
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/PkgInfo
+t1305097420
+s8
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/a1.png
+t1305097422
+s247135
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/a3.png
+t1305097422
+s217574
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.gif
+t1305098245
+s33824
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/d7.png
+t1305175996
+s200199
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+t1305269313
+s19388
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedraginingViewController.nib
+t1305097422
+s795
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/index.jpg
+t1305098245
+s6409
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedragining.LinkFileList
+c000000004DCA34CC00000000000001C8
+t1305097420
+s456
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o
+t1305175997
+s51372
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o
+t1305269313
+s47024
+
+N/Users/sandeep/Desktop/obj/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o
+t1305097425
+s6304
+
+N/Users/sandeep/Desktop/obj/imagedragining/imagedraginingViewController.xib
+c000000004DCA21C00000000000001A61
+t1305092544
+s6753
+
+N/Users/sandeep/Desktop/obj/imagedragining/imagedragining_Prefix.pch
+c000000004DCA21C000000000000000C5
+t1305092544
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/imagedragining/main.m
+c000000004DCA21C0000000000000016C
+t1305092544
+s364
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/../../Desktop/Prasad/New folder/a1.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/../../Desktop/Prasad/New folder/a3.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/../../Desktop/cutefriendship11.gif
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/../../Desktop/index.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/../../Desktop/prasad2/butter2/d7.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/7.png
+c000000004EFDBCD200000000000007A1
+t1325251794
+s1953
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingAppDelegate.h
+c000000004DCA21C00000000000000205
+t1305092544
+s517
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingAppDelegate.m
+c000000004DCA21C00000000000000AB4
+t1305092544
+s2740
+i"imagedraginingAppDelegate.h"
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingViewController.h
+c000000004DCB67BC0000000000000191
+t1305175996
+s401
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingViewController.m
+c000000004F0AB91F0000000000000A57
+t1326102815
+s2647
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/MainWindow.xib
+c000000004DCA21C00000000000004E7D
+t1305092544
+s20093
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+t1326102816
+s544
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM
+t1326102816
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/7.png
+t1326102815
+s1953
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist
+t1305097420
+s619
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/MainWindow.nib
+t1305097422
+s1137
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/PkgInfo
+t1305097420
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/a1.png
+t1305097422
+s247135
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/a3.png
+t1305097422
+s217574
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.gif
+t1305098245
+s33824
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.jpg
+t1326102815
+s33824
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/d7.png
+t1305175996
+s200199
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+t1326102816
+s19444
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedraginingViewController.nib
+t1305097422
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/index.jpg
+t1305098245
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/index.png
+t1326102815
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedragining.LinkFileList
+c000000004F0AB91F00000000000001E3
+t1326102815
+s483
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o
+t1326102816
+s51388
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o
+t1326102816
+s47048
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o
+t1326102816
+s6324
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/cutefriendship11.jpg
+c000000004DB568DE0000000000008420
+t1303734494
+s33824
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/imagedraginingViewController.xib
+c000000004DCA21C00000000000001A61
+t1305092544
+s6753
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/imagedragining_Prefix.pch
+c000000004DCA21C000000000000000C5
+t1305092544
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/index.png
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/imagedragining/main.m
+c000000004DCA21C0000000000000016C
+t1305092544
+s364
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/7.png
+c000000004EFDBCD200000000000007A1
+t1325251794
+s1953
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.h
+c000000004DCA21C00000000000000205
+t1305092544
+s517
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.m
+c000000004DCA21C00000000000000AB4
+t1305092544
+s2740
+i"imagedraginingAppDelegate.h"
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.h
+c000000004DCB67BC0000000000000191
+t1305175996
+s401
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.m
+c000000004F0AB91F0000000000000A57
+t1326102815
+s2647
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/MainWindow.xib
+c000000004DCA21C00000000000004E7D
+t1305092544
+s20093
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+t1333514013
+s544
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM
+t1333514013
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/7.png
+t1326102815
+s1953
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist
+t1305097420
+s619
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/MainWindow.nib
+t1305097422
+s1137
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/PkgInfo
+t1305097420
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.jpg
+t1326102815
+s33824
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+t1333514013
+s19544
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedraginingViewController.nib
+t1305097422
+s795
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/index.png
+t1326102815
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedragining.LinkFileList
+c000000004F7BCF1B0000000000000216
+t1333514011
+s534
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o
+t1333514012
+s51424
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o
+t1333514013
+s47080
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o
+t1333514012
+s6356
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/cutefriendship11.jpg
+c000000004DB568DE0000000000008420
+t1303734494
+s33824
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/imagedraginingViewController.xib
+c000000004DCA21C00000000000001A61
+t1305092544
+s6753
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/imagedragining_Prefix.pch
+c000000004DCA21C000000000000000C5
+t1305092544
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/index.png
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/main.m
+c000000004DCA21C0000000000000016C
+t1305092544
+s364
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a1.png
+c000000004DC7C66C000000000003C55F
+t1304938092
+s247135
+
+N/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a2.png
+c000000004DC7C6880000000000038508
+t1304938120
+s230664
+
+N/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a3.png
+c000000004DC7C6A000000000000351E6
+t1304938144
+s217574
+
+N/Users/sandeep/Documents/imagedragining/../../Desktop/cutefriendship11.gif
+c000000004DB568DE0000000000008420
+t1303734494
+s33824
+
+N/Users/sandeep/Documents/imagedragining/../../Desktop/index.jpg
+c000000004DB568910000000000001909
+t1303734417
+s6409
+
+N/Users/sandeep/Documents/imagedragining/../../Desktop/prasad2/butter2/d7.png
+c000000004DC7CBCC0000000000030E07
+t1304939468
+s200199
+
+N/Users/sandeep/Documents/imagedragining/Classes/imagedraginingAppDelegate.h
+c000000004DCA21C00000000000000205
+t1305092544
+s517
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imagedragining/Classes/imagedraginingAppDelegate.m
+c000000004DCA21C00000000000000AB4
+t1305092544
+s2740
+i"imagedraginingAppDelegate.h"
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Documents/imagedragining/Classes/imagedraginingViewController.h
+c000000004DCB67BC0000000000000191
+t1305175996
+s401
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imagedragining/Classes/imagedraginingViewController.m
+c000000004DCCD43C0000000000000A58
+t1305269308
+s2648
+i"imagedraginingViewController.h"
+
+N/Users/sandeep/Documents/imagedragining/MainWindow.xib
+c000000004DCA21C00000000000004E7D
+t1305092544
+s20093
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+t1305269313
+s442
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM
+t1305269313
+s102
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist
+t1305097420
+s619
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/MainWindow.nib
+t1305097422
+s1137
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/PkgInfo
+t1305097420
+s8
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/a1.png
+t1305097422
+s247135
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/a2.png
+t1305097422
+s230664
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/a3.png
+t1305097422
+s217574
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.gif
+t1305098245
+s33824
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/d7.png
+t1305175996
+s200199
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+t1305269313
+s19388
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedraginingViewController.nib
+t1305097422
+s795
+
+N/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/index.jpg
+t1305098245
+s6409
+
+N/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedragining.LinkFileList
+c000000004DCA34CC00000000000001C8
+t1305097420
+s456
+
+N/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o
+t1305175997
+s51372
+
+N/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o
+t1305269313
+s47024
+
+N/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o
+t1305097425
+s6304
+
+N/Users/sandeep/Documents/imagedragining/imagedraginingViewController.xib
+c000000004DCA21C00000000000001A61
+t1305092544
+s6753
+
+N/Users/sandeep/Documents/imagedragining/imagedragining_Prefix.pch
+c000000004DCA21C000000000000000C5
+t1305092544
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/imagedragining/main.m
+c000000004DCA21C0000000000000016C
+t1305092544
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-bnkqlthyludgjzbwzanbhqgihgqc/imagedragining_Prefix.pch.gch
+t1305097425
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch.gch
+t1333514012
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-duttwgvphjqhrocrkafnvxbnvcsj/imagedragining_Prefix.pch.gch
+t1326102816
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-fuewmidgbgjssaerelkkuiccprsi/imagedragining_Prefix.pch.gch
+t2
+s0
+
+Nimagedragining-Info.plist
+c000000004DCA21C0000000000000038D
+t1305092544
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355206811#355206811#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206812.852905
+e355206812.975750
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.m355206812#355206812#0(0"0(0#0#101"/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.m8606054976#2423"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o"0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o /Users/sandeep/Desktop/obj/imagedragining/Classes/imagedraginingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o /Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347795616.402277
+e347795616.608600
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingAppDelegate.m347795616#347795616#0(0"0(0#0#84"/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingAppDelegate.m8599354240#2214"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-duttwgvphjqhrocrkafnvxbnvcsj/imagedragining_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingAppDelegate.m -o /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o /Users/sandeep/Documents/imagedragining/Classes/imagedraginingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326868796.891609
+e326868797.053973
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o
+x/Users/sandeep/Documents/imagedragining/Classes/imagedraginingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/sandeep/Documents/imagedragining/Classes/imagedraginingAppDelegate.m326868796#326868797#0(0"0(0#0#75"/Users/sandeep/Documents/imagedragining/Classes/imagedraginingAppDelegate.m8612359392#2115"    cd /Users/sandeep/Documents/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-bnkqlthyludgjzbwzanbhqgihgqc/imagedragining_Prefix.pch -c /Users/sandeep/Documents/imagedragining/Classes/imagedraginingAppDelegate.m -o /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingAppDelegate.o0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206812.921830
+e355206813.032763
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.m355206812#355206813#0(0"0(0#0#104"/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.m8603950016#2429"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/Classes/imagedraginingViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o"0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o /Users/sandeep/Desktop/obj/imagedragining/Classes/imagedraginingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o /Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347795616.513512
+e347795616.638312
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingViewController.m347795616#347795616#0(0"0(0#0#87"/Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingViewController.m8607057024#2220"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-duttwgvphjqhrocrkafnvxbnvcsj/imagedragining_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/imagedragining/Classes/imagedraginingViewController.m -o /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o /Users/sandeep/Documents/imagedragining/Classes/imagedraginingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326962109.083090
+e326962113.102344
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o
+x/Users/sandeep/Documents/imagedragining/Classes/imagedraginingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sandeep/Documents/imagedragining/Classes/imagedraginingViewController.m326962109#326962113#0(0"0(0#0#78"/Users/sandeep/Documents/imagedragining/Classes/imagedraginingViewController.m8609316800#2121"    cd /Users/sandeep/Documents/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-bnkqlthyludgjzbwzanbhqgihgqc/imagedragining_Prefix.pch -c /Users/sandeep/Documents/imagedragining/Classes/imagedraginingViewController.m -o /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedraginingViewController.o0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206812.851557
+e355206812.921676
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/main.m355206812#355206812#0(0"0(0#0#72"/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/main.m8604085152#2373"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/main.m" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/imagedragining/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/sandeeprdy/imagedragining/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347795616.399932
+e347795616.513391
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/imagedragining/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Desktop/sandeeprdy/imagedragining/main.m347795616#347795616#0(0"0(0#0#55"/Users/sandeep/Desktop/sandeeprdy/imagedragining/main.m8599347424#2164"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-duttwgvphjqhrocrkafnvxbnvcsj/imagedragining_Prefix.pch -c /Users/sandeep/Desktop/sandeeprdy/imagedragining/main.m -o /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o0#
+
+CCompileC build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o /Users/sandeep/Documents/imagedragining/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326790225.857551
+e326790225.970381
+r1
+xCompileC
+xbuild/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/imagedragining/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/Documents/imagedragining/main.m326790225#326790225#0(0"0(0#0#46"/Users/sandeep/Documents/imagedragining/main.m8613736768#2065"    cd /Users/sandeep/Documents/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-bnkqlthyludgjzbwzanbhqgihgqc/imagedragining_Prefix.pch -c /Users/sandeep/Documents/imagedragining/main.m -o /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/imagedraginingViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/imagedragining/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/imagedragining/imagedraginingViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/sandeeprdy/imagedragining/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/sandeeprdy/imagedragining/imagedraginingViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Documents/imagedragining/MainWindow.xib
+s326790220.251328
+e326790222.650355
+r1
+xCompileXIB
+x/Users/sandeep/Documents/imagedragining/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326790220#326790222#0(0"0(0#0#54"/Users/sandeep/Documents/imagedragining/MainWindow.xib8615404288#580"    cd /Users/sandeep/Documents/imagedragining    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/MainWindow.nib /Users/sandeep/Documents/imagedragining/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/imagedragining/imagedraginingViewController.xib
+s326790220.255413
+e326790222.419412
+r1
+xCompileXIB
+x/Users/sandeep/Documents/imagedragining/imagedraginingViewController.xib
+lSLF07#2@43"CompileXIB imagedraginingViewController.xib326790220#326790222#0(0"0(0#0#72"/Users/sandeep/Documents/imagedragining/imagedraginingViewController.xib8615791680#616"    cd /Users/sandeep/Documents/imagedragining    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedraginingViewController.nib /Users/sandeep/Documents/imagedragining/imagedraginingViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/7.png 7.png
+s347795615.227582
+e347795615.284660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/7.png
+x7.png
+lSLF07#2@10"Copy 7.png347795615#347795615#0(0"0(0#0#54"/Users/sandeep/Desktop/sandeeprdy/imagedragining/7.png8604102400#500"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Desktop/sandeeprdy/imagedragining/7.png /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/a1.png "../../Desktop/Prasad/New folder/a1.png"
+s326790222.419625
+e326790222.428227
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/a1.png
+x../../Desktop/Prasad/New folder/a1.png
+lSLF07#2@43"Copy ../../Desktop/Prasad/New folder/a1.png326790222#326790222#0(0"0(0#0#78"/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a1.png32933040433463412#508"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a1.png" /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/a2.png "../../Desktop/Prasad/New folder/a2.png"
+s326790222.421624
+e326790222.434225
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/a2.png
+x../../Desktop/Prasad/New folder/a2.png
+lSLF07#2@43"Copy ../../Desktop/Prasad/New folder/a2.png326790222#326790222#0(0"0(0#0#78"/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a2.png8615498944#508"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a2.png" /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/a3.png "../../Desktop/Prasad/New folder/a3.png"
+s326790222.423482
+e326790222.435722
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/a3.png
+x../../Desktop/Prasad/New folder/a3.png
+lSLF07#2@43"Copy ../../Desktop/Prasad/New folder/a3.png326790222#326790222#0(0"0(0#0#78"/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a3.png8615218752#508"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sandeep/Documents/imagedragining/../../Desktop/Prasad/New folder/a3.png" /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.gif ../../Desktop/cutefriendship11.gif
+s326791045.522396
+e326791045.728491
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/cutefriendship11.gif
+x../../Desktop/cutefriendship11.gif
+lSLF07#2@39"Copy ../../Desktop/cutefriendship11.gif326791045#326791046#0(0"0(0#0#74"/Users/sandeep/Documents/imagedragining/../../Desktop/cutefriendship11.gif8614301216#502"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Documents/imagedragining/../../Desktop/cutefriendship11.gif /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/cutefriendship11.jpg cutefriendship11.jpg
+s347795615.218198
+e347795615.286630
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/cutefriendship11.jpg
+xcutefriendship11.jpg
+lSLF07#2@25"Copy cutefriendship11.jpg347795615#347795615#0(0"0(0#0#69"/Users/sandeep/Desktop/sandeeprdy/imagedragining/cutefriendship11.jpg31525614006435944#515"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Desktop/sandeeprdy/imagedragining/cutefriendship11.jpg /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/d7.png ../../Desktop/prasad2/butter2/d7.png
+s326868796.837192
+e326868796.891261
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/d7.png
+x../../Desktop/prasad2/butter2/d7.png
+lSLF07#2@41"Copy ../../Desktop/prasad2/butter2/d7.png326868796#326868796#0(0"0(0#0#76"/Users/sandeep/Documents/imagedragining/../../Desktop/prasad2/butter2/d7.png32933040433463412#504"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Documents/imagedragining/../../Desktop/prasad2/butter2/d7.png /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/index.jpg ../../Desktop/index.jpg
+s326791045.524269
+e326791045.727619
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/index.jpg
+x../../Desktop/index.jpg
+lSLF07#2@28"Copy ../../Desktop/index.jpg326791045#326791046#0(0"0(0#0#63"/Users/sandeep/Documents/imagedragining/../../Desktop/index.jpg8614226720#491"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Documents/imagedragining/../../Desktop/index.jpg /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CCpResource build/Debug-iphonesimulator/imagedragining.app/index.png index.png
+s347795615.225564
+e347795615.286835
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/imagedragining.app/index.png
+xindex.png
+lSLF07#2@14"Copy index.png347795615#347795615#0(0"0(0#0#58"/Users/sandeep/Desktop/sandeeprdy/imagedragining/index.png8604349184#504"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sandeep/Desktop/sandeeprdy/imagedragining/index.png /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining"
+s355206813.101915
+e355206813.193197
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/imagedragining.app.dSYM build/Debug-iphonesimulator/imagedragining.app/imagedragining355206813#355206813#0(0"0(0#0#127"/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining8603014656#491"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining" -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM /Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+r0
+
+CGenerateDSYMFile /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+s347795616.673937
+e347795616.701157
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/imagedragining.app.dSYM build/Debug-iphonesimulator/imagedragining.app/imagedragining347795616#347795616#0(0"0(0#0#110"/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining8603139104#434"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining -o /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+s326962113.150621
+e326962113.179959
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM
+x/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/imagedragining.app.dSYM build/Debug-iphonesimulator/imagedragining.app/imagedragining326962113#326962113#0(0"0(0#0#101"/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining8607423328#407"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining -o /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining" normal i386
+s355206813.032874
+e355206813.101794
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+xnormal
+xi386
+lSLF07#2@132"Link /Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining355206813#355206813#0(0"0(0#0#0"8603348960#1080"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedragining.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining"0#
+
+CLd /Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining normal i386
+r0
+
+CLd /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining normal i386
+s347795616.638402
+e347795616.673829
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+xnormal
+xi386
+lSLF07#2@115"Link /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining347795616#347795616#0(0"0(0#0#0"8604473728#985"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedragining.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining0#
+
+CLd /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining normal i386
+s326962113.102519
+e326962113.150523
+r1
+xLd
+x/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining
+xnormal
+xi386
+lSLF07#2@106"Link /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining326962113#326962113#0(0"0(0#0#0"8607632608#940"    cd /Users/sandeep/Documents/imagedragining    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator -F/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator -filelist /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/Objects-normal/i386/imagedragining.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/imagedragining0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist" imagedragining-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist imagedragining-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist imagedragining-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist imagedragining-Info.plist
+s326790220.225342
+e326790220.251187
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist
+ximagedragining-Info.plist
+lSLF07#2@33"Process imagedragining-Info.plist326790220#326790220#0(0"0(0#0#65"/Users/sandeep/Documents/imagedragining/imagedragining-Info.plist29273878621126700#503"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility imagedragining-Info.plist -genpkginfo /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-bnkqlthyludgjzbwzanbhqgihgqc/imagedragining_Prefix.pch.gch imagedragining_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326790222.650592
+e326790225.857414
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-bnkqlthyludgjzbwzanbhqgihgqc/imagedragining_Prefix.pch.gch
+ximagedragining_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile imagedragining_Prefix.pch326790222#326790225#0(0"0(0#0#65"/Users/sandeep/Documents/imagedragining/imagedragining_Prefix.pch8613725728#1949"    cd /Users/sandeep/Documents/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Documents/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -c /Users/sandeep/Documents/imagedragining/imagedragining_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-bnkqlthyludgjzbwzanbhqgihgqc/imagedragining_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch.gch imagedragining_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355206811.406709
+e355206812.851414
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch.gch
+ximagedragining_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile imagedragining_Prefix.pch355206811#355206812#0(0"0(0#0#91"/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/imagedragining_Prefix.pch8601111072#2229"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/imagedragining_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-cfwvbvpqkubdvgegfewcxizzvbcq/imagedragining_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-duttwgvphjqhrocrkafnvxbnvcsj/imagedragining_Prefix.pch.gch imagedragining_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347795615.286943
+e347795616.399836
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-duttwgvphjqhrocrkafnvxbnvcsj/imagedragining_Prefix.pch.gch
+ximagedragining_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile imagedragining_Prefix.pch347795615#347795616#0(0"0(0#0#74"/Users/sandeep/Desktop/sandeeprdy/imagedragining/imagedragining_Prefix.pch8603762944#2039"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-generated-files.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-own-target-headers.hmap -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-all-target-headers.hmap -iquote /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/imagedragining-project-headers.hmap -F/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources/i386 -I/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/imagedragining.build/Debug-iphonesimulator/imagedragining.build/DerivedSources -c /Users/sandeep/Desktop/sandeeprdy/imagedragining/imagedragining_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-duttwgvphjqhrocrkafnvxbnvcsj/imagedragining_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/imagedragining_Prefix-fuewmidgbgjssaerelkkuiccprsi/imagedragining_Prefix.pch.gch imagedragining_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app"
+s355206813.193291
+e355206813.196109
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+lSLF07#2@118"Touch /Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app355206813#355206813#0(0"0(0#0#0"8601361248#343"    cd "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/iphone programes/imagedragining/build/Debug-iphonesimulator/imagedragining.app"0#
+
+CTouch /Users/sandeep/Desktop/obj/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+r0
+
+CTouch /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+s347795616.701243
+e347795616.707584
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+lSLF07#2@101"Touch /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app347795616#347795616#0(0"0(0#0#0"8601177824#305"    cd /Users/sandeep/Desktop/sandeeprdy/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/sandeeprdy/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
+CTouch /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+s326962113.180051
+e326962113.192829
+r1
+xTouch
+x/Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app
+lSLF07#2@92"Touch /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app326962113#326962113#0(0"0(0#0#0"8607207232#287"    cd /Users/sandeep/Documents/imagedragining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Documents/imagedragining/build/Debug-iphonesimulator/imagedragining.app0#
+
